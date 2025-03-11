@@ -1,0 +1,110 @@
+    109  7                                                          
+    001  São Paulo                                          3550308
+    002  SP-Sé                                              3580016
+    003  SP-Liberdade                                       3580024
+    004  SP-Cambuci                                         3580032
+    005  SP-Aclimação                                       3580040
+    006  SP-Barra Funda                                     3580057
+    007  SP-Bom Retiro                                      3580065
+    008  SP-Santa Cecília                                   3580073
+    009  SP-Santa Efigênia                                  3580081
+    010  SP-Consolação                                      3580099
+    011  SP-Bela Vista                                      3580107
+    012  SP-Pari                                            3580115
+    013  SP-Moóca                                           3580123
+    014  SP-Ibirapuera                                      3580131
+    015  SP-Indianópolis                                    3580149
+    016  SP-Vila Mariana                                    3580156
+    017  SP-Cerqueira César                                 3580164
+    018  SP-Jardim Paulista                                 3580172
+    019  SP-Brás                                            3580180
+    020  SP-Butantã                                         3580198
+    021  SP-Lapa                                            3580206
+    022  SP-Perdizes                                        3580214
+    023  SP-Pinheiros                                       3580222
+    024  SP-Vila Madalena                                   3580230
+    025  SP-Jardim América                                  3580248
+    026  SP-Jabaquara                                       3580255
+    027  SP-Saúde                                           3580263
+    028  SP-Ipiranga                                        3580271
+    029  SP-Vila Prudente                                   3580289
+    030  SP-Sapopemba                                       3580297
+    031  SP-Tatuapé                                         3580305
+    032  SP-Vila Formosa                                    3580313
+    033  SP-Alto da Moóca                                   3580321
+    034  SP-Vila Matilde                                    3580339
+    035  SP-Penha de Franca                                 3580347
+    036  SP-Belenzinho                                      3580354
+    037  SP-Cangaíba                                        3580362
+    038  SP-Itaqüera                                        3580370
+    039  SP-Guaianases                                      3580388
+    040  SP-São Miguel Paulista                             3580396
+    041  SP-Ermelino Matarazzo                              3580404
+    042  SP-Itaim Paulista                                  3580412
+    043  SP-Cidade São Mateus                               3580420
+    044  SP-Santana                                         3580438
+    045  SP-Vila Guilherme                                  3580446
+    046  SP-Vila Maria                                      3580453
+    047  SP-Tucuruvi                                        3580461
+    048  SP-Perus                                           3580479
+    049  SP-Jaraguá                                         3580487
+    050  SP-Pirituba                                        3580495
+    051  SP-Vila Jaguará                                    3580503
+    052  SP-Brasilândia                                     3580511
+    053  SP-Nossa Senhora do Ó                              3580529
+    054  SP-Vila Nova Cachoeirinha                          3580537
+    055  SP-Limão                                           3580545
+    056  SP-Casa Verde                                      3580552
+    057  SP-Capela do Socorro                               3580560
+    058  SP-Parelheiros                                     3580578
+    059  SP-Santo Amaro                                     3580586
+    060  Rio de Janeiro                                     3304557
+    061  RJ-Zona Portuária (RA 1)                           3345014
+    062  RJ-Zona Central (RA 2)                             3345022
+    063  RJ-Rio Comprido (RA 3)                             3345030
+    064  RJ-Botafogo (RA 4)                                 3345048
+    065  RJ-Copacabana (RA 5)                               3345055
+    066  RJ-Lagoa (RA 6)                                    3345063
+    067  RJ-São Cristóvão (RA 7)                            3345071
+    068  RJ-Tijuca (RA 8)                                   3345089
+    069  RJ-Vila Isabel (RA 9)                              3345097
+    070  RJ-Ramos (RA 10)                                   3345105
+    071  RJ-Penha (RA 11)                                   3345113
+    072  RJ-Méier (RA 12)                                   3345121
+    073  RJ-Engenho Novo (RA 13)                            3345139
+    074  RJ-Irajá (RA 14)                                   3345147
+    075  RJ-Madureira (RA 15)                               3345154
+    076  RJ-Jacarepaguá (RA 16)                             3345162
+    077  RJ-Bangu (RA 17)                                   3345170
+    078  RJ-Campo Grande (RA 18)                            3345188
+    079  RJ-Santa Cruz (RA 19)                              3345196
+    080  RJ-Ilha do Governador (RA 20)                      3345204
+    081  RJ-Ilha de Paquetá (RA 21)                         3345212
+    082  RJ-Anchieta (RA 22)                                3345220
+    083  RJ-Santa Teresa (RA 23)                            3345238
+    084  RJ-Barra da Tijuca (RA 24)                         3345246
+    085  RJ-Pavuna (RA 25)                                  3345253
+    086  RJ-Guaratiba (RA 26)                               3345261
+    087  RJ-Rocinha (RA 27)                                 3345279
+    088  RJ-Jacarezinho (RA 28)                             3345287
+    089  RJ-Alemão (RA 29)                                  3345295
+    090  RJ-Maré (RA 30)                                    3345303
+    091  Brasília                                           5300108
+    092  DF-Plano Piloto (inclui Asas e Lago)               5301007
+    093  DF-Núcleo Bandeirante                              5302005
+    094  DF-Guará                                           5303003
+    095  DF-Gama                                            5304001
+    096  DF-Taguatinga                                      5305008
+    097  DF-Ceilândia                                       5306006
+    098  DF-Brazlândia                                      5307004
+    099  DF-Sobradinho                                      5308002
+    100  DF-Planaltina                                      5309000
+    101  DF-Paranoá                                         5310008
+    102  DF-Jardim                                          5311006
+    103  DF-Asa Sul (inclui Lago Sul)                       5312004
+    104  DF-Asa Norte (inclui Lago Norte)                   5313002
+    105  DF-Cruzeiro                                        5314000
+    106  DF-Samambaia                                       5315007
+    107  DF-Agrovila S. Sebastião                           5316005
+    108  DF-Santa Maria                                     5317003
+    109  DF-Recanto das Emas                                5318001

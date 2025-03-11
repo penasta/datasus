@@ -1,0 +1,1071 @@
+   1069  4 L                                                     
+      1  E800.0 Empregado de estrada de ferro               8000 
+      2  E800.1 Passageiro de trem                          8001 
+      3  E800.2 Pedestre                                    8002 
+      4  E800.3 Ciclista                                    8003 
+      5  E800.8 Outra pessoa especificada                   8008 
+      6  E800.9 Pessoa não especificada                     8009 
+      7  E801.0 Empregado de estrada de ferro               8010 
+      8  E801.1 Passageiro de trem                          8011 
+      9  E801.2 Pedestre                                    8012 
+     10  E801.3 Ciclista                                    8013 
+     11  E801.8 Outra pessoa especificada                   8018 
+     12  E801.9 Pessoa não especificada                     8019 
+     13  E802.0 Empregado de estrada de ferro               8020 
+     14  E802.1 Passageiro de trem                          8021 
+     15  E802.2 Pedestre                                    8022 
+     16  E802.3 Ciclista                                    8023 
+     17  E802.8 Outra pessoa especificada                   8028 
+     18  E802.9 Pessoa não especificada                     8029 
+     19  E803.0 Empregado de estrada de ferro               8030 
+     20  E803.1 Passageiro de trem                          8031 
+     21  E803.2 Pedestre                                    8032 
+     22  E803.3 Ciclista                                    8033 
+     23  E803.8 Outra pessoa especificada                   8038 
+     24  E803.9 Pessoa não especificada                     8039 
+     25  E804.0 Empregado de estrada de ferro               8040 
+     26  E804.1 Passageiro de trem                          8041 
+     27  E804.2 Pedestre                                    8042 
+     28  E804.3 Ciclista                                    8043 
+     29  E804.8 Outra pessoa especificada                   8048 
+     30  E804.9 Pessoa não especificada                     8049 
+     31  E805.0 Empregado de estrada de ferro               8050 
+     32  E805.1 Passageiro de trem                          8051 
+     33  E805.2 Pedestre                                    8052 
+     34  E805.3 Ciclista                                    8053 
+     35  E805.8 Outra pessoa especificada                   8058 
+     36  E805.9 Pessoa não especificada                     8059 
+     37  E806.0 Empregado de estrada de ferro               8060 
+     38  E806.1 Passageiro de trem                          8061 
+     39  E806.2 Pedestre                                    8062 
+     40  E806.3 Ciclista                                    8063 
+     41  E806.8 Outra pessoa especificada                   8068 
+     42  E806.9 Pessoa não especificada                     8069 
+     43  E807.0 Empregado de estrada de ferro               8070 
+     44  E807.1 Passageiro de trem                          8071 
+     45  E807.2 Pedestre                                    8072 
+     46  E807.3 Ciclista                                    8073 
+     47  E807.8 Outra pessoa especificada                   8078 
+     48  E807.9 Pessoa não especificada                     8079 
+     49  E810.0 Condutor de veiculo a motor                 8100 
+     50  E810.1 Passageiro de veiculo a motor               8101 
+     51  E810.2 Motociclista                                8102 
+     52  E810.3 Passageiro de motocicleta                   8103 
+     53  E810.4 Ocupante de um bonde                        8104 
+     54  E810.5 Pessoa montada animal ou ocup veic trac ani 8105 
+     55  E810.6 Ciclista                                    8106 
+     56  E810.7 Pedestre                                    8107 
+     57  E810.8 Outra pessoa especificada                   8108 
+     58  E810.9 Pessoa não especificada                     8109 
+     59  E811.0 Condutor de veiculo a motor                 8110 
+     60  E811.1 Passageiro de veiculo a motor               8111 
+     61  E811.2 Motociclista                                8112 
+     62  E811.3 Passageiro de motocicleta                   8113 
+     63  E811.4 Ocupante de um bonde                        8114 
+     64  E811.5 Pessoa montada animal ou ocup veic trac ani 8115 
+     65  E811.6 Ciclista                                    8116 
+     66  E811.7 Pedestre                                    8117 
+     67  E811.8 Outra pessoa especificada                   8118 
+     68  E811.9 Pessoa não especificada                     8119 
+     69  E812.0 Condutor de veiculo a motor                 8120 
+     70  E812.1 Passageiro de veiculo a motor               8121 
+     71  E812.2 Motociclista                                8122 
+     72  E812.3 Passageiro de motocicleta                   8123 
+     73  E812.4 Ocupante de um bonde                        8124 
+     74  E812.5 Pessoa montada animal ou ocup veic trac ani 8125 
+     75  E812.6 Ciclista                                    8126 
+     76  E812.7 Pedestre                                    8127 
+     77  E812.8 Outra pessoa especificada                   8128 
+     78  E812.9 Pessoa não especificada                     8129 
+     79  E813.0 Condutor de veiculo a motor                 8130 
+     80  E813.1 Passageiro de veiculo a motor               8131 
+     81  E813.2 Motociclista                                8132 
+     82  E813.3 Passageiro de motocicleta                   8133 
+     83  E813.4 Ocupante de um bonde                        8134 
+     84  E813.5 Pessoa montada animal ou ocup veic trac ani 8135 
+     85  E813.6 Ciclista                                    8136 
+     86  E813.7 Pedestre                                    8137 
+     87  E813.8 Outra pessoa especificada                   8138 
+     88  E813.9 Pessoa não especificada                     8139 
+     89  E814.0 Condutor de veiculo a motor                 8140 
+     90  E814.1 Passageiro de veiculo a motor               8141 
+     91  E814.2 Motociclista                                8142 
+     92  E814.3 Passageiro de motocicleta                   8143 
+     93  E814.4 Ocupante de um bonde                        8144 
+     94  E814.5 Pessoa montada animal ou ocup veic trac ani 8145 
+     95  E814.6 Ciclista                                    8146 
+     96  E814.7 Pedestre                                    8147 
+     97  E814.8 Outra pessoa especificada                   8148 
+     98  E814.9 Pessoa não especificada                     8149 
+     99  E815.0 Condutor de veiculo a motor                 8150 
+    100  E815.1 Passageiro de veiculo a motor               8151 
+    101  E815.2 Motociclista                                8152 
+    102  E815.3 Passageiro de motocicleta                   8153 
+    103  E815.4 Ocupante de um bonde                        8154 
+    104  E815.5 Pessoa montada animal ou ocup veic trac ani 8155 
+    105  E815.6 Ciclista                                    8156 
+    106  E815.7 Pedestre                                    8157 
+    107  E815.8 Outra pessoa especificada                   8158 
+    108  E815.9 Pessoa não especificada                     8159 
+    109  E816.0 Condutor de veiculo a motor                 8160 
+    110  E816.1 Passageiro de veiculo a motor               8161 
+    111  E816.2 Motociclista                                8162 
+    112  E816.3 Passageiro de motocicleta                   8163 
+    113  E816.4 Ocupante de um bonde                        8164 
+    114  E816.5 Pessoa montada animal ou ocup veic trac ani 8165 
+    115  E816.6 Ciclista                                    8166 
+    116  E816.7 Pedestre                                    8167 
+    117  E816.8 Outra pessoa especificada                   8168 
+    118  E816.9 Pessoa não especificada                     8169 
+    119  E817.0 Condutor de veiculo a motor                 8170 
+    120  E817.1 Passageiro de veiculo a motor               8171 
+    121  E817.2 Motociclista                                8172 
+    122  E817.3 Passageiro de motocicleta                   8173 
+    123  E817.4 Ocupante de um bonde                        8174 
+    124  E817.5 Pessoa montada animal ou ocup veic trac ani 8175 
+    125  E817.6 Ciclista                                    8176 
+    126  E817.7 Pedestre                                    8177 
+    127  E817.8 Outra pessoa especificada                   8178 
+    128  E817.9 Pessoa não especificada                     8179 
+    129  E818.0 Condutor de veiculo a motor                 8180 
+    130  E818.1 Passageiro de veiculo a motor               8181 
+    131  E818.2 Motociclista                                8182 
+    132  E818.3 Passageiro de motocicleta                   8183 
+    133  E818.4 Ocupante de um bonde                        8184 
+    134  E818.5 Pessoa montada animal ou ocup veic trac ani 8185 
+    135  E818.6 Ciclista                                    8186 
+    136  E818.7 Pedestre                                    8187 
+    137  E818.8 Outra pessoa especificada                   8188 
+    138  E818.9 Pessoa não especificada                     8189 
+    139  E819.0 Condutor de veiculo a motor                 8190 
+    140  E819.1 Passageiro de veiculo a motor               8191 
+    141  E819.2 Motociclista                                8192 
+    142  E819.3 Passageiro de motocicleta                   8193 
+    143  E819.4 Ocupante de um bonde                        8194 
+    144  E819.5 Pessoa montada animal ou ocup veic trac ani 8195 
+    145  E819.6 Ciclista                                    8196 
+    146  E819.7 Pedestre                                    8197 
+    147  E819.8 Outra pessoa especificada                   8198 
+    148  E819.9 Pessoa não especificada                     8199 
+    149  E820.0 Condutor de veiculo a motor                 8200 
+    150  E820.1 Passageiro de veiculo a motor               8201 
+    151  E820.2 Motociclista                                8202 
+    152  E820.3 Passageiro de motocicleta                   8203 
+    153  E820.4 Ocupante de um bonde                        8204 
+    154  E820.5 Pessoa montada animal ou ocup veic trac ani 8205 
+    155  E820.6 Ciclista                                    8206 
+    156  E820.7 Pedestre                                    8207 
+    157  E820.8 Outra pessoa especificada                   8208 
+    158  E820.9 Pessoa não especificada                     8209 
+    159  E821.0 Condutor de veiculo a motor                 8210 
+    160  E821.1 Passageiro de veiculo a motor               8211 
+    161  E821.2 Motociclista                                8212 
+    162  E821.3 Passageiro de motocicleta                   8213 
+    163  E821.4 Ocupante de um bonde                        8214 
+    164  E821.5 Pessoa montada animal ou ocup veic trac ani 8215 
+    165  E821.6 Ciclista                                    8216 
+    166  E821.7 Pedestre                                    8217 
+    167  E821.8 Outra pessoa especificada                   8218 
+    168  E821.9 Pessoa não especificada                     8219 
+    169  E822.0 Condutor de veiculo a motor                 8220 
+    170  E822.1 Passageiro de veiculo a motor               8221 
+    171  E822.2 Motociclista                                8222 
+    172  E822.3 Passageiro de motocicleta                   8223 
+    173  E822.4 Ocupante de um bonde                        8224 
+    174  E822.5 Pessoa montada animal ou ocup veic trac ani 8225 
+    175  E822.6 Ciclista                                    8226 
+    176  E822.7 Pedestre                                    8227 
+    177  E822.8 Outra pessoa especificada                   8228 
+    178  E822.9 Pessoa não especificada                     8229 
+    179  E823.0 Condutor de veiculo a motor                 8230 
+    180  E823.1 Passageiro de veiculo a motor               8231 
+    181  E823.2 Motociclista                                8232 
+    182  E823.3 Passageiro de motocicleta                   8233 
+    183  E823.4 Ocupante de um bonde                        8234 
+    184  E823.5 Pessoa montada animal ou ocup veic trac ani 8235 
+    185  E823.6 Ciclista                                    8236 
+    186  E823.7 Pedestre                                    8237 
+    187  E823.8 Outra pessoa especificada                   8238 
+    188  E823.9 Pessoa não especificada                     8239 
+    189  E824.0 Condutor de veiculo a motor                 8240 
+    190  E824.1 Passageiro de veiculo a motor               8241 
+    191  E824.2 Motociclista                                8242 
+    192  E824.3 Passageiro de motocicleta                   8243 
+    193  E824.4 Ocupante de um bonde                        8244 
+    194  E824.5 Pessoa montada animal ou ocup veic trac ani 8245 
+    195  E824.6 Ciclista                                    8246 
+    196  E824.7 Pedestre                                    8247 
+    197  E824.8 Outra pessoa especificada                   8248 
+    198  E824.9 Pessoa não especificada                     8249 
+    199  E825.0 Condutor de veiculo a motor                 8250 
+    200  E825.1 Passageiro de veiculo a motor               8251 
+    201  E825.2 Motociclista                                8252 
+    202  E825.3 Passageiro de motocicleta                   8253 
+    203  E825.4 Ocupante de um bonde                        8254 
+    204  E825.5 Pessoa montada animal ou ocup veic trac ani 8255 
+    205  E825.6 Ciclista                                    8256 
+    206  E825.7 Pedestre                                    8257 
+    207  E825.8 Outra pessoa especificada                   8258 
+    208  E825.9 Pessoa não especificada                     8259 
+    209  E826.0 Pedestre                                    8260 
+    210  E826.1 Ciclista                                    8261 
+    211  E826.2 Pessoa montada em animal (pessoa a cavalo)  8262 
+    212  E826.3 Ocupante de veiculo a tracao animal         8263 
+    213  E826.4 Ocupante de bonde                           8264 
+    214  E826.8 Outra pessoa especificada                   8268 
+    215  E826.9 Pessoa não especificada                     8269 
+    216  E827.0 Pedestre                                    8270 
+    217  E827.1 Ciclista                                    8271 
+    218  E827.2 Pessoa montada em animal (pessoa a cavalo)  8272 
+    219  E827.3 Ocupante de veiculo a tracao animal         8273 
+    220  E827.4 Ocupante de bonde                           8274 
+    221  E827.8 Outra pessoa especificada                   8278 
+    222  E827.9 Pessoa não especificada                     8279 
+    223  E828.0 Pedestre                                    8280 
+    224  E828.1 Ciclista                                    8281 
+    225  E828.2 Pessoa montada em animal (pessoa a cavalo)  8282 
+    226  E828.3 Ocupante de veiculo a tracao animal         8283 
+    227  E828.4 Ocupante de bonde                           8284 
+    228  E828.8 Outra pessoa especificada                   8288 
+    229  E828.9 Pessoa não especificada                     8289 
+    230  E829.0 Pedestre                                    8290 
+    231  E829.1 Ciclista                                    8291 
+    232  E829.2 Pessoa montada em animal (pessoa a cavalo)  8292 
+    233  E829.3 Ocupante de veiculo a tracao animal         8293 
+    234  E829.4 Ocupante de bonde                           8294 
+    235  E829.8 Outra pessoa especificada                   8298 
+    236  E829.9 Pessoa não especificada                     8299 
+    237  E830.0 Ocupante de pequena embarcacao              8300 
+    238  E830.1 Ocupante de pequena embarcacao              8301 
+    239  E830.2 Ocupante de outro tipo de embarcacao        8302 
+    240  E830.3 Ocupante de outro tipo de embarcacao        8303 
+    241  E830.4 Esquiador aquatico                          8304 
+    242  E830.5 Banhista                                    8305 
+    243  E830.6 Doqueiros                                   8306 
+    244  E830.8 Outra pessoa especificada                   8308 
+    245  E830.9 Pessoa não especificada                     8309 
+    246  E831.0 Ocupante de pequena embarcacao              8310 
+    247  E831.1 Ocupante de pequena embarcacao              8311 
+    248  E831.2 Ocupante de outro tipo de embarcacao        8312 
+    249  E831.3 Ocupante de outro tipo de embarcacao        8313 
+    250  E831.4 Esquiador aquatico                          8314 
+    251  E831.5 Banhista                                    8315 
+    252  E831.6 Doqueiros                                   8316 
+    253  E831.8 Outra pessoa especificada                   8318 
+    254  E831.9 Pessoa não especificada                     8319 
+    255  E832.0 Ocupante de pequena embarcacao              8320 
+    256  E832.1 Ocupante de pequena embarcacao              8321 
+    257  E832.2 Ocupante de outro tipo de embarcacao        8322 
+    258  E832.3 Ocupante de outro tipo de embarcacao        8323 
+    259  E832.4 Esquiador aquatico                          8324 
+    260  E832.5 Banhista                                    8325 
+    261  E832.6 Doqueiros                                   8326 
+    262  E832.8 Outra pessoa especificada                   8328 
+    263  E832.9 Pessoa não especificada                     8329 
+    264  E833.0 Ocupante de pequena embarcacao              8330 
+    265  E833.1 Ocupante de pequena embarcacao              8331 
+    266  E833.2 Ocupante de outro tipo de embarcacao        8332 
+    267  E833.3 Ocupante de outro tipo de embarcacao        8333 
+    268  E833.4 Esquiador aquatico                          8334 
+    269  E833.5 Banhista                                    8335 
+    270  E833.6 Doqueiros                                   8336 
+    271  E833.8 Outra pessoa especificada                   8338 
+    272  E833.9 Pessoa não especificada                     8339 
+    273  E834.0 Ocupante de pequena embarcacao              8340 
+    274  E834.1 Ocupante de pequena embarcacao              8341 
+    275  E834.2 Ocupante de outro tipo de embarcacao        8342 
+    276  E834.3 Ocupante de outro tipo de embarcacao        8343 
+    277  E834.4 Esquiador aquatico                          8344 
+    278  E834.5 Banhista                                    8345 
+    279  E834.6 Doqueiros                                   8346 
+    280  E834.8 Outra pessoa especificada                   8348 
+    281  E834.9 Pessoa não especificada                     8349 
+    282  E835.0 Ocupante de pequena embarcacao              8350 
+    283  E835.1 Ocupante de pequena embarcacao              8351 
+    284  E835.2 Ocupante de outro tipo de embarcacao        8352 
+    285  E835.3 Ocupante de outro tipo de embarcacao        8353 
+    286  E835.4 Esquiador aquatico                          8354 
+    287  E835.5 Banhista                                    8355 
+    288  E835.6 Doqueiros                                   8356 
+    289  E835.8 Outra pessoa especificada                   8358 
+    290  E835.9 Pessoa não especificada                     8359 
+    291  E836.0 Ocupante de pequena embarcacao              8360 
+    292  E836.1 Ocupante de pequena embarcacao              8361 
+    293  E836.2 Ocupante de outro tipo de embarcacao        8362 
+    294  E836.3 Ocupante de outro tipo de embarcacao        8363 
+    295  E836.4 Esquiador aquatico                          8364 
+    296  E836.5 Banhista                                    8365 
+    297  E836.6 Doqueiros                                   8366 
+    298  E836.8 Outra pessoa especificada                   8368 
+    299  E836.9 Pessoa não especificada                     8369 
+    300  E837.0 Ocupante de pequena embarcacao              8370 
+    301  E837.1 Ocupante de pequena embarcacao              8371 
+    302  E837.2 Ocupante de outro tipo de embarcacao        8372 
+    303  E837.3 Ocupante de outro tipo de embarcacao        8373 
+    304  E837.4 Esquiador aquatico                          8374 
+    305  E837.5 Banhista                                    8375 
+    306  E837.6 Doqueiros                                   8376 
+    307  E837.8 Outra pessoa especificada                   8378 
+    308  E837.9 Pessoa não especificada                     8379 
+    309  E838.0 Ocupante de pequena embarcacao              8380 
+    310  E838.1 Ocupante de pequena embarcacao              8381 
+    311  E838.2 Ocupante de outro tipo de embarcacao        8382 
+    312  E838.3 Ocupante de outro tipo de embarcacao        8383 
+    313  E838.4 Esquiador aquatico                          8384 
+    314  E838.5 Banhista                                    8385 
+    315  E838.6 Doqueiros                                   8386 
+    316  E838.8 Outra pessoa especificada                   8388 
+    317  E838.9 Pessoa não especificada                     8389 
+    318  E840.0 Ocupante de nave espacial                   8400 
+    319  E840.1 Ocupante de aeronave militar                8401 
+    320  E840.2 Tripul aeronav comerc util transp terra ter 8402 
+    321  E840.3 Outr ocup aeronav com util transp terra ter 8403 
+    322  E840.4 Ocup aeronave comerc util transp terra ar   8404 
+    323  E840.5 Ocup outr aeronave prov energia movimentaca 8405 
+    324  E840.6 Ocupante de aeronave não provida de energia 8406 
+    325  E840.7 Paraquedista (militar) (outro)              8407 
+    326  E840.8 Pessoal terra ou empreg linha aerea comerci 8408 
+    327  E840.9 Outras pessoas                              8409 
+    328  E841.0 Ocupante de nave espacial                   8410 
+    329  E841.1 Ocupante de aeronave militar                8411 
+    330  E841.2 Tripul aeronav comerc util transp terra ter 8412 
+    331  E841.3 Outr ocup aeronav com util transp terra ter 8413 
+    332  E841.4 Ocup aeronav comerc util transp terra ar    8414 
+    333  E841.5 Ocup outr aeronave prov energia movimentaca 8415 
+    334  E841.6 Ocupante de aeronave não provida de energia 8416 
+    335  E841.7 Paraquedista (militar) (outro)              8417 
+    336  E841.8 Pessoal terra ou empreg linha aerea comerci 8418 
+    337  E841.9 Outras pessoas                              8419 
+    338  E842.0 Ocupante de nave espacial                   8420 
+    339  E842.1 Ocupante de aeronave militar                8421 
+    340  E842.2 Tripul aeronav comerc util transp terra ter 8422 
+    341  E842.3 Outr ocup aeronav com util transp terra ter 8423 
+    342  E842.4 Ocup aeronav comerc util transp terra ar    8424 
+    343  E842.5 Ocup outr aeronave prov energia movimentaca 8425 
+    344  E842.6 Ocupante de aeronave não provida de energia 8426 
+    345  E842.7 Paraquedista (militar) (outro)              8427 
+    346  E842.8 Pessoal terra ou empreg linha aerea comerci 8428 
+    347  E842.9 Outras pessoas                              8429 
+    348  E843.0 Ocupante de nave espacial                   8430 
+    349  E843.1 Ocupante de aeronave militar                8431 
+    350  E843.2 Tripul aeronav comerc util transp terra ter 8432 
+    351  E843.3 Outr ocup aeronav com util transp terra ter 8433 
+    352  E843.4 Ocup aeronav comerc util transp terra ar    8434 
+    353  E843.5 Ocup outra aeronave prov energia movimentac 8435 
+    354  E843.6 Ocupante de aeronave não provida de energia 8436 
+    355  E843.7 Paraquedista (militar) (outro)              8437 
+    356  E843.8 Pessoal terra ou empreg linha aerea comerci 8438 
+    357  E843.9 Outras pessoas                              8439 
+    358  E844.0 Ocupante de nave espacial                   8440 
+    359  E844.1 Ocupante de aeronave militar                8441 
+    360  E844.2 Tripul aeronav comerc util transp terra ter 8442 
+    361  E844.3 Outr ocup aeronav com util transp terra ter 8443 
+    362  E844.4 Ocup aeronav comerc util transp terra ar    8444 
+    363  E844.5 Ocup outra aeronave prov energia movimentac 8445 
+    364  E844.6 Ocupante de aeronave não provida de energia 8446 
+    365  E844.7 Paraquedista (militar) (outro)              8447 
+    366  E844.8 Pessoal terra ou empreg linha aerea comerci 8448 
+    367  E844.9 Outras pessoas                              8449 
+    368  E845.0 Ocupante de nave espacial                   8450 
+    369  E845.1 Ocupante de aeronave militar                8451 
+    370  E845.2 Tripul aeronav comerc util transp terra ter 8452 
+    371  E845.3 Outr ocup aeronav com util transp terra ter 8453 
+    372  E845.4 Ocup aeronav comerc util transp terra ar    8454 
+    373  E845.5 Ocup outra aeronave prov energia movimentac 8455 
+    374  E845.6 Ocupante de aeronave não provida de energia 8456 
+    375  E845.7 Paraquedista (militar) (outro)              8457 
+    376  E845.8 Pessoal terra ou empreg linha aerea comerci 8458 
+    377  E845.9 Outras pessoas                              8459 
+    378  E846 - Ac v mot us inter edifíc indust comerc      846X 
+    379  E847 - Acid veíc trac cabo exc mov sobre tril      847X 
+    380  E848 - Acidentes de outros veículos NCOP           848X 
+    381  E850.0 Opiaceos e narcoticos correlatos            8500 
+    382  E850.1 Salicilatos                                 8501 
+    383  E850.2 Analgesicos aromaticos NCOP                 8502 
+    384  E850.3 Derivados pirazolicos                       8503 
+    385  E850.4 Anti-reumaticos (antiflogisticos)           8504 
+    386  E850.5 Outros analgesicos não narcoticos           8505 
+    387  E850.8 Outros                                      8508 
+    388  E850.9 Não especificados                           8509 
+    389  E851 - Intoxicação acidental por barbitúricos      851X 
+    390  E852.0 Substancias do grupo do hidrato de cloral   8520 
+    391  E852.1 Paraldeido                                  8521 
+    392  E852.2 Compostos do bromo                          8522 
+    393  E852.3 Compostos da metaqualona                    8523 
+    394  E852.4 Substancias do grupo da glutetimida         8524 
+    395  E852.5 Sedativos mistos NCOP                       8525 
+    396  E852.8 Outros                                      8528 
+    397  E852.9 Não especificados                           8529 
+    398  E853.0 Tranquilizantes fenotiazinicos              8530 
+    399  E853.1 Tranquilizantes butirofenonicos             8531 
+    400  E853.2 Tranquilizantes benzodiazepinicos           8532 
+    401  E853.8 Outros                                      8538 
+    402  E853.9 Não especificados                           8539 
+    403  E854.0 Antidepressivos                             8540 
+    404  E854.1 Psicodislepticos (alucinogenos)             8541 
+    405  E854.2 Psicoestimulantes                           8542 
+    406  E854.3 Estimulantes do sistema nervoso central     8543 
+    407  854.9 Código inválido - fora da CID                8549 
+    408  E855.0 Drogas anticonvulsivant e antiparkinsoniana 8550 
+    409  E855.1 Outros depressores do sistema nervoso centr 8551 
+    410  E855.2 Anestesicos locais                          8552 
+    411  E855.3 Parassimpaticomimeticos (colinergicos)      8553 
+    412  E855.4 Parassimpat (anticolin e antimusc) e espasm 8554 
+    413  E855.5 Simpaticomimeticos (adrenergicos)           8555 
+    414  E855.6 Simpaticoliticos (antiadrenergicos)         8556 
+    415  E855.8 Outros                                      8558 
+    416  E855.9 Não especificados                           8559 
+    417  E856 - Intoxicação acidental por antibióticos      856X 
+    418  E857 - Intox acidental p subst antiinfeccios       857X 
+    419  E858.0 Hormonios e seus substitutos sinteticos     8580 
+    420  E858.1 Agentes de acao primariamente sistemica     8581 
+    421  E858.2 Agentes de acao primariamente hematologica  8582 
+    422  E858.3 Agentes q atuam primar aparelho cardiovasc  8583 
+    423  E858.4 Agentes q atuam primar aparelho gastrintest 8584 
+    424  E858.5 Drogas que atuam sobre o metabolismo da agu 8585 
+    425  E858.6 Agent q atuam primar muscul lisos e esquele 8586 
+    426  E858.7 Agent q atuam primar pele e membr mucosas   8587 
+    427  E858.8 Outras                                      8588 
+    428  E858.9 Não especificadas                           8589 
+    429  E860.0 Bebidas alcoolicas                          8600 
+    430  E860.1 Outr apres alcool etilico e as não especif  8601 
+    431  E860.2 Alcool metilico                             8602 
+    432  E860.3 Alcool isopropilico                         8603 
+    433  E860.4 Oleo fusel                                  8604 
+    434  E860.8 Outros                                      8608 
+    435  E860.9 Não especificados                           8609 
+    436  E861.0 Deterg e prod lavagem e limpeza cabeca      8610 
+    437  E861.1 Sabao e derivados                           8611 
+    438  E861.2 Polidores                                   8612 
+    439  E861.3 Outros agentes de limpeza e polimento       8613 
+    440  E861.4 Desinfetantes                               8614 
+    441  E861.5 Tintas que contenham chumbo                 8615 
+    442  E861.6 Outras subst utiliz como tintas ou vernizes 8616 
+    443  E861.9 Não especificadas                           8619 
+    444  E862.0 Solventes derivados do petroleo             8620 
+    445  E862.1 Combustiveis e substancias para limpeza     8621 
+    446  E862.2 Oleos lubrificantes                         8622 
+    447  E862.3 Solidos derivados do petroleo               8623 
+    448  E862.4 Outros solventes                            8624 
+    449  862.8 Código inválido - fora da CID                8628 
+    450  E862.9 Não especificados                           8629 
+    451  E863.0 Inseticidas deriv compostos organoclorados  8630 
+    452  E863.1 Inseticidas deriv compostos organofosforado 8631 
+    453  E863.2 Carbamatos                                  8632 
+    454  E863.3 Misturas de inseticidas                     8633 
+    455  E863.4 Outros inseticidas e os não especificados   8634 
+    456  E863.5 Herbicidas                                  8635 
+    457  E863.6 Fungicidas                                  8636 
+    458  E863.7 Rodenticidas                                8637 
+    459  E863.8 Fumigantes                                  8638 
+    460  E863.9 Outros e os não especificados               8639 
+    461  E864.0 Aromaticos corrosivos                       8640 
+    462  E864.1 Acidos                                      8641 
+    463  E864.2 Alcalis causticos                           8642 
+    464  E864.3 Outros                                      8643 
+    465  E864.4 Não especificados                           8644 
+    466  864.9 Código inválido - fora da CID                8649 
+    467  E865.0 Carne                                       8650 
+    468  E865.1 Mariscos                                    8651 
+    469  E865.2 Outros peixes                               8652 
+    470  E865.3 Bagas e sementes                            8653 
+    471  E865.4 Outras plantas                              8654 
+    472  E865.5 Cogumelos e outros fungos                   8655 
+    473  E865.8 Outros alimentos                            8658 
+    474  E865.9 Não especificados                           8659 
+    475  E866.0 Chumbo e seus compostos e vapores           8660 
+    476  E866.1 Mercurio e seus compostos e vapores         8661 
+    477  E866.2 Antimonio e seus compostos e vapores        8662 
+    478  E866.3 Arsenico e seus compostos e vapores         8663 
+    479  E866.4 Outros metais e seus compostos e vapores    8664 
+    480  E866.5 Adubos e fertilizantes                      8665 
+    481  E866.6 Colas e adesivos                            8666 
+    482  E866.7 Cosmeticos                                  8667 
+    483  E866.8 Outras                                      8668 
+    484  E866.9 Não especificadas                           8669 
+    485  E867 - Intoxicação acidental por gás de rua        867X 
+    486  E868.0 Gas liquefeito petroleo distr recip moveis  8680 
+    487  E868.1 Outros gases de iluminacao e os não especif 8681 
+    488  E868.2 Gas de escape de veiculo a motor            8682 
+    489  E868.3 Monox carbono orig combust incomp outr comb 8683 
+    490  E868.8 Monoxido de carbono devido a outras fontes  8688 
+    491  E868.9 Monoxido de carbono não especificado        8689 
+    492  E869.0 Oxidos de nitrogenio                        8690 
+    493  E869.1 Dioxido de enxofre                          8691 
+    494  E869.2 Freon                                       8692 
+    495  E869.3 Gas lacrimogenio                            8693 
+    496  E869.8 Outros gases e vapores especificados        8698 
+    497  E869.9 Gases e vapores não especificados           8699 
+    498  E870.0 Intervencao cirurgica                       8700 
+    499  E870.1 Infusao ou transfusao                       8701 
+    500  E870.2 Hemodialise ou outras perfusoes             8702 
+    501  E870.3 Injecao ou vacinacao                        8703 
+    502  E870.4 Exame endoscopico                           8704 
+    503  E870.5 Aspiracao de fluido ou tecido               8705 
+    504  E870.6 Cateterismo cardiaco                        8706 
+    505  E870.7 Administracao de enema                      8707 
+    506  E870.8 Outros                                      8708 
+    507  E870.9 Não especificados                           8709 
+    508  E871.0 Intervencao cirurgica                       8710 
+    509  E871.1 Infusao ou transfusao                       8711 
+    510  E871.2 Hemodialise e outras perfusoes              8712 
+    511  E871.3 Injecao ou vacinacao                        8713 
+    512  E871.4 Exame endoscopico                           8714 
+    513  E871.5 Aspiracao de fluido ou tecido               8715 
+    514  E871.6 Cateterismo cardiaco                        8716 
+    515  E871.7 Remocao de cateter ou curativo              8717 
+    516  E871.8 Outros                                      8718 
+    517  E871.9 Não especificados                           8719 
+    518  E872.0 Intervencao cirurgica                       8720 
+    519  E872.1 Infusao ou transfusao                       8721 
+    520  E872.2 Hemodialise e outras perfusoes              8722 
+    521  E872.3 Injecao ou vacinacao                        8723 
+    522  E872.4 Exame endoscopico                           8724 
+    523  E872.5 Aspiracao de fluido ou tecido               8725 
+    524  E872.6 Cateterismo cardiaco                        8726 
+    525  E872.8 Outras                                      8728 
+    526  E872.9 Não especificadas                           8729 
+    527  E873.0 Quant exces sang ou outr liq dur transfusao 8730 
+    528  E873.1 Diluicao incorreta liquido durante a infusa 8731 
+    529  E873.2 Superdosagem de radiacao terapeutica        8732 
+    530  E873.3 Expos inadv paciente a rad durante cuid med 8733 
+    531  E873.4 Erro dosag terap eletrochoq choque insulini 8734 
+    532  E873.5 Temperatura inapropriada em aplicacao local 8735 
+    533  E873.6 Falta administr droga ou medicam necessario 8736 
+    534  E873.8 Outras                                      8738 
+    535  E873.9 Não especificadas                           8739 
+    536  E874.0 Intervencao cirurgica                       8740 
+    537  E874.1 Infusao ou transfusao                       8741 
+    538  E874.2 Hemodialise e outras perfusoes              8742 
+    539  E874.3 Exame endoscopico                           8743 
+    540  E874.4 Aspiracao de fluido ou tecido               8744 
+    541  E874.5 Cateterismo cardiaco                        8745 
+    542  E874.8 Outras                                      8748 
+    543  E874.9 Não especificadas                           8749 
+    544  E875.0 Subst contaminada transfundida ou infundida 8750 
+    545  E875.1 Subst contamin injetada ou usada p vacinaca 8751 
+    546  E875.2 Droga ou subst biolog contam admin outr mei 8752 
+    547  E875.8 Outras                                      8758 
+    548  E875.9 Não especificadas                           8759 
+    549  E876.0 Transfusao de sangue incompativel           8760 
+    550  E876.1 Infusao de liquido errado                   8761 
+    551  E876.2 Falha sutura ou ligadura durant interv ciru 8762 
+    552  E876.3 Canula endotraq coloc errad dur proced anes 8763 
+    553  E876.4 Falha introd ou remocao outro tubo ou instr 8764 
+    554  E876.5 Realizacao de operacao inapropriada         8765 
+    555  E876.8 Outros acidentes especificados              8768 
+    556  E876.9 Acidentes não especificado                  8769 
+    557  E878.0 Interv cirurg c/transplante órgãos inteiros 8780 
+    558  E878.1 Interv cirurg c/implante dispos intern arti 8781 
+    559  E878.2 Intervencao cirurgica com anastomose        8782 
+    560  E878.3 Interv cirurg c/form abertura externa       8783 
+    561  E878.4 Outras cirurgias restauradoras              8784 
+    562  E878.5 Amputacao de membro(s)                      8785 
+    563  E878.6 Remocao de outro orgao (parcial) (total)    8786 
+    564  E878.8 Outras                                      8788 
+    565  E878.9 Não especificadas                           8789 
+    566  E879.0 Cateterismo cardiaco                        8790 
+    567  E879.1 Hemodialise                                 8791 
+    568  E879.2 Procedimentos radiologicos e radioterapia   8792 
+    569  E879.3 Terapia por choque                          8793 
+    570  E879.4 Aspiracao de liquido                        8794 
+    571  E879.5 Insercao de sonda gastrica ou duodenal      8795 
+    572  E879.6 Cateterismo urinário                        8796 
+    573  E879.7 Amostra de sangue                           8797 
+    574  E879.8 Outras                                      8798 
+    575  E879.9 Não especificadas                           8799 
+    576  E880.0 Escada rolante                              8800 
+    577  E880.9 Outras escadas ou degraus                   8809 
+    578  E881.0 Queda de escada de mao                      8810 
+    579  E881.1 Queda de andaime                            8811 
+    580  881.9 Código inválido - fora da CID                8819 
+    581  E882 - Queda de ou fora de edifíc ou out cons      882X 
+    582  E883.0 Acidente dev mergulho ou pulo agua (piscina 8830 
+    583  E883.1 Queda acidental dentro de poco              8831 
+    584  E883.2 Queda acidental dentro bueiro ou boca de lo 8832 
+    585  E883.9 Queda dentro outr buracos ou abert  superf  8839 
+    586  E884.0 Queda de equipamento de "playground"        8840 
+    587  E884.1 Queda de penhasco                           8841 
+    588  E884.2 Queda da cadeira ou da cama                 8842 
+    589  E884.9 Outras quedas de um nivel a outro           8849 
+    590  E885 - Qued mesm nív escorreg tropeç ou trasp      885X 
+    591  E886.0 No esporte                                  8860 
+    592  E886.9 Outras e não especificadas                  8869 
+    593  E887 - Fratura de causa não especificada           887X 
+    594  E888 - Outras quedas ou não especificadas          888X 
+    595  E890.0 Explosao causada por incendio               8900 
+    596  E890.1 Fumaca result combustao cloreto de polivini 8901 
+    597  E890.2 Outras fumacas e vapores causados incendio  8902 
+    598  E890.3 Queimadura causada por incendio             8903 
+    599  E890.8 Outros acidentes resultantes de incendio    8908 
+    600  E890.9 Não especificado                            8909 
+    601  E891.0 Explosao causada por incendio               8910 
+    602  E891.1 Fumaca prov combustao cloreto de polivinila 8911 
+    603  E891.2 Outras fumacas e vapores causados p incendi 8912 
+    604  E891.3 Queimadura causada por incendio             8913 
+    605  E891.8 Outros acidentes resultantes de incendio    8918 
+    606  E891.9 Não especificado                            8919 
+    607  E892 - Incêndio exc em edifício ou out constr      892X 
+    608  E893.0 Por fogo controlado em habitacao particular 8930 
+    609  E893.1 Por fogo control outr edif e outr construco 8931 
+    610  E893.2 Por fogo control lugar q não edif outr cons 8932 
+    611  E893.8 De outras fontes                            8938 
+    612  E893.9 Não especificado                            8939 
+    613  E894 - Combustão material altamente inflamáv       894X 
+    614  E895 - Acid fogo controlado em habit particul      895X 
+    615  E896 - Ac fogo control out edifíc constr e NE      896X 
+    616  E897 - Ac fogo control exc em edif out constr      897X 
+    617  E898.0 Roupas de cama em chamas                    8980 
+    618  E898.1 Outros                                      8981 
+    619  898.9 Código inválido - fora da CID                8989 
+    620  E899 - Acidente causado por fogo ñ especific       899X 
+    621  E900.0 Devido a condicoes climaticas               9000 
+    622  E900.1 Produzido pelo homem                        9001 
+    623  E900.9 De origem não especificada                  9009 
+    624  E901.0 Devido a condicoes climaticas               9010 
+    625  E901.1 Produzido pelo homem                        9011 
+    626  E901.8 Outros                                      9018 
+    627  E901.9 De origem não especificada                  9019 
+    628  E902.0 Resid ou estadia prolongada altas altitudes 9020 
+    629  E902.1 Em aeronaves                                9021 
+    630  E902.2 Devida a mergulho                           9022 
+    631  E902.8 Devida a outras causas especificadas        9028 
+    632  E902.9 Não especificada                            9029 
+    633  E903 - Viagem e movimento                          903X 
+    634  E904.0 Abandono e neglig crianca e pessoas desampa 9040 
+    635  E904.1 Falta de alimento                           9041 
+    636  E904.2 Falta de agua                               9042 
+    637  E904.3 Exposicao (a intemperie) NCOP               9043 
+    638  E904.9 Privacao não especificada                   9049 
+    639  E905.0 Serpentes e lagartos venenosos              9050 
+    640  E905.1 Aranhas venenosas                           9051 
+    641  E905.2 Escorpiao                                   9052 
+    642  E905.3 Abelhas                                     9053 
+    643  E905.4 Centopeias e milipedes venenosos (tropicais 9054 
+    644  E905.5 Outros artropodes venenosos                 9055 
+    645  E905.6 Animais e plantas marinhos venenosos        9056 
+    646  E905.7 Envenen e reacoes toxic causad outras plant 9057 
+    647  E905.8 Outros                                      9058 
+    648  E905.9 Não especificados                           9059 
+    649  E906.0 Mordedura de cao                            9060 
+    650  E906.1 Mordedura de rato                           9061 
+    651  E906.2 Mordedura serpentes e lagartos não venenoso 9062 
+    652  E906.3 Mordedura de outros animais                 9063 
+    653  E906.4 Picada de artropodes não venenosos          9064 
+    654  E906.8 Outras lesões especif causadas por animais  9068 
+    655  E906.9 Não especificadas                           9069 
+    656  E907 - Raio                                        907X 
+    657  E908 - Tempest catac e enchentes dev tempest       908X 
+    658  E909 - Erupção movim cataclísm superf terrest      909X 
+    659  E910.0 Ao esquiar na agua                          9100 
+    660  E910.1 Durante outr esport ou ativ equip mergulho  9101 
+    661  E910.2 Durante outr esport ou ativ s/equip mergulh 9102 
+    662  E910.3 Durante natacao mergulho n recreac ou espor 9103 
+    663  E910.4 Em banheira                                 9104 
+    664  E910.8 Outros                                      9108 
+    665  E910.9 Não especificados                           9109 
+    666  E911 - Aspir ingest alim obstr tr resp ou suf      911X 
+    667  E912 - Aspir ingest out obj secr obstr tr res      912X 
+    668  E913.0 Na cama ou no berco                         9130 
+    669  E913.1 Por saco plastico                           9131 
+    670  E913.2 Devida a falta de ar (em lugar fechado)     9132 
+    671  E913.3 Por queda de terra ou outras substancias    9133 
+    672  E913.8 Outros meios especificados                  9138 
+    673  E913.9 Não especificados                           9139 
+    674  E914 - Penetr acid corpo estranho olho e anex      914X 
+    675  E915 - Penetr acid corpo estr em out orif nat      915X 
+    676  E916 - Impact acid causado p queda de um obj       916X 
+    677  E917.0 Em esporte                                  9170 
+    678  E917.1 Causado pela multidao                       9171 
+    679  E917.2 Em agua corrente                            9172 
+    680  E917.9 Outros                                      9179 
+    681  E918 - Acid aprisionam dentro de ou entre obj      918X 
+    682  E919.0 Maquinas agricolas                          9190 
+    683  E919.1 Maquinaria de mineracao e perfuracao de ter 9191 
+    684  E919.2 Guindastes e elevadores                     9192 
+    685  E919.3 Maquinas para trabalho em metal             9193 
+    686  E919.4 Maquinas para trabalho em madeira           9194 
+    687  E919.5 Maquinas motrizes                           9195 
+    688  E919.6 Maquinaria de transmissao                   9196 
+    689  E919.7 Maquinas de escavacao                       9197 
+    690  E919.8 Outras                                      9198 
+    691  E919.9 Não especificadas                           9199 
+    692  E920.0 Segadeira para cortar ou aparar grama       9200 
+    693  E920.1 Outras ferramentas de mao equipadas com mot 9201 
+    694  E920.2 Utensilios e aparelhos domestic equip c/mot 9202 
+    695  E920.3 Facas                                       9203 
+    696  E920.4 Outras ferramentas e implementos manuais    9204 
+    697  E920.8 Outros                                      9208 
+    698  E920.9 Não especificados                           9209 
+    699  E921.0 Caldeiras                                   9210 
+    700  E921.1 Cilindros de gas                            9211 
+    701  921.5 Código inválido - fora da CID                9215 
+    702  E921.8 Outros                                      9218 
+    703  E921.9 Não especificado                            9219 
+    704  E922.0 Revolver                                    9220 
+    705  E922.1 Espingarda (automatica)                     9221 
+    706  E922.2 Rifle de caca                               9222 
+    707  E922.3 Armas de fogo                               9223 
+    708  922.4 Código inválido - fora da CID                9224 
+    709  E922.8 Outros                                      9228 
+    710  E922.9 Não especificados                           9229 
+    711  E923.0 Fogos de artificio                          9230 
+    712  E923.1 Materiais para dinamitar                    9231 
+    713  E923.2 Gases explosivos                            9232 
+    714  E923.8 Outros                                      9238 
+    715  E923.9 Não especificado                            9239 
+    716  E924.0 Liquidos e vapores quentes                  9240 
+    717  E924.1 Substancias causticas e corrosivas          9241 
+    718  E924.8 Outros                                      9248 
+    719  E924.9 Não especificado                            9249 
+    720  E925.0 Instalacao e utensilios domesticos          9250 
+    721  E925.1 Usinas geradoras de energia eletrica        9251 
+    722  E925.2 Instalacao industrial                       9252 
+    723  925.4 Código inválido - fora da CID                9254 
+    724  E925.8 Outros                                      9258 
+    725  E925.9 Não especificado                            9259 
+    726  E926.0 Radiacao de frequencia radiofonica          9260 
+    727  E926.1 Aquecedores e lampadas de infra-vermelho    9261 
+    728  E926.2 Fontes de luz visivel e ultravioleta        9262 
+    729  E926.3 Raios x e outr radiac ionizant eletromagnet 9263 
+    730  E926.4 Raios laser                                 9264 
+    731  E926.5 Isotopos radioativos                        9265 
+    732  E926.8 Outros                                      9268 
+    733  E926.9 Não especificados                           9269 
+    734  E927 - Excess de exercíc e moviment extenuant      927X 
+    735  E928.0 Permanenc prolong meio ambiente s/gravidade 9280 
+    736  E928.1 Exposicao ao barulho                        9281 
+    737  E928.2 Vibracao                                    9282 
+    738  928.4 Código inválido - fora da CID                9284 
+    739  E928.8 Outras                                      9288 
+    740  E928.9 Acidentes não especificados                 9289 
+    741  E929.0 Ef tardios de acidentes de veiculo a motor  9290 
+    742  E929.1 Ef tardios de outros acidentes de transport 9291 
+    743  E929.2 Efeitos tardios de intoxicação acidental    9292 
+    744  E929.3 Efeitos tardios de queda acidental          9293 
+    745  E929.4 Ef tard de acidentes causados por fogo      9294 
+    746  E929.5 Ef tard acidentes dev fator natur e ambient 9295 
+    747  E929.8 Efeitos tardios de outros acidentes         9298 
+    748  E929.9 Efeitos tardios de acidente não especificad 9299 
+    749  E930.0 Penicilinas                                 9300 
+    750  E930.1 Antibioticos antifungicos                   9301 
+    751  E930.2 Grupo do cloranfenicol                      9302 
+    752  E930.3 Eritromicina e outros macrolideos           9303 
+    753  E930.4 Grupo das tetraciclinas                     9304 
+    754  E930.5 Grupo das cefalosporinas                    9305 
+    755  E930.6 Antibioticos antimicobactérias              9306 
+    756  E930.7 Antibioticos antineoplasicos                9307 
+    757  E930.8 Outros antibioticos especificados           9308 
+    758  E930.9 Não especificados                           9309 
+    759  E931.0 Sulfonamidas                                9310 
+    760  E931.1 Antiinfecciosos arsenicais                  9311 
+    761  E931.2 Metais pesados usados como antiinfecciosos  9312 
+    762  E931.3 Derivados da quinoleina e hidroxiquinoleina 9313 
+    763  E931.4 Antimalar e drog q atuam outr protoz sangui 9314 
+    764  E931.5 Outras drogas antiprotozoários              9315 
+    765  E931.6 Anti-helminticos                            9316 
+    766  E931.7 Drogas antivirais                           9317 
+    767  E931.8 Outras drogas antimicobactérias             9318 
+    768  E931.9 Outros agentes antiinfecciosos e n especifi 9319 
+    769  E932.0 Adrenocorticosteróides                      9320 
+    770  E932.1 Androgenos e anabolizantes congeneres       9321 
+    771  E932.2 Hormonios ovarianos e substitutos sintetico 9322 
+    772  E932.3 Insulinas e agentes antidiabeticos          9323 
+    773  E932.4 Hormonios da hipofise anterior              9324 
+    774  E932.5 Hormonios da hipofise posterior             9325 
+    775  E932.6 Hormonios da paratireóide e derivados       9326 
+    776  E932.7 Hormonios da tireóide e derivados           9327 
+    777  E932.8 Agentes antitireoideanos                    9328 
+    778  E932.9 Outr hormonios e subst sinteticos e n espec 9329 
+    779  E933.0 Drogas antialergicas e antiemeticas         9330 
+    780  E933.1 Drogas antineoplasicas e imunossupressoras  9331 
+    781  E933.2 Agentes acidificantes                       9332 
+    782  E933.3 Agentes alcalinizantes                      9333 
+    783  E933.4 Enzimas                                     9334 
+    784  E933.5 Vitaminas                                   9335 
+    785  E933.8 Outras substancias de acao sistemica        9338 
+    786  E933.9 Não especificadas                           9339 
+    787  E934.0 Ferro e seus compostos                      9340 
+    788  E934.1 Preparados fígado e outr agentes antianemic 9341 
+    789  E934.2 Anticoagulantes                             9342 
+    790  E934.3 Vitamina k (fitomenadione)                  9343 
+    791  E934.4 Drogas que agem sobre a fibrinolise         9344 
+    792  E934.5 Antagonistas anticoagulantes e outr coagula 9345 
+    793  E934.6 Gamaglobulina                               9346 
+    794  E934.7 Sangue natural e produtos do sangue         9347 
+    795  E934.8 Outros                                      9348 
+    796  E934.9 Não especificados                           9349 
+    797  E935.0 Opiaceos e narcoticos relacionados          9350 
+    798  E935.1 Salicilatos                                 9351 
+    799  E935.2 Analgesicos aromaticos                      9352 
+    800  E935.3 Derivados pirazolicos                       9353 
+    801  E935.4 Anti-reumaticos (antiflogisticos)           9354 
+    802  E935.5 Outros analgesicos não narcoticos           9355 
+    803  E935.8 Outros                                      9358 
+    804  E935.9 Não especificados                           9359 
+    805  E936.0 Derivados da oxazolidina                    9360 
+    806  E936.1 Derivados da hidantoina                     9361 
+    807  E936.2 Succimidas                                  9362 
+    808  E936.3 Outros anticonvulsivantes e os não especifi 9363 
+    809  E936.4 Drogas antiparkinsonianas                   9364 
+    810  936.9 Código inválido - fora da CID                9369 
+    811  E937.0 Barbituricos                                9370 
+    812  E937.1 Grupo do hidrato de cloral                  9371 
+    813  E937.2 Paraldeido                                  9372 
+    814  E937.3 Compostos de bromo                          9373 
+    815  E937.4 Compostos da metaqualona                    9374 
+    816  E937.5 Grupo da glutetimida                        9375 
+    817  E937.6 Sedativos mistos                            9376 
+    818  E937.8 Outros                                      9378 
+    819  E937.9 Não especificados                           9379 
+    820  E938.0 Drog depress tono musc p acao sist nerv cen 9380 
+    821  E938.1 Halotano                                    9381 
+    822  E938.2 Outros anestesicos gasosos                  9382 
+    823  E938.3 Anestesicos de uso endovenoso               9383 
+    824  E938.4 Outros anestesicos gerais e os não especifi 9384 
+    825  E938.5 Anestesicos de superficie e de infiltracao  9385 
+    826  E938.6 Anestesicos bloq plexos e nervos perife     9386 
+    827  E938.7 Anestesicos espinhais                       9387 
+    828  E938.9 Outros anestesicos locais e os não especifi 9389 
+    829  E939.0 Antidepressivos                             9390 
+    830  E939.1 Tranquilizantes fenotiazinicos              9391 
+    831  E939.2 Tranquilizantes butirofenonicos             9392 
+    832  E939.3 Outros antipsicoticos                       9393 
+    833  E939.4 Tranquilizantes benzodiazepinicos           9394 
+    834  E939.5 Outros tranquilizantes                      9395 
+    835  E939.6 Psicodislepticos (alucinogenos)             9396 
+    836  E939.7 Psicoestimulantes                           9397 
+    837  E939.8 Outros agentes psicotropicos                9398 
+    838  E939.9 Não especificados                           9399 
+    839  E940.0 Analepticos                                 9400 
+    840  E940.1 Antagonistas dos opiaceos                   9401 
+    841  E940.8 Outros                                      9408 
+    842  E940.9 Não especificados                           9409 
+    843  E941.0 Parassimpaticomimeticos (colinergicos)      9410 
+    844  E941.1 Parassimpaticolit (anticolinerg e antimusca 9411 
+    845  E941.2 Simpaticomimeticos (adrenergicos)           9412 
+    846  E941.3 Simpaticoliticos (antiadrenergicos)         9413 
+    847  E941.9 Não especificadas                           9419 
+    848  E942.0 Reguladores do ritmo cardiaco               9420 
+    849  E942.1 Glicosideos cardiotonic e drogas acao semel 9421 
+    850  E942.2 Drogas antilipemicas e antiarteriosclerotic 9422 
+    851  E942.3 Agentes bloqueadores ganglionares           9423 
+    852  E942.4 Vasodilatadores coronarianos                9424 
+    853  E942.5 Outros vasodilatadores                      9425 
+    854  E942.6 Outros agentes anti-hipertensivos           9426 
+    855  E942.7 Drogas antivaricosas                        9427 
+    856  E942.8 Drogas que agem nos capilares               9428 
+    857  E942.9 Outras e as não especificadas               9429 
+    858  E943.0 Antiacidos e drogas anti-secrecao gastrica  9430 
+    859  E943.1 Catarticos irritantes                       9431 
+    860  E943.2 Catarticos emolientes                       9432 
+    861  E943.3 Outros catarticos                           9433 
+    862  E943.4 Digestivos                                  9434 
+    863  E943.5 Drogas antidiarreicas                       9435 
+    864  E943.6 Emeticos                                    9436 
+    865  E943.8 Outros                                      9438 
+    866  E943.9 Não especificados                           9439 
+    867  E944.0 Diureticos mercuriais                       9440 
+    868  E944.1 Diureticos derivados das purinas            9441 
+    869  E944.2 Inibidores da anidrase do acido carbonico   9442 
+    870  E944.3 Salureticos                                 9443 
+    871  E944.4 Outros diureticos                           9444 
+    872  E944.5 Agentes eletroliticos                       9445 
+    873  E944.6 Outros sais minerais                        9446 
+    874  E944.7 Drogas q atuam sobre metabolismo acido uric 9447 
+    875  E945.0 Agentes ocitocicos                          9450 
+    876  E945.1 Relaxantes da musculatura lisa              9451 
+    877  E945.2 Relaxantes da musculatura esqueletica       9452 
+    878  E945.3 Outras drogas q atuam musculos e as n espec 9453 
+    879  E945.4 Antitussicos                                9454 
+    880  E945.5 Expectorantes                               9455 
+    881  E945.6 Drogas anti-resfriado comum                 9456 
+    882  E945.7 Antiasmaticos                               9457 
+    883  E945.8 Outras drogas respiratorias e as não especi 9458 
+    884  E946.0 Drogas antiinflamat e antiinfecciosas locai 9460 
+    885  E946.1 Antipruriginosos                            9461 
+    886  E946.2 Adstringentes e detergentes locais          9462 
+    887  E946.3 Emolientes                                  9463 
+    888  E946.4 Ceratoliticos                               9464 
+    889  E946.5 Antiinfec oculares e outr drogas oculares   9465 
+    890  E946.6 Drogas antiinfec e outr drog e prepar ouvid 9466 
+    891  E946.7 Drogas de uso dentario usadas topicamente   9467 
+    892  E946.8 Outras                                      9468 
+    893  E946.9 Não especificadas                           9469 
+    894  E947.0 Dieteticos                                  9470 
+    895  E947.1 Drogas lipotropicas                         9471 
+    896  E947.2 Antidotos e agentes quelantes               9472 
+    897  E947.3 Impedientes do alcool                       9473 
+    898  E947.4 Excipientes farmaceuticos                   9474 
+    899  E947.8 Outras drogas e medicamentos                9478 
+    900  E947.9 Droga ou medicamento não especificado       9479 
+    901  E948.0 Vacina bcg                                  9480 
+    902  E948.1 Tifóide e paratifóide                       9481 
+    903  E948.2 Colera                                      9482 
+    904  E948.3 Peste                                       9483 
+    905  E948.4 Tétano                                      9484 
+    906  E948.5 Difteria                                    9485 
+    907  E948.6 Vacina antipertussis                        9486 
+    908  E948.8 Outras vacinas bacterianas e as não especif 9488 
+    909  E948.9 Vacinas bacterianas mistas                  9489 
+    910  E949.0 Vacina antivariolica                        9490 
+    911  E949.1 Vacina anti-rabica                          9491 
+    912  E949.2 Vacina antitifo                             9492 
+    913  E949.3 Vacina contra febre amarela                 9493 
+    914  E949.4 Vacina contra o sarampo                     9494 
+    915  E949.5 Vacina contra poliomielite                  9495 
+    916  E949.6 Outr vacin antivirus e rickettsias e n espe 9496 
+    917  E949.7 Vacinas mistas antibactérias                9497 
+    918  E949.9 Outr vacinas e subst biologic e as n especi 9499 
+    919  E950.0 Analgesicos                                 9500 
+    920  E950.1 Barbituricos                                9501 
+    921  E950.2 Outros sedativos e hipnoticos               9502 
+    922  E950.3 Tranquilizantes e outr agentes psicotropico 9503 
+    923  E950.4 Outras drogas e medicamentos especificados  9504 
+    924  E950.5 Drogas e medicamentos não especificados     9505 
+    925  E950.6 Preparac quim e farmac utiliz agric e horti 9506 
+    926  E950.7 Substancias corrosivas e causticas          9507 
+    927  E950.8 Arsenico e compostos de arsenico            9508 
+    928  E950.9 Outr subst solidas e liquidas e as n especi 9509 
+    929  E951.0 Gas distribuido por tubulacao               9510 
+    930  E951.1 Gas petroleo liquefeito distrib recip movei 9511 
+    931  E951.8 Outro gas de iluminacao                     9518 
+    932  E952.0 Gas de escapamento de veiculo a motor       9520 
+    933  E952.1 Outros gases q contenham monoxido de carbon 9521 
+    934  E952.8 Outros gases e vapores especificados        9528 
+    935  E952.9 Gases e vapores não especificados           9529 
+    936  E953.0 Enforcamento                                9530 
+    937  E953.1 Sufocacao com bolsa plastica                9531 
+    938  E953.8 Outros meios especificados                  9538 
+    939  E953.9 Meios não especificados                     9539 
+    940  E954 - Suicídio por submersão (afogamento)         954X 
+    941  E955.0 Armas de mao                                9550 
+    942  E955.1 Armas de tiro                               9551 
+    943  E955.2 Armas de caca                               9552 
+    944  E955.3 Armas de fogo militares                     9553 
+    945  E955.4 Outras armas de fogo e as não especificadas 9554 
+    946  E955.5 Explosivos                                  9555 
+    947  E955.9 Não especificados                           9559 
+    948  E956 - Suicídio por instrumento cortant penet      956X 
+    949  E957.0 Dependencias residenciais                   9570 
+    950  E957.1 Outras estruturas construidas pelo homem    9571 
+    951  E957.2 Ambientes naturais                          9572 
+    952  E957.9 Não especificado                            9579 
+    953  E958.0 Salto ou queda diante de objeto em moviment 9580 
+    954  E958.1 Queimaduras                                 9581 
+    955  E958.2 Escaldadura                                 9582 
+    956  E958.3 Frio extremo                                9583 
+    957  E958.4 Eletrocussao                                9584 
+    958  E958.5 Colisao de veiculo a motor                  9585 
+    959  E958.6 Queda de aeronave                           9586 
+    960  E958.7 Substancias causticas                       9587 
+    961  E958.8 Outros meios especificados                  9588 
+    962  E958.9 Meios não especificados                     9589 
+    963  E959 - Efeitos tardios lesões auto-infligidas      959X 
+    964  E960.0 Luta ou briga                               9600 
+    965  E960.1 Rapto                                       9601 
+    966  960.9 Código inválido - fora da CID                9609 
+    967  E961 - Ataque subst corrosiv ou cáust exc env      961X 
+    968  E962.0 Drogas e medicamentos                       9620 
+    969  E962.1 Outras substancias solidas e liquidas       9621 
+    970  E962.2 Outros gases e vapores                      9622 
+    971  E962.9 Envenenamento não especificado              9629 
+    972  E963 - Homicídio estrangulamento e enforcam        963X 
+    973  E964 - Homicídio por submersão (afogamento)        964X 
+    974  E965.0 Revolver                                    9650 
+    975  E965.1 Espingarda                                  9651 
+    976  E965.2 Rifle de caca                               9652 
+    977  E965.3 Armas de fogo                               9653 
+    978  E965.4 Outras armas de fogo e as não especificadas 9654 
+    979  E965.5 Bomba antipessoal                           9655 
+    980  E965.6 Bomba feita com gasolina                    9656 
+    981  E965.7 Carta-bomba                                 9657 
+    982  E965.8 Outros explosivos especificados             9658 
+    983  E965.9 Explosivos não especificados                9659 
+    984  E966 - Ataque com instrumen cortante penetr        966X 
+    985  E967.0 Pelos pais                                  9670 
+    986  E967.1 Por outra pessoa especificada               9671 
+    987  E967.9 Por pessoa não especificada                 9679 
+    988  E968.0 Por fogo                                    9680 
+    989  E968.1 Empurrado de lugar alto                     9681 
+    990  E968.2 Agredido por objeto cortante ou sem corte   9682 
+    991  E968.3 Liquido quente                              9683 
+    992  E968.4 Negligencia criminosa                       9684 
+    993  E968.8 Outros meios especificados                  9688 
+    994  E968.9 Meios não especificados                     9689 
+    995  E969 - Efeitos tard les infl intenc out pess       969X 
+    996  E970 - Lesão p intervenção legal armas de fog      970X 
+    997  E971 - Lesão p intervenção legal com explosiv      971X 
+    998  E972 - Lesão por intervenção legal com gás         972X 
+    999  E973 - Les p interv legal com obj contundente      973X 
+   1000  E974 - Les interv leg instr cortan e penetr        974X 
+   1001  E975 - Les intervenção legal c out meios esp       975X 
+   1002  E976 - Lesão intervenção legal meios ñ espec       976X 
+   1003  E977 - Efeitos tardios les inflig interv leg       977X 
+   1004  E978 - Execução legal                              978X 
+   1005  E980.0 Analgesicos                                 9800 
+   1006  E980.1 Barbituricos                                9801 
+   1007  E980.2 Outros sedativos e hipnoticos               9802 
+   1008  E980.3 Tranquilizantes e outros agentes psicotropi 9803 
+   1009  E980.4 Outras drogas e medicamentos especificados  9804 
+   1010  E980.5 Drogas e medicamentos não especificados     9805 
+   1011  E980.6 Substancias corrosivas e causticas          9806 
+   1012  E980.7 Prep farmaceut e quimic agric e horticultur 9807 
+   1013  E980.8 Arsenico e seus compostos                   9808 
+   1014  E980.9 Outras substancias e as não especificadas   9809 
+   1015  E981.0 Gas de rua                                  9810 
+   1016  E981.1 Gas liquefeito petroleo distrib botijoes    9811 
+   1017  E981.8 Outros gases de utilidade domestica         9818 
+   1018  981.9 Código inválido - fora da CID                9819 
+   1019  E982.0 Gas expelido por veiculo a motor            9820 
+   1020  E982.1 Outros monoxidos de carbono                 9821 
+   1021  E982.8 Outros gases e vapores especificados        9828 
+   1022  E982.9 Gases e vapores não especificados           9829 
+   1023  E983.0 Enforcamento                                9830 
+   1024  E983.1 Sufocacao por saco plastico                 9831 
+   1025  E983.8 Outros meios especificados                  9838 
+   1026  E983.9 Meios não especificados                     9839 
+   1027  E984 - Lesão submersão ign acid ou intencion       984X 
+   1028  E985.0 Revolver                                    9850 
+   1029  E985.1 Espingarda                                  9851 
+   1030  E985.2 Rifle de caca                               9852 
+   1031  E985.3 Armas de fogo                               9853 
+   1032  E985.4 Outras armas de fogo e as não especificadas 9854 
+   1033  E985.5 Explosivos                                  9855 
+   1034  E985.9 Código inválido - fora da CID               9859 
+   1035  E986 - Les instr cort penetr ig acid ou inten      986X 
+   1036  E987.0 Propriedades residenciais                   9870 
+   1037  E987.1 Outras estruturas construidas pelo homem    9871 
+   1038  E987.2 Locais naturais                             9872 
+   1039  E987.9 Não especificado                            9879 
+   1040  E988.0 Pulo ou queda diante de um objeto movimento 9880 
+   1041  E988.1 Queimadura por fogo                         9881 
+   1042  E988.2 Escaldadura                                 9882 
+   1043  E988.3 Extremos de temperatura                     9883 
+   1044  E988.4 Eletrocussao                                9884 
+   1045  E988.5 Acidente com veiculo a motor                9885 
+   1046  E988.6 Acidente de aviao                           9886 
+   1047  E988.7 Substancias causticas                       9887 
+   1048  E988.8 Outros meios especificados                  9888 
+   1049  E988.9 Meios não especificados                     9889 
+   1050  E989 - Efeitos tard lesão ig acid ou intenc        989X 
+   1051  E990.0 De bomba feita com gasolina                 9900 
+   1052  E990.9 De outras fontes e as não especificadas     9909 
+   1053  E991.0 Bala de borracha (rifle)                    9910 
+   1054  E991.1 Bala de chumbo (rifle)                      9911 
+   1055  E991.2 Outras balas                                9912 
+   1056  E991.3 Bomba antipessoal (fragmentos)              9913 
+   1057  E991.9 Outros fragmentos e os não especificados    9919 
+   1058  E992 - Les expl armam naval operações de guer      992X 
+   1059  E993 - Les out explosões em operações de guer      993X 
+   1060  E994 - Les destruição de aeronave oper guerr       994X 
+   1061  E995 - Les out meios ou ñ esp op guerra conv       995X 
+   1062  E996 - Les arma nuclear em operações de guerr      996X 
+   1063  E997.0 Laser                                       9970 
+   1064  E997.1 Guerra biologica                            9971 
+   1065  E997.2 Gases                                       9972 
+   1066  E997.8 Outras                                      9978 
+   1067  E997.9 Não especificadas                           9979 
+   1068  E998 - Les op guerra ocorr após cessação host      998X 
+   1069  E999 - Efeit tardios de les operação de guerr      999X 
+

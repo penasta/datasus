@@ -1,0 +1,171 @@
+    169  4 L                                                     
+      1  760.0 Transtornos maternos hipertensivos           7600 
+      2  760.1 Doencas maternas renais e das vias urinarias 7601 
+      3  760.2 Infecções maternas                           7602 
+      4  760.3 Outras doenças maternas crônicas             7603 
+      5  760.4 Transtornos nutricionais maternos            7604 
+      6  760.5 Trauma materno                               7605 
+      7  760.6 Intervencao cirurgica na mae                 7606 
+      8  760.7 Infl nociv transm feto placenta leite matern 7607 
+      9  760.8 Outras                                       7608 
+     10  760.9 Não especificadas                            7609 
+     11  761.0 Incompetencia do colo uterino                7610 
+     12  761.1 Rotura prematura das membranas               7611 
+     13  761.2 Oligoamnio                                   7612 
+     14  761.3 Polihidramnio                                7613 
+     15  761.4 Gravidez ectopica                            7614 
+     16  761.5 Gravidez multipla                            7615 
+     17  761.6 Morte materna                                7616 
+     18  761.7 Apresentacao anormal antes do trabalho parto 7617 
+     19  761.8 Outras                                       7618 
+     20  761.9 Não especificadas                            7619 
+     21  762.0 Placenta previa                              7620 
+     22  762.1 Outr form descolamento placenta e hemorragia 7621 
+     23  762.2 Outr anorm morfolog func placenta e n espec  7622 
+     24  762.3 Sindromes de transfusao placentaria          7623 
+     25  762.4 Prolapso de cordao umbilical                 7624 
+     26  762.5 Outras compressoes do cordao umbilical       7625 
+     27  762.6 Outras afecções cordao umbilical e n especif 7626 
+     28  762.7 Corioamnionite                               7627 
+     29  762.8 Outras anormalidades do corio e do amnio     7628 
+     30  762.9 Anormalidade não especif do corio e do amnio 7629 
+     31  763.0 Parto e extracao pelvica                     7630 
+     32  763.1 Outras apresentacoes anormais                7631 
+     33  763.2 Parto por forcipe                            7632 
+     34  763.3 Parto por vacuo-extrator                     7633 
+     35  763.4 Parto por cesarea                            7634 
+     36  763.5 Anestesia e analgesia materna                7635 
+     37  763.6 Parto precipitado                            7636 
+     38  763.7 Contracoes uterinas anormais                 7637 
+     39  763.8 Outras complicações trabalho de parto e part 7638 
+     40  763.9 Não especificadas                            7639 
+     41  764.0 Pequeno p idade gestac s/menc ma nutric feta 7640 
+     42  764.1 Pequeno p idade gest c/sinais ma nutric feta 7641 
+     43  764.2 Ma nutric fetal s/menc peso baixo p idad ges 7642 
+     44  64.8 Código inválido - fora da CID                 7648 
+     45  764.9 Retardo do crescimento fetal não especificad 7649 
+     46  765.0 Imaturidade extrema                          7650 
+     47  765.1 Outros recem-nascidos de pre-termo           7651 
+     48  65.5 Código inválido - fora da CID                 7655 
+     49  65.6 Código inválido - fora da CID                 7656 
+     50  765.9 Código inválido - fora da CID                7659 
+     51  766.0 Recem-nascido de tamanho excessivo           7660 
+     52  766.1 Outros recem-nascidos grandes p idade gestac 7661 
+     53  766.2 Recem-nascido pós-termo                      7662 
+     54  66.9 Código inválido - fora da CID                 7669 
+     55  767.0 Hemorragia cerebral e subdural               7670 
+     56  767.1 Lesões do couro cabeludo                     7671 
+     57  767.2 Fratura da clavicula                         7672 
+     58  767.3 Outras lesões do esqueleto                   7673 
+     59  767.4 Lesao coluna vertebral e da medula espinhal  7674 
+     60  767.5 Lesao do nervo facial                        7675 
+     61  767.6 Lesao do plexo braquial                      7676 
+     62  767.7 Outras lesões nervos cranianos e periféricos 7677 
+     63  767.8 Outras                                       7678 
+     64  767.9 Não especificada                             7679 
+     65  768.0 Morte fetal asfix ou anox ant inic trab part 7680 
+     66  768.1 Morte fetal asfix ou anox durante trab parto 7681 
+     67  768.2 Sofrimento fetal antes inicio trabalho parto 7682 
+     68  768.3 Sofrimento fetal diagn durante trabalho part 7683 
+     69  768.4 Sofrimento fetal não especificado            7684 
+     70  768.5 Asfixia severa ao nascer                     7685 
+     71  768.6 Asfixia leve ou moderada ao nascer           7686 
+     72  68.8 Código inválido - fora da CID                 7688 
+     73  768.9 Asfixia ao nascer                            7689 
+     74  769 - Síndrome de angústia respiratória            769X 
+     75  770.0 Pneumonia congênita                          7700 
+     76  770.1 Síndrome de aspiracao macica                 7701 
+     77  770.2 Enfisema intersticial e afecções relacionada 7702 
+     78  770.3 Hemorragia pulmonar                          7703 
+     79  770.4 Atelectasia primária                         7704 
+     80  770.5 Outras atelectasias e as não especificadas   7705 
+     81  770.6 Taquipneia transitoria do recem-nascido      7706 
+     82  770.7 Doenc respirat crônic c/inicio period perina 7707 
+     83  770.8 Outr probl respirat apos o nascimento (parto 7708 
+     84  770.9 Não especificadas                            7709 
+     85  771.0 Rubéola congênita                            7710 
+     86  771.1 Infeccao congênita por citomegalovirus       7711 
+     87  771.2 Outras infecções congenitas                  7712 
+     88  771.3 Tétano neonatal                              7713 
+     89  771.4 Onfalite do recem-nascido                    7714 
+     90  771.5 Mastite neonatal infecciosa                  7715 
+     91  771.6 Conjuntivite e dacriocistite neonatal        7716 
+     92  771.7 Infeccao neonatal por candida                7717 
+     93  771.8 Outr infecções especif do periodo perinatal  7718 
+     94  71.9 Código inválido - fora da CID                 7719 
+     95  772.0 Perda sanguinea fetal                        7720 
+     96  772.1 Hemorragia intraventricular                  7721 
+     97  772.2 Hemorragia subaracnóidea                     7722 
+     98  772.3 Hemorragia umbilical apos nascimento         7723 
+     99  772.4 Hemorragia gastrintestinal                   7724 
+    100  772.5 Hemorragia das supra-renais                  7725 
+    101  772.6 Hemorragia cutanea                           7726 
+    102  772.8 Outras                                       7728 
+    103  772.9 Não especificada                             7729 
+    104  773.0 Doença hemolitica devida a isoimunizacao rh  7730 
+    105  773.1 Doença hemolitica devida a isoimunizacao abo 7731 
+    106  773.2 Doença hemolitica devida a outras formas     7732 
+    107  773.3 Hidropsia fetal devida a isoimunizacao       7733 
+    108  773.4 Kernicterus devido a isoimunizacao           7734 
+    109  773.5 Anemia tardia devida a isoimunizacao         7735 
+    110  773.9 Código inválido - fora da CID                7739 
+    111  774.0 Ictericia perinat anemias hemoliticas heredi 7740 
+    112  774.1 Ictericia perinat dev outr tip hemolise exce 7741 
+    113  774.2 Ictericia neonatal assoc parto prematuro     7742 
+    114  774.3 Icteric neonat dev retard conjug outr causas 7743 
+    115  774.4 Ictericia perinatal dev lesao hepatocelular  7744 
+    116  774.5 Ictericia perinatal por outras causas        7745 
+    117  774.6 Ictericia fetal e neonatal não especificada  7746 
+    118  774.7 Kernicterus não devido a isoimunizacao       7747 
+    119  774.9 Código inválido - fora da CID                7749 
+    120  775.0 Síndrome do "filho de mae diabetica"         7750 
+    121  775.1 Diabetes mellitus neonatal                   7751 
+    122  775.2 Miastenia gravis neonatal                    7752 
+    123  775.3 Tireotoxicose neonatal                       7753 
+    124  775.4 Hipocalcemia e hipomagnesemia recem-nascido  7754 
+    125  775.5 Outr disturb eletrolit transit periodo neona 7755 
+    126  775.6 Hipoglicemia neonatal                        7756 
+    127  775.7 Acidose metabolica tardia do recem-nascido   7757 
+    128  775.8 Outr dist endoc e metab transit period neona 7758 
+    129  775.9 Não especificados                            7759 
+    130  776.0 Doença hemorrágica do recem-nascido          7760 
+    131  776.1 Trombocitopenia neonatal transitoria         7761 
+    132  776.2 Coagulacao intravascular dissem recem-nascid 7762 
+    133  776.3 Outr transt transit coagulacao periodo neona 7763 
+    134  776.4 Policitemia neonatal                         7764 
+    135  776.5 Anemia congênita                             7765 
+    136  776.6 Anemia da prematuridade                      7766 
+    137  776.7 Neutropenia neonatal transitoria             7767 
+    138  776.8 Outros transt hematológicos transit espec    7768 
+    139  776.9 Não especificados                            7769 
+    140  777.0 Ileo meconial                                7770 
+    141  777.1 Outras obstrucoes por meconio                7771 
+    142  777.2 Obstrucao intestinal devida a leite espesso  7772 
+    143  777.3 Hematemese e melena dev sangue materno deglu 7773 
+    144  777.4 Ileo transitorio do recem-nascido            7774 
+    145  777.5 Enterocolite necrotizant feto ou recem-nasci 7775 
+    146  777.6 Perfuracao intestinal no periodo perinatal   7776 
+    147  777.7 Código inválido - fora da CID                7777 
+    148  777.8 Outros                                       7778 
+    149  777.9 Não especificados                            7779 
+    150  778.0 Hidropsia fetal não devida a isoimunizacao   7780 
+    151  778.1 Esclerema neonatal                           7781 
+    152  778.2 Síndrome do trauma por frio do recem-nascido 7782 
+    153  778.3 Outras hipotermias do recem-nascido          7783 
+    154  778.4 Outr disturb regulacao termica recem-nascido 7784 
+    155  778.5 Outr edemas recem-nascido e os não especif   7785 
+    156  778.6 Hidrocele congênita                          7786 
+    157  778.7 Intumescimento mamario no recem-nascido      7787 
+    158  778.8 Outras                                       7788 
+    159  778.9 Não especificadas                            7789 
+    160  779.0 Convulsoes no recem-nascido                  7790 
+    161  779.1 Outros quadros                               7791 
+    162  779.2 Depressao cerebral                           7792 
+    163  779.3 Problemas de alimentacao no recem-nascido    7793 
+    164  779.4 Reacoes e intoxicações por drogas            7794 
+    165  779.5 Síndrome abstinencia drogas no recem-nascido 7795 
+    166  779.6 Interrupcao da gravidez (feto)               7796 
+    167  79.7 Código inválido - fora da CID                 7797 
+    168  779.8 Outras                                       7798 
+    169  779.9 Não especificadas                            7799 
+

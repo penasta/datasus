@@ -1,0 +1,159 @@
+    158  6                                                                                    
+      1  51001 Alto Tapajós                                 510025                            
+  1   2  .... Alta Floresta                                 510025                            
+  1   3  .... Apiacás                                       510080                            
+  1   4  .... Carlinda                                      510279                            
+  1   5  .... Nova Bandeirantes                             510615                            
+  1   6  .... Nova Monte Verde                              510895                            
+  1   7  .... Paranaíta                                     510629                            
+      8  51002 Baixada Cuiabana                             510010                            
+  8   9  .... Acorizal                                      510010                            
+  8  10  .... Barão de Melgaço                              510160                            
+  8  11  .... Chapada dos Guimarães                         510300                            
+  8  12  .... Cuiabá                                        510340                            
+  8  13  .... Jangada                                       510490                            
+  8  14  .... Nossa Senhora do Livramento                   510610                            
+  8  15  .... Nova Brasilândia                              510620                            
+  8  16  .... Planalto da Serra                             510645                            
+  8  17  .... Poconé                                        510650                            
+  8  18  .... Santo Antônio do Leverger                     510780                            
+  8  19  .... Várzea Grande                                 510840                            
+     20  51003 Baixo Araguaia                               510269                            
+ 20  21  .... Canabrava do Norte                            510269                            
+ 20  22  .... Confresa                                      510335                            
+ 20  23  .... Porto Alegre do Norte                         510677                            
+ 20  24  .... Santa Cruz do Xingu                           510774                            
+ 20  25  .... Santa Terezinha                               510777                            
+ 20  26  .... São José do Xingu                             510735                            
+ 20  27  .... Vila Rica                                     510860                            
+     28  51004 Centro Norte                                 510050                            
+ 28  29  .... Alto Paraguai                                 510050                            
+ 28  30  .... Diamantino                                    510350                            
+ 28  31  .... Nobres                                        510590                            
+ 28  32  .... Nortelândia                                   510600                            
+ 28  33  .... Nova Maringá                                  510890                            
+ 28  34  .... Rosário Oeste                                 510770                            
+ 28  35  .... São José do Rio Claro                         510730                            
+     36  51005 Garças Araguaia                              510100                            
+ 36  37  .... Araguaiana                                    510100                            
+ 36  38  .... Barra do Garças                               510180                            
+ 36  39  .... Campinápolis                                  510260                            
+ 36  40  .... General Carneiro                              510390                            
+ 36  41  .... Nova Xavantina                                510625                            
+ 36  42  .... Novo São Joaquim                              510628                            
+ 36  43  .... Pontal do Araguaia                            510665                            
+ 36  44  .... Ponte Branca                                  510670                            
+ 36  45  .... Ribeirãozinho                                 510719                            
+ 36  46  .... Torixoréu                                     510820                            
+     47  51006 Médio Araguaia                               510020                            
+ 47  48  .... Água Boa                                      510020                            
+ 47  49  .... Bom Jesus do Araguaia                         510185                            
+ 47  50  .... Canarana                                      510270                            
+ 47  51  .... Cocalinho                                     510310                            
+ 47  52  .... Gaúcha do Norte                               510385                            
+ 47  53  .... Nova Nazaré                                   510617                            
+ 47  54  .... Querência                                     510706                            
+ 47  55  .... Ribeirão Cascalheira                          510718                            
+     56  51007 Médio N. Matogrossense                       510130                            
+ 56  57  .... Arenápolis                                    510130                            
+ 56  58  .... Barra do Bugres                               510170                            
+ 56  59  .... Campo Novo do Parecis                         510263                            
+ 56  60  .... Denise                                        510345                            
+ 56  61  .... Nova Marilândia                               510885                            
+ 56  62  .... Nova Olímpia                                  510623                            
+ 56  63  .... Porto Estrela                                 510685                            
+ 56  64  .... Santo Afonso                                  510726                            
+ 56  65  .... Sapezal                                       510787                            
+ 56  66  .... Tangará da Serra                              510795                            
+     67  51008 Noroeste Matogrossense                       510140                            
+ 67  68  .... Aripuanã                                      510140                            
+ 67  69  .... Brasnorte                                     510190                            
+ 67  70  .... Castanheira                                   510285                            
+ 67  71  .... Colniza                                       510325                            
+ 67  72  .... Cotriguaçu                                    510337                            
+ 67  73  .... Juína                                         510515                            
+ 67  74  .... Juruena                                       510517                            
+     75  51009 Norte Araguaia Karajá                        510035                            
+ 75  76  .... Alto Boa Vista                                510035                            
+ 75  77  .... Luciara                                       510530                            
+ 75  78  .... Novo Santo Antônio                            510631                            
+ 75  79  .... São Félix do Araguaia                         510785                            
+ 75  80  .... Serra Nova Dourada                            510788                            
+     81  51010 Norte Matogrossense                          510320                            
+ 81  82  .... Colíder                                       510320                            
+ 81  83  .... Itaúba                                        510455                            
+ 81  84  .... Marcelândia                                   510558                            
+ 81  85  .... Nova Canaã do Norte                           510621                            
+ 81  86  .... Nova Guarita                                  510880                            
+ 81  87  .... Nova Santa Helena                             510619                            
+     88  51011 Oeste Matogrossense                          510125                            
+ 88  89  .... Araputanga                                    510125                            
+ 88  90  .... Cáceres                                       510250                            
+ 88  91  .... Curvelândia                                   510343                            
+ 88  92  .... Glória D'Oeste                                510395                            
+ 88  93  .... Indiavaí                                      510450                            
+ 88  94  .... Lambari D'Oeste                               510523                            
+ 88  95  .... Mirassol d'Oeste                              510562                            
+ 88  96  .... Porto Esperidião                              510682                            
+ 88  97  .... Reserva do Cabaçal                            510715                            
+ 88  98  .... Rio Branco                                    510720                            
+ 88  99  .... Salto do Céu                                  510775                            
+ 88 100  .... São José dos Quatro Marcos                    510710                            
+    101  51012 Sudoeste Matogrossense                       510268                            
+101 102  .... Campos de Júlio                               510268                            
+101 103  .... Comodoro                                      510330                            
+101 104  .... Conquista D'Oeste                             510336                            
+101 105  .... Figueirópolis D'Oeste                         510380                            
+101 106  .... Jauru                                         510500                            
+101 107  .... Nova Lacerda                                  510618                            
+101 108  .... Pontes e Lacerda                              510675                            
+101 109  .... Rondolândia                                   510757                            
+101 110  .... Vale de São Domingos                          510835                            
+101 111  .... Vila Bela da Santíssima Trindade              510550                            
+    112  51013 Sul Matogrossense                            510030                            
+112 113  .... Alto Araguaia                                 510030                            
+112 114  .... Alto Garças                                   510040                            
+112 115  .... Alto Taquari                                  510060                            
+112 116  .... Araguainha                                    510120                            
+112 117  .... Campo Verde                                   510267                            
+112 118  .... Dom Aquino                                    510360                            
+112 119  .... Guiratinga                                    510420                            
+112 120  .... Itiquira                                      510460                            
+112 121  .... Jaciara                                       510480                            
+112 122  .... Juscimeira                                    510520                            
+112 123  .... Paranatinga                                   510630                            
+112 124  .... Pedra Preta                                   510637                            
+112 125  .... Poxoréo                                       510700                            
+112 126  .... Primavera do Leste                            510704                            
+112 127  .... Rondonópolis                                  510760                            
+112 128  .... Santo Antônio do Leste                        510779                            
+112 129  .... São José do Povo                              510729                            
+112 130  .... São Pedro da Cipa                             510740                            
+112 131  .... Tesouro                                       510810                            
+    132  51014 Teles Pires                                  510305                            
+132 133  .... Cláudia                                       510305                            
+132 134  .... Feliz Natal                                   510370                            
+132 135  .... Ipiranga do Norte                             510452                            
+132 136  .... Itanhangá                                     510454,510445                     
+132 137  .... Lucas do Rio Verde                            510525                            
+132 138  .... Nova Mutum                                    510622                            
+132 139  .... Nova Ubiratã                                  510624                            
+132 140  .... Santa Carmem                                  510724                            
+132 141  .... Santa Rita do Trivelato                       510776                            
+132 142  .... Sinop                                         510790                            
+132 143  .... Sorriso                                       510792                            
+132 144  .... Tapurah                                       510800                            
+132 145  .... União do Sul                                  510830                            
+132 146  .... Vera                                          510850                            
+    147  51015 Vale do Peixoto                              510410                            
+147 148  .... Guarantã do Norte                             510410                            
+147 149  .... Matupá                                        510560                            
+147 150  .... Novo Mundo                                    510626                            
+147 151  .... Peixoto de Azevedo                            510642                            
+147 152  .... Terra Nova do Norte                           510805                            
+    153  51016 Vale dos Arinos                              510510                            
+153 154  .... Juara                                         510510                            
+153 155  .... Novo Horizonte do Norte                       510627                            
+153 156  .... Porto dos Gaúchos                             510680                            
+153 157  .... Tabaporã                                      510794                            
+    158  51000 Ignorado - MT                                510000,519999                     

@@ -1,0 +1,308 @@
+     19  6                                                                                    
+      1  Central                                            520005                            
+      1  Central                                            520130                            
+      1  Central                                            520160                            
+      1  Central                                            520280                            
+      1  Central                                            520360                            
+      1  Central                                            520460                            
+      1  Central                                            520520                            
+      1  Central                                            520680                            
+      1  Central                                            520870,528707                     
+      1  Central                                            520880                            
+      1  Central                                            520920                            
+      1  Central                                            521000                            
+      1  Central                                            521056                            
+      1  Central                                            521140                            
+      1  Central                                            521205                            
+      1  Central                                            521440                            
+      1  Central                                            521450                            
+      1  Central                                            521500                            
+      1  Central                                            521540                            
+      1  Central                                            521680                            
+      1  Central                                            521910                            
+      1  Central                                            521950                            
+      1  Central                                            521973                            
+      1  Central                                            521990                            
+      1  Central                                            522100                            
+      1  Central                                            522140                            
+      2  Centro Sul                                         520140                            
+      2  Centro Sul                                         520180                            
+      2  Centro Sul                                         520330                            
+      2  Centro Sul                                         520355                            
+      2  Centro Sul                                         520455                            
+      2  Centro Sul                                         520545                            
+      2  Centro Sul                                         520630                            
+      2  Centro Sul                                         520650                            
+      2  Centro Sul                                         520735                            
+      2  Centro Sul                                         520740                            
+      2  Centro Sul                                         520970                            
+      2  Centro Sul                                         520995                            
+      2  Centro Sul                                         521170                            
+      2  Centro Sul                                         521230                            
+      2  Centro Sul                                         521260                            
+      2  Centro Sul                                         521530                            
+      2  Centro Sul                                         521710                            
+      2  Centro Sul                                         521770                            
+      2  Centro Sul                                         521839                            
+      2  Centro Sul                                         522026                            
+      2  Centro Sul                                         522045                            
+      2  Centro Sul                                         522060                            
+      2  Centro Sul                                         522190                            
+      2  Centro Sul                                         522200                            
+      2  Centro Sul                                         522205                            
+      3  Entorno Norte                                      520017                            
+      3  Entorno Norte                                      520060                            
+      3  Entorno Norte                                      520400                            
+      3  Entorno Norte                                      520790                            
+      3  Entorno Norte                                      520800                            
+      3  Entorno Norte                                      521760                            
+      3  Entorno Norte                                      522000                            
+      3  Entorno Norte                                      522220                            
+      4  Entorno Sul                                        520025                            
+      4  Entorno Sul                                        520549                            
+      4  Entorno Sul                                        520620                            
+      4  Entorno Sul                                        521250                            
+      4  Entorno Sul                                        521523                            
+      4  Entorno Sul                                        521975                            
+      4  Entorno Sul                                        522185                            
+      5  Estrada de Ferro                                   520120                            
+      5  Estrada de Ferro                                   520450                            
+      5  Estrada de Ferro                                   520480                            
+      5  Estrada de Ferro                                   520510                            
+      5  Estrada de Ferro                                   520590                            
+      5  Estrada de Ferro                                   520660                            
+      5  Estrada de Ferro                                   520690                            
+      5  Estrada de Ferro                                   520850                            
+      5  Estrada de Ferro                                   521010                            
+      5  Estrada de Ferro                                   521290                            
+      5  Estrada de Ferro                                   521480                            
+      5  Estrada de Ferro                                   521550                            
+      5  Estrada de Ferro                                   521580                            
+      5  Estrada de Ferro                                   521740                            
+      5  Estrada de Ferro                                   521878                            
+      5  Estrada de Ferro                                   521920                            
+      5  Estrada de Ferro                                   522130                            
+      5  Estrada de Ferro                                   522180                            
+      6  Nordeste I                                         520490                            
+      6  Nordeste I                                         520530                            
+      6  Nordeste I                                         520830                            
+      6  Nordeste I                                         521350                            
+      6  Nordeste I                                         522108                            
+      7  Nordeste II                                        520080                            
+      7  Nordeste II                                        520396                            
+      7  Nordeste II                                        520670                            
+      7  Nordeste II                                        520940                            
+      7  Nordeste II                                        520990                            
+      7  Nordeste II                                        521270                            
+      7  Nordeste II                                        521490                            
+      7  Nordeste II                                        521830                            
+      7  Nordeste II                                        521980                            
+      7  Nordeste II                                        522068                            
+      7  Nordeste II                                        522070                            
+      8  Norte                                              520357                            
+      8  Norte                                              520465                            
+      8  Norte                                              520750                            
+      8  Norte                                              520810                            
+      8  Norte                                              521308                            
+      8  Norte                                              521377                            
+      8  Norte                                              521405                            
+      8  Norte                                              521410                            
+      8  Norte                                              521525                            
+      8  Norte                                              521800                            
+      8  Norte                                              521960                            
+      8  Norte                                              522020                            
+      8  Norte                                              522145                            
+      9  Oeste I                                            520090                            
+      9  Oeste I                                            520170                            
+      9  Oeste I                                            520235                            
+      9  Oeste I                                            520310                            
+      9  Oeste I                                            520340                            
+      9  Oeste I                                            520710                            
+      9  Oeste I                                            520760                            
+      9  Oeste I                                            521020                            
+      9  Oeste I                                            521030                            
+      9  Oeste I                                            521160                            
+      9  Oeste I                                            521200                            
+      9  Oeste I                                            521340                            
+      9  Oeste I                                            521370                            
+      9  Oeste I                                            521520                            
+      9  Oeste I                                            521565                            
+      9  Oeste I                                            521720                            
+     10  Oeste II                                           520015                            
+     10  Oeste II                                           520260                            
+     10  Oeste II                                           520393                            
+     10  Oeste II                                           520420                            
+     10  Oeste II                                           520570                            
+     10  Oeste II                                           520780                            
+     10  Oeste II                                           521570                            
+     10  Oeste II                                           521590                            
+     10  Oeste II                                           521640                            
+     10  Oeste II                                           521900                            
+     10  Oeste II                                           522005                            
+     10  Oeste II                                           522010                            
+     10  Oeste II                                           522150                            
+     11  Pirineus                                           520010                            
+     11  Pirineus                                           520030                            
+     11  Pirineus                                           520110                            
+     11  Pirineus                                           520485                            
+     11  Pirineus                                           520551                            
+     11  Pirineus                                           520580                            
+     11  Pirineus                                           520815                            
+     11  Pirineus                                           520840                            
+     11  Pirineus                                           521305                            
+     11  Pirineus                                           521560                            
+     11  Pirineus                                           521730                            
+     11  Pirineus                                           522119                            
+     12  Rio Vermelho                                       520085                            
+     12  Rio Vermelho                                       520215                            
+     12  Rio Vermelho                                       520250                            
+     12  Rio Vermelho                                       520380                            
+     12  Rio Vermelho                                       520753                            
+     12  Rio Vermelho                                       520890                            
+     12  Rio Vermelho                                       520929                            
+     12  Rio Vermelho                                       520960                            
+     12  Rio Vermelho                                       521040                            
+     12  Rio Vermelho                                       521100                            
+     12  Rio Vermelho                                       521120                            
+     12  Rio Vermelho                                       521220                            
+     12  Rio Vermelho                                       521295                            
+     12  Rio Vermelho                                       521390                            
+     12  Rio Vermelho                                       521400                            
+     12  Rio Vermelho                                       521483                            
+     12  Rio Vermelho                                       521925                            
+     13  Serra da Mesa                                      520055                            
+     13  Serra da Mesa                                      520082                            
+     13  Serra da Mesa                                      520470                            
+     13  Serra da Mesa                                      520552                            
+     13  Serra da Mesa                                      520980                            
+     13  Serra da Mesa                                      521280                            
+     13  Serra da Mesa                                      521460                            
+     13  Serra da Mesa                                      521487                            
+     13  Serra da Mesa                                      522160                            
+     14  Sudoeste I                                         520013                            
+     14  Sudoeste I                                         520145                            
+     14  Sudoeste I                                         520410                            
+     14  Sudoeste I                                         520430                            
+     14  Sudoeste I                                         520505                            
+     14  Sudoeste I                                         521080                            
+     14  Sudoeste I                                         521130                            
+     14  Sudoeste I                                         521225                            
+     14  Sudoeste I                                         521300                            
+     14  Sudoeste I                                         521375                            
+     14  Sudoeste I                                         521630                            
+     14  Sudoeste I                                         521805                            
+     14  Sudoeste I                                         521850                            
+     14  Sudoeste I                                         521880                            
+     14  Sudoeste I                                         521930                            
+     14  Sudoeste I                                         521971                            
+     14  Sudoeste I                                         522040                            
+     14  Sudoeste I                                         522155                            
+     15  Sudoeste II                                        520150                            
+     15  Sudoeste II                                        520440                            
+     15  Sudoeste II                                        520547                            
+     15  Sudoeste II                                        520725                            
+     15  Sudoeste II                                        521190                            
+     15  Sudoeste II                                        521310                            
+     15  Sudoeste II                                        521645                            
+     15  Sudoeste II                                        521810                            
+     15  Sudoeste II                                        521940                            
+     15  Sudoeste II                                        522050                            
+     16  Sul                                                520020                            
+     16  Sul                                                520050                            
+     16  Sul                                                520350                            
+     16  Sul                                                520390                            
+     16  Sul                                                520425                            
+     16  Sul                                                520910                            
+     16  Sul                                                520915                            
+     16  Sul                                                520993                            
+     16  Sul                                                521150                            
+     16  Sul                                                521210                            
+     16  Sul                                                521380                            
+     16  Sul                                                521600                            
+     17  São Patrício                                       520320                            
+     17  São Patrício                                       520495                            
+     17  São Patrício                                       520500                            
+     17  São Patrício                                       520540                            
+     17  São Patrício                                       520640                            
+     17  São Patrício                                       520860                            
+     17  São Patrício                                       520945                            
+     17  São Patrício                                       521015                            
+     17  São Patrício                                       521060                            
+     17  São Patrício                                       521090                            
+     17  São Patrício                                       521180                            
+     17  São Patrício                                       521385                            
+     17  São Patrício                                       521470                            
+     17  São Patrício                                       521486                            
+     17  São Patrício                                       521690                            
+     17  São Patrício                                       521860                            
+     17  São Patrício                                       521870                            
+     17  São Patrício                                       521890                            
+     17  São Patrício                                       521935                            
+     17  São Patrício                                       521945                            
+     17  São Patrício                                       521970                            
+     17  São Patrício                                       522015                            
+     17  São Patrício                                       522028                            
+     17  São Patrício                                       522157                            
+     17  São Patrício                                       522170                            
+     17  São Patrício                                       522230                            
+     18  Transf p/Tocantins                                 520040                            
+     18  Transf p/Tocantins                                 520070                            
+     18  Transf p/Tocantins                                 520100                            
+     18  Transf p/Tocantins                                 520190                            
+     18  Transf p/Tocantins                                 520200                            
+     18  Transf p/Tocantins                                 520210                            
+     18  Transf p/Tocantins                                 520220                            
+     18  Transf p/Tocantins                                 520230                            
+     18  Transf p/Tocantins                                 520240                            
+     18  Transf p/Tocantins                                 520255                            
+     18  Transf p/Tocantins                                 520270                            
+     18  Transf p/Tocantins                                 520290                            
+     18  Transf p/Tocantins                                 520300                            
+     18  Transf p/Tocantins                                 520370                            
+     18  Transf p/Tocantins                                 520550                            
+     18  Transf p/Tocantins                                 520560                            
+     18  Transf p/Tocantins                                 520600                            
+     18  Transf p/Tocantins                                 520610                            
+     18  Transf p/Tocantins                                 520700                            
+     18  Transf p/Tocantins                                 520720                            
+     18  Transf p/Tocantins                                 520730                            
+     18  Transf p/Tocantins                                 520755                            
+     18  Transf p/Tocantins                                 520765                            
+     18  Transf p/Tocantins                                 520770                            
+     18  Transf p/Tocantins                                 520820                            
+     18  Transf p/Tocantins                                 520900                            
+     18  Transf p/Tocantins                                 520930                            
+     18  Transf p/Tocantins                                 520950                            
+     18  Transf p/Tocantins                                 521050                            
+     18  Transf p/Tocantins                                 521070                            
+     18  Transf p/Tocantins                                 521110                            
+     18  Transf p/Tocantins                                 521240                            
+     18  Transf p/Tocantins                                 521320                            
+     18  Transf p/Tocantins                                 521330                            
+     18  Transf p/Tocantins                                 521360                            
+     18  Transf p/Tocantins                                 521420                            
+     18  Transf p/Tocantins                                 521430                            
+     18  Transf p/Tocantins                                 521488                            
+     18  Transf p/Tocantins                                 521510                            
+     18  Transf p/Tocantins                                 521575                            
+     18  Transf p/Tocantins                                 521610                            
+     18  Transf p/Tocantins                                 521620                            
+     18  Transf p/Tocantins                                 521650                            
+     18  Transf p/Tocantins                                 521660                            
+     18  Transf p/Tocantins                                 521670                            
+     18  Transf p/Tocantins                                 521700                            
+     18  Transf p/Tocantins                                 521750                            
+     18  Transf p/Tocantins                                 521780                            
+     18  Transf p/Tocantins                                 521790                            
+     18  Transf p/Tocantins                                 521820                            
+     18  Transf p/Tocantins                                 521840                            
+     18  Transf p/Tocantins                                 521875                            
+     18  Transf p/Tocantins                                 522030                            
+     18  Transf p/Tocantins                                 522065                            
+     18  Transf p/Tocantins                                 522080                            
+     18  Transf p/Tocantins                                 522090                            
+     18  Transf p/Tocantins                                 522110                            
+     18  Transf p/Tocantins                                 522120                            
+     18  Transf p/Tocantins                                 522208                            
+     18  Transf p/Tocantins                                 522210                            
+     19  Ignorado - GO                                      520000,529999                     

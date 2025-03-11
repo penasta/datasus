@@ -1,0 +1,512 @@
+    510  4 L                                                     
+      1  E900 - Calor excessivo                             900X 
+  1   2  E900.0 Devido a condicoes climaticas               9000 
+  1   3  E900.1 Produzido pelo homem                        9001 
+  1   4  E900.9 De origem não especificada                  9009 
+      5  E901 - Frio excessivo                              901X 
+  5   6  E901.0 Devido a condicoes climaticas               9010 
+  5   7  E901.1 Produzido pelo homem                        9011 
+  5   8  E901.8 Outros                                      9018 
+  5   9  E901.9 De origem não especificada                  9019 
+     10  E902 - Press atm alt e baix e variaç pres atm      902X 
+ 10  11  E902.0 Resid ou estadia prolongada altas altitudes 9020 
+ 10  12  E902.1 Em aeronaves                                9021 
+ 10  13  E902.2 Devida a mergulho                           9022 
+ 10  14  E902.8 Devida a outras causas especificadas        9028 
+ 10  15  E902.9 Não especificada                            9029 
+     16  E903 - Viagem e movimento                          903X 
+     17  E904 - Fome sede exposição aos element e negl      904X 
+ 17  18  E904.0 Abandono e neglig crianca e pessoas desampa 9040 
+ 17  19  E904.1 Falta de alimento                           9041 
+ 17  20  E904.2 Falta de agua                               9042 
+ 17  21  E904.3 Exposicao (a intemperie) NCOP               9043 
+ 17  22  E904.9 Privacao não especificada                   9049 
+     23  E905 - Intox e reaç tóxic animais e plant ven      905X 
+ 23  24  E905.0 Serpentes e lagartos venenosos              9050 
+ 23  25  E905.1 Aranhas venenosas                           9051 
+ 23  26  E905.2 Escorpiao                                   9052 
+ 23  27  E905.3 Abelhas                                     9053 
+ 23  28  E905.4 Centopeias e milipedes venenosos (tropicais 9054 
+ 23  29  E905.5 Outros artropodes venenosos                 9055 
+ 23  30  E905.6 Animais e plantas marinhos venenosos        9056 
+ 23  31  E905.7 Envenen e reacoes toxic causad outras plant 9057 
+ 23  32  E905.8 Outros                                      9058 
+ 23  33  E905.9 Não especificados                           9059 
+     34  E906 - Outras lesões causadas por animais          906X 
+ 34  35  E906.0 Mordedura de cao                            9060 
+ 34  36  E906.1 Mordedura de rato                           9061 
+ 34  37  E906.2 Mordedura serpentes e lagartos não venenoso 9062 
+ 34  38  E906.3 Mordedura de outros animais                 9063 
+ 34  39  E906.4 Picada de artropodes não venenosos          9064 
+ 34  40  E906.8 Outras lesões especif causadas por animais  9068 
+ 34  41  E906.9 Não especificadas                           9069 
+     42  E907 - Raio                                        907X 
+     43  E908 - Tempest catac e enchentes dev tempest       908X 
+     44  E909 - Erupção movim cataclísm superf terrest      909X 
+     45  E910 - Afogamento e submersão acidentais           910X 
+ 45  46  E910.0 Ao esquiar na agua                          9100 
+ 45  47  E910.1 Durante outr esport ou ativ equip mergulho  9101 
+ 45  48  E910.2 Durante outr esport ou ativ s/equip mergulh 9102 
+ 45  49  E910.3 Durante natacao mergulho n recreac ou espor 9103 
+ 45  50  E910.4 Em banheira                                 9104 
+ 45  51  E910.8 Outros                                      9108 
+ 45  52  E910.9 Não especificados                           9109 
+     53  E911 - Aspir ingest alim obstr tr resp ou suf      911X 
+     54  E912 - Aspir ingest out obj secr obstr tr res      912X 
+     55  E913 - Sufocação mecânica acidental                913X 
+ 55  56  E913.0 Na cama ou no berco                         9130 
+ 55  57  E913.1 Por saco plastico                           9131 
+ 55  58  E913.2 Devida a falta de ar (em lugar fechado)     9132 
+ 55  59  E913.3 Por queda de terra ou outras substancias    9133 
+ 55  60  E913.8 Outros meios especificados                  9138 
+ 55  61  E913.9 Não especificados                           9139 
+     62  E914 - Penetr acid corpo estranho olho e anex      914X 
+     63  E915 - Penetr acid corpo estr em out orif nat      915X 
+     64  E916 - Impact acid causado p queda de um obj       916X 
+     65  E917 - Impacto acid contra objetos ou pessoas      917X 
+ 65  66  E917.0 Em esporte                                  9170 
+ 65  67  E917.1 Causado pela multidao                       9171 
+ 65  68  E917.2 Em agua corrente                            9172 
+ 65  69  E917.9 Outros                                      9179 
+     70  E918 - Acid aprisionam dentro de ou entre obj      918X 
+     71  E919 - Acidentes causados por máquinas             919X 
+ 71  72  E919.0 Maquinas agricolas                          9190 
+ 71  73  E919.1 Maquinaria de mineracao e perfuracao de ter 9191 
+ 71  74  E919.2 Guindastes e elevadores                     9192 
+ 71  75  E919.3 Maquinas para trabalho em metal             9193 
+ 71  76  E919.4 Maquinas para trabalho em madeira           9194 
+ 71  77  E919.5 Maquinas motrizes                           9195 
+ 71  78  E919.6 Maquinaria de transmissao                   9196 
+ 71  79  E919.7 Maquinas de escavacao                       9197 
+ 71  80  E919.8 Outras                                      9198 
+ 71  81  E919.9 Não especificadas                           9199 
+     82  E920 - Acid obj ou instr cortant penetr perf       920X 
+ 82  83  E920.0 Segadeira para cortar ou aparar grama       9200 
+ 82  84  E920.1 Outras ferramentas de mao equipadas com mot 9201 
+ 82  85  E920.2 Utensilios e aparelhos domestic equip c/mot 9202 
+ 82  86  E920.3 Facas                                       9203 
+ 82  87  E920.4 Outras ferramentas e implementos manuais    9204 
+ 82  88  E920.8 Outros                                      9208 
+ 82  89  E920.9 Não especificados                           9209 
+     90  E921 - Acid caus explosão de recip pressuriz       921X 
+ 90  91  E921.0 Caldeiras                                   9210 
+ 90  92  E921.1 Cilindros de gas                            9211 
+ 90  93  921.5 Código inválido - fora da CID                9215 
+ 90  94  E921.8 Outros                                      9218 
+ 90  95  E921.9 Não especificado                            9219 
+     96  E922 - Acidente causado por arma de fogo           922X 
+ 96  97  E922.0 Revolver                                    9220 
+ 96  98  E922.1 Espingarda (automatica)                     9221 
+ 96  99  E922.2 Rifle de caca                               9222 
+ 96 100  E922.3 Armas de fogo                               9223 
+ 96 101  922.4 Código inválido - fora da CID                9224 
+ 96 102  E922.8 Outros                                      9228 
+ 96 103  E922.9 Não especificados                           9229 
+    104  E923 - Acidente causado por material explosiv      923X 
+104 105  E923.0 Fogos de artificio                          9230 
+104 106  E923.1 Materiais para dinamitar                    9231 
+104 107  E923.2 Gases explosivos                            9232 
+104 108  E923.8 Outros                                      9238 
+104 109  E923.9 Não especificado                            9239 
+    110  E924 - Acid obj subst quent vap cáust corros       924X 
+110 111  E924.0 Liquidos e vapores quentes                  9240 
+110 112  E924.1 Substancias causticas e corrosivas          9241 
+110 113  E924.8 Outros                                      9248 
+110 114  E924.9 Não especificado                            9249 
+    115  E925 - Acidente causado por corrente elétrica      925X 
+115 116  E925.0 Instalacao e utensilios domesticos          9250 
+115 117  E925.1 Usinas geradoras de energia eletrica        9251 
+115 118  E925.2 Instalacao industrial                       9252 
+115 119  925.4 Código inválido - fora da CID                9254 
+115 120  E925.8 Outros                                      9258 
+115 121  E925.9 Não especificado                            9259 
+    122  E926 - Exposição à radiação                        926X 
+122 123  E926.0 Radiacao de frequencia radiofonica          9260 
+122 124  E926.1 Aquecedores e lampadas de infra-vermelho    9261 
+122 125  E926.2 Fontes de luz visivel e ultravioleta        9262 
+122 126  E926.3 Raios x e outr radiac ionizant eletromagnet 9263 
+122 127  E926.4 Raios laser                                 9264 
+122 128  E926.5 Isotopos radioativos                        9265 
+122 129  E926.8 Outros                                      9268 
+122 130  E926.9 Não especificados                           9269 
+    131  E927 - Excess de exercíc e moviment extenuant      927X 
+    132  E928 - Out causas e não esp ambientais natur       928X 
+132 133  E928.0 Permanenc prolong meio ambiente s/gravidade 9280 
+132 134  E928.1 Exposicao ao barulho                        9281 
+132 135  E928.2 Vibracao                                    9282 
+132 136  928.4 Código inválido - fora da CID                9284 
+132 137  E928.8 Outras                                      9288 
+132 138  E928.9 Acidentes não especificados                 9289 
+    139  E929 - Efeitos tardios de lesão acidental          929X 
+139 140  E929.0 Ef tardios de acidentes de veiculo a motor  9290 
+139 141  E929.1 Ef tardios de outros acidentes de transport 9291 
+139 142  E929.2 Efeitos tardios de intoxicação acidental    9292 
+139 143  E929.3 Efeitos tardios de queda acidental          9293 
+139 144  E929.4 Ef tard de acidentes causados por fogo      9294 
+139 145  E929.5 Ef tard acidentes dev fator natur e ambient 9295 
+139 146  E929.8 Efeitos tardios de outros acidentes         9298 
+139 147  E929.9 Efeitos tardios de acidente não especificad 9299 
+    148  E930 - Antibióticos                                930X 
+148 149  E930.0 Penicilinas                                 9300 
+148 150  E930.1 Antibioticos antifungicos                   9301 
+148 151  E930.2 Grupo do cloranfenicol                      9302 
+148 152  E930.3 Eritromicina e outros macrolideos           9303 
+148 153  E930.4 Grupo das tetraciclinas                     9304 
+148 154  E930.5 Grupo das cefalosporinas                    9305 
+148 155  E930.6 Antibioticos antimicobactérias              9306 
+148 156  E930.7 Antibioticos antineoplasicos                9307 
+148 157  E930.8 Outros antibioticos especificados           9308 
+148 158  E930.9 Não especificados                           9309 
+    159  E931 - Outras substâncias antiinfecciosas          931X 
+159 160  E931.0 Sulfonamidas                                9310 
+159 161  E931.1 Antiinfecciosos arsenicais                  9311 
+159 162  E931.2 Metais pesados usados como antiinfecciosos  9312 
+159 163  E931.3 Derivados da quinoleina e hidroxiquinoleina 9313 
+159 164  E931.4 Antimalar e drog q atuam outr protoz sangui 9314 
+159 165  E931.5 Outras drogas antiprotozoários              9315 
+159 166  E931.6 Anti-helminticos                            9316 
+159 167  E931.7 Drogas antivirais                           9317 
+159 168  E931.8 Outras drogas antimicobactérias             9318 
+159 169  E931.9 Outros agentes antiinfecciosos e n especifi 9319 
+    170  E932 - Hormônios e substitutos sintéticos          932X 
+170 171  E932.0 Adrenocorticosteróides                      9320 
+170 172  E932.1 Androgenos e anabolizantes congeneres       9321 
+170 173  E932.2 Hormonios ovarianos e substitutos sintetico 9322 
+170 174  E932.3 Insulinas e agentes antidiabeticos          9323 
+170 175  E932.4 Hormonios da hipofise anterior              9324 
+170 176  E932.5 Hormonios da hipofise posterior             9325 
+170 177  E932.6 Hormonios da paratireóide e derivados       9326 
+170 178  E932.7 Hormonios da tireóide e derivados           9327 
+170 179  E932.8 Agentes antitireoideanos                    9328 
+170 180  E932.9 Outr hormonios e subst sinteticos e n espec 9329 
+    181  E933 - Substâncias de ação primariam sistêmic      933X 
+181 182  E933.0 Drogas antialergicas e antiemeticas         9330 
+181 183  E933.1 Drogas antineoplasicas e imunossupressoras  9331 
+181 184  E933.2 Agentes acidificantes                       9332 
+181 185  E933.3 Agentes alcalinizantes                      9333 
+181 186  E933.4 Enzimas                                     9334 
+181 187  E933.5 Vitaminas                                   9335 
+181 188  E933.8 Outras substancias de acao sistemica        9338 
+181 189  E933.9 Não especificadas                           9339 
+    190  E934 - Substâncias de ação primariam hematól       934X 
+190 191  E934.0 Ferro e seus compostos                      9340 
+190 192  E934.1 Preparados fígado e outr agentes antianemic 9341 
+190 193  E934.2 Anticoagulantes                             9342 
+190 194  E934.3 Vitamina k (fitomenadione)                  9343 
+190 195  E934.4 Drogas que agem sobre a fibrinolise         9344 
+190 196  E934.5 Antagonistas anticoagulantes e outr coagula 9345 
+190 197  E934.6 Gamaglobulina                               9346 
+190 198  E934.7 Sangue natural e produtos do sangue         9347 
+190 199  E934.8 Outros                                      9348 
+190 200  E934.9 Não especificados                           9349 
+    201  E935 - Analgésicos antipiréticos anti-reumat       935X 
+201 202  E935.0 Opiaceos e narcoticos relacionados          9350 
+201 203  E935.1 Salicilatos                                 9351 
+201 204  E935.2 Analgesicos aromaticos                      9352 
+201 205  E935.3 Derivados pirazolicos                       9353 
+201 206  E935.4 Anti-reumaticos (antiflogisticos)           9354 
+201 207  E935.5 Outros analgesicos não narcoticos           9355 
+201 208  E935.8 Outros                                      9358 
+201 209  E935.9 Não especificados                           9359 
+    210  E936 - Drog anticolvulsionantes antiparkinson      936X 
+210 211  E936.0 Derivados da oxazolidina                    9360 
+210 212  E936.1 Derivados da hidantoina                     9361 
+210 213  E936.2 Succimidas                                  9362 
+210 214  E936.3 Outros anticonvulsivantes e os não especifi 9363 
+210 215  E936.4 Drogas antiparkinsonianas                   9364 
+210 216  936.9 Código inválido - fora da CID                9369 
+    217  E937 - Sedativos e hipnóticos                      937X 
+217 218  E937.0 Barbituricos                                9370 
+217 219  E937.1 Grupo do hidrato de cloral                  9371 
+217 220  E937.2 Paraldeido                                  9372 
+217 221  E937.3 Compostos de bromo                          9373 
+217 222  E937.4 Compostos da metaqualona                    9374 
+217 223  E937.5 Grupo da glutetimida                        9375 
+217 224  E937.6 Sedativos mistos                            9376 
+217 225  E937.8 Outros                                      9378 
+217 226  E937.9 Não especificados                           9379 
+    227  E938 - Out drog depres sistema nervoso centr       938X 
+227 228  E938.0 Drog depress tono musc p acao sist nerv cen 9380 
+227 229  E938.1 Halotano                                    9381 
+227 230  E938.2 Outros anestesicos gasosos                  9382 
+227 231  E938.3 Anestesicos de uso endovenoso               9383 
+227 232  E938.4 Outros anestesicos gerais e os não especifi 9384 
+227 233  E938.5 Anestesicos de superficie e de infiltracao  9385 
+227 234  E938.6 Anestesicos bloq plexos e nervos perife     9386 
+227 235  E938.7 Anestesicos espinhais                       9387 
+227 236  E938.9 Outros anestesicos locais e os não especifi 9389 
+    237  E939 - Agentes psicotrópicos                       939X 
+237 238  E939.0 Antidepressivos                             9390 
+237 239  E939.1 Tranquilizantes fenotiazinicos              9391 
+237 240  E939.2 Tranquilizantes butirofenonicos             9392 
+237 241  E939.3 Outros antipsicoticos                       9393 
+237 242  E939.4 Tranquilizantes benzodiazepinicos           9394 
+237 243  E939.5 Outros tranquilizantes                      9395 
+237 244  E939.6 Psicodislepticos (alucinogenos)             9396 
+237 245  E939.7 Psicoestimulantes                           9397 
+237 246  E939.8 Outros agentes psicotropicos                9398 
+237 247  E939.9 Não especificados                           9399 
+    248  E940 - Estimulantes do sistema nervoso centr       940X 
+248 249  E940.0 Analepticos                                 9400 
+248 250  E940.1 Antagonistas dos opiaceos                   9401 
+248 251  E940.8 Outros                                      9408 
+248 252  E940.9 Não especificados                           9409 
+    253  E941 - Drogas atuam prim sist nervoso autônom      941X 
+253 254  E941.0 Parassimpaticomimeticos (colinergicos)      9410 
+253 255  E941.1 Parassimpaticolit (anticolinerg e antimusca 9411 
+253 256  E941.2 Simpaticomimeticos (adrenergicos)           9412 
+253 257  E941.3 Simpaticoliticos (antiadrenergicos)         9413 
+253 258  E941.9 Não especificadas                           9419 
+    259  E942 - Subst atuam prim aparelho cardiovascul      942X 
+259 260  E942.0 Reguladores do ritmo cardiaco               9420 
+259 261  E942.1 Glicosideos cardiotonic e drogas acao semel 9421 
+259 262  E942.2 Drogas antilipemicas e antiarteriosclerotic 9422 
+259 263  E942.3 Agentes bloqueadores ganglionares           9423 
+259 264  E942.4 Vasodilatadores coronarianos                9424 
+259 265  E942.5 Outros vasodilatadores                      9425 
+259 266  E942.6 Outros agentes anti-hipertensivos           9426 
+259 267  E942.7 Drogas antivaricosas                        9427 
+259 268  E942.8 Drogas que agem nos capilares               9428 
+259 269  E942.9 Outras e as não especificadas               9429 
+    270  E943 - Subst atuam prim aparelho gastrointest      943X 
+270 271  E943.0 Antiacidos e drogas anti-secrecao gastrica  9430 
+270 272  E943.1 Catarticos irritantes                       9431 
+270 273  E943.2 Catarticos emolientes                       9432 
+270 274  E943.3 Outros catarticos                           9433 
+270 275  E943.4 Digestivos                                  9434 
+270 276  E943.5 Drogas antidiarreicas                       9435 
+270 277  E943.6 Emeticos                                    9436 
+270 278  E943.8 Outros                                      9438 
+270 279  E943.9 Não especificados                           9439 
+    280  E944 - Drogas at metab água dos mine e ac úr       944X 
+280 281  E944.0 Diureticos mercuriais                       9440 
+280 282  E944.1 Diureticos derivados das purinas            9441 
+280 283  E944.2 Inibidores da anidrase do acido carbonico   9442 
+280 284  E944.3 Salureticos                                 9443 
+280 285  E944.4 Outros diureticos                           9444 
+280 286  E944.5 Agentes eletroliticos                       9445 
+280 287  E944.6 Outros sais minerais                        9446 
+280 288  E944.7 Drogas q atuam sobre metabolismo acido uric 9447 
+    289  E945 - Subst atuam musc lisa e estr e ap resp      945X 
+289 290  E945.0 Agentes ocitocicos                          9450 
+289 291  E945.1 Relaxantes da musculatura lisa              9451 
+289 292  E945.2 Relaxantes da musculatura esqueletica       9452 
+289 293  E945.3 Outras drogas q atuam musculos e as n espec 9453 
+289 294  E945.4 Antitussicos                                9454 
+289 295  E945.5 Expectorantes                               9455 
+289 296  E945.6 Drogas anti-resfriado comum                 9456 
+289 297  E945.7 Antiasmaticos                               9457 
+289 298  E945.8 Outras drogas respiratorias e as não especi 9458 
+    299  E946 - Sub at pel memb muc drog oft otor dent      946X 
+299 300  E946.0 Drogas antiinflamat e antiinfecciosas locai 9460 
+299 301  E946.1 Antipruriginosos                            9461 
+299 302  E946.2 Adstringentes e detergentes locais          9462 
+299 303  E946.3 Emolientes                                  9463 
+299 304  E946.4 Ceratoliticos                               9464 
+299 305  E946.5 Antiinfec oculares e outr drogas oculares   9465 
+299 306  E946.6 Drogas antiinfec e outr drog e prepar ouvid 9466 
+299 307  E946.7 Drogas de uso dentario usadas topicamente   9467 
+299 308  E946.8 Outras                                      9468 
+299 309  E946.9 Não especificadas                           9469 
+    310  E947 - Outras drogas e medicam e ñ especific       947X 
+310 311  E947.0 Dieteticos                                  9470 
+310 312  E947.1 Drogas lipotropicas                         9471 
+310 313  E947.2 Antidotos e agentes quelantes               9472 
+310 314  E947.3 Impedientes do alcool                       9473 
+310 315  E947.4 Excipientes farmaceuticos                   9474 
+310 316  E947.8 Outras drogas e medicamentos                9478 
+310 317  E947.9 Droga ou medicamento não especificado       9479 
+    318  E948 - Vacinas bacterianas                         948X 
+318 319  E948.0 Vacina bcg                                  9480 
+318 320  E948.1 Tifóide e paratifóide                       9481 
+318 321  E948.2 Colera                                      9482 
+318 322  E948.3 Peste                                       9483 
+318 323  E948.4 Tétano                                      9484 
+318 324  E948.5 Difteria                                    9485 
+318 325  E948.6 Vacina antipertussis                        9486 
+318 326  E948.8 Outras vacinas bacterianas e as não especif 9488 
+318 327  E948.9 Vacinas bacterianas mistas                  9489 
+    328  E949 - Outras vacinas e substancias biológic       949X 
+328 329  E949.0 Vacina antivariolica                        9490 
+328 330  E949.1 Vacina anti-rabica                          9491 
+328 331  E949.2 Vacina antitifo                             9492 
+328 332  E949.3 Vacina contra febre amarela                 9493 
+328 333  E949.4 Vacina contra o sarampo                     9494 
+328 334  E949.5 Vacina contra poliomielite                  9495 
+328 335  E949.6 Outr vacin antivirus e rickettsias e n espe 9496 
+328 336  E949.7 Vacinas mistas antibactérias                9497 
+328 337  E949.9 Outr vacinas e subst biologic e as n especi 9499 
+    338  E950 - Suicídio por sólidos ou líquidos            950X 
+338 339  E950.0 Analgesicos                                 9500 
+338 340  E950.1 Barbituricos                                9501 
+338 341  E950.2 Outros sedativos e hipnoticos               9502 
+338 342  E950.3 Tranquilizantes e outr agentes psicotropico 9503 
+338 343  E950.4 Outras drogas e medicamentos especificados  9504 
+338 344  E950.5 Drogas e medicamentos não especificados     9505 
+338 345  E950.6 Preparac quim e farmac utiliz agric e horti 9506 
+338 346  E950.7 Substancias corrosivas e causticas          9507 
+338 347  E950.8 Arsenico e compostos de arsenico            9508 
+338 348  E950.9 Outr subst solidas e liquidas e as n especi 9509 
+    349  E951 - Suicídio por gás doméstico                  951X 
+349 350  E951.0 Gas distribuido por tubulacao               9510 
+349 351  E951.1 Gas petroleo liquefeito distrib recip movei 9511 
+349 352  E951.8 Outro gas de iluminacao                     9518 
+    353  E952 - Suicídio por outros gases e vapores         952X 
+353 354  E952.0 Gas de escapamento de veiculo a motor       9520 
+353 355  E952.1 Outros gases q contenham monoxido de carbon 9521 
+353 356  E952.8 Outros gases e vapores especificados        9528 
+353 357  E952.9 Gases e vapores não especificados           9529 
+    358  E953 - Suicídio enforcam estrangul sufocação       953X 
+358 359  E953.0 Enforcamento                                9530 
+358 360  E953.1 Sufocacao com bolsa plastica                9531 
+358 361  E953.8 Outros meios especificados                  9538 
+358 362  E953.9 Meios não especificados                     9539 
+    363  E954 - Suicídio por submersão (afogamento)         954X 
+    364  E955 - Suicídio por arma de fogo e explosivos      955X 
+364 365  E955.0 Armas de mao                                9550 
+364 366  E955.1 Armas de tiro                               9551 
+364 367  E955.2 Armas de caca                               9552 
+364 368  E955.3 Armas de fogo militares                     9553 
+364 369  E955.4 Outras armas de fogo e as não especificadas 9554 
+364 370  E955.5 Explosivos                                  9555 
+364 371  E955.9 Não especificados                           9559 
+    372  E956 - Suicídio por instrumento cortant penet      956X 
+    373  E957 - Suicídio por precipitação lugar elevad      957X 
+373 374  E957.0 Dependencias residenciais                   9570 
+373 375  E957.1 Outras estruturas construidas pelo homem    9571 
+373 376  E957.2 Ambientes naturais                          9572 
+373 377  E957.9 Não especificado                            9579 
+    378  E958 - Suicídio outros procedimentos e ñ esp       958X 
+378 379  E958.0 Salto ou queda diante de objeto em moviment 9580 
+378 380  E958.1 Queimaduras                                 9581 
+378 381  E958.2 Escaldadura                                 9582 
+378 382  E958.3 Frio extremo                                9583 
+378 383  E958.4 Eletrocussao                                9584 
+378 384  E958.5 Colisao de veiculo a motor                  9585 
+378 385  E958.6 Queda de aeronave                           9586 
+378 386  E958.7 Substancias causticas                       9587 
+378 387  E958.8 Outros meios especificados                  9588 
+378 388  E958.9 Meios não especificados                     9589 
+    389  E959 - Efeitos tardios lesões auto-infligidas      959X 
+    390  E960 - Luta briga e violação                       960X 
+390 391  E960.0 Luta ou briga                               9600 
+390 392  E960.1 Rapto                                       9601 
+390 393  960.9 Código inválido - fora da CID                9609 
+    394  E961 - Ataque subst corrosiv ou cáust exc env      961X 
+    395  E962 - Envenenamento intencion prov out pess       962X 
+395 396  E962.0 Drogas e medicamentos                       9620 
+395 397  E962.1 Outras substancias solidas e liquidas       9621 
+395 398  E962.2 Outros gases e vapores                      9622 
+395 399  E962.9 Envenenamento não especificado              9629 
+    400  E963 - Homicídio estrangulamento e enforcam        963X 
+    401  E964 - Homicídio por submersão (afogamento)        964X 
+    402  E965 - Ataque com armas de fogo ou explosivo       965X 
+402 403  E965.0 Revolver                                    9650 
+402 404  E965.1 Espingarda                                  9651 
+402 405  E965.2 Rifle de caca                               9652 
+402 406  E965.3 Armas de fogo                               9653 
+402 407  E965.4 Outras armas de fogo e as não especificadas 9654 
+402 408  E965.5 Bomba antipessoal                           9655 
+402 409  E965.6 Bomba feita com gasolina                    9656 
+402 410  E965.7 Carta-bomba                                 9657 
+402 411  E965.8 Outros explosivos especificados             9658 
+402 412  E965.9 Explosivos não especificados                9659 
+    413  E966 - Ataque com instrumen cortante penetr        966X 
+    414  E967 - Síndr crian espan e out form maus trat      967X 
+414 415  E967.0 Pelos pais                                  9670 
+414 416  E967.1 Por outra pessoa especificada               9671 
+414 417  E967.9 Por pessoa não especificada                 9679 
+    418  E968 - Ataque out proced especific e ñ espec       968X 
+418 419  E968.0 Por fogo                                    9680 
+418 420  E968.1 Empurrado de lugar alto                     9681 
+418 421  E968.2 Agredido por objeto cortante ou sem corte   9682 
+418 422  E968.3 Liquido quente                              9683 
+418 423  E968.4 Negligencia criminosa                       9684 
+418 424  E968.8 Outros meios especificados                  9688 
+418 425  E968.9 Meios não especificados                     9689 
+    426  E969 - Efeitos tard les infl intenc out pess       969X 
+    427  E970 - Lesão p intervenção legal armas de fog      970X 
+    428  E971 - Lesão p intervenção legal com explosiv      971X 
+    429  E972 - Lesão por intervenção legal com gás         972X 
+    430  E973 - Les p interv legal com obj contundente      973X 
+    431  E974 - Les interv leg instr cortan e penetr        974X 
+    432  E975 - Les intervenção legal c out meios esp       975X 
+    433  E976 - Lesão intervenção legal meios ñ espec       976X 
+    434  E977 - Efeitos tardios les inflig interv leg       977X 
+    435  E978 - Execução legal                              978X 
+    436  E980 - Enven sólid líquid ign acid ou intenc       980X 
+436 437  E980.0 Analgesicos                                 9800 
+436 438  E980.1 Barbituricos                                9801 
+436 439  E980.2 Outros sedativos e hipnoticos               9802 
+436 440  E980.3 Tranquilizantes e outros agentes psicotropi 9803 
+436 441  E980.4 Outras drogas e medicamentos especificados  9804 
+436 442  E980.5 Drogas e medicamentos não especificados     9805 
+436 443  E980.6 Substancias corrosivas e causticas          9806 
+436 444  E980.7 Prep farmaceut e quimic agric e horticultur 9807 
+436 445  E980.8 Arsenico e seus compostos                   9808 
+436 446  E980.9 Outras substancias e as não especificadas   9809 
+    447  E981 - Enven gás domest ign acid ou intencion      981X 
+447 448  E981.0 Gas de rua                                  9810 
+447 449  E981.1 Gas liquefeito petroleo distrib botijoes    9811 
+447 450  E981.8 Outros gases de utilidade domestica         9818 
+447 451  981.9 Código inválido - fora da CID                9819 
+    452  E982 - Enven out gases ign acid ou intencion       982X 
+452 453  E982.0 Gas expelido por veiculo a motor            9820 
+452 454  E982.1 Outros monoxidos de carbono                 9821 
+452 455  E982.8 Outros gases e vapores especificados        9828 
+452 456  E982.9 Gases e vapores não especificados           9829 
+    457  E983 - Les enforc estrang sufoc ig acid int        983X 
+457 458  E983.0 Enforcamento                                9830 
+457 459  E983.1 Sufocacao por saco plastico                 9831 
+457 460  E983.8 Outros meios especificados                  9838 
+457 461  E983.9 Meios não especificados                     9839 
+    462  E984 - Lesão submersão ign acid ou intencion       984X 
+    463  E985 - Lesão arma fogo e explos ig acid int        985X 
+463 464  E985.0 Revolver                                    9850 
+463 465  E985.1 Espingarda                                  9851 
+463 466  E985.2 Rifle de caca                               9852 
+463 467  E985.3 Armas de fogo                               9853 
+463 468  E985.4 Outras armas de fogo e as não especificadas 9854 
+463 469  E985.5 Explosivos                                  9855 
+463 470  E985.9 Código inválido - fora da CID               9859 
+    471  E986 - Les instr cort penetr ig acid ou inten      986X 
+    472  E987 - Les dev queda lug elevado ig acid int       987X 
+472 473  E987.0 Propriedades residenciais                   9870 
+472 474  E987.1 Outras estruturas construidas pelo homem    9871 
+472 475  E987.2 Locais naturais                             9872 
+472 476  E987.9 Não especificado                            9879 
+    477  E988 - Les out meios e ñ espec ig acid ou int      988X 
+477 478  E988.0 Pulo ou queda diante de um objeto movimento 9880 
+477 479  E988.1 Queimadura por fogo                         9881 
+477 480  E988.2 Escaldadura                                 9882 
+477 481  E988.3 Extremos de temperatura                     9883 
+477 482  E988.4 Eletrocussao                                9884 
+477 483  E988.5 Acidente com veiculo a motor                9885 
+477 484  E988.6 Acidente de aviao                           9886 
+477 485  E988.7 Substancias causticas                       9887 
+477 486  E988.8 Outros meios especificados                  9888 
+477 487  E988.9 Meios não especificados                     9889 
+    488  E989 - Efeitos tard lesão ig acid ou intenc        989X 
+    489  E990 - Lesão operação de guerra fogo e incend      990X 
+489 490  E990.0 De bomba feita com gasolina                 9900 
+489 491  E990.9 De outras fontes e as não especificadas     9909 
+    492  E991 - Lesão balas fragment operações de guer      991X 
+492 493  E991.0 Bala de borracha (rifle)                    9910 
+492 494  E991.1 Bala de chumbo (rifle)                      9911 
+492 495  E991.2 Outras balas                                9912 
+492 496  E991.3 Bomba antipessoal (fragmentos)              9913 
+492 497  E991.9 Outros fragmentos e os não especificados    9919 
+    498  E992 - Les expl armam naval operações de guer      992X 
+    499  E993 - Les out explosões em operações de guer      993X 
+    500  E994 - Les destruição de aeronave oper guerr       994X 
+    501  E995 - Les out meios ou ñ esp op guerra conv       995X 
+    502  E996 - Les arma nuclear em operações de guerr      996X 
+    503  E997 - Les out form guerra não convencional        997X 
+503 504  E997.0 Laser                                       9970 
+503 505  E997.1 Guerra biologica                            9971 
+503 506  E997.2 Gases                                       9972 
+503 507  E997.8 Outras                                      9978 
+503 508  E997.9 Não especificadas                           9979 
+    509  E998 - Les op guerra ocorr após cessação host      998X 
+    510  E999 - Efeit tardios de les operação de guerr      999X 
+

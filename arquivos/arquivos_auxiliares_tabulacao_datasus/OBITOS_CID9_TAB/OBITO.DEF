@@ -1,0 +1,360 @@
+; Óbitos - Brasil
+ADOR*.DBC
+;
+;       Definições para Tipo de Óbito
+;
+XTipo de Óbito,      TIPOBITO,   1,  TIPOBITO.CNV
+;
+;       Definições para Ano e Mês do Óbito
+;
+XAno do Óbito,       DATAOBITO,  1,  ANO.CNV
+XMês do Óbito,       DATAOBITO,  3,  MESES.CNV
+;
+;       Definições para Município de Ocorrência
+;
+LPaís Ocor,          MUNIOCOR,   1,  PAISES.CNV
+SPaís Ocor,          MUNIOCOR,   1,  PAISES.CNV
+LUF Ocorrência,      MUNIOCOR,   1,  BR_UF.CNV
+LUF Ocorr Sigla,     MUNIOCOR,   1,  BR_UFSIGLA.CNV
+CUF Ocorrência,      MUNIOCOR,   1,  BR_UFSIGLA.CNV
+SUF Ocorrência,      MUNIOCOR,   1,  BR_UF.CNV
+LRegião Ocorrência,  MUNIOCOR,   1,  BR_REGIAO.CNV
+CRegião Ocorrência,  MUNIOCOR,   1,  BR_REGIAOC.CNV
+SRegião Ocorrência,  MUNIOCOR,   1,  BR_REGIAO.CNV
+LRegião/UF Ocorr,    MUNIOCOR,   1,  BR_REGIAOUF.CNV
+XMunic Ocorr - BR,   MUNIOCOR,   1,  BR_MUNICIP.CNV
+XMunic Ocorr - AC,   MUNIOCOR,   1,  AC_MUNICIP.CNV
+XMunic Ocorr - AL,   MUNIOCOR,   1,  AL_MUNICIP.CNV
+XMunic Ocorr - AM,   MUNIOCOR,   1,  AM_MUNICIP.CNV
+XMunic Ocorr - AP,   MUNIOCOR,   1,  AP_MUNICIP.CNV
+XMunic Ocorr - BA,   MUNIOCOR,   1,  BA_MUNICIP.CNV
+XMunic Ocorr - CE,   MUNIOCOR,   1,  CE_MUNICIP.CNV
+XMunic Ocorr - DF,   MUNIOCOR,   1,  DF_MUNICIP.CNV
+XMunic Ocorr - ES,   MUNIOCOR,   1,  ES_MUNICIP.CNV
+XMunic Ocorr - GO,   MUNIOCOR,   1,  GO_MUNICIP.CNV
+XMunic Ocorr - MA,   MUNIOCOR,   1,  MA_MUNICIP.CNV
+XMunic Ocorr - MG,   MUNIOCOR,   1,  MG_MUNICIP.CNV
+XMunic Ocorr - MS,   MUNIOCOR,   1,  MS_MUNICIP.CNV
+XMunic Ocorr - MT,   MUNIOCOR,   1,  MT_MUNICIP.CNV
+XMunic Ocorr - PA,   MUNIOCOR,   1,  PA_MUNICIP.CNV
+XMunic Ocorr - PB,   MUNIOCOR,   1,  PB_MUNICIP.CNV
+XMunic Ocorr - PE,   MUNIOCOR,   1,  PE_MUNICIP.CNV
+XMunic Ocorr - PI,   MUNIOCOR,   1,  PI_MUNICIP.CNV
+XMunic Ocorr - PR,   MUNIOCOR,   1,  PR_MUNICIP.CNV
+XMunic Ocorr - RJ,   MUNIOCOR,   1,  RJ_MUNICIP.CNV
+XMunic Ocorr - RN,   MUNIOCOR,   1,  RN_MUNICIP.CNV
+XMunic Ocorr - RO,   MUNIOCOR,   1,  RO_MUNICIP.CNV
+XMunic Ocorr - RR,   MUNIOCOR,   1,  RR_MUNICIP.CNV
+XMunic Ocorr - RS,   MUNIOCOR,   1,  RS_MUNICIP.CNV
+XMunic Ocorr - SC,   MUNIOCOR,   1,  SC_MUNICIP.CNV
+XMunic Ocorr - SE,   MUNIOCOR,   1,  SE_MUNICIP.CNV
+XMunic Ocorr - SP,   MUNIOCOR,   1,  SP_MUNICIP.CNV
+XMunic Ocorr - TO,   MUNIOCOR,   1,  TO_MUNICIP.CNV
+LCapital Ocorr,      MUNIOCOR,   1,  BR_CAPITAL.CNV
+CCapital Ocorr,      MUNIOCOR,   1,  BR_CAPITALC.CNV
+SCapital Ocorr,      MUNIOCOR,   1,  BR_CAPITAL.CNV
+LReg.Saúde Ocorr,    MUNIOCOR,   1,  BR_REGSAUD.CNV
+LMacr.Reg.Saúde Oco, MUNIOCOR,   1,  BR_MACSAUD.CNV
+LDiv.Adm. Ocorr,     MUNIOCOR,   1,  BR_DIVADM.CNV
+LMicr.IBGE Ocorr,    MUNIOCOR,   1,  BR_MICIBGE.CNV
+LReg.Metr Ocorr,     MUNIOCOR,   1,  BR_REGMETR.CNV
+LTerr.Cidad.Ocorr,   MUNIOCOR,   1,  BR_TERRCID.CNV
+LMacr.PNDR Ocorr,    MUNIOCOR,   1,  BR_PNDR.CNV
+CReg.Saúde Ocorr,    MUNIOCOR,   1,  BR_REGSAUDC.CNV
+CMacr.Reg.Saúde Oco, MUNIOCOR,   1,  BR_MACSAUDC.CNV
+CDiv.Adm. Ocorr,     MUNIOCOR,   1,  BR_DIVADMC.CNV
+CMicr.IBGE Ocorr,    MUNIOCOR,   1,  BR_MICIBGEC.CNV
+CReg.Metr Ocorr,     MUNIOCOR,   1,  BR_REGMETRC.CNV
+CTerr.Cidad.Ocorr,   MUNIOCOR,   1,  BR_TERRCIDC.CNV
+CMacr.PNDR Ocorr,    MUNIOCOR,   1,  BR_PNDRC.CNV
+SReg.Saúde Ocorr,    MUNIOCOR,   1,  BR_REGSAUD.CNV
+SMacr.Reg.Saúde Oco, MUNIOCOR,   1,  BR_MACSAUD.CNV
+SDiv.Adm. Ocorr,     MUNIOCOR,   1,  BR_DIVADM.CNV
+SMicr.IBGE Ocorr,    MUNIOCOR,   1,  BR_MICIBGE.CNV
+SReg.Metr Ocorr,     MUNIOCOR,   1,  BR_REGMETR.CNV
+STerr.Cidad.Ocorr,   MUNIOCOR,   1,  BR_TERRCID.CNV
+SMacr.PNDR Ocorr,    MUNIOCOR,   1,  BR_PNDR.CNV
+SMun Amaz.Legal Oco, MUNIOCOR,   1,  BR_AMAZLEGAL.CNV
+SMun Extr.Pobr Oco,  MUNIOCOR,   1,  BR_EXTRPOBREZ.CNV
+SMun Faix.Front Oco, MUNIOCOR,   1,  BR_FRONTFAIXA.CNV
+SMun Zona Front Oco, MUNIOCOR,   1,  BR_FRONTZONA.CNV
+SMun Semi Árido Oco, MUNIOCOR,   1,  BR_SEMIARIDO.CNV
+LBairro Ocor,        MUNIOCOR,   1,  BAIRROS.CNV
+SBairro Ocor,        MUNIOCOR,   1,  BAIRROS.CNV
+;
+;       Definições para Município de Residência
+;
+LPaís Resid,         MUNIRES,    1,  PAISES.CNV
+SPaís Resid,         MUNIRES,    1,  PAISES.CNV
+LUF Residência,      MUNIRES,    1,  BR_UF.CNV
+LUF Resid Sigla,     MUNIRES,    1,  BR_UFSIGLA.CNV
+CUF Residência,      MUNIRES,    1,  BR_UFSIGLA.CNV
+SUF Residência,      MUNIRES,    1,  BR_UF.CNV
+LRegião Residência,  MUNIRES,    1,  BR_REGIAO.CNV
+CRegião Residência,  MUNIRES,    1,  BR_REGIAOC.CNV
+SRegião Residência,  MUNIRES,    1,  BR_REGIAO.CNV
+LRegião/UF Resid,    MUNIRES,    1,  BR_REGIAOUF.CNV
+XMunic Resid - BR,   MUNIRES,    1,  BR_MUNICIP.CNV
+XMunic Resid - AC,   MUNIRES,    1,  AC_MUNICIP.CNV
+XMunic Resid - AL,   MUNIRES,    1,  AL_MUNICIP.CNV
+XMunic Resid - AM,   MUNIRES,    1,  AM_MUNICIP.CNV
+XMunic Resid - AP,   MUNIRES,    1,  AP_MUNICIP.CNV
+XMunic Resid - BA,   MUNIRES,    1,  BA_MUNICIP.CNV
+XMunic Resid - CE,   MUNIRES,    1,  CE_MUNICIP.CNV
+XMunic Resid - DF,   MUNIRES,    1,  DF_MUNICIP.CNV
+XMunic Resid - ES,   MUNIRES,    1,  ES_MUNICIP.CNV
+XMunic Resid - GO,   MUNIRES,    1,  GO_MUNICIP.CNV
+XMunic Resid - MA,   MUNIRES,    1,  MA_MUNICIP.CNV
+XMunic Resid - MG,   MUNIRES,    1,  MG_MUNICIP.CNV
+XMunic Resid - MS,   MUNIRES,    1,  MS_MUNICIP.CNV
+XMunic Resid - MT,   MUNIRES,    1,  MT_MUNICIP.CNV
+XMunic Resid - PA,   MUNIRES,    1,  PA_MUNICIP.CNV
+XMunic Resid - PB,   MUNIRES,    1,  PB_MUNICIP.CNV
+XMunic Resid - PE,   MUNIRES,    1,  PE_MUNICIP.CNV
+XMunic Resid - PI,   MUNIRES,    1,  PI_MUNICIP.CNV
+XMunic Resid - PR,   MUNIRES,    1,  PR_MUNICIP.CNV
+XMunic Resid - RJ,   MUNIRES,    1,  RJ_MUNICIP.CNV
+XMunic Resid - RN,   MUNIRES,    1,  RN_MUNICIP.CNV
+XMunic Resid - RO,   MUNIRES,    1,  RO_MUNICIP.CNV
+XMunic Resid - RR,   MUNIRES,    1,  RR_MUNICIP.CNV
+XMunic Resid - RS,   MUNIRES,    1,  RS_MUNICIP.CNV
+XMunic Resid - SC,   MUNIRES,    1,  SC_MUNICIP.CNV
+XMunic Resid - SE,   MUNIRES,    1,  SE_MUNICIP.CNV
+XMunic Resid - SP,   MUNIRES,    1,  SP_MUNICIP.CNV
+XMunic Resid - TO,   MUNIRES,    1,  TO_MUNICIP.CNV
+LCapital Resid,      MUNIRES,    1,  BR_CAPITAL.CNV
+CCapital Resid,      MUNIRES,    1,  BR_CAPITALC.CNV
+SCapital Resid,      MUNIRES,    1,  BR_CAPITAL.CNV
+LReg.Saúde Resid,    MUNIRES,    1,  BR_REGSAUD.CNV
+LMacr.Reg.Saúde Res, MUNIRES,    1,  BR_MACSAUD.CNV
+LDiv.Adm. Resid,     MUNIRES,    1,  BR_DIVADM.CNV
+LMicr.IBGE Resid,    MUNIRES,    1,  BR_MICIBGE.CNV
+LReg.Metr Resid,     MUNIRES,    1,  BR_REGMETR.CNV
+LTerr.Cidad.Resid,   MUNIRES,    1,  BR_TERRCID.CNV
+LMacr.PNDR Resid,    MUNIRES,    1,  BR_PNDR.CNV
+CReg.Saúde Resid,    MUNIRES,    1,  BR_REGSAUDC.CNV
+CMacr.Reg.Saúde Res, MUNIRES,    1,  BR_MACSAUDC.CNV
+CDiv.Adm. Resid,     MUNIRES,    1,  BR_DIVADMC.CNV
+CMicr.IBGE Resid,    MUNIRES,    1,  BR_MICIBGEC.CNV
+CReg.Metr Resid,     MUNIRES,    1,  BR_REGMETRC.CNV
+CTerr.Cidad.Resid,   MUNIRES,    1,  BR_TERRCIDC.CNV
+CMacr.PNDR Resid,    MUNIRES,    1,  BR_PNDRC.CNV
+SReg.Saúde Resid,    MUNIRES,    1,  BR_REGSAUD.CNV
+SMacr.Reg.Saúde Res, MUNIRES,    1,  BR_MACSAUD.CNV
+SDiv.Adm. Resid,     MUNIRES,    1,  BR_DIVADM.CNV
+SMicr.IBGE Resid,    MUNIRES,    1,  BR_MICIBGE.CNV
+SReg.Metr Resid,     MUNIRES,    1,  BR_REGMETR.CNV
+STerr.Cidad.Resid,   MUNIRES,    1,  BR_TERRCID.CNV
+SMacr.PNDR Resid,    MUNIRES,    1,  BR_PNDR.CNV
+SMun Amaz.Legal Res, MUNIRES,    1,  BR_AMAZLEGAL.CNV
+SMun Extr.Pobr Res,  MUNIRES,    1,  BR_EXTRPOBREZ.CNV
+SMun Faix.Front Res, MUNIRES,    1,  BR_FRONTFAIXA.CNV
+SMun Zona Front Res, MUNIRES,    1,  BR_FRONTZONA.CNV
+SMun Semi Árido Res, MUNIRES,    1,  BR_SEMIARIDO.CNV
+;
+;       Definições para UF informante
+;
+LUF Informante,      UFINFORM,   1,  BR_UF.CNV
+SUF Informante,      UFINFORM,   1,  BR_UF.CNV
+CUF Informante,      UFINFORM,   1,  BR_UF.CNV
+;
+;       Definições para Sexo
+;
+XSexo,               SEXO,       1,  SEXOC.CNV
+;
+;       Definições para Idade
+;
+LIdade Detalhada,    IDADE,      1,  IDADE.CNV
+SIdade Detalhada,    IDADE,      1,  IDADE.CNV
+XFaixa Etária (5),   IDADE,      1,  FXIDAD5.CNV
+XFaixa Etária (9),   IDADE,      1,  FXIDAD9.CNV
+XFaixa Etária (13),  IDADE,      1,  FXIDADP.CNV
+XFaixa Etária OMS,   IDADE,      1,  FXIDAWHO.CNV
+XFx.Etár.Infant.1,   IDADE,      1,  FXINFAN1.CNV
+XFx.Etár.Infant.2,   IDADE,      1,  FXINFAN2.CNV
+;
+;       Definições para Causa Basica de Óbito - CID9
+;
+LCausa (Cap CID9),   CAUSABAS,   1,  CID9CAP.CNV
+SCausa (Cap CID9),   CAUSABAS,   1,  CID9CAP.CNV
+CCausa (Cap CID9),   CAUSABAS,   1,  CID9CAC.CNV
+LCausa (CID9 BR),    CAUSABAS,   1,  CID9BR.CNV
+LCausa (CID9 BR2),   CAUSABAS,   1,  CID9BR2.CNV
+LCausa (CID9 OMS),   CAUSABAS,   1,  CID9WHO.CNV
+SCausa (CID9 OMS),   CAUSABAS,   1,  CID9WHO.CNV
+LCausa (CID9 3D),    CAUSABAS,   1,  CID9_3D.CNV
+SCausa (CID9 3D),    CAUSABAS,   1,  CID9_3D.CNV
+LCID 9 4d Cap 01,    CAUSABAS,   1,  CID901.CNV
+SCID 9 4d Cap 01,    CAUSABAS,   1,  CID9_01.CNV
+LCID 9 4d Cap 02,    CAUSABAS,   1,  CID902.CNV
+SCID 9 4d Cap 02,    CAUSABAS,   1,  CID9_02.CNV
+LCID 9 4d Cap 03,    CAUSABAS,   1,  CID903.CNV
+SCID 9 4d Cap 03,    CAUSABAS,   1,  CID9_03.CNV
+LCID 9 4d Cap 04,    CAUSABAS,   1,  CID904.CNV
+SCID 9 4d Cap 04,    CAUSABAS,   1,  CID9_04.CNV
+LCID 9 4d Cap 05,    CAUSABAS,   1,  CID905.CNV
+SCID 9 4d Cap 05,    CAUSABAS,   1,  CID9_05.CNV
+LCID 9 4d Cap 06,    CAUSABAS,   1,  CID906.CNV
+SCID 9 4d Cap 06,    CAUSABAS,   1,  CID9_06.CNV
+LCID 9 4d Cap 07,    CAUSABAS,   1,  CID907.CNV
+SCID 9 4d Cap 07,    CAUSABAS,   1,  CID9_07.CNV
+LCID 9 4d Cap 08,    CAUSABAS,   1,  CID908.CNV
+SCID 9 4d Cap 08,    CAUSABAS,   1,  CID9_08.CNV
+LCID 9 4d Cap 09,    CAUSABAS,   1,  CID909.CNV
+SCID 9 4d Cap 09,    CAUSABAS,   1,  CID9_09.CNV
+LCID 9 4d Cap 10,    CAUSABAS,   1,  CID910.CNV
+SCID 9 4d Cap 10,    CAUSABAS,   1,  CID9_10.CNV
+LCID 9 4d Cap 11,    CAUSABAS,   1,  CID911.CNV
+SCID 9 4d Cap 11,    CAUSABAS,   1,  CID9_11.CNV
+LCID 9 4d Cap 12,    CAUSABAS,   1,  CID912.CNV
+SCID 9 4d Cap 12,    CAUSABAS,   1,  CID9_12.CNV
+LCID 9 4d Cap 13,    CAUSABAS,   1,  CID913.CNV
+SCID 9 4d Cap 13,    CAUSABAS,   1,  CID9_13.CNV
+LCID 9 4d Cap 14,    CAUSABAS,   1,  CID914.CNV
+SCID 9 4d Cap 14,    CAUSABAS,   1,  CID9_14.CNV
+LCID 9 4d Cap 15,    CAUSABAS,   1,  CID915.CNV
+SCID 9 4d Cap 15,    CAUSABAS,   1,  CID9_15.CNV
+LCID 9 4d Cap 16,    CAUSABAS,   1,  CID916.CNV
+SCID 9 4d Cap 16,    CAUSABAS,   1,  CID9_16.CNV
+LCID 9 4d Cap 17 a,  CAUSABAS,   1,  CID917A.CNV
+LCID 9 4d Cap 17 b,  CAUSABAS,   1,  CID917B.CNV
+SCID 9 4d Cap 17,    CAUSABAS,   1,  CID9_17.CNV
+;
+;       Definições para menor de 1 ano
+;
+;       Definições para Ocupacao do Pai
+;
+LOcupação Pai,       OCUPPAI,    1,  OCUPACAO.CNV
+SOcupação Pai,       OCUPPAI,    1,  OCUPACAO.CNV
+LSubGrup Ocup Pai,   OCUPPAI,    1,  SGRPOCUP.CNV
+SSubGr Ocup Pai,     OCUPPAI,    1,  SGRPOCUP.CNV
+LGrupo Ocup Pai,     OCUPPAI,    1,  GRUPOCUP.CNV
+SGrupo Ocup Pai,     OCUPPAI,    1,  GRUPOCUP.CNV
+;
+;       Definições para Instrucao do Pai
+;
+XInstrução Pai,      INSTRPAI,   1,  INSTRUC.CNV
+;
+;       Definições para Ocupacao da Mae
+;
+LOcupação Mãe,       OCUPMAE,    1,  OCUPACAO.CNV
+SOcupação Mãe,       OCUPMAE,    1,  OCUPACAO.CNV
+LSubGrup Ocup Mãe,   OCUPMAE,    1,  SGRPOCUP.CNV
+SSubGr Ocup Mãe,     OCUPMAE,    1,  SGRPOCUP.CNV
+LGrupo Ocup Mãe,     OCUPMAE,    1,  GRUPOCUP.CNV
+SGrupo Ocup Mãe,     OCUPMAE,    1,  GRUPOCUP.CNV
+;
+;       Definições para Idade da Mae
+;
+XIdade Mãe,          IDADEMAE,   1,  IDADEMAE.CNV
+;
+;       Definições para Instrucao da Mae
+;
+XInstrução Mãe,      INSTRMAE,   1,  INSTRUC.CNV
+;
+;       Definições para Filhos Vivos
+;
+XFilhos Vivos,       FILHVIVOS,  1,  NUMFILH.CNV
+;       Definições para Filhos Mortos
+;
+XFilhos Mortos,      FILHMORT,   1,  NUMFILH.CNV
+;
+;       Definições para Semanas de Gestacao
+;
+XSemanas Gestação,   SEMANGEST,  1,  SEMANAS.CNV
+;
+;       Definições para Tipo de Gravidez
+;
+XGravidez,           TIPOGRAV,   1,  GRAVIDEZ.CNV
+;
+;       Definições para Tipo de Parto
+;
+XTipo Parto,         TIPOPARTO,  1,  PARTO.CNV
+;
+;       Definições para Peso ao Nascer
+;
+XPeso ao nascer,     PESONASC,   1,  PESO.CNV
+;
+;       Fim das definições para menor de 1 ano
+;
+;       Definições para Estado Civil
+;
+XEstado Civil,       ESTCIVIL,   1,  ESTCIV.CNV
+;
+;       Definições para Local de Ocorrencia
+;
+XLocal Ocorrência,   LOCOCOR,    1,  LOCOCOR.CNV
+;
+;       Definições para Ocupação
+;
+LOcupação,           OCUPACAO,   1,  OCUPACAO.CNV
+SOcupação,           OCUPACAO,   1,  OCUPACAO.CNV
+LSubGr Ocupação,     OCUPACAO,   1,  SGRPOCUP.CNV
+SSubGr Ocupação,     OCUPACAO,   1,  SGRPOCUP.CNV
+LGrupo Ocupação,     OCUPACAO,   1,  GRUPOCUP.CNV
+SGrupo Ocupação,     OCUPACAO,   1,  GRUPOCUP.CNV
+;
+;       Definições para Naturalidade
+;
+LNaturalidade,       NATURAL,    1,  NATURAL.CNV
+SNaturalidade,       NATURAL,    1,  NATURAL.CNV
+;                    
+;       Definições para Instrucao
+;
+XInstrução,          INSTRUCAO,  1,  INSTRUC.CNV
+;
+;       Definições para Atestado Médico
+;
+;       Definições para Assistência Médica
+;
+XAssist Médica,      ASSISTMED,  1,  ASSMEDIC.CNV
+;
+;       Definições para Atestante
+;
+XAtestante,          ATESTANTE,  1,  ATESTANT.CNV
+;
+;       Definições para Exame
+;
+XExame Complement,   EXAME,      1,  EXAME.CNV
+;
+;       Definições para Cirurgia
+;
+XCirurgia,           CIRURGIA,   1,  CIRURGIA.CNV
+;
+;       Definições para Necropsia
+;
+XNecrópsia,          NECROPSIA,  1,  NECROPS.CNV
+;
+;       Definições para Óbito Feminino 1
+;
+XÓbito Femin 1,      OBITOFE1,   1,  OBITOFE1.CNV
+;
+;       Definições para Óbito Feminino 2
+;
+XÓbito Femin 2,      OBITOFE2,   1,  OBITOFE2.CNV
+;
+;       Definições para Causas Externas
+;
+;       Definições para Tipo de Violencia
+;
+XTipo Violencia,     TIPOVIOL,   1,  TIPOVIOL.CNV
+;
+;       Definições para Tipo de Acidente
+;
+XTipo Acidente,      TIPOACID,   1,  TIPOACID.CNV
+;
+;       Definições para Fonte de Informacao
+;
+XFonte Informação,   FONTINFO,   1,  FONTINFO.CNV
+;
+;       Definições para Acidente de Trabalho
+;
+XAcid Trabalho,      ACIDTRAB,   1,  ACIDTRAB.CNV
+;
+;       Definições para Local do Acidente
+;
+XLocal Acidente,     LOCACID,    1,  LOCACID.CNV
+;
+;       Definições para DO registradas
+;
+TDOs registradas,    REGISTRO,   3,  DOREG.CNV

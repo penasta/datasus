@@ -1,0 +1,283 @@
+    281  4 L                                                     
+      1  580.0 Com lesao de glomerulonefrite proliferativa  5800 
+      2  580.4 Com lesao glomerulonefrite rapid progressiva 5804 
+      3  580.8 Com outr lesao anatomopatolog renal especif  5808 
+      4  580.9 Não especificada                             5809 
+      5  581.0 Com lesao de glomerulonefrite proliferativa  5810 
+      6  581.1 Com lesao de glomerulonefrite membranosa     5811 
+      7  581.2 Com lesao glomerulonefrite membranoprolifera 5812 
+      8  581.3 Com lesao de glomerulonefrite lesões minimas 5813 
+      9  581.8 Com outr lesao anatomopatolog renal especif  5818 
+     10  581.9 Não especificada                             5819 
+     11  582.0 Com lesao de glomerulonefrite proliferativa  5820 
+     12  582.1 Com lesao de glomerulonefrite membranosa     5821 
+     13  582.2 Com lesao glomerulonefrite membranoprolifera 5822 
+     14  582.4 Com lesao glomerulonefrite rapid progressiva 5824 
+     15  582.8 Com outr lesao anatomopatolog renal especif  5828 
+     16  582.9 Não especificada                             5829 
+     17  583.0 Com lesao de glomerulonefrite proliferativa  5830 
+     18  583.1 Com lesao de glomerulonefrite membranosa     5831 
+     19  583.2 Com lesao glomerulonefrite membranoprolifera 5832 
+     20  583.4 Com lesao glomerulonefrite rapid progressiva 5834 
+     21  583.6 Com lesao de necrose cortical renal          5836 
+     22  583.7 Com lesao de necrose medular renal           5837 
+     23  583.8 Com outr lesao anatomopatolog renal especif  5838 
+     24  583.9 Com lesao anatomopatologica renal não especi 5839 
+     25  584.5 Com lesao de necrose tubular                 5845 
+     26  584.6 Com lesao de necrose cortical renal          5846 
+     27  584.7 Com lesao de necrose medular (papilar) renal 5847 
+     28  584.8 Com outr lesao anatomopatolog renal especif  5848 
+     29  584.9 Não especificada                             5849 
+     30  585 - Insuficiência renal crônica                  585X 
+     31  586 - Insuficiência renal não especificada         586X 
+     32  587 - Esclerose renal não especificada             587X 
+     33  588.0 Osteodistrofia renal                         5880 
+     34  588.1 Diabetes insipidus nefrogenico               5881 
+     35  588.8 Outros                                       5888 
+     36  588.9 Não especificados                            5889 
+     37  589.0 Unilateral                                   5890 
+     38  589.1 Bilateral                                    5891 
+     39  589.9 Não especificado                             5899 
+     40  590.0 Pielonefrite crônica e pionefrose crônica    5900 
+     41  590.1 Pielonefrite aguda e pionefrose aguda        5901 
+     42  590.2 Abcesso renal e perinefretico                5902 
+     43  590.3 Pieloureterite cistica                       5903 
+     44  590.8 Pielonefrite ou pionefrose                   5908 
+     45  590.9 Infeccao do rim não especificada             5909 
+     46  591 - Hidronefrose                                 591X 
+     47  592.0 Calculose do rim                             5920 
+     48  592.1 Calculose do ureter                          5921 
+     49  592.9 Calculose urinaria                           5929 
+     50  593.0 Nefroptose                                   5930 
+     51  593.1 Hipertrofia do rim                           5931 
+     52  593.2 Cisto do rim                                 5932 
+     53  593.3 Constriccao ou dobra do ureter               5933 
+     54  593.4 Outras obstrucoes do ureter                  5934 
+     55  593.5 Hidroureter                                  5935 
+     56  593.6 Proteinuria postural                         5936 
+     57  593.7 Refluxo vesico-ureterico                     5937 
+     58  593.8 Outros                                       5938 
+     59  593.9 Não especificados                            5939 
+     60  594.0 Calculo em diverticulo de bexiga             5940 
+     61  594.1 Outros calculos da bexiga                    5941 
+     62  594.2 Calculo uretral                              5942 
+     63  594.8 Outros calculos do trato urinário inferior   5948 
+     64  594.9 Não especificados                            5949 
+     65  595.0 Cistite aguda                                5950 
+     66  595.1 Cistite crônica intersticial                 5951 
+     67  595.2 Outras cistites crônicas                     5952 
+     68  595.3 Trigonite                                    5953 
+     69  595.4 Cistite em doenças classificadas outra parte 5954 
+     70  595.8 Outras                                       5958 
+     71  595.9 Não especificadas                            5959 
+     72  596.0 Obstrucao do colo da bexiga                  5960 
+     73  596.1 Fistula entero-vesical                       5961 
+     74  596.2 Fistula vesical                              5962 
+     75  596.3 Diverticulo da bexiga                        5963 
+     76  596.4 Atonia da bexiga                             5964 
+     77  596.5 Outros transtornos funcionais da bexiga      5965 
+     78  596.6 Rotura da bexiga não traumatica              5966 
+     79  596.7 Hemorragia intramural da bexiga              5967 
+     80  596.8 Outras                                       5968 
+     81  596.9 Não especificadas                            5969 
+     82  597.0 Abcesso uretral                              5970 
+     83  597.8 Outras uretrites                             5978 
+     84  597.9 Código inválido - fora da CID                5979 
+     85  598.0 Infecciosa                                   5980 
+     86  598.1 Traumatica                                   5981 
+     87  598.2 Pos-operatoria                               5982 
+     88  598.8 Outras                                       5988 
+     89  598.9 Não especificadas                            5989 
+     90  599.0 Infeccao trato urinário localiz não especif  5990 
+     91  599.1 Fistula uretral                              5991 
+     92  599.2 Diverticulo uretral                          5992 
+     93  599.3 Caruncula uretral                            5993 
+     94  599.4 Falso pertuito uretral                       5994 
+     95  599.5 Prolapso da mucosa uretral                   5995 
+     96  599.6 Obstrucao urinaria não especificada          5996 
+     97  599.7 Hematuria                                    5997 
+     98  599.8 Outras                                       5998 
+     99  599.9 Não especificadas                            5999 
+    100  600 - Hiperplasia da próstata                      600X 
+    101  601.0 Prostatite aguda                             6010 
+    102  601.1 Prostatite crônica                           6011 
+    103  601.2 Abcesso da prostata                          6012 
+    104  601.3 Prostatocistite                              6013 
+    105  601.4 Prostatite em doenças classif em outra parte 6014 
+    106  601.8 Outras                                       6018 
+    107  601.9 Não especificadas                            6019 
+    108  602.0 Calculo da prostata                          6020 
+    109  602.1 Congestao ou hemorragia da prostata          6021 
+    110  602.2 Atrofia da prostata                          6022 
+    111  602.8 Outras                                       6028 
+    112  602.9 Não especificadas                            6029 
+    113  603.0 Hidrocele encistada                          6030 
+    114  603.1 Hidrocele infectada                          6031 
+    115  603.8 Outra                                        6038 
+    116  603.9 Não especificada                             6039 
+    117  604.0 Orquite                                      6040 
+    118  604.9 Orquite                                      6049 
+    119  605 - Hipertrofia do prepúcio e fimose             605X 
+    120  606 - Infertilidade masculina                      606X 
+    121  607.0 Leucoplasia do penis                         6070 
+    122  607.1 Balanopostite                                6071 
+    123  607.2 Outras doenças inflamatorias do penis        6072 
+    124  607.3 Priapismo                                    6073 
+    125  607.8 Outras                                       6078 
+    126  607.9 Não especificadas                            6079 
+    127  608.0 Vesiculite seminal                           6080 
+    128  608.1 Espermatocele                                6081 
+    129  608.2 Torcao do testiculo                          6082 
+    130  608.3 Atrofia do testiculo                         6083 
+    131  608.4 Outr transt inflamatorios órgãos genit masc  6084 
+    132  608.8 Outros                                       6088 
+    133  608.9 Não especificados                            6089 
+    134  610.0 Cisto solitario da mama                      6100 
+    135  610.1 Mastopatia cistica difusa                    6101 
+    136  610.2 Fibroadenose da mama                         6102 
+    137  610.3 Fibrosclerose da mama                        6103 
+    138  610.4 Ectasia de dutos mamarios                    6104 
+    139  610.8 Outras                                       6108 
+    140  610.9 Displasia mamaria não especificada           6109 
+    141  611.0 Doença inflamatoria da mama                  6110 
+    142  611.1 Hipertrofia da mama                          6111 
+    143  611.2 Fissura do mamilo                            6112 
+    144  611.3 Necrose gordurosa da mama                    6113 
+    145  611.4 Atrofia da mama                              6114 
+    146  611.5 Galactocele                                  6115 
+    147  611.6 Galactorreia não associada ao parto          6116 
+    148  611.7 Sinais e sintomas da mama                    6117 
+    149  611.8 Outras                                       6118 
+    150  611.9 Não especificadas                            6119 
+    151  614.0 Salpingite e ooforite agudas                 6140 
+    152  614.1 Salpingite e ooforite crônicas               6141 
+    153  614.2 Salpingite e ooforite                        6142 
+    154  614.3 Parametrite e celulite pelvica agudas        6143 
+    155  614.4 Parametrite celulite pelvic crônic ou n espe 6144 
+    156  614.5 Peritonite pelvica aguda ou não especificada 6145 
+    157  614.6 Aderencias peritoniais pelvicas              6146 
+    158  614.7 Outras peritonites pelvicas crônicas         6147 
+    159  614.8 Outr doenç inflam espec org e tecid pelv fem 6148 
+    160  614.9 Doenc inflam n espec org e tecid pelv femini 6149 
+    161  615.0 Agudas                                       6150 
+    162  615.1 Cronicas                                     6151 
+    163  615.9 Não especificadas                            6159 
+    164  616.0 Cervicite e endocervicite                    6160 
+    165  616.1 Vaginite e vulvovaginite                     6161 
+    166  616.2 Cisto da glandula de bartholin               6162 
+    167  616.3 Abcesso da glandula de bartholin             6163 
+    168  616.4 Outros abcessos da vulva                     6164 
+    169  616.5 Úlceracao da vulva                           6165 
+    170  616.8 Outras                                       6168 
+    171  616.9 Não especificadas                            6169 
+    172  617.0 Do utero                                     6170 
+    173  617.1 Do ovario                                    6171 
+    174  617.2 Da trompa de falopio                         6172 
+    175  617.3 Do peritônio pelvico                         6173 
+    176  617.4 Do septo retovaginal e da vagina             6174 
+    177  617.5 Do intestino                                 6175 
+    178  617.6 Endometriose em cicatriz ou na pele          6176 
+    179  617.8 De outras localizações especificadas         6178 
+    180  617.9 De localizacao não especificada              6179 
+    181  618.0 Prolapso das paredes vaginais                6180 
+    182  618.1 Prolapso uterino s/menc prolapso parede vagi 6181 
+    183  618.2 Prolapso uterovaginal incompleto             6182 
+    184  618.3 Prolapso uterovaginal completo               6183 
+    185  618.4 Prolapso uterovaginal não especificado       6184 
+    186  618.5 Prolapso da cupula vaginal pós-histerectomia 6185 
+    187  618.6 Enterocele vaginal congênita ou adquirida    6186 
+    188  618.7 Laceracao antiga musculos assoalho pelvico   6187 
+    189  618.8 Outros                                       6188 
+    190  618.9 Não especificados                            6189 
+    191  619.0 Fistula do trato geniturinario               6190 
+    192  619.1 Fistula digestivo-genital                    6191 
+    193  619.2 Fistula genitocutanea                        6192 
+    194  619.8 Outras                                       6198 
+    195  619.9 Fistulas não especif trato genital feminino  6199 
+    196  620.0 Cisto folicular do ovario                    6200 
+    197  620.1 Cisto ou hematoma de corpo luteo             6201 
+    198  620.2 Outros cistos ovarianos e os não especific   6202 
+    199  620.3 Atrofia adquirida ovario e trompa de falopio 6203 
+    200  620.4 Prolapso ou hernia ovario e trompa de falopi 6204 
+    201  620.5 Torcao do ovario                             6205 
+    202  620.6 Síndrome de laceracao do ligamento largo     6206 
+    203  620.7 Hematoma do ligamento largo                  6207 
+    204  620.8 Outros                                       6208 
+    205  620.9 Não especificados                            6209 
+    206  621.0 Polipo do corpo do utero                     6210 
+    207  621.1 Subinvolucao crônica do utero                6211 
+    208  621.2 Hipertrofia do utero                         6212 
+    209  621.3 Hiperplasia endometrial cistica              6213 
+    210  621.4 Hematometra                                  6214 
+    211  621.5 Sinequias intra-uterinas                     6215 
+    212  621.6 Posicao anormal do utero                     6216 
+    213  621.7 Inversao crônica do utero                    6217 
+    214  621.8 Outros                                       6218 
+    215  621.9 Afecções não especificadas do utero          6219 
+    216  622.0 Erosao e ectropio do colo do utero           6220 
+    217  622.1 Displasia do colo (uterino)                  6221 
+    218  622.2 Leucoplasia do colo (uterino)                6222 
+    219  622.3 Laceracao antiga do colo do utero            6223 
+    220  622.4 Estreitamento e estenose do colo do utero    6224 
+    221  622.5 Incompetencia do colo do utero               6225 
+    222  622.6 Alongamento hipertrofico do colo do utero    6226 
+    223  622.7 Polipo mucoso do colo do utero               6227 
+    224  622.8 Outros                                       6228 
+    225  622.9 Não especificados                            6229 
+    226  623.0 Displasia da vagina                          6230 
+    227  623.1 Leucoplasia da vagina                        6231 
+    228  623.2 Estreitamento ou atresia da vagina           6232 
+    229  623.3 Anel himenal apertado                        6233 
+    230  623.4 Laceracao vaginal antiga                     6234 
+    231  623.5 Leucorreia                                   6235 
+    232  623.6 Hematoma vaginal                             6236 
+    233  623.7 Polipo da vagina                             6237 
+    234  623.8 Outros                                       6238 
+    235  623.9 Não especificados                            6239 
+    236  624.0 Distrofia da vulva                           6240 
+    237  624.1 Atrofia da vulva                             6241 
+    238  624.2 Hipertrofia do clitoris                      6242 
+    239  624.3 Hipertrofia dos labios                       6243 
+    240  624.4 Laceracao antiga e cicatriz da vulva         6244 
+    241  624.5 Hematoma da vulva                            6245 
+    242  624.6 Polipo dos labios e da vulva                 6246 
+    243  624.8 Outros                                       6248 
+    244  624.9 Não especificados                            6249 
+    245  625.0 Dispareunia                                  6250 
+    246  625.1 Vaginismo                                    6251 
+    247  625.2 Ovulacao dolorosa (mittelschmerz)            6252 
+    248  625.3 Dismenorreia                                 6253 
+    249  625.4 Síndrome de tensao pre-menstrual             6254 
+    250  625.5 Síndrome de congestao pelvica                6255 
+    251  625.6 Incontinencia por "stress"                   6256 
+    252  625.8 Outros                                       6258 
+    253  625.9 Não especificados                            6259 
+    254  626.0 Ausencia de menstruacao                      6260 
+    255  626.1 Menstruacao escassa ou infrequente           6261 
+    256  626.2 Menstruacao excessiva ou frequente           6262 
+    257  626.3 Hemorragia genital da puberdade              6263 
+    258  626.4 Ciclo menstrual irregular                    6264 
+    259  626.5 Hemorragia da ovulacao                       6265 
+    260  626.6 Metrorragia                                  6266 
+    261  626.7 Hemorragia pós-coito                         6267 
+    262  626.8 Outros                                       6268 
+    263  626.9 Não especificados                            6269 
+    264  627.0 Menorragia pre-menopausica                   6270 
+    265  627.1 Hemorragia genital pós-menopausica           6271 
+    266  627.2 Estados menopausicos ou climaterio feminino  6272 
+    267  627.3 Vaginite atrofica pós-menopausica            6273 
+    268  627.4 Condicoes associadas com menopausa artificia 6274 
+    269  627.8 Outros                                       6278 
+    270  627.9 Não especificados                            6279 
+    271  628.0 Associada com anovulacao                     6280 
+    272  628.1 De origem hipotalamo-hipofisaria             6281 
+    273  628.2 De origem tubaria                            6282 
+    274  628.3 De origem uterina                            6283 
+    275  628.4 De origem cervical ou vaginal                6284 
+    276  628.8 De outra origem especificada                 6288 
+    277  628.9 De origem não especificada                   6289 
+    278  629.0 Hematocele                                   6290 
+    279  629.1 Hidrocele do canal de nuck                   6291 
+    280  629.8 Outros                                       6298 
+    281  629.9 Não especificados                            6299 
+

@@ -1,0 +1,90 @@
+89 4 
+     88  36 Todas as outras doencas e lesoes (definidas)    0000-9999
+      1   1 Doencas infecciosas intestinais                 0010-0099
+  1   2    - Colera                                         0010-0019
+  1   3    - Infeccoes intestinais mal definidas            0091-0099
+  1   4    - As demais                                      0020-0089
+      5   2 Doencas imunopreveniveis                        0320-0329,0330-0339,0370-0379,0450-0459,0550-0559,1380-1389,7713
+  5   6    - Difteria                                       0320-0329
+  5   7    - Coqueluche                                     0330-0339
+  5   8    - Tetano acidental                               0370-0379
+  5   9    - Tetano neonatal                                7713
+  5  10    - Poliomielite aguda e efeitos tardios           0450-0459,1380-1389
+  5  11    - Sarampo                                        0550-0559
+     12   3 D infec redutiveis p diagnost e tratam precoc   0100-0189,0300-0309,0900-0979,1370-1379
+ 12  13    - Tuberculose e efeitos tardios                  0100-0189,1370-1379
+ 12  14    - Hanseniase                                     0300-0309
+ 12  15    - Sifilis                                        0900-0979
+     16   4 Doen infec redut saneam contr vetor e out medid 0200-0209,0600-0619,0700-0719,0840-0869,1000-1009,1200-1209
+ 16  17    - Peste                                          0200-0209
+ 16  18    - Febre amarela                                  0600-0609
+ 16  19    - Dengue                                         0610-0619
+ 16  20    - Hepatites virais                               0700-0709
+ 16  21    - Raiva                                          0710-0719
+ 16  22    - Malaria                                        0840-0849
+ 16  23    - Leishmaniose                                   0850-0859
+ 16  24    - Tripanossomiase                                0860-0869
+ 16  25    - Leptospirose                                   1000-1009
+ 16  26    - Esquitossomose                                 1200-1209
+     27   5 Septicemia                                      0380-0389
+     28   6 Meningites (incl meningococia excl tuberculosa) 0360-0369,0470-0479,0490-0499,3200-3209,3220-3229
+     29   7 Neoplasmas malignos                             1400-2089
+ 29  30    - Esofago                                        1500-1509
+ 29  31    - Estomago                                       1510-1519
+ 29  32    - Colon                                          1530-1539
+ 29  33    - Laringe                                        1610-1619
+ 29  34    - Traqueia bronquios e pulmao                    1620-1629
+ 29  35    - Mama feminina                                  1740-1749
+ 29  36    - Colo do utero                                  1800-1809
+ 29  37    - Leucemia                                       2040-2089
+ 29  38    - Os demais neoplasmas malignos                  1400-1499,1520-1529,1540-1609,1630-1739,1750-1799,1810-2039
+     39   8 Neopl benig carcin comport incerto e nao espec  2100-2399
+     40   9 Diabetes mellitus                               2500-2509
+     41  10 Deficiencias nutricionais e anemias carenciais  2600-2699,2800-2819,2850-2859
+ 41  42    - Deficiencias nutricionais                      2600-2699
+ 41  43    - Anemias carenciais                             2800-2809,2810-2819,2850-2859
+     44  11 Transtornos mentais                             2900-3199
+ 44  45    - Sindrome da dependencia do alcool              3030-3039
+ 44  46    - Os demais transtornos mentais                  2900-3029,3040-3199
+     47  12 Epilepsia                                       3450-2459
+     48  13 Febre reumatica e doenca reumatica do coracao   3900-3989
+     49  14 Doenca hipertensiva                             4010-4059
+     50  15 Doenca isquemica do coracao                     4100-4149
+ 50  51    - Infarto agudo do miocardio                     4100-4109
+ 50  52    - As demais                                      4110-4149
+     53  16 Doenca da circ pulm e out form de doen do cor   4150-4299
+ 53  54    - Insuficiencia cardiaca                         4280-4289
+ 53  55    - As demais                                      4150-4279,4290-4299
+     56  17 Doenca cerebrovascular                          4300-4389
+ 56  57    - Doenca cerebrovascular aguda mal definida      4360-4369
+ 56  58    - As demais                                      4300-4359,4370-4389
+     59  18 Doencas das arterias arteriolas e capilares     4400-4489
+     60  19 Infeccoes respiratorias agudas                  4600-4669,4800-4879
+ 60  61    - Infec agudas das vias resp sup e bronq aguda   4600-4669
+ 60  62    - Pneumonia e gripe                              4800-4879
+     63  20 Doenca pulmonar obstrutiva cronica e afec afins 4900-4969
+     64  21 Edema agudo e outras doencas do pulmao          5180-5189
+     65  22 Doencas do esofago estomago e duodeno           5300-5379
+     66  23 Apend hern cav abdom e out afec intest e perit  5400-5699
+     67  24 Doenca cronica do figado e cirrose              5710-5719
+     68  25 Doencas do aparelho urinario                    5800-5999
+     69  26 Doencas dos orgaos genitais masculinos          6000-6089
+     70  27 Doencas dos orgaos genitais femininos           6100-6299
+     71  28 Complicacoes da gravidez do parto e do puerper  6300-6769
+ 71  72    - Aborto                                         6300-6399
+ 71  73    - As demais                                      6400-6769
+     74  29 Anomalias congenitas                            7400-7599
+     75  30 Afec orig periodo perinat (exc tetano neonatal) 7600-7712,7714-7799
+ 75  76    - Prematur baixo peso nasc e cresc fetal retard  7640-7659
+ 75  77    - Hipoxia e asfixia ao nasc e out afec respirat  7680-7709
+ 75  78    - Infec especif periodo perinatal exc tet neonat 7710-7712,7714-7719
+ 75  79    - As demais                                      7600-7639,7660-7679,7720-7799
+     80  31 Acidentes de transito de veiculo a motor        8100-8199
+     81  32 Acid exc de trans de veic motor, e efeit advers 8000-8079,8200-9499
+ 81  82    - Fratura de causa nao especificada              8870-8879
+ 81  83    - Afogamento acidental                           9100-9109
+ 81  84    - Os demais                                      8000-8079,8200-8869,8890-9099,9110-9499
+     85  33 Suicidios                                       9500-9599
+     86  34 Homicidios                                      9600-9699
+     87  35 Lesoes em que se ignora se foram acid ou intenc 9800-9899
+     89  37 Sinais sintomas e afeccoes mal definidas        7800-7999

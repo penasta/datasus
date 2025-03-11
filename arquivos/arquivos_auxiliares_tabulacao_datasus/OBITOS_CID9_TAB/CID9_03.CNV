@@ -1,0 +1,217 @@
+    215  4 L                                                     
+      1  240.0 Bocio especificado como simples              2400 
+      2  240.9 Bocio não especificado                       2409 
+      3  241.0 Bocio uninodular não toxico                  2410 
+      4  241.1 Bocio multinodular não toxico                2411 
+      5  241.9 Não especificado                             2419 
+      6  242.0 Bocio difuso toxico                          2420 
+      7  242.1 Bocio uninodular toxico                      2421 
+      8  242.2 Bocio multinodular toxico                    2422 
+      9  242.3 Bocio nodular toxico                         2423 
+     10  242.4 Tireotoxicose causada nodulo tireóide ectopi 2424 
+     11  242.8 Tireotoxicose de outra causa especificada    2428 
+     12  242.9 Tireotoxicose s/menc de bocio ou outra causa 2429 
+     13  243 - Hipotireoidismo congênito                    243X 
+     14  244.0 Hipotireoidismo pós-cirurgico                2440 
+     15  244.1 Hipotireoidismo outr tipos ablação tireóide  2441 
+     16  244.2 Hipotireoidismo por iodo                     2442 
+     17  244.3 Outros hipotireoidismos iatrogenicos         2443 
+     18  244.8 Outros                                       2448 
+     19  244.9 Hipotireoidismo não especificado             2449 
+     20  245.0 Tireoidite aguda                             2450 
+     21  245.1 Tireoidite subaguda                          2451 
+     22  245.2 Tireoidite crônica linfocítica               2452 
+     23  245.3 Tireoidite crônica fibrosa                   2453 
+     24  245.4 Tireoidite iatrogenica                       2454 
+     25  245.8 Outr tireoidites crônic e crônic não especif 2458 
+     26  245.9 Não especificada                             2459 
+     27  246.0 Transtornos da secreção da tireocalcitonina  2460 
+     28  246.1 Bocio disormonogenico                        2461 
+     29  246.2 Cisto da tireóide                            2462 
+     30  246.3 Hemorragia e infarto da tireóide             2463 
+     31  246.8 Outros                                       2468 
+     32  246.9 Não especificados                            2469 
+     33  250.0 Diabetes mellitus sem menção de complicação  2500 
+     34  250.1 Diabetes com cetoacidose                     2501 
+     35  250.2 Diabetes com coma                            2502 
+     36  250.3 Diabetes com manifestações renais            2503 
+     37  250.4 Diabetes com manifestações oftálmicas        2504 
+     38  250.5 Diabetes com manifestações neurológicas      2505 
+     39  250.6 Diabetes com transt circulatorios periferico 2506 
+     40  250.7 Diabetes com outras manifestações especific  2507 
+     41  250.8 Código inválido - fora da CID                2508 
+     42  250.9 Diabetes com complicações não especificadas  2509 
+     43  251.0 Coma hipoglicemico                           2510 
+     44  251.1 Outras formas de hiperinsulinismo            2511 
+     45  251.2 Hipoglicemia não especificada                2512 
+     46  251.3 Hipoinsulinemia pós-cirurgica                2513 
+     47  251.4 Anormalidade de secreção de glucagon         2514 
+     48  251.5 Anormalidade de secreção de gastrina         2515 
+     49  251.8 Outros                                       2518 
+     50  251.9 Não especificados                            2519 
+     51  252.0 Hiperparatireoidismo                         2520 
+     52  252.1 Hipoparatireoidismo                          2521 
+     53  252.8 Outros                                       2528 
+     54  252.9 Não especificados                            2529 
+     55  253.0 Acromegalia e gigantismo                     2530 
+     56  253.1 Outras hiperfuncoes da hipofise anterior     2531 
+     57  253.2 Panhipopituitarismo                          2532 
+     58  253.3 Nanismo hipofisario                          2533 
+     59  253.4 Outros transtornos da hipofise anterior      2534 
+     60  253.5 Diabetes insipido                            2535 
+     61  253.6 Outros transtornos da neurohipofise          2536 
+     62  253.7 Transtornos hipofisarios iatrogenicos        2537 
+     63  253.8 Outr transt hipof outr sindr orig diencef-hi 2538 
+     64  253.9 Não especificadas                            2539 
+     65  254.0 Hiperplasia persistente do timo              2540 
+     66  254.1 Abcesso do timo                              2541 
+     67  254.8 Outras                                       2548 
+     68  254.9 Não especificadas                            2549 
+     69  255.0 Síndrome de cushing                          2550 
+     70  255.1 Hiperaldosteronismo                          2551 
+     71  255.2 Transtornos adrenogenitais                   2552 
+     72  255.3 Outros excessos de atividade adreno-cortical 2553 
+     73  255.4 Insuficiencia cortico-supra-renal            2554 
+     74  255.5 Outra hipofunção da supra-renal              2555 
+     75  255.6 Hiperfunção da medula da supra-renal         2556 
+     76  255.8 Outras                                       2558 
+     77  255.9 Não especificados                            2559 
+     78  256.0 Hiperestrogenismo                            2560 
+     79  256.1 Outras hiperfuncoes ovarianas                2561 
+     80  256.2 Insuficiencia ovariana pós-ablação           2562 
+     81  256.3 Outras insuficiencias do ovario              2563 
+     82  256.4 Ovarios policisticos                         2564 
+     83  256.8 Outras                                       2568 
+     84  256.9 Não especificadas                            2569 
+     85  257.0 Hiperfunção testicular                       2570 
+     86  257.1 Hipofunção pós-ablação testicular            2571 
+     87  257.2 Outras hipofuncoes testiculares              2572 
+     88  257.8 Outras                                       2578 
+     89  257.9 Não especificada                             2579 
+     90  258.0 Ativ poligland adenomatose endocrina multip  2580 
+     91  258.1 Outras combinacoes de disfunção endocrina    2581 
+     92  258.8 Outras                                       2588 
+     93  258.9 Disfunção poliglandular não especificada     2589 
+     94  259.0 Retardo desenv sexual e puberdade NCOP       2590 
+     95  259.1 Desenvolv sexual e puberdade precoces NCOP   2591 
+     96  259.2 Síndrome carcinóide                          2592 
+     97  259.3 Secreção hormonal ectopica NCOP              2593 
+     98  259.4 Nanismo não classificado em outra parte      2594 
+     99  259.8 Outros                                       2598 
+    100  259.9 Não especificados                            2599 
+    101  260 - Kwashiorkor                                  260X 
+    102  261 - Marasmo nutricional                          261X 
+    103  262 - Out formas desnutriç prot-calóric grav       262X 
+    104  263.0 Desnutrição de grau moderado                 2630 
+    105  263.1 Desnutrição de grau leve                     2631 
+    106  263.2 Interrup desenv conseq desnutr proteico-calo 2632 
+    107  263.4 Código inválido - fora da CID                2634 
+    108  263.8 Outros tipos de desnutrição proteico-caloric 2638 
+    109  263.9 Tipos não especificados                      2639 
+    110  264.0 Com xerose conjuntival                       2640 
+    111  264.1 Com mancha de bitot e xerose conjuntival     2641 
+    112  264.2 Com xerose da cornea                         2642 
+    113  264.3 Com ulceração e xerose da cornea             2643 
+    114  264.4 Com ceratomalacia                            2644 
+    115  264.5 Com cegueira noturna                         2645 
+    116  264.6 Com cicatrizes xeroftalmicas da cornea       2646 
+    117  264.7 Outr manifest oculares dev defic vitamina a  2647 
+    118  264.8 Outr manifest dev deficiencia de vitamina a  2648 
+    119  264.9 Não especificada                             2649 
+    120  265.0 Beriberi                                     2650 
+    121  265.1 Outras manifestações                         2651 
+    122  265.2 Pelagra                                      2652 
+    123  265.9 Código inválido - fora da CID                2659 
+    124  266.0 Arriboflavinose                              2660 
+    125  266.1 Deficiencia de vitamina b6                   2661 
+    126  266.2 Outras deficiencias do complexo b            2662 
+    127  266.9 Deficiencia não especificada de complexo b   2669 
+    128  267 - Deficiência de ácido ascórbico               267X 
+    129  268.0 Raquitismo ativo                             2680 
+    130  268.1 Efeitos tardios do raquitismo                2681 
+    131  268.2 Osteomalacia                                 2682 
+    132  268.9 Não especificada                             2689 
+    133  269.0 Deficiencia de vitamina k                    2690 
+    134  269.1 Deficiencia de outras vitaminas              2691 
+    135  269.2 Deficiencia de vitamina não especificada     2692 
+    136  269.3 Deficiencia mineral NCOP                     2693 
+    137  269.8 Outras deficiencias nutricionais             2698 
+    138  269.9 Não especificada                             2699 
+    139  270.0 Alteracoes do transporte de aminoacidos      2700 
+    140  270.1 Fenilcetonuria                               2701 
+    141  270.2 Outr alteracoes metab aminoacidos aromaticos 2702 
+    142  270.3 Alteracoes metab aminoacidos cadeia ramific  2703 
+    143  270.4 Alteracoes metab aminoacidos contem enxofre  2704 
+    144  270.5 Alteracoes do metabolismo da histidina       2705 
+    145  270.6 Transtornos do metabolismo do ciclo da ureia 2706 
+    146  270.7 Outr alter metab aminoacid cadeias não ramif 2707 
+    147  270.8 Outros                                       2708 
+    148  270.9 Não especificados                            2709 
+    149  271.0 Glicogenose                                  2710 
+    150  271.1 Galactosemia                                 2711 
+    151  271.2 Intolerancia hereditaria a frutose           2712 
+    152  271.3 Defic dissacarid intest ma-absorção dissacar 2713 
+    153  271.4 Glicosuria renal                             2714 
+    154  271.8 Outros                                       2718 
+    155  271.9 Não especificados                            2719 
+    156  272.0 Hipercolesterolemia pura                     2720 
+    157  272.1 Hipergliceridemia pura                       2721 
+    158  272.2 Hiperlipidemia mista                         2722 
+    159  272.3 Hiperquilomicronemia                         2723 
+    160  272.4 Outras hiperlipidemias e as não especificada 2724 
+    161  272.5 Deficiencias de lipoproteinas                2725 
+    162  272.6 Lipodistrofia                                2726 
+    163  272.7 Lipidoses                                    2727 
+    164  272.8 Outros transtornos do metabolismo dos lipide 2728 
+    165  272.9 Transt não especif do metabolismo dos lipide 2729 
+    166  273.0 Hipergamaglobulinemia policlonal             2730 
+    167  273.1 Paraproteinemia monoclonal                   2731 
+    168  273.2 Outras paraproteinemias                      2732 
+    169  273.3 Macroglobulinemia                            2733 
+    170  273.8 Outros                                       2738 
+    171  273.9 Não especificados                            2739 
+    172  274.0 Artropatia gotosa                            2740 
+    173  274.1 Nefropatia gotosa                            2741 
+    174  274.8 Gota com outras manifestações                2748 
+    175  274.9 Não especificada                             2749 
+    176  275.0 Transtornos do metabolismo do ferro          2750 
+    177  275.1 Transtornos do metabolismo do cobre          2751 
+    178  275.2 Transtornos do metabolismo do magnesio       2752 
+    179  275.3 Transtornos do metabolismo do fosforo        2753 
+    180  275.4 Transtornos do metabolismo do calcio         2754 
+    181  75.5 Código inválido - fora da CID                 2755 
+    182  275.8 Outros                                       2758 
+    183  275.9 Não especificados                            2759 
+    184  276.0 Hiperosmolaridade e/ou hipernatremia         2760 
+    185  276.1 Hiposmolaridade e/ou hiponatremia            2761 
+    186  276.2 Acidose                                      2762 
+    187  276.3 Alcalose                                     2763 
+    188  276.4 Transtorno misto do equilibrio acido-basico  2764 
+    189  276.5 Depleção de volume liquido                   2765 
+    190  276.6 Sobrecarga hidrica                           2766 
+    191  276.7 Hiperpotassemia                              2767 
+    192  276.8 Hipopotassemia                               2768 
+    193  276.9 Transtornos hidroeletroliticos NCOP          2769 
+    194  277.0 Fibrose cistica                              2770 
+    195  277.1 Transtornos do metabolismo da porfirina      2771 
+    196  277.2 Outros transtornos metab purina e pirimidina 2772 
+    197  277.3 Amiloidose                                   2773 
+    198  277.4 Transtornos da excreção da bilirrubina       2774 
+    199  277.5 Mucopolissacaridoses                         2775 
+    200  277.6 Outras deficiencias de enzimas circulantes   2776 
+    201  277.8 Outros                                       2778 
+    202  277.9 Não especificados                            2779 
+    203  278.0 Obesidade                                    2780 
+    204  278.1 Adiposidade localizada                       2781 
+    205  278.2 Hipervitaminose a                            2782 
+    206  278.3 Hipercarotenemia                             2783 
+    207  278.4 Hipervitaminose d                            2784 
+    208  278.8 Outras                                       2788 
+    209  279.0 Deficiencia da imunidade humoral             2790 
+    210  279.1 Deficiencia da imunidade celular             2791 
+    211  279.2 Deficiencia imunitaria combinada             2792 
+    212  279.3 Deficiencia imunitaria não especificada      2793 
+    213  279.4 Doença auto-imune NCOP                       2794 
+    214  279.8 Outros                                       2798 
+    215  279.9 Não especificados                            2799 
+

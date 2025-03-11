@@ -1,0 +1,419 @@
+     29  6                                                                                    
+      1  Alagoinhas                                         290030                            
+      1  Alagoinhas                                         290070                            
+      1  Alagoinhas                                         290190                            
+      1  Alagoinhas                                         290205                            
+      1  Alagoinhas                                         290220                            
+      1  Alagoinhas                                         290700                            
+      1  Alagoinhas                                         290750                            
+      1  Alagoinhas                                         290960                            
+      1  Alagoinhas                                         291050                            
+      1  Alagoinhas                                         291060                            
+      1  Alagoinhas                                         291370                            
+      1  Alagoinhas                                         291590                            
+      1  Alagoinhas                                         291650                            
+      1  Alagoinhas                                         291790                            
+      1  Alagoinhas                                         292330                            
+      1  Alagoinhas                                         292410                            
+      1  Alagoinhas                                         292700                            
+      1  Alagoinhas                                         292970                            
+      2  Barreiras                                          290140                            
+      2  Barreiras                                          290250                            
+      2  Barreiras                                          290320                            
+      2  Barreiras                                          290440                            
+      2  Barreiras                                          290740                            
+      2  Barreiras                                          290940                            
+      2  Barreiras                                          290970                            
+      2  Barreiras                                          291110                            
+      2  Barreiras                                          291955                            
+      2  Barreiras                                          292045                            
+      2  Barreiras                                          292620                            
+      2  Barreiras                                          292840                            
+      2  Barreiras                                          292890                            
+      2  Barreiras                                          293090                            
+      2  Barreiras                                          293345                            
+      3  Brumado                                            290050                            
+      3  Brumado                                            290200                            
+      3  Brumado                                            290280                            
+      3  Brumado                                            290410                            
+      3  Brumado                                            290420                            
+      3  Brumado                                            290460                            
+      3  Brumado                                            290755                            
+      3  Brumado                                            290880                            
+      3  Brumado                                            291010                            
+      3  Brumado                                            291165                            
+      3  Brumado                                            291220                            
+      3  Brumado                                            291250                            
+      3  Brumado                                            291720                            
+      3  Brumado                                            291860                            
+      3  Brumado                                            291950                            
+      3  Brumado                                            291980                            
+      3  Brumado                                            292030                            
+      3  Brumado                                            292360                            
+      3  Brumado                                            292670                            
+      3  Brumado                                            292690                            
+      3  Brumado                                            293100                            
+      4  Camaçari                                           290570                            
+      4  Camaçari                                           290860                            
+      4  Camaçari                                           291005                            
+      4  Camaçari                                           292100                            
+      4  Camaçari                                           292520                            
+      4  Camaçari                                           293070                            
+      5  Cruz das Almas                                     290485                            
+      5  Cruz das Almas                                     290490                            
+      5  Cruz das Almas                                     290820                            
+      5  Cruz das Almas                                     290980                            
+      5  Cruz das Almas                                     291160                            
+      5  Cruz das Almas                                     292060                            
+      5  Cruz das Almas                                     292230                            
+      5  Cruz das Almas                                     292900                            
+      5  Cruz das Almas                                     292960                            
+      6  Feira de Santana                                   290110                            
+      6  Feira de Santana                                   290150                            
+      6  Feira de Santana                                   290170                            
+      6  Feira de Santana                                   290260                            
+      6  Feira de Santana                                   290640                            
+      6  Feira de Santana                                   290685                            
+      6  Feira de Santana                                   290850                            
+      6  Feira de Santana                                   290890                            
+      6  Feira de Santana                                   291080                            
+      6  Feira de Santana                                   291125                            
+      6  Feira de Santana                                   291330                            
+      6  Feira de Santana                                   291380                            
+      6  Feira de Santana                                   291400                            
+      6  Feira de Santana                                   291450                            
+      6  Feira de Santana                                   292210                            
+      6  Feira de Santana                                   292273                            
+      6  Feira de Santana                                   292405                            
+      6  Feira de Santana                                   292465                            
+      6  Feira de Santana                                   292595                            
+      6  Feira de Santana                                   292630                            
+      6  Feira de Santana                                   292750                            
+      6  Feira de Santana                                   292830                            
+      6  Feira de Santana                                   292880                            
+      6  Feira de Santana                                   292930                            
+      6  Feira de Santana                                   293040                            
+      6  Feira de Santana                                   293110                            
+      6  Feira de Santana                                   293140                            
+      6  Feira de Santana                                   293170                            
+      7  Guanambi                                           290500                            
+      7  Guanambi                                           290520                            
+      7  Guanambi                                           290660                            
+      7  Guanambi                                           290710                            
+      7  Guanambi                                           291170                            
+      7  Guanambi                                           291200                            
+      7  Guanambi                                           291340                            
+      7  Guanambi                                           291733                            
+      7  Guanambi                                           291740                            
+      7  Guanambi                                           291875                            
+      7  Guanambi                                           291940                            
+      7  Guanambi                                           292020                            
+      7  Guanambi                                           292105                            
+      7  Guanambi                                           292180                            
+      7  Guanambi                                           292340                            
+      7  Guanambi                                           292450                            
+      7  Guanambi                                           292640                            
+      7  Guanambi                                           292680                            
+      7  Guanambi                                           293000                            
+      7  Guanambi                                           293105                            
+      7  Guanambi                                           293260                            
+      8  Ibotirama                                          290270                            
+      8  Ibotirama                                          290450                            
+      8  Ibotirama                                          290475                            
+      8  Ibotirama                                          291320                            
+      8  Ibotirama                                          291410                            
+      8  Ibotirama                                          292160                            
+      8  Ibotirama                                          292225                            
+      8  Ibotirama                                          292320                            
+      8  Ibotirama                                          292370                            
+      9  Ilhéus                                             290225                            
+      9  Ilhéus                                             290630                            
+      9  Ilhéus                                             291360                            
+      9  Ilhéus                                             291490                            
+      9  Ilhéus                                             292090                            
+      9  Ilhéus                                             292805                            
+      9  Ilhéus                                             293250                            
+      9  Ilhéus                                             293270                            
+     10  Irecê                                              290115                            
+     10  Irecê                                              290300                            
+     10  Irecê                                              290323                            
+     10  Irecê                                              290530                            
+     10  Irecê                                              290620                            
+     10  Irecê                                              290760                            
+     10  Irecê                                              291130                            
+     10  Irecê                                              291240                            
+     10  Irecê                                              291310                            
+     10  Irecê                                              291460                            
+     10  Irecê                                              291535                            
+     10  Irecê                                              291835                            
+     10  Irecê                                              291850                            
+     10  Irecê                                              291915                            
+     10  Irecê                                              292205                            
+     10  Irecê                                              292560                            
+     10  Irecê                                              292925                            
+     10  Irecê                                              293240                            
+     10  Irecê                                              293360                            
+     11  Itaberaba                                          290130                            
+     11  Itaberaba                                          290380                            
+     11  Itaberaba                                          290405                            
+     11  Itaberaba                                          291190                            
+     11  Itaberaba                                          291260                            
+     11  Itaberaba                                          291470                            
+     11  Itaberaba                                          291500                            
+     11  Itaberaba                                          291900                            
+     11  Itaberaba                                          291960                            
+     11  Itaberaba                                          292080                            
+     11  Itaberaba                                          292285                            
+     11  Itaberaba                                          292720                            
+     11  Itaberaba                                          293280                            
+     11  Itaberaba                                          293340                            
+     12  Itabuna                                            290090                            
+     12  Itabuna                                            290240                            
+     12  Itabuna                                            290330                            
+     12  Itabuna                                            290470                            
+     12  Itabuna                                            290560                            
+     12  Itabuna                                            290800                            
+     12  Itabuna                                            291100                            
+     12  Itabuna                                            291150                            
+     12  Itabuna                                            291210                            
+     12  Itabuna                                            291270                            
+     12  Itabuna                                            291480                            
+     12  Itabuna                                            291540                            
+     12  Itabuna                                            291550                            
+     12  Itabuna                                            291620                            
+     12  Itabuna                                            291660                            
+     12  Itabuna                                            291855                            
+     12  Itabuna                                            292390                            
+     12  Itabuna                                            292780                            
+     12  Itabuna                                            292935                            
+     12  Itabuna                                            293220                            
+     12  Itabuna                                            293230                            
+     13  Itapetinga                                         290480                            
+     13  Itapetinga                                         291090                            
+     13  Itapetinga                                         291230                            
+     13  Itapetinga                                         291350                            
+     13  Itapetinga                                         291580                            
+     13  Itapetinga                                         291640                            
+     13  Itapetinga                                         291680                            
+     13  Itapetinga                                         291710                            
+     13  Itapetinga                                         291970                            
+     13  Itapetinga                                         292000                            
+     13  Itapetinga                                         292270                            
+     13  Itapetinga                                         292540                            
+     14  Jacobina                                           290510                            
+     14  Jacobina                                           290550                            
+     14  Jacobina                                           290687                            
+     14  Jacobina                                           291750                            
+     14  Jacobina                                           292010                            
+     14  Jacobina                                           292120                            
+     14  Jacobina                                           292140                            
+     14  Jacobina                                           292170                            
+     14  Jacobina                                           292335                            
+     14  Jacobina                                           292480                            
+     14  Jacobina                                           292593                            
+     14  Jacobina                                           292937                            
+     14  Jacobina                                           292980                            
+     14  Jacobina                                           293060                            
+     14  Jacobina                                           293130                            
+     14  Jacobina                                           293245                            
+     14  Jacobina                                           293305                            
+     14  Jacobina                                           293310                            
+     14  Jacobina                                           293315                            
+     15  Jequié                                             290060                            
+     15  Jequié                                             290195                            
+     15  Jequié                                             290310                            
+     15  Jequié                                             290370                            
+     15  Jequié                                             290430                            
+     15  Jequié                                             290950                            
+     15  Jequié                                             291000                            
+     15  Jequié                                             291290                            
+     15  Jequié                                             291390                            
+     15  Jequié                                             291420                            
+     15  Jequié                                             291430                            
+     15  Jequié                                             291510                            
+     15  Jequié                                             291520                            
+     15  Jequié                                             291570                            
+     15  Jequié                                             291670                            
+     15  Jequié                                             291690                            
+     15  Jequié                                             291760                            
+     15  Jequié                                             291800                            
+     15  Jequié                                             291830                            
+     15  Jequié                                             291870                            
+     15  Jequié                                             291905                            
+     15  Jequié                                             292040                            
+     15  Jequié                                             292050                            
+     15  Jequié                                             292490                            
+     15  Jequié                                             292790                            
+     16  Juazeiro                                           290590                            
+     16  Juazeiro                                           290720                            
+     16  Juazeiro                                           290990                            
+     16  Juazeiro                                           291840                            
+     16  Juazeiro                                           292440                            
+     16  Juazeiro                                           292600                            
+     16  Juazeiro                                           293020                            
+     16  Juazeiro                                           293077                            
+     16  Juazeiro                                           293200                            
+     17  Paulo Afonso                                       290020                            
+     17  Paulo Afonso                                       290770                            
+     17  Paulo Afonso                                       291140                            
+     17  Paulo Afonso                                       291810                            
+     17  Paulo Afonso                                       291990                            
+     17  Paulo Afonso                                       292400                            
+     17  Paulo Afonso                                       292420                            
+     17  Paulo Afonso                                       292710                            
+     17  Paulo Afonso                                       292760                            
+     18  Porto Seguro                                       290340                            
+     18  Porto Seguro                                       291072                            
+     18  Porto Seguro                                       291180                            
+     18  Porto Seguro                                       291465                            
+     18  Porto Seguro                                       291530                            
+     18  Porto Seguro                                       291630                            
+     18  Porto Seguro                                       292530                            
+     18  Porto Seguro                                       292770                            
+     19  Ribeira do Pombal                                  290035                            
+     19  Ribeira do Pombal                                  290160                            
+     19  Ribeira do Pombal                                  290265                            
+     19  Ribeira do Pombal                                  290780                            
+     19  Ribeira do Pombal                                  290790                            
+     19  Ribeira do Pombal                                  290920                            
+     19  Ribeira do Pombal                                  291075                            
+     19  Ribeira do Pombal                                  291185                            
+     19  Ribeira do Pombal                                  292290                            
+     19  Ribeira do Pombal                                  292305                            
+     19  Ribeira do Pombal                                  292310                            
+     19  Ribeira do Pombal                                  292380                            
+     19  Ribeira do Pombal                                  292650                            
+     19  Ribeira do Pombal                                  292660                            
+     19  Ribeira do Pombal                                  293076                            
+     20  Salvador                                           290650                            
+     20  Salvador                                           291610                            
+     20  Salvador                                           291920                            
+     20  Salvador                                           291992                            
+     20  Salvador                                           292740                            
+     20  Salvador                                           292860                            
+     20  Salvador                                           292920                            
+     20  Salvador                                           292950                            
+     20  Salvador                                           292975                            
+     20  Salvador                                           293320                            
+     21  Santa Maria da Vitória                             290390                            
+     21  Santa Maria da Vitória                             290610                            
+     21  Santa Maria da Vitória                             290810                            
+     21  Santa Maria da Vitória                             290910                            
+     21  Santa Maria da Vitória                             290930                            
+     21  Santa Maria da Vitória                             291077                            
+     21  Santa Maria da Vitória                             291735                            
+     21  Santa Maria da Vitória                             292810                            
+     21  Santa Maria da Vitória                             292820                            
+     21  Santa Maria da Vitória                             292905                            
+     21  Santa Maria da Vitória                             293015,293025                     
+     21  Santa Maria da Vitória                             293030                            
+     21  Santa Maria da Vitória                             293075                            
+     22  Santo Antônio de Jesus                             290100                            
+     22  Santo Antônio de Jesus                             290230                            
+     22  Santo Antônio de Jesus                             290730                            
+     22  Santo Antônio de Jesus                             290830                            
+     22  Santo Antônio de Jesus                             291020                            
+     22  Santo Antônio de Jesus                             291030                            
+     22  Santo Antônio de Jesus                             291685                            
+     22  Santo Antônio de Jesus                             291780                            
+     22  Santo Antônio de Jesus                             291820                            
+     22  Santo Antônio de Jesus                             291880                            
+     22  Santo Antônio de Jesus                             292130                            
+     22  Santo Antônio de Jesus                             292220                            
+     22  Santo Antônio de Jesus                             292240                            
+     22  Santo Antônio de Jesus                             292250                            
+     22  Santo Antônio de Jesus                             292280                            
+     22  Santo Antônio de Jesus                             292575                            
+     22  Santo Antônio de Jesus                             292730                            
+     22  Santo Antônio de Jesus                             292850                            
+     22  Santo Antônio de Jesus                             292870                            
+     22  Santo Antônio de Jesus                             292910                            
+     22  Santo Antônio de Jesus                             292940                            
+     22  Santo Antônio de Jesus                             293210                            
+     22  Santo Antônio de Jesus                             293317                            
+     23  Seabra                                             290010                            
+     23  Seabra                                             290400                            
+     23  Seabra                                             291300                            
+     23  Seabra                                             291440                            
+     23  Seabra                                             291930                            
+     23  Seabra                                             292190                            
+     23  Seabra                                             292303                            
+     23  Seabra                                             292350                            
+     23  Seabra                                             292430                            
+     23  Seabra                                             292990                            
+     23  Seabra                                             293080                            
+     24  Senhor do Bonfim                                   290135                            
+     24  Senhor do Bonfim                                   290180                            
+     24  Senhor do Bonfim                                   290600                            
+     24  Senhor do Bonfim                                   291085                            
+     24  Senhor do Bonfim                                   291700                            
+     24  Senhor do Bonfim                                   291770                            
+     24  Senhor do Bonfim                                   292460                            
+     24  Senhor do Bonfim                                   292525                            
+     24  Senhor do Bonfim                                   293010                            
+     25  Serrinha                                           290040                            
+     25  Serrinha                                           290210                            
+     25  Serrinha                                           290327                            
+     25  Serrinha                                           290360                            
+     25  Serrinha                                           290680                            
+     25  Serrinha                                           290682                            
+     25  Serrinha                                           290840                            
+     25  Serrinha                                           291070                            
+     25  Serrinha                                           291910                            
+     25  Serrinha                                           292150                            
+     25  Serrinha                                           292265                            
+     25  Serrinha                                           292580                            
+     25  Serrinha                                           292590                            
+     25  Serrinha                                           292610                            
+     25  Serrinha                                           292800                            
+     25  Serrinha                                           292895                            
+     25  Serrinha                                           293050                            
+     25  Serrinha                                           293150                            
+     25  Serrinha                                           293190                            
+     25  Serrinha                                           293300                            
+     26  Teixeira de Freitas                                290080                            
+     26  Teixeira de Freitas                                290690                            
+     26  Teixeira de Freitas                                291280                            
+     26  Teixeira de Freitas                                291560                            
+     26  Teixeira de Freitas                                291600                            
+     26  Teixeira de Freitas                                291845                            
+     26  Teixeira de Freitas                                291890                            
+     26  Teixeira de Freitas                                292110                            
+     26  Teixeira de Freitas                                292200                            
+     26  Teixeira de Freitas                                292300                            
+     26  Teixeira de Freitas                                292550                            
+     26  Teixeira de Freitas                                293135                            
+     26  Teixeira de Freitas                                293325                            
+     27  Valença                                            290540                            
+     27  Valença                                            290580                            
+     27  Valença                                            291120                            
+     27  Valença                                            291345                            
+     27  Valença                                            291730                            
+     27  Valença                                            292070                            
+     27  Valença                                            292260                            
+     27  Valença                                            292275                            
+     27  Valença                                            292467                            
+     27  Valença                                            293120                            
+     27  Valença                                            293160                            
+     27  Valença                                            293290                            
+     27  Valença                                            293350                            
+     28  Vitória da Conquista                               290120                            
+     28  Vitória da Conquista                               290290                            
+     28  Vitória da Conquista                               290350                            
+     28  Vitória da Conquista                               290395                            
+     28  Vitória da Conquista                               290515                            
+     28  Vitória da Conquista                               290670                            
+     28  Vitória da Conquista                               290689                            
+     28  Vitória da Conquista                               290870                            
+     28  Vitória da Conquista                               290900                            
+     28  Vitória da Conquista                               291040                            
+     28  Vitória da Conquista                               291995                            
+     28  Vitória da Conquista                               292145                            
+     28  Vitória da Conquista                               292470                            
+     28  Vitória da Conquista                               292500                            
+     28  Vitória da Conquista                               292510                            
+     28  Vitória da Conquista                               292570                            
+     28  Vitória da Conquista                               292665                            
+     28  Vitória da Conquista                               293180                            
+     28  Vitória da Conquista                               293330                            
+     29  Ignorado - BA                                      290000,299999                     

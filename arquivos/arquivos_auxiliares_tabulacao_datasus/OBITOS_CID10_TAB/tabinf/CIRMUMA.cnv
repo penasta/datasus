@@ -1,0 +1,238 @@
+    237  6                                                                                    
+      1  21001 Açailândia                                   210005                            
+  1   2  .... Açailândia                                    210005                            
+  1   3  .... Bom Jesus das Selvas                          210203                            
+  1   4  .... Buriticupu                                    210232                            
+  1   5  .... Cidelândia                                    210325                            
+  1   6  .... Itinga do Maranhão                            210542                            
+  1   7  .... São Francisco do Brejão                       211085                            
+  1   8  .... São Pedro da Água Branca                      211153                            
+  1   9  .... Vila Nova dos Martírios                       211285                            
+     10  21002 Bacabal                                      210040                            
+ 10  11  .... Altamira do Maranhão                          210040                            
+ 10  12  .... Bacabal                                       210120                            
+ 10  13  .... Bom Lugar                                     210207                            
+ 10  14  .... Brejo de Areia                                210215                            
+ 10  15  .... Conceição do Lago-Açu                         210355                            
+ 10  16  .... Lago Verde                                    210590                            
+ 10  17  .... Marajá do Sena                                210635                            
+ 10  18  .... Olho d'Água das Cunhãs                        210740                            
+ 10  19  .... Paulo Ramos                                   210810                            
+ 10  20  .... São Luís Gonzaga do Maranhão                  211140                            
+ 10  21  .... Vitorino Freire                               211300                            
+     22  21003 Balsas                                       210050                            
+ 22  23  .... Alto Parnaíba                                 210050                            
+ 22  24  .... Balsas                                        210140                            
+ 22  25  .... Carolina                                      210280                            
+ 22  26  .... Feira Nova do Maranhão                        210407                            
+ 22  27  .... Formosa da Serra Negra                        210409                            
+ 22  28  .... Fortaleza dos Nogueiras                       210410                            
+ 22  29  .... Loreto                                        210610                            
+ 22  30  .... Nova Colinas                                  210725                            
+ 22  31  .... Riachão                                       210950                            
+ 22  32  .... Sambaíba                                      210970                            
+ 22  33  .... São Félix de Balsas                           211080                            
+ 22  34  .... São Pedro dos Crentes                         211157                            
+ 22  35  .... São Raimundo das Mangabeiras                  211160                            
+ 22  36  .... Tasso Fragoso                                 211200                            
+     37  21004 Barra do Corda                               210095                            
+ 37  38  .... Arame                                         210095                            
+ 37  39  .... Barra do Corda                                210160                            
+ 37  40  .... Fernando Falcão                               210408                            
+ 37  41  .... Grajaú                                        210480                            
+ 37  42  .... Itaipava do Grajaú                            210535                            
+ 37  43  .... Jenipapo dos Vieiras                          210547                            
+     44  21005 Caxias                                       210010                            
+ 44  45  .... Afonso Cunha                                  210010                            
+ 44  46  .... Aldeias Altas                                 210030                            
+ 44  47  .... Buriti                                        210220                            
+ 44  48  .... Caxias                                        210300                            
+ 44  49  .... Coelho Neto                                   210340                            
+ 44  50  .... Duque Bacelar                                 210390                            
+ 44  51  .... São João do Soter                             211107                            
+     52  21006 Chapadinha                                   210015                            
+ 52  53  .... Água Doce do Maranhão                         210015                            
+ 52  54  .... Anapurus                                      210080                            
+ 52  55  .... Araioses                                      210090                            
+ 52  56  .... Brejo                                         210210                            
+ 52  57  .... Chapadinha                                    210320                            
+ 52  58  .... Magalhães de Almeida                          210630                            
+ 52  59  .... Mata Roma                                     210640                            
+ 52  60  .... Milagres do Maranhão                          210667                            
+ 52  61  .... Paulino Neves                                 210805                            
+ 52  62  .... Santa Quitéria do Maranhão                    211010                            
+ 52  63  .... Santana do Maranhão                           211023                            
+ 52  64  .... São Bernardo                                  211060                            
+ 52  65  .... Tutóia                                        211250                            
+     66  21007 Codó                                         210043                            
+ 66  67  .... Alto Alegre do Maranhão                       210043                            
+ 66  68  .... Codó                                          210330,213307                     
+ 66  69  .... Coroatá                                       210360                            
+ 66  70  .... Peritoró                                      210845                            
+ 66  71  .... São Mateus do Maranhão                        211150                            
+ 66  72  .... Timbiras                                      211210                            
+     73  21008 Imperatriz                                   210060                            
+ 73  74  .... Amarante do Maranhão                          210060                            
+ 73  75  .... Buritirana                                    210235                            
+ 73  76  .... Campestre do Maranhão                         210255                            
+ 73  77  .... Davinópolis                                   210375                            
+ 73  78  .... Estreito                                      210405                            
+ 73  79  .... Governador Edison Lobão                       210455                            
+ 73  80  .... Imperatriz                                    210530                            
+ 73  81  .... João Lisboa                                   210550                            
+ 73  82  .... Lajeado Novo                                  210598                            
+ 73  83  .... Montes Altos                                  210700                            
+ 73  84  .... Porto Franco                                  210900                            
+ 73  85  .... Ribamar Fiquene                               210955                            
+ 73  86  .... São João do Paraíso                           211105                            
+ 73  87  .... Senador La Rocque                             211176                            
+ 73  88  .... Sítio Novo                                    211180                            
+     89  21009 Itapecuru Mirim                              210070                            
+ 89  90  .... Anajatuba                                     210070                            
+ 89  91  .... Arari                                         210100                            
+ 89  92  .... Belágua                                       210173                            
+ 89  93  .... Cantanhede                                    210270                            
+ 89  94  .... Itapecuru Mirim                               210540                            
+ 89  95  .... Matões do Norte                               210663                            
+ 89  96  .... Miranda do Norte                              210675                            
+ 89  97  .... Nina Rodrigues                                210720                            
+ 89  98  .... Pirapemas                                     210880                            
+ 89  99  .... Presidente Vargas                             210930                            
+ 89 100  .... São Benedito do Rio Preto                     211040                            
+ 89 101  .... Urbano Santos                                 211260                            
+ 89 102  .... Vargem Grande                                 211270                            
+ 89 103  .... Vitória do Mearim                             211290                            
+    104  21010 Pedreiras                                    210193                            
+104 105  .... Bernardo do Mearim                            210193                            
+104 106  .... Esperantinópolis                              210400                            
+104 107  .... Igarapé Grande                                210520                            
+104 108  .... Lago da Pedra                                 210570                            
+104 109  .... Lago do Junco                                 210580                            
+104 110  .... Lago dos Rodrigues                            210594                            
+104 111  .... Lagoa Grande do Maranhão                      210596                            
+104 112  .... Lima Campos                                   210600                            
+104 113  .... Pedreiras                                     210820                            
+104 114  .... Poção de Pedras                               210890                            
+104 115  .... São Raimundo do Doca Bezerra                  211163                            
+104 116  .... São Roberto                                   211167                            
+104 117  .... Trizidela do Vale                             211223                            
+    118  21011 Pinheiro                                     210083                            
+118 119  .... Apicum-Açu                                    210083                            
+118 120  .... Bacuri                                        210130                            
+118 121  .... Bequimão                                      210190                            
+118 122  .... Cedral                                        210310                            
+118 123  .... Central do Maranhão                           210312                            
+118 124  .... Cururupu                                      210370                            
+118 125  .... Guimarães                                     210490                            
+118 126  .... Mirinzal                                      210680                            
+118 127  .... Pedro do Rosário                              210825                            
+118 128  .... Peri Mirim                                    210840                            
+118 129  .... Pinheiro                                      210860                            
+118 130  .... Porto Rico do Maranhão                        210905                            
+118 131  .... Presidente Sarney                             210927                            
+118 132  .... Santa Helena                                  210980                            
+118 133  .... Serrano do Maranhão                           211178                            
+118 134  .... Turiaçu                                       211240                            
+118 135  .... Turilândia                                    211245                            
+    136  21012 Presidente Dutra                             210275                            
+136 137  .... Capinzal do Norte                             210275                            
+136 138  .... Dom Pedro                                     210380                            
+136 139  .... Fortuna                                       210420                            
+136 140  .... Gonçalves Dias                                210440                            
+136 141  .... Governador Archer                             210450                            
+136 142  .... Governador Eugênio Barros                     210460                            
+136 143  .... Governador Luiz Rocha                         210462                            
+136 144  .... Graça Aranha                                  210470                            
+136 145  .... Joselândia                                    210560                            
+136 146  .... Presidente Dutra                              210910                            
+136 147  .... Santa Filomena do Maranhão                    210975                            
+136 148  .... Santo Antônio dos Lopes                       211030                            
+136 149  .... São Domingos do Maranhão                      211070                            
+136 150  .... São José dos Basílios                         211125                            
+136 151  .... Senador Alexandre Costa                       211174                            
+136 152  .... Tuntum                                        211230                            
+    153  21013 Rosário                                      210110                            
+153 154  .... Axixá                                         210110                            
+153 155  .... Bacabeira                                     210125                            
+153 156  .... Barreirinhas                                  210170,211707                     
+153 157  .... Cachoeira Grande                              210237                            
+153 158  .... Humberto de Campos                            210500                            
+153 159  .... Icatu                                         210510                            
+153 160  .... Morros                                        210710                            
+153 161  .... Presidente Juscelino                          210920                            
+153 162  .... Primeira Cruz                                 210940                            
+153 163  .... Rosário                                       210960                            
+153 164  .... Santa Rita                                    211020                            
+153 165  .... Santo Amaro do Maranhão                       211027                            
+    166  21014 Santa Inês                                   210047                            
+166 167  .... Alto Alegre do Pindaré                        210047                            
+166 168  .... Bela Vista do Maranhão                        210177                            
+166 169  .... Bom Jardim                                    210200                            
+166 170  .... Governador Newton Bello                       210465                            
+166 171  .... Igarapé do Meio                               210515                            
+166 172  .... Monção                                        210690                            
+166 173  .... Pindaré-Mirim                                 210850                            
+166 174  .... Pio XII                                       210870                            
+166 175  .... Santa Inês                                    210990                            
+166 176  .... Santa Luzia                                   211000                            
+166 177  .... São João do Carú                              211102                            
+166 178  .... Satubinha                                     211172                            
+166 179  .... Tufilândia                                    211227                            
+    180  21015 São João dos Patos                           210150                            
+180 181  .... Barão de Grajaú                               210150                            
+180 182  .... Benedito Leite                                210180                            
+180 183  .... Buriti Bravo                                  210230                            
+180 184  .... Colinas                                       210350                            
+180 185  .... Jatobá                                        210545                            
+180 186  .... Lagoa do Mato                                 210592                            
+180 187  .... Mirador                                       210670                            
+180 188  .... Nova Iorque                                   210730                            
+180 189  .... Paraibano                                     210770                            
+180 190  .... Passagem Franca                               210790                            
+180 191  .... Pastos Bons                                   210800                            
+180 192  .... São Domingos do Azeitão                       211065                            
+180 193  .... São João dos Patos                            211110                            
+180 194  .... Sucupira do Norte                             211190                            
+180 195  .... Sucupira do Riachão                           211195                            
+    196  21016 São Luís                                     210020                            
+196 197  .... Alcântara                                     210020                            
+196 198  .... Paço do Lumiar                                210750                            
+196 199  .... Raposa                                        210945                            
+196 200  .... São José de Ribamar                           211120                            
+196 201  .... São Luís                                      211130                            
+    202  21017 Timon                                        210660                            
+202 203  .... Matões                                        210660                            
+202 204  .... Parnarama                                     210780                            
+202 205  .... São Francisco do Maranhão                     211090                            
+202 206  .... Timon                                         211220                            
+    207  21018 Viana                                        210135                            
+207 208  .... Bacurituba                                    210135                            
+207 209  .... Cajapió                                       210240                            
+207 210  .... Cajari                                        210250                            
+207 211  .... Matinha                                       210650                            
+207 212  .... Olinda Nova do Maranhão                       210745                            
+207 213  .... Palmeirândia                                  210760                            
+207 214  .... Penalva                                       210830                            
+207 215  .... São Bento                                     211050                            
+207 216  .... São João Batista                              211100                            
+207 217  .... São Vicente Ferrer                            211170                            
+207 218  .... Viana                                         211280                            
+    219  21019 Zé Doca                                      210055                            
+219 220  .... Amapá do Maranhão                             210055                            
+219 221  .... Araguanã                                      210087                            
+219 222  .... Boa Vista do Gurupi                           210197                            
+219 223  .... Cândido Mendes                                210260                            
+219 224  .... Carutapera                                    210290                            
+219 225  .... Centro do Guilherme                           210315                            
+219 226  .... Centro Novo do Maranhão                       210317                            
+219 227  .... Godofredo Viana                               210430                            
+219 228  .... Governador Nunes Freire                       210467                            
+219 229  .... Junco do Maranhão                             210565                            
+219 230  .... Luís Domingues                                210620                            
+219 231  .... Maracaçumé                                    210632                            
+219 232  .... Maranhãozinho                                 210637                            
+219 233  .... Nova Olinda do Maranhão                       210735                            
+219 234  .... Presidente Médici                             210923                            
+219 235  .... Santa Luzia do Paruá                          211003                            
+219 236  .... Zé Doca                                       211400                            
+    237  21000 Ignorado - MA                                210000,219999                     

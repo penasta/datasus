@@ -1,0 +1,309 @@
+303 4 L
+      1  Botulismo                                          ----, 
+  1   2  A05.1 Botulismo                                    A051
+      3  Colera                                             ----,      
+  3   4  A00 Colera                                         A00 ,
+  3   5  A00.0 Colera dev Vibrio cholerae 01 biot cholerae  A000
+  3   6  A00.1 Colera dev Vibrio cholerae 01 biot El Tor    A001
+  3   7  A00.9 Colera NE                                    A009
+      8  Carbunculo                                         ----,
+  8   9  A22 Carbunculo                                     A22 ,
+  8  10  A22.0 Carbunculo cutaneo                           A220
+  8  11  A22.1 Carbunculo pulmonar                          A221
+  8  12  A22.2 Carbunculo gastrointestinal                  A222
+  8  13  A22.8 Outr form de carbunculo                      A228
+  8  14  A22.9 Carbunculo form NE                           A229
+     15  ANTRAZ                                             ----,
+ 15  16  J34.0 Abscesso furunculo e antraz do nariz         J340
+ 15  17  L02 Abscesso cutaneo, furunculo e antraz           L02 ,
+ 15  18  L02.1 Abscesso cutaneo furunculo e antraz pescoco  L021
+ 15  19  L02.2 Abscesso cutaneo furunculo e antraz tronco   L022
+ 15  20  L02.3 Abscesso cutaneo furunculo e antraz nadega   L023
+ 15  21  L02.4 Abscesso cutaneo furunculo e antraz membros  L024
+ 15  22  L02.8 Abscesso cutaneo furunculo e antraz outr loc L028
+ 15  23  L02.9 Abscesso cutaneo furunculo e antraz loc NE   L029
+     24  Coqueluche                                         ----,
+ 24  25  A37 Coqueluche                                     A37 ,
+ 24  26  A37.0 Coqueluche p/Bordetella pertussis            A370
+ 24  27  A37.1 Coqueluche p/Bordetella parapertussis        A371
+ 24  28  A37.8 Coqueluche p/outr especies da Bordetella     A378
+ 24  29  A37.9 Coqueluche NE                                A379
+     30  Dengue                                             ----, 
+ 30  31  A90   Dengue                                       A90 ,
+ 30  32  A91   Febre hemorragica dev virus do dengue        A91 ,
+     33  Difteria                                           ----,  
+ 33  34  A36 Difteria                                       A36 ,
+ 33  35  A36.0 Difteria faringea                            A360
+ 33  36  A36.1 Difteria nasofaringea                        A361
+ 33  37  A36.2 Difteria laringea                            A362
+ 33  38  A36.3 Difteria cutanea                             A363
+ 33  39  A36.8 Outr form de difteria                        A368
+ 33  40  A36.9 Difteria NE                                  A369
+     41  Doença de Creutzfeldt                              ----,   
+ 41  42  A81.0 Doenc de Creutzfeldt-Jakob                   A810
+     43  Doença Meningococica e Outras Meningites           ----,
+ 43  44  A17.0 Meningite tuberc                             A170
+ 43  45  A32.1 Meningite e meningoencefalite p/listeria     A321
+ 43  46  A39.0 Meningite meningococica                      A390
+ 43  47  A39.9 Infecc meningococica NE                      A399
+ 43  48  A87 Meningite viral                                A87 ,
+ 43  49  A87.0 Meningite p/enterovirus                      A870
+ 43  50  A87.8 Outr meningites virais                       A878
+ 43  51  A87.9 Meningite viral NE                           A879
+ 43  52  B00.3 Meningite dev virus do herpes                B003
+ 43  53  B01.0 Meningite p/varicela                         B010
+ 43  54  B02.1 Meningite p/virus do herpes zoster           B021
+ 43  55  B26.1 Meningite p/caxumba                          B261
+ 43  56  B37.5 Meningite p/Candida                          B375
+ 43  57  B38.4 Meningite p/coccidioidomicose                B384
+ 43  58  G00.0 Meningite p/Haemophilus                      G000
+ 43  59  G00.1 Meningite pneumococica                       G001
+ 43  60  G00.2 Meningite estreptococica                     G002
+ 43  61  G00.3 Meningite estafilococica                     G003
+ 43  62  G00.8 Outr meningites bacter                       G008
+ 43  63  G00.9 Meningite bacter NE                          G009
+ 43  64  G01   Meningite em doenc bacter COP                G01 ,
+ 43  65  G02.0 Meningite em doenc virais COP                G020
+ 43  66  G02.1 Meningite em micoses                         G021
+ 43  67  G02.8 Meningite em outr doenc infecc e parasit COP G028
+ 43  68  G03 Meningite devida a outras causas e a causas ne G03 , 
+ 43  69  G03.0 Meningite nao-piogenica                      G030
+ 43  70  G03.1 Meningite cronica                            G031
+ 43  71  G03.2 Meningite recorrente benigna                 G032
+ 43  72  G03.8 Meningite dev outr causas espec              G038
+ 43  73  G03.9 Meningite NE                                 G039
+     74  Doença de Chagas                                   ----,   
+ 74  75  B57.0 Form aguda doenc de Chagas c/compr cardiaco  B570
+ 74  76  B57.1 Form aguda doenc de Chagas s/compr cardiaco  B571
+     77  Esquistossomose                                    ----, 
+ 77  78  B65 Esquistossomose [bilharziose] [Schistosomiase] B65 ,
+ 77  79  B65.0 Esquistossomose dev Schistosoma haematobium  B650
+ 77  80  B65.1 Esquistossomose dev Schistosoma mansoni      B651
+ 77  81  B65.2 Esquistossomose dev Schistosoma japonicum    B652
+ 77  82  B65.9 Esquistossomose NE                           B659
+     83  Febre Amarela                                      ----,
+ 83  84  A95 Febre amarela                                  A95 ,
+ 83  85  A95.0 Febre amarela silvestre                      A950
+ 83  86  A95.1 Febre amarela urbana                         A951
+ 83  87  A95.9 Febre amarela NE                             A959
+     88  Febre Maculosa                                     ----, 
+ 88  89  A77 Febre maculosa [transmitidas por carrapatos]   A77 ,
+ 88  90  A77.0 Febre maculosa p/Rickettsia richettsii       A770
+ 88  91  A77.1 Febre maculosa p/Rickettsia conorii          A771
+ 88  92  A77.2 Febre maculosa dev Rickettsia siberica       A772
+ 88  93  A77.3 Febre maculosa dev Rickettsia australis      A773
+ 88  94  A77.9 Febre maculosa NE                            A779
+     95  Febre Tifóide                                      ----, 
+ 95  96  A01.0 Febre tifoide                                A010
+ 95  97  Z23.1 Necess imuniz somente febre tif paratifoide  Z231
+     98  Hanseníase                                         ----,
+ 98  99  A30 Hanseniase [doenca de Hansen] [lepra]          A30 ,
+ 98 100  A30.0 Hanseniase indeterminada                     A300
+ 98 101  A30.1 Hanseniase tuberculoide                      A301
+ 98 102  A30.2 Hanseniase tuberculoide borderline           A302
+ 98 103  A30.3 Hanseniase dimorfa                           A303
+ 98 104  A30.4 Hanseniase lepromatosa borderline            A304
+ 98 105  A30.5 Hanseniase lepromatosa                       A305
+ 98 106  A30.8 Outr form de hanseniase                      A308
+ 98 107  A30.9 Hanseniase NE                                A309
+ 98 108  B92   Sequelas de hanseniase                       B92 ,
+    109  Hepatites Virais                                   ----,
+109 110  B15   Hepatite aguda A                             B15 ,
+109 111  B15.0 Hepatite A c/coma hepatico                   B150 
+109 112  B15.9 Hepatite A s/coma hepatico                   B159 
+109 113  B16   Hepatite aguda B                             B16 ,
+109 114  B16.0 Hepatite aguda B c/agente Delta c/coma hepat B160 
+109 115  B16.1 Hepatite aguda B c/agente Delta s/coma hepat B161 
+109 116  B16.2 Hepatite aguda B s/agente Delta c/coma hepat B162 
+109 117  B16.9 Hepatite aguda B s/agente Delta s/coma hepat B169 
+109 118  B17   Outr hepatites virais agudas                 B17 ,
+109 119  B17.0 Infecc Delta aguda de portador de hepatite B B170 
+109 120  B17.1 Hepatite aguda C                             B171 
+109 121  B17.2 Hepatite aguda E                             B172 
+109 122  B17.8 Outr hepatites virais agudas espec           B178 
+109 123  B18   Hepatite viral cronica                       B18 ,
+109 124  B18.0 Hepatite viral cronica B c/agente Delta      B180 
+109 125  B18.1 Hepatite cronica viral B s/agente Delta      B181 
+109 126  B18.2 Hepatite viral cronica C                     B182 
+109 127  B18.8 Outr hepatites cronicas virais               B188 
+109 128  B18.9 Hepatite viral cronica NE                    B189 
+109 129  B19   Hepatite viral NE                            B19 ,
+109 130  B19.0 Hepatite viral NE c/coma                     B190 
+109 131  B19.9 Hepatite viral NE s/coma                     B199 
+    132  Influenza                                          ----,
+132 133  J10 Influenza devida a virus da gripe identificado J10 ,
+132 134  J10.0 Influenza c/pneum dev outr virus influ ident J100
+132 135  J10.8 Influenza c/out manif dev out vir infl ident J108
+132 136  J11 Influenza gripe devida virus nao identificado  J11 ,
+132 137  J11.0 Influenza c/pneumonia dev virus nao ident    J110
+132 138  J11.1 Influenza c/out manif resp dev virus n ident J111
+132 139  J11.8 Influenza c/outr manif dev virus nao ident   J118
+    140  Leishmaniose                                       ----,
+140 141  B55 Leishmaniose                                   B55 ,
+140 142  B55.0 Leishmaniose Visceral                        B550
+140 143  B55.1 Leishmaniose cutanea                         B551
+140 144  B55.2 Leishmaniose cutaneo-mucosa                  B552
+140 145  B55.9 Leishmaniose NE                              B559
+    146  Leptospirose                                       ----,  
+146 147  A27 Leptospirose                                   A27 ,
+146 148  A27.0 Leptopirose icterohemorragica                A270
+146 149  A27.8 Outr form de leptospirose                    A278
+146 150  A27.9 Leptospirose NE                              A279
+    151  Malária                                            ----,
+151 152  B50 Malaria por Plasmodium falciparum              B50 ,
+151 153  B50.0 Malaria p/P.falciparum c/complic cerebrais   B500
+151 154  B50.8 Outr form grav compl malaria p/P.falciparum  B508
+151 155  B50.9 Malaria NE p/Plasmodium falciparum           B509
+151 156  B51 Malaria por Plasmodium vivax                   B51 ,
+151 157  B51.0 Malaria p/Plasmodium vivax c/rotura do baco  B510
+151 158  B51.8 Malaria p/Plasmodium vivax c/outr complic    B518
+151 159  B51.9 Malaria p/Plasmodium vivax s/complic         B519
+151 160  B52 Malaria por Plasmodium malariae                B52 ,
+151 161  B52.0 Malaria p/Plasmodium malariae c/nefropatia   B520
+151 162  B52.8 Malaria p/Plasmodium malariae c/outr complic B528
+151 163  B52.9 Malaria p/Plasmodium malariae s/complic      B529
+151 164  B53 Out formas malaria conf exames parasitologicos B53 ,
+151 165  B53.0 Malaria p/Plasmodium ovale                   B530
+151 166  B53.1 Malaria p/plasmodios de macacos              B531
+151 167  B53.8 Outr form malarias c/conf parasitolog NCOP   B538
+151 168  B54   Malaria NE                                   B54 ,
+151 169  P37.3 Malaria falciparum congen                    P373
+    170  Paralisia Flácida Aguda/Poliomielite               ----, 
+170 171  A80 Poliomielite aguda                             A80 , 
+170 172  A80.0 Poliomielite paral aguda assoc virus vacinal A800
+170 173  A80.1 Poliomiel paral aguda virus selvagem import  A801
+170 174  A80.2 Poliomiel paral aguda virus selvagem indig   A802
+170 175  A80.4 Poliomielite aguda nao-paralitica            A804
+170 176  A80.9 Poliomielite aguda NE                        A809
+    177  Peste                                              ----,
+177 178  A20 Peste                                          A20 ,
+177 179  A20.0 Peste bubonica                               A200
+177 180  A20.1 Peste celulocutanea                          A201
+177 181  A20.2 Peste pneumonica                             A202
+177 182  A20.3 Peste meningea                               A203
+177 183  A20.7 Peste septicemica                            A207
+177 184  A20.8 Outr form de peste                           A208
+177 185  A20.9 Peste form NE                                A209
+    186  Raiva Humana                                       ----,       
+186 187  A82 Raiva                                          A82 ,
+186 188  A82.0 Raiva silvestre                              A820
+186 189  A82.1 Raiva urbana                                 A821
+186 190  A82.9 Raiva NE                                     A829
+    191  Rubeola                                            ----,  
+191 192  B06 Rubeola                                        B06 ,
+191 193  B06.0 Rubeola c/complic neurologicas               B060
+191 194  B06.8 Rubeola c/outr complic                       B068
+    195  Sarampo                                            ----,
+195 196  B05 Sarampo                                        B05 ,
+195 197  B05.0 Sarampo complicado p/encefalite              B050
+195 198  B05.1 Sarampo complicado p/meningite               B051
+195 199  B05.2 Sarampo complicado p/pneumonia               B052
+195 200  B05.3 Sarampo complicado p/otite media             B053
+195 201  B05.4 Sarampo c/complic intestinais                B054
+195 202  B05.8 Sarampo c/outr complic                       B058
+195 203  B05.9 Sarampo s/complic                            B059
+    204  Sífilis Congênita                                  ----,
+204 205  A50 Sifilis congenita                              A50 ,
+204 206  A50.0 Sifilis congen precoce sintomatica           A500 
+204 207  A50.1 Sifilis congen precoce form latente          A501
+204 208  A50.2 Sifilis congen precoce NE                    A502
+204 209  A50.5 Outr form tard e sintomat sifilis congen     A505
+204 210  A50.6 Sifilis congen tard latente                  A506
+204 211  A50.7 Sifilis congen tard NE                       A507
+204 212  A50.9 Sifilis congen NE                            A509
+    213  Sífilis Gestante                                   ----,
+213 214  O98.1 Sifilis complic gravidez parto e puerperio   O981
+    215  Sindrome de Rubéola Congênita                      ----,
+215 216  P35 Doencas virais congenitas                      P35 ,
+    217  AIDS                                               ----, 
+217 218  B24   Doenc p/HIV NE                               B24 ,
+217 219  B20.0 Doenc p/HIV result em infecc micobacterianas B200
+217 220  B20.1 Doenc p/HIV result outr infecc bacter        B201
+217 221  B20.2 Doenc p/HIV result em doenc citomegalica     B202
+217 222  B20.3 Doenc p/HIV result em outr infecc virais     B203
+217 223  B20.4 Doenc p/HIV result em candidiase             B204
+217 224  B20.5 Doenc p/HIV result em outr micoses           B205
+217 225  B20.6 Doenc p/HIV result pneumonia p/P.jirovecii   B206
+217 226  B21   [HIV], resultando em neoplasias malignas     B21 ,
+217 227  B21.1 Doenc p/HIV result em linfoma de Burkitt     B211
+217 228  B21.2 Doenc p/HIV res outr tip linfoma nao-Hodgkin B212
+217 229  B21.3 Doenc p/HIV out neop mal tec linf hemat corr B213
+217 230  B21.7 Doenc p/HIV result em mult neopl malig       B217
+217 231  B21.8 Doenc p/HIV result em outr neopl malig       B218
+217 232  B21.9 Doenc p/HIV result em neopl malig NE         B219
+217 233  B22 [HIV] resultando em outras doencas especificadaB22 ,
+217 234  B22.0 Doenc p/HIV result em encefalopatia          B220
+217 235  B22.1 Doenc p/HIV result pneumonite interst linfat B221
+217 236  B22.2 Doenc p/HIV result em sindr de emaciacao     B222
+217 237  B22.7 Doenc p/HIV result em doenc mult COP         B227
+217 238  B23 [HIV] resultando em outras doencas             B23 ,
+217 239  B23.0 Sindr de infecc aguda p/HIV                  B230
+217 240  B23.1 Doenc p/HIV result linfadenopatias generaliz B231
+217 241  B23.2 Doenc p/HIV result anom hemat imunolog NCOP  B232
+217 242  B23.8 Doenc p/HIV result em outr afeccoes espec    B238
+217 243  F02.4 Demencia na doenc pelo HIV                   F024
+217 244  R75   Evidencia laboratorial do HIV                R75 ,
+217 245  Z21   Estado de infecc assintomatica p/HIV         Z21 ,
+    246  Síndrome Corrimento Uretral Masculino              ----,
+246 247  R36   Secrecao uretral                             R36 ,
+    248  Sindrome Respiratoria Aguda                        ----,
+248 249  B34.2 Infecc p/coronavirus localiz NE              B342
+248 250  J22   Infecc agudas NE das vias aereas infer       J22 ,
+    251  Tetano                                             ----,
+251 252  A33   Tetano do recem-nascido                      A33 ,
+251 253  A34   Tetano obstetrico                            A34 ,
+251 254  A35   Outr tipos de tetano                         A35 ,
+    255  Tularemia                                          ----,
+255 256  A21 Tularemia                                      A21 ,
+255 257  A21.0 Tularemia ulceroglandular                    A210
+255 258  A21.2 Tularemia pulmonar                           A212
+255 259  A21.3 Tularemia gastrointestinal                   A213
+255 260  A21.7 Tularemia generalizada                       A217
+255 261  A21.8 Outr form de tularemia                       A218
+255 262  A21.9 Tularemia form NE                            A219
+    263  Tuberculose                                        ----,
+263 264  A15 Tuberculose respiratoria, com conf bacter/hist A15 ,
+263 265  A15.0 Tuberc pulm c/conf p/ex micr expec c/s/cult  A150
+263 266  A15.1 Tuberc pulmonar c/conf somente p/cultura     A151
+263 267  A15.2 Tuberc pulmonar c/conf histolog              A152
+263 268  A15.3 Tuberc pulmonar c/conf p/meio NE             A153
+263 269  A15.4 Tuberc gangl intrator c/conf bacter e histol A154
+263 270  A15.5 Tuberc laring traq bronq c/conf bact e hist  A155
+263 271  A15.6 Pleuris tuberc c/conf bacteriol e histolog   A156
+263 272  A15.7 Tuberc prim vias respir c/conf bact e histol A157
+263 273  A15.8 Outr form tuberc via resp c/conf bact hist   A158
+263 274  A15.9 Tuberc NE vias respir c/conf bacter histol   A159
+263 275  A16 Tube vias resp, s conf bacter/histologica      A16 ,
+263 276  A16.0 Tuberc pulmonar c/exames bact e hist negat   A160
+263 277  A16.1 Tuberc pulmonar s/exame bacter ou histolog   A161
+263 278  A16.2 Tuberc pulmonar s/menc conf bact ou hist     A162
+263 279  A16.3 Tuberc gangl intrat s/menc conf bact hist    A163
+263 280  A16.4 Tuberc laring traq bronq s/menc bact hist    A164
+263 281  A16.5 Pleurisia tuberc s/menc conf bact ou histol  A165
+263 282  A16.7 Tuberc respir prim s/menc conf bact ou hist  A167
+263 283  A16.8 Outr tuber via resp s/menc conf bact hist    A168
+263 284  A16.9 Tuberc respirat NE s/menc conf bact ou hist  A169
+263 285  A17.8 Outr tuberc do sist nervoso                  A178
+263 286  A18 Tuberculose de outros orgaos                   A18 ,
+263 287  A18.0 Tuberc ossea e das articulacoes              A180
+263 288  A18.1 Tuberc do aparelho geniturinario             A181
+263 289  A18.2 Linfadenopatia tuberc periferica             A182
+263 290  A18.3 Tuberc intestino peritonio gangl mesenter    A183
+263 291  A18.4 Tuberc de pele e tec celular subcutaneo      A184
+263 292  A18.5 Tuberc do olho                               A185
+263 293  A18.6 Tuberc do ouvido                             A186
+263 294  A18.7 Tuberc das supra-renais                      A187
+263 295  A18.8 Tuberc de outr orgaos espec                  A188
+263 296  A19 Tuberculose miliar                             A19 ,
+263 297  A19.0 Tuberc miliar aguda de localiz unica espec   A190
+263 298  A19.1 Tuberc miliar aguda de mult localiz          A191
+263 299  A19.2 Tuberc miliar aguda NE                       A192
+263 300  A19.9 Tuberc miliar NE                             A199
+    301  Variola                                            ----, 
+301 302  B03   Variola                                      B03 ,
+301 303  B04   Variola dos macacos                          B04 ,
+
+
+
+
+

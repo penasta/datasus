@@ -1,0 +1,678 @@
+    676  4 L                                                     
+      1  140 - Neoplasma maligno do lábio                   140X 
+  1   2  140.0 Do labio superior                            1400 
+  1   3  140.1 Do labio inferior                            1401 
+  1   4  140.3 Do labio superior                            1403 
+  1   5  140.4 Do labio inferior                            1404 
+  1   6  140.5 Do labio                                     1405 
+  1   7  140.6 Da comissura labial                          1406 
+  1   8  140.8 Outro                                        1408 
+  1   9  140.9 Do labio                                     1409 
+     10  141 - Neoplasma maligno da língua                  141X 
+ 10  11  141.0 Da base da lingua                            1410 
+ 10  12  141.1 Da face dorsal da lingua                     1411 
+ 10  13  141.2 Da ponta e bordas laterais da lingua         1412 
+ 10  14  141.3 Da face ventral da lingua                    1413 
+ 10  15  141.4 Dos dois tercos anteriores da lingua         1414 
+ 10  16  141.5 Da zona de transição                         1415 
+ 10  17  141.6 Amigdala lingual                             1416 
+ 10  18  141.8 Outro                                        1418 
+ 10  19  141.9 Lingua                                       1419 
+     20  142 - Neopl malig das glândulas saliv maiores      142X 
+ 20  21  142.0 Da glandula parotida                         1420 
+ 20  22  142.1 Da glandula submandibular                    1421 
+ 20  23  142.2 Da glandula sublingual                       1422 
+ 20  24  142.8 Outro                                        1428 
+ 20  25  142.9 De localização não especificada              1429 
+     26  143 - Neoplasma maligno da gengiva                 143X 
+ 26  27  143.0 Da gengiva superior                          1430 
+ 26  28  143.1 Da gengiva inferior                          1431 
+ 26  29  143.8 Outro                                        1438 
+ 26  30  143.9 Da gengiva                                   1439 
+     31  144 - Neoplasma maligno do assoalho da boca        144X 
+ 31  32  144.0 Da parte anterior                            1440 
+ 31  33  144.1 Da parte lateral                             1441 
+ 31  34  44.4 Código inválido - fora da CID                 1444 
+ 31  35  144.8 Outro                                        1448 
+ 31  36  144.9 De parte não especificada                    1449 
+     37  145 - Neopl malig outras partes boca e ñ esp       145X 
+ 37  38  145.0 Da mucosa da bochecha                        1450 
+ 37  39  145.1 Do vestibulo da boca                         1451 
+ 37  40  145.2 Do palato duro                               1452 
+ 37  41  145.3 Do palato mole                               1453 
+ 37  42  145.4 Da uvula                                     1454 
+ 37  43  145.5 Do palato                                    1455 
+ 37  44  145.6 Da area retromolar                           1456 
+ 37  45  145.8 Outro                                        1458 
+ 37  46  145.9 Da boca                                      1459 
+     47  146 - Neoplasma maligno da orofaringe              146X 
+ 47  48  146.0 Da amigdala                                  1460 
+ 47  49  146.1 Da fossa amigdaliana                         1461 
+ 47  50  146.2 Dos pilares amigdalianos (anter) (poster)    1462 
+ 47  51  146.3 Da valecula epiglotica                       1463 
+ 47  52  146.4 Da superficie anterior da epiglote           1464 
+ 47  53  146.5 Da região funcional                          1465 
+ 47  54  146.6 Da parede lateral da orofaringe              1466 
+ 47  55  146.7 Da parede posterior da orofaringe            1467 
+ 47  56  146.8 Outro                                        1468 
+ 47  57  146.9 Da orofaringe                                1469 
+     58  147 - Neoplasma maligno da nasofaringe             147X 
+ 58  59  147.0 Da parede superior                           1470 
+ 58  60  147.1 Da parede posterior                          1471 
+ 58  61  147.2 Da parede lateral                            1472 
+ 58  62  147.3 Da parede anterior                           1473 
+ 58  63  147.8 Outro                                        1478 
+ 58  64  147.9 Da nasofaringe                               1479 
+     65  148 - Neoplasma maligno da hipofaringe             148X 
+ 65  66  148.0 Da região pós-cricóide                       1480 
+ 65  67  148.1 Do seio piriforme                            1481 
+ 65  68  148.2 Da prega ari-epiglotica                      1482 
+ 65  69  148.3 Da parede hipogaringeia posterior            1483 
+ 65  70  148.8 Outro                                        1488 
+ 65  71  148.9 Da hipofaringe                               1489 
+     72  149 - Neopl mal out loc/mal def lab boc farin      149X 
+ 72  73  149.0 Da faringe                                   1490 
+ 72  74  149.1 Do anel de waldeyer                          1491 
+ 72  75  149.8 Outro                                        1498 
+ 72  76  149.9 Localizacoes mal definidas                   1499 
+     77  150 - Neoplasma maligno do esôfago                 150X 
+ 77  78  150.0 Da porção cervical                           1500 
+ 77  79  150.1 Da porção toracica                           1501 
+ 77  80  150.2 Da porção abdominal                          1502 
+ 77  81  150.3 Do terco superior                            1503 
+ 77  82  150.4 Do terco medio                               1504 
+ 77  83  150.5 Do terco inferior                            1505 
+ 77  84  50.7 Código inválido - fora da CID                 1507 
+ 77  85  150.8 Outro                                        1508 
+ 77  86  150.9 Do esofago                                   1509 
+     87  151 - Neoplasma maligno do estômago                151X 
+ 87  88  151.0 Do cardia                                    1510 
+ 87  89  151.1 Do piloro                                    1511 
+ 87  90  151.2 Do antro pilorico                            1512 
+ 87  91  151.3 Do fundo do estomago                         1513 
+ 87  92  151.4 Do corpo do estomago                         1514 
+ 87  93  151.5 Da pequena curvatura                         1515 
+ 87  94  151.6 Da grande curvatura                          1516 
+ 87  95  151.8 Outros                                       1518 
+ 87  96  151.9 Do estomago                                  1519 
+     97  152 - Neopl malig intest delgado incl duodeno      152X 
+ 97  98  152.0 Do duodeno                                   1520 
+ 97  99  152.1 Do jejuno                                    1521 
+ 97 100  152.2 Do ileo                                      1522 
+ 97 101  152.3 Do diverticulo de meckel                     1523 
+ 97 102  152.8 Outro                                        1528 
+ 97 103  152.9 Do intestino delgado                         1529 
+    104  153 - Neoplasma maligno do cólon                   153X 
+104 105  153.0 Da flexura hepatica                          1530 
+104 106  153.1 Do colon transverso                          1531 
+104 107  153.2 Do colon descendente                         1532 
+104 108  153.3 Do colon sigmóide                            1533 
+104 109  153.4 Do ceco                                      1534 
+104 110  153.5 Do apendice                                  1535 
+104 111  153.6 Do colon ascendente                          1536 
+104 112  153.7 Da flexura esplenica                         1537 
+104 113  153.8 Outros                                       1538 
+104 114  153.9 Do colon                                     1539 
+    115  154 - Neopl mal reto junção reto-sigm e ânus       154X 
+115 116  154.0 Da junção reto-sigmóide                      1540 
+115 117  154.1 Do reto                                      1541 
+115 118  154.2 Do canal anal                                1542 
+115 119  154.3 Do ânus                                      1543 
+115 120  154.8 Outro                                        1548 
+115 121  154.9 Código inválido - fora da CID                1549 
+    122  155 - Neopl malig fígado v biliar intrahepát       155X 
+122 123  155.0 Do fígado                                    1550 
+122 124  155.1 Das vias biliares intra-hepaticas            1551 
+122 125  155.2 Do fígado                                    1552 
+122 126  155.9 Código inválido - fora da CID                1559 
+    127  156 - Neopl malig ves bil e v bil extrahepát       156X 
+127 128  156.0 Da vesicula biliar                           1560 
+127 129  156.1 Das vias biliares extra-hepaticas            1561 
+127 130  156.2 Da ampola de vater                           1562 
+127 131  156.8 Outro                                        1568 
+127 132  156.9 Das vias biliares                            1569 
+    133  157 - Neoplasma maligno do pâncreas                157X 
+133 134  157.0 Da cabeca do pancreas                        1570 
+133 135  157.1 Do corpo do pancreas                         1571 
+133 136  157.2 Da cauda do pancreas                         1572 
+133 137  157.3 Do canal pancreatico                         1573 
+133 138  157.4 Das ilhotas de langerhans                    1574 
+133 139  157.8 Outro                                        1578 
+133 140  157.9 De porção não especificada                   1579 
+    141  158 - Neopl malig retroperitônio e peritônio       158X 
+141 142  158.0 Do retroperitonio                            1580 
+141 143  158.8 De porcoes especificadas do peritônio        1588 
+141 144  158.9 Do peritônio                                 1589 
+    145  159 - Neopl m out loc e mal def órg dig e per      159X 
+145 146  159.0 Do trato intestinal                          1590 
+145 147  159.1 Do baco                                      1591 
+145 148  159.8 Outro                                        1598 
+145 149  159.9 Mal definido                                 1599 
+    150  160 - Neopl m foss nas ouvid méd e seios ass       160X 
+150 151  160.0 Das fossas nasais                            1600 
+150 152  160.1 Da trompa auditiva                           1601 
+150 153  160.2 Do seio maxilar                              1602 
+150 154  160.3 Do seio etmoidal                             1603 
+150 155  160.4 Do seio frontal                              1604 
+150 156  160.5 Do seio esfenoidal                           1605 
+150 157  160.8 Outro                                        1608 
+150 158  160.9 De seio acessorio                            1609 
+    159  161 - Neoplasma maligno da laringe                 161X 
+159 160  161.0 Da glote                                     1610 
+159 161  161.1 Da supraglote                                1611 
+159 162  161.2 Da subglote                                  1612 
+159 163  161.3 Das cartilagens da laringe                   1613 
+159 164  161.8 Outro                                        1618 
+159 165  161.9 Da laringe                                   1619 
+    166  162 - Neopl malig traquéia brônquios e pulmão      162X 
+166 167  162.0 Da traqueia                                  1620 
+166 168  62.1 Código inválido - fora da CID                 1621 
+166 169  162.2 Do bronquio principal                        1622 
+166 170  162.3 Do lobo superior                             1623 
+166 171  162.4 Do lobo medio                                1624 
+166 172  162.5 Do lobo inferior                             1625 
+166 173  162.8 Outro                                        1628 
+166 174  162.9 De bronquio ou pulmão                        1629 
+    175  163 - Neoplasma maligno da pleura                  163X 
+175 176  163.0 Da pleura parietal                           1630 
+175 177  163.1 Da pleura visceral                           1631 
+175 178  163.8 Outro                                        1638 
+175 179  163.9 Da pleura                                    1639 
+    180  164 - Neopl malig timo coração e mediastino        164X 
+180 181  164.0 Do timo                                      1640 
+180 182  164.1 Do coração                                   1641 
+180 183  164.2 Do mediastino anterior                       1642 
+180 184  164.3 Do mediastino posterior                      1643 
+180 185  164.8 Outro                                        1648 
+180 186  164.9 Do mediastino                                1649 
+    187  165 - Neopl m out loc e m def resp e órg intr      165X 
+187 188  165.0 Do trato respiratorio superior               1650 
+187 189  165.4 Código inválido - fora da CID                1654 
+187 190  165.8 Outro                                        1658 
+187 191  165.9 De localiz mal definidas aparelho respirat   1659 
+    192  170 - Neopl malig ossos e cartilag articulare      170X 
+192 193  170.0 Dos ossos do cranio e da face                1700 
+192 194  170.1 Da mandibula                                 1701 
+192 195  170.2 Da coluna vertebral                          1702 
+192 196  170.3 Das costelas                                 1703 
+192 197  170.4 Dos ossos longos membro superior e omoplata  1704 
+192 198  170.5 Dos ossos curtos do membro superior          1705 
+192 199  170.6 Dos ossos da pelve                           1706 
+192 200  170.7 Dos ossos longos do membro inferior          1707 
+192 201  170.8 Dos ossos curtos do membro inferior          1708 
+192 202  170.9 De localização não especificada              1709 
+    203  171 - Neopl malig tec conjunt e out tec moles      171X 
+203 204  171.0 Da cabeca                                    1710 
+203 205  171.2 Do membro superior                           1712 
+203 206  171.3 Do membro inferior                           1713 
+203 207  171.4 Do torax                                     1714 
+203 208  171.5 Do abdome                                    1715 
+203 209  171.6 Da pelve                                     1716 
+203 210  171.7 Do tronco                                    1717 
+203 211  171.8 Outro                                        1718 
+203 212  171.9 De localização não especificada              1719 
+    213  172 - Melanoma maligno da pele                     172X 
+213 214  172.0 Dos labios                                   1720 
+213 215  172.1 Das palpebras                                1721 
+213 216  172.2 Da orelha e conduto auditivo externo         1722 
+213 217  172.3 De outr partes e partes não especific da fac 1723 
+213 218  172.4 Do couro cabeludo e do pescoco               1724 
+213 219  172.5 Do tronco                                    1725 
+213 220  172.6 Do membro superior                           1726 
+213 221  172.7 Do membro inferior                           1727 
+213 222  172.8 Outro                                        1728 
+213 223  172.9 De localização não especificada              1729 
+    224  173 - Outros neoplasmas malignos da pele           173X 
+224 225  173.0 Da pele dos labios                           1730 
+224 226  173.1 Das palpebras                                1731 
+224 227  173.2 Da orelha e do conduto auditivo externo      1732 
+224 228  173.3 Da pele de outr partes e partes não especifi 1733 
+224 229  173.4 Do couro cabeludo e da pele do pescoco       1734 
+224 230  173.5 Da pele do tronco                            1735 
+224 231  173.6 Da pele do membro superior                   1736 
+224 232  173.7 Da pele do membro inferior                   1737 
+224 233  173.8 Outro                                        1738 
+224 234  173.9 Da pele                                      1739 
+    235  174 - Neoplasma maligno da mama feminina           174X 
+235 236  174.0 Do mamilo e da areola da mama                1740 
+235 237  174.1 Da porção central                            1741 
+235 238  174.2 Do quadrante superior interno                1742 
+235 239  174.3 Do quadrante inferior interno                1743 
+235 240  174.4 Do quadrante superior externo                1744 
+235 241  174.5 Do quadrante inferior externo                1745 
+235 242  174.6 Do prolongamento axilar da mama              1746 
+235 243  174.8 Outro                                        1748 
+235 244  174.9 Da mama                                      1749 
+    245  175 - Neoplasma maligno da mama masculina          175X 
+    246  179 - Neopl malig do útero porção não especif      179X 
+    247  180 - Neoplasma maligno do colo do útero           180X 
+247 248  180.0 Da endocervice                               1800 
+247 249  180.1 Da exocervice                                1801 
+247 250  180.8 Outro                                        1808 
+247 251  180.9 Do colo do utero                             1809 
+    252  181 - Neoplasma maligno da placenta                181X 
+    253  182 - Neoplasma maligno do corpo do útero          182X 
+253 254  182.0 Do corpo do utero                            1820 
+253 255  182.1 Do istmo do utero                            1821 
+253 256  182.8 Outro                                        1828 
+253 257  182.9 Código inválido - fora da CID                1829 
+    258  183 - Neopl malig do ovário e out anexos úter      183X 
+258 259  183.0 Do ovario                                    1830 
+258 260  183.2 Da trompa de falopio                         1832 
+258 261  183.3 Do ligamento largo                           1833 
+258 262  183.4 Do parametrio                                1834 
+258 263  183.5 Do ligamento redondo                         1835 
+258 264  183.8 Outro                                        1838 
+258 265  183.9 Dos anexos do utero                          1839 
+    266  184 - Neopl malig out órg genit femin e ñ esp      184X 
+266 267  184.0 Da vagina                                    1840 
+266 268  184.1 Dos grandes labios                           1841 
+266 269  184.2 Dos pequenos labios                          1842 
+266 270  184.3 Do clitoris                                  1843 
+266 271  184.4 Da vulva                                     1844 
+266 272  184.8 Outro                                        1848 
+266 273  184.9 Localização não especificada                 1849 
+    274  185 - Neoplasma maligno da próstata                185X 
+    275  186 - Neoplasma maligno do testículo               186X 
+275 276  186.0 De testiculo não descido                     1860 
+275 277  186.9 De outro e não especificado                  1869 
+    278  187 - Neopl malig penis out órg genit mascul       187X 
+278 279  187.1 Do prepucio                                  1871 
+278 280  187.2 Da glande do penis                           1872 
+278 281  187.3 Do corpo do penis                            1873 
+278 282  187.4 Do penis                                     1874 
+278 283  187.5 Do epididimo                                 1875 
+278 284  187.6 Do cordao espermatico                        1876 
+278 285  187.7 Do escroto                                   1877 
+278 286  187.8 Outro                                        1878 
+278 287  187.9 De localização não especificada              1879 
+    288  188 - Neoplasma maligno da bexiga urinária         188X 
+288 289  188.0 Do trigono                                   1880 
+288 290  188.1 Da porção superior                           1881 
+288 291  188.2 Da parede lateral                            1882 
+288 292  188.3 Da parede anterior                           1883 
+288 293  188.4 Da parede posterior                          1884 
+288 294  188.5 Do colo da bexiga                            1885 
+288 295  188.6 Do orificio ureteral                         1886 
+288 296  188.7 Do uraco                                     1887 
+288 297  188.8 Outro                                        1888 
+288 298  188.9 De porção não especificada                   1889 
+    299  189 - Neo mal rim out órg urinár e não espec       189X 
+299 300  189.0 Do rim                                       1890 
+299 301  189.1 Da pelve renal                               1891 
+299 302  189.2 Do ureter                                    1892 
+299 303  189.3 Da uretra                                    1893 
+299 304  189.4 Das glandulas para-uretrais                  1894 
+299 305  189.8 Outro                                        1898 
+299 306  189.9 De localização não especificada              1899 
+    307  190 - Neoplasma maligno do olho                    190X 
+307 308  190.0 Do globo ocular                              1900 
+307 309  190.1 Da orbita                                    1901 
+307 310  190.2 Da glandula lacrimal                         1902 
+307 311  190.3 Da conjuntiva                                1903 
+307 312  190.4 Da cornea                                    1904 
+307 313  190.5 Da retina                                    1905 
+307 314  190.6 Da coróide                                   1906 
+307 315  190.7 Do canal lacrimal                            1907 
+307 316  190.8 Outro                                        1908 
+307 317  190.9 De parte não especificada                    1909 
+    318  191 - Neoplasma maligno do encéfalo                191X 
+318 319  191.0 Do cérebro                                   1910 
+318 320  191.1 Do lobo frontal                              1911 
+318 321  191.2 Do lobo temporal                             1912 
+318 322  191.3 Do lobo parietal                             1913 
+318 323  191.4 Do lobo occipital                            1914 
+318 324  191.5 Do ventriculo                                1915 
+318 325  191.6 Do cerebelo                                  1916 
+318 326  191.7 Do tronco cerebral                           1917 
+318 327  191.8 Outro                                        1918 
+318 328  191.9 Do encefalo                                  1919 
+    329  192 - Neopl mal out part e ñ espec sist nerv       192X 
+329 330  192.0 Dos nervos cranianos                         1920 
+329 331  192.1 Das meninges encefalicas                     1921 
+329 332  192.2 Da medula espinhal                           1922 
+329 333  192.3 Das meninges espinhais                       1923 
+329 334  192.8 Outro                                        1928 
+329 335  192.9 De parte não especificada                    1929 
+    336  193 - Neopasma maligno da glândula tireóide        193X 
+    337  194 - Neo mal out glând endócr e estrut corr       194X 
+337 338  194.0 Da glandula supra-renal                      1940 
+337 339  194.1 Das paratireóides                            1941 
+337 340  194.3 Da hipofise e conduto craniofaringeu         1943 
+337 341  194.4 Do corpo pineal                              1944 
+337 342  194.5 Do glomo carotideo                           1945 
+337 343  194.6 Do corpusc ou corpo aortico e outr paragangl 1946 
+337 344  194.8 Outros                                       1948 
+337 345  194.9 De localização não especificada              1949 
+    346  195 - Neopl malig out localiz e mal definidas      195X 
+346 347  195.0 Da cabeca                                    1950 
+346 348  195.1 Do torax                                     1951 
+346 349  195.2 Do abdome                                    1952 
+346 350  195.3 Da pelve                                     1953 
+346 351  195.4 Do membro superior                           1954 
+346 352  195.5 Do membro inferior                           1955 
+346 353  195.8 De outras localizações especificadas         1958 
+346 354  195.9 Código inválido - fora da CID                1959 
+    355  196 - Neopl malig secund e ñ espec gângl linf      196X 
+355 356  196.0 Da cabeca                                    1960 
+355 357  196.1 Intratoracicos                               1961 
+355 358  196.2 Intra-abdominais                             1962 
+355 359  196.3 Axilares e do membro superior                1963 
+355 360  196.5 Inguinais e do membro inferior               1965 
+355 361  196.6 Intrapelvicos                                1966 
+355 362  196.8 De localizações múltiplas                    1968 
+355 363  196.9 De localização não especificada              1969 
+    364  197 - Neopl malig secund apar respirat e dig       197X 
+364 365  197.0 Do pulmão                                    1970 
+364 366  197.1 Do mediastino                                1971 
+364 367  197.2 Da pleura                                    1972 
+364 368  197.3 De outros órgãos respiratorios               1973 
+364 369  197.4 Do intestino delgado                         1974 
+364 370  197.5 Do intestino grosso e do reto                1975 
+364 371  197.6 Do peritônio e retroperitonio                1976 
+364 372  197.7 Do fígado                                    1977 
+364 373  197.8 De outros órgãos do aparelho digestivo       1978 
+    374  198 - Neopl malig secund outr localiz especif      198X 
+374 375  198.0 Dos rins                                     1980 
+374 376  198.1 De outros órgãos do aparelho urinário        1981 
+374 377  198.2 Da pele                                      1982 
+374 378  198.3 Do encefalo e medula espinhal                1983 
+374 379  198.4 De outras partes do sistema nervoso          1984 
+374 380  198.5 Dos ossos e da medula ossea                  1985 
+374 381  198.6 Do ovario                                    1986 
+374 382  198.7 Da glandula supra-renal                      1987 
+374 383  198.8 De outras localizações especificadas         1988 
+    384  199 - Neopl malig sem especificação de local       199X 
+384 385  199.0 Disseminado                                  1990 
+384 386  199.1 Outros                                       1991 
+384 387  199.9 Código inválido - fora da CID                1999 
+    388  200 - Linfo e reticulossarcoma                     200X 
+388 389  200.0 Reticulossarcoma                             2000 
+388 390  200.1 Linfossarcoma                                2001 
+388 391  200.2 Tumor de burkitt                             2002 
+388 392  200.8 Outras variacoes de designação               2008 
+388 393  200.9 Código inválido - fora da CID                2009 
+    394  201 - Doença de Hodgkin                            201X 
+394 395  201.0 Paragranuloma de hodgkin                     2010 
+394 396  201.1 Granuloma de hodgkin                         2011 
+394 397  201.2 Sarcoma de hodgkin                           2012 
+394 398  201.4 Predominancia linfocitico-histiocitica       2014 
+394 399  201.5 Esclerose nodular                            2015 
+394 400  201.6 Celularidade mista                           2016 
+394 401  201.7 Depleção linfocítica                         2017 
+394 402  201.9 Sem especificação                            2019 
+    403  202 - Out neopl malig tec linfóide e histioc       202X 
+403 404  202.0 Linfoma nodular                              2020 
+403 405  202.1 Micose fungóide                              2021 
+403 406  202.2 Doença de sezary                             2022 
+403 407  202.3 Histiocitose maligna                         2023 
+403 408  202.4 Reticuloendoteliose leucemica                2024 
+403 409  202.5 Doença de letterer-siwe                      2025 
+403 410  202.6 Tumores malignos dos mastocitos              2026 
+403 411  202.8 Outros linfomas                              2028 
+403 412  202.9 Outros e os não especificados                2029 
+    413  203 - Mieloma múltip e neop imunoproliferativ      203X 
+413 414  203.0 Mieloma multiplo                             2030 
+413 415  203.1 Leucemia de plasmocitos                      2031 
+413 416  203.8 Outros neoplasmas imunoproliferativos        2038 
+413 417  03.9 Código inválido - fora da CID                 2039 
+    418  204 - Leucemia linfóide                            204X 
+418 419  204.0 Aguda                                        2040 
+418 420  204.1 Cronica                                      2041 
+418 421  204.2 Subaguda                                     2042 
+418 422  204.8 Outra                                        2048 
+418 423  204.9 Não especificada                             2049 
+    424  205 - Leucemia mielóide                            205X 
+424 425  205.0 Aguda                                        2050 
+424 426  205.1 Cronica                                      2051 
+424 427  205.2 Subaguda                                     2052 
+424 428  205.3 Sarcoma mielóide                             2053 
+424 429  205.8 Outra                                        2058 
+424 430  205.9 Não especificada                             2059 
+    431  206 - Leucemia monocítica                          206X 
+431 432  206.0 Aguda                                        2060 
+431 433  206.1 Cronica                                      2061 
+431 434  206.2 Subaguda                                     2062 
+431 435  206.8 Outra                                        2068 
+431 436  206.9 Não especificada                             2069 
+    437  207 - Outras leucemias especificadas               207X 
+437 438  207.0 Eritremia ou eritroleucemia aguda            2070 
+437 439  207.1 Eritremia crônica                            2071 
+437 440  207.2 Leucemia megacariocitica                     2072 
+437 441  207.8 Outra                                        2078 
+437 442  07.9 Código inválido - fora da CID                 2079 
+    443  208 - Leucemias tipo celular não especificad       208X 
+443 444  208.0 Aguda                                        2080 
+443 445  208.1 Cronica                                      2081 
+443 446  208.2 Subaguda                                     2082 
+443 447  208.4 Código inválido - fora da CID                2084 
+443 448  208.8 Outra                                        2088 
+443 449  208.9 Não especificada                             2089 
+    450  210 - Neoplasma benigno lábio boca e faringe       210X 
+450 451  210.0 Dos labios                                   2100 
+450 452  210.1 Da lingua                                    2101 
+450 453  210.2 Das glandulas salivares maiores              2102 
+450 454  210.3 Do assoalho da boca                          2103 
+450 455  210.4 De outr partes e partes não especific da boc 2104 
+450 456  210.5 Das amigdalas                                2105 
+450 457  210.6 De outras porcoes da orofaringe              2106 
+450 458  210.7 Da nasofaringe                               2107 
+450 459  210.8 Da hipofaringe                               2108 
+450 460  210.9 Da faringe                                   2109 
+    461  211 - Neopl benig out partes apar digestivo        211X 
+461 462  211.0 Do esofago                                   2110 
+461 463  211.1 Do estomago                                  2111 
+461 464  211.2 Do intestino delgado                         2112 
+461 465  211.3 Do colon                                     2113 
+461 466  211.4 Do reto e do canal anal                      2114 
+461 467  211.5 Do fígado e vias biliares                    2115 
+461 468  211.6 Do pancreas                                  2116 
+461 469  211.7 Das ilhotas de lagerhans                     2117 
+461 470  211.8 Do peritônio e do retroperitonio             2118 
+461 471  211.9 De outr localiz e localiz não especificadas  2119 
+    472  212 - Neopl benig órg respirator e intratorac      212X 
+472 473  212.0 Das fossas nasais                            2120 
+472 474  212.1 Da laringe                                   2121 
+472 475  212.2 Da traqueia                                  2122 
+472 476  212.3 Dos brônquios e pulmoes                      2123 
+472 477  212.4 Da pleura                                    2124 
+472 478  212.5 Do mediastino                                2125 
+472 479  212.6 Do timo                                      2126 
+472 480  212.7 Do coração                                   2127 
+472 481  212.8 De outras localizações especificadas         2128 
+472 482  212.9 De localizações não especificadas            2129 
+    483  213 - Neopl benig ossos e cartilag articular       213X 
+483 484  213.0 Dos ossos do cranio e da face                2130 
+483 485  213.1 Da mandibula                                 2131 
+483 486  213.2 Da coluna vertebral                          2132 
+483 487  213.3 Das costelas                                 2133 
+483 488  213.4 Dos ossos longos membro superior e omoplata  2134 
+483 489  213.5 Dos ossos curtos do membro superior          2135 
+483 490  213.6 Dos ossos pelvicos                           2136 
+483 491  213.7 Dos ossos longos do membro inferior          2137 
+483 492  213.8 Dos ossos curtos do membro inferior          2138 
+483 493  213.9 De localização não especificada              2139 
+    494  214 - Lipoma                                       214X 
+    495  215 - Out neo benig tec conj e out tecid mol       215X 
+495 496  215.0 Da cabeca                                    2150 
+495 497  215.2 Do membro superior                           2152 
+495 498  215.3 Do membro inferior                           2153 
+495 499  215.4 Do torax                                     2154 
+495 500  215.5 Do abdome                                    2155 
+495 501  215.6 Da pelve                                     2156 
+495 502  215.7 Do tronco                                    2157 
+495 503  215.8 De outras localizações especificadas         2158 
+495 504  215.9 De localização não especificada              2159 
+    505  216 - Neoplasma benigno da pele                    216X 
+505 506  216.0 Da pele do labio                             2160 
+505 507  216.1 Da palpebra                                  2161 
+505 508  216.2 Do ouvido e do conduto auditivo externo      2162 
+505 509  216.3 Da pele outr partes partes não especific fac 2163 
+505 510  216.4 Do couro cabeludo e da pele do pescoco       2164 
+505 511  216.5 Da pele do tronco                            2165 
+505 512  216.6 Da pele de membro superior                   2166 
+505 513  216.7 Da pele de membro inferior                   2167 
+505 514  216.8 Outro                                        2168 
+505 515  216.9 De localização não especificada              2169 
+    516  217 - Neoplasma benigno da mama                    217X 
+    517  218 - Leiomioma uterino                            218X 
+    518  219 - Outros neoplasmas benignos do útero          219X 
+518 519  219.0 Do colo do utero                             2190 
+518 520  219.1 Do corpo do utero                            2191 
+518 521  219.8 De outras porcoes especificadas              2198 
+518 522  219.9 De porção não especificada                   2199 
+    523  220 - Neoplasma benigno do ovário                  220X 
+    524  221 - Neopl benig out órg genitais femininos       221X 
+524 525  221.0 Da trompa e dos ligamentos uterinos          2210 
+524 526  221.1 Da vagina                                    2211 
+524 527  221.2 Da vulva                                     2212 
+524 528  221.8 De outras localizações especificadas         2218 
+524 529  221.9 De localização não especificada              2219 
+    530  222 - Neopl benig órg genitais masculinos          222X 
+530 531  222.0 Do testiculo                                 2220 
+530 532  222.1 Do penis                                     2221 
+530 533  222.2 Da prostata                                  2222 
+530 534  222.3 Do epididimo                                 2223 
+530 535  222.4 Do escroto                                   2224 
+530 536  222.8 De outras localizações especificadas         2228 
+530 537  222.9 De localização não especificada              2229 
+    538  223 - Neopl benig rim out órg aparel urinário      223X 
+538 539  223.0 Do rim                                       2230 
+538 540  223.1 Da pelve renal                               2231 
+538 541  223.2 Do ureter                                    2232 
+538 542  223.3 Da bexiga urinaria                           2233 
+538 543  223.8 De outras localizações especificadas         2238 
+538 544  223.9 De localização não especificada              2239 
+    545  224 - Neoplasma benigno do olho                    224X 
+545 546  224.0 Do globo ocular                              2240 
+545 547  224.1 Da orbita                                    2241 
+545 548  224.2 Da glandula lacrimal                         2242 
+545 549  224.3 Da conjuntiva                                2243 
+545 550  224.4 Da cornea                                    2244 
+545 551  224.5 Da retina                                    2245 
+545 552  224.6 Da coróide                                   2246 
+545 553  224.7 Do canal lacrimal                            2247 
+545 554  224.8 De outras partes especificadas               2248 
+545 555  224.9 De parte não especificada                    2249 
+    556  225 - Neopl benig encefalo out part sist nerv      225X 
+556 557  225.0 Do encefalo                                  2250 
+556 558  225.1 Dos nervos cranianos                         2251 
+556 559  225.2 Das meninges encefalicas                     2252 
+556 560  225.3 Da medula espinhal                           2253 
+556 561  225.4 Das meninges espinhais                       2254 
+556 562  225.8 Outros                                       2258 
+556 563  225.9 De parte não especificada                    2259 
+    564  226 - Neoplasma benigno da glândula tireóide       226X 
+    565  227 - Neo ben out glând endoc e estrut correl      227X 
+565 566  227.0 Da glandula supra-renal                      2270 
+565 567  227.1 Das paratireóides                            2271 
+565 568  227.3 Da hipofise e conduto craniofaringeu         2273 
+565 569  227.4 Da pineal                                    2274 
+565 570  227.5 Do glomo carotideo                           2275 
+565 571  227.6 Do corpusculo aortico e outros paraganglios  2276 
+565 572  227.8 Outros                                       2278 
+565 573  227.9 De localização não especificada              2279 
+    574  228 - Hemangioma linfangiom qualquer localiz       228X 
+574 575  228.0 Hemangioma                                   2280 
+574 576  228.1 Linfangioma                                  2281 
+574 577  228.9 Código inválido - fora da CID                2289 
+    578  229 - Neopl benig out localiz e não especif        229X 
+578 579  229.0 Dos gânglios linfáticos                      2290 
+578 580  229.8 De outras localizações especificadas         2298 
+578 581  229.9 De localizações não especificadas            2299 
+    582  230 - Carcinoma in situ órgãos digestivos          230X 
+582 583  230.0 Do labio                                     2300 
+582 584  230.1 Do esofago                                   2301 
+582 585  230.2 Do estomago                                  2302 
+582 586  230.3 Do colon                                     2303 
+582 587  230.4 Do reto                                      2304 
+582 588  230.5 Do canal anal                                2305 
+582 589  230.6 Do ânus                                      2306 
+582 590  230.7 De outras porcoes e das não especificadas    2307 
+582 591  230.8 Do fígado e sistema biliar                   2308 
+582 592  230.9 De outros órgãos digestiv e os não especific 2309 
+    593  231 - Carcinoma in situ aparelho respiratório      231X 
+593 594  231.0 Da laringe                                   2310 
+593 595  231.1 Da traqueia                                  2311 
+593 596  231.2 Dos brônquios e pulmão                       2312 
+593 597  231.8 De outras partes especificadas               2318 
+593 598  231.9 De parte não especificada                    2319 
+    599  232 - Carcinoma in situ da pele                    232X 
+599 600  232.0 Da pele do labio                             2320 
+599 601  232.1 Das palpebras                                2321 
+599 602  232.2 Do ouvido e conduto auditivo externo         2322 
+599 603  232.3 Da pele outras partes e partes não especific 2323 
+599 604  232.4 Do couro cabeludo e pele do pescoco          2324 
+599 605  232.5 Da pele do tronco                            2325 
+599 606  232.6 Da pele de membro superior                   2326 
+599 607  232.7 Da pele de membro inferior                   2327 
+599 608  232.8 De outras localizações especificadas         2328 
+599 609  232.9 De localização não especificada              2329 
+    610  233 - Carcinoma in situ mama e apar geniturin      233X 
+610 611  233.0 Da mama                                      2330 
+610 612  233.1 Do colo do utero                             2331 
+610 613  233.2 De outr porcoes e porcoes não especific uter 2332 
+610 614  233.3 De outr órgãos genit feminin e não especific 2333 
+610 615  233.4 Da prostata                                  2334 
+610 616  233.5 Do penis                                     2335 
+610 617  233.6 De outr órgãos genit masculin e não especifi 2336 
+610 618  233.7 Da bexiga urinaria                           2337 
+610 619  233.9 De outr órgãos ap urinário e não especific   2339 
+    620  234 - Carcinoma in situ out local e não espec      234X 
+620 621  234.0 Do olho                                      2340 
+620 622  234.8 De outras localizações especificadas         2348 
+620 623  234.9 De localização não especificada              2349 
+    624  235 - Neopl comport incert ap dig e respirat       235X 
+624 625  235.0 Das glandulas salivares maiores              2350 
+624 626  235.1 Do labio                                     2351 
+624 627  235.2 Do estomago                                  2352 
+624 628  235.3 Do fígado e vias biliares                    2353 
+624 629  235.4 Do retroperitonio e peritônio                2354 
+624 630  235.5 De outr órgãos digestivos e dos não especifi 2355 
+624 631  235.6 Da laringe                                   2356 
+624 632  235.7 Da traqueia                                  2357 
+624 633  235.8 Da pleura                                    2358 
+624 634  235.9 De outr órgãos respiratorios e não especific 2359 
+    635  236 - Neopl comport incerto órg geniturinário      236X 
+635 636  236.0 Do utero                                     2360 
+635 637  236.1 Da placenta                                  2361 
+635 638  236.2 Do ovario                                    2362 
+635 639  236.3 De outr órgãos genit feminin e não especific 2363 
+635 640  236.4 Do testiculo                                 2364 
+635 641  236.5 Da prostata                                  2365 
+635 642  236.6 De outr órgãos genit masculin e não especifi 2366 
+635 643  236.7 Da bexiga urinaria                           2367 
+635 644  236.9 De outr órgãos ap urinário e não especific   2369 
+    645  237 - Neo comport incert glan endóc e s nerv       237X 
+645 646  237.0 Da hipofise e do conduto craniofaringeu      2370 
+645 647  237.1 Da pineal                                    2371 
+645 648  237.2 Da glandula supra-renal                      2372 
+645 649  237.3 Dos paraganglios                             2373 
+645 650  237.4 De outr glandulas endocrinas e não especific 2374 
+645 651  237.5 Do encefalo e da medula espinhal             2375 
+645 652  237.6 Das meninges                                 2376 
+645 653  237.7 Neurofibromatose                             2377 
+645 654  237.9 De outr partes e partes não especif sist ner 2379 
+    655  238 - Neo comp incert out loc e tec e não esp      238X 
+655 656  238.0 Do osso e da cartilagem articular            2380 
+655 657  238.1 Do tecido conjuntivo e outros tecidos moles  2381 
+655 658  238.2 Da pele                                      2382 
+655 659  238.3 Da mama                                      2383 
+655 660  238.4 Policitemia vera                             2384 
+655 661  238.5 Dos histiocitos e mastocitos                 2385 
+655 662  238.6 Dos plasmocitos                              2386 
+655 663  238.7 De outros tecidos linfáticos e hematopoetico 2387 
+655 664  238.8 De outras localizações especificadas         2388 
+655 665  238.9 De localização não especificada              2389 
+    666  239 - Neoplasma de natureza não especificada       239X 
+666 667  239.0 Do aparelho digestivo                        2390 
+666 668  239.1 Do aparelho respiratorio                     2391 
+666 669  239.2 Dos ossos                                    2392 
+666 670  239.3 Da mama                                      2393 
+666 671  239.4 Da bexiga urinaria                           2394 
+666 672  239.5 De outros órgãos geniturinarios              2395 
+666 673  239.6 Do encefalo                                  2396 
+666 674  239.7 Das glandulas endocrinas                     2397 
+666 675  239.8 De outras localizações especificadas         2398 
+666 676  239.9 De localização não especificada              2399 
+

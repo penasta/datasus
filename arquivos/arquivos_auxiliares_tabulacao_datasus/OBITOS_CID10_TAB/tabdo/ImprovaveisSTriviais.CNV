@@ -1,0 +1,151 @@
+150 4
+      1  A42.8 Outr form de actinomicose                    A428
+      2  A60.0 Infecc org genit trat genitur p/virus herpes A600
+      3  B00.2 Gengivoestom e faringoamig dev virus herpes  B002
+      4  F50.1 Anorexia nervosa atipica                     F501
+      5  F50.2 Bulimia nervosa                              F502
+      6  F50.3 Bulimia nervosa atipica                      F503
+      7  F50.9 Transt de alimentacao NE                     F509
+      8  F60.0 Personalidade paranoica                      F600
+      9  F60.1 Personalidade esquizoide                     F601
+     10  F60.2 Personalidade dissocial                      F602
+     11  F60.3 Transt de personalidade c/instab emocional   F603
+     12  F60.4 Personalidade histrionica                    F604
+     13  F60.5 Personalidade anancastica                    F605
+     14  F60.6 Personalidade ansiosa                        F606
+     15  F60.7 Personalidade dependente                     F607
+     16  F60.8 Outr transt especificos da personalidade     F608
+     17  F60.9 Transt NE da personalidade                   F609
+     18  G45.0 Sindr da arteria vertebro-basilar            G450
+     19  G45.1 Sindr da arteria carotidea                   G451
+     20  G45.2 Sindr arterias pre-cerebrais mult bilaterais G452
+     21  G45.3 Amaurose fugaz                               G453
+     22  G45.4 Amnesia global transitoria                   G454
+     23  G45.8 Outr acid isquemicos cerebr trans sindr corr G458
+     24  G45.9 Isquemia cerebral transitoria NE             G459
+     25  H00.0 Hordeolo e outr inflam profundas palpebras   H000
+     26  H00.1 Calazio                                      H001
+     27  H57.8 Outr transt espec do olho e anexos           H578
+     28  H57.9 Transt NE do olho e anexos                   H579
+     29  H60.0 Abscesso do ouvido externo                   H600
+     30  H60.1 Celulite do ouvido externo                   H601
+     31  H60.2 Otite externa maligna                        H602
+     32  H60.3 Outr otites externas infecc                  H603
+     33  H60.4 Colesteatoma do ouvido externo               H604
+     34  H60.5 Otite externa aguda nao-infecc               H605
+     35  H60.8 Outr otites externas                         H608
+     36  H60.9 Otite externa NE                             H609
+     37  H83.8 Outr transt espec do ouvido interno          H838
+     38  H83.9 Transt NE do ouvido interno                  H839
+     39  J06.0 Laringofaringite aguda                       J060
+     40  J06.8 Outr infecc agudas vias aereas sup loc mult  J068
+     41  J06.9 Infecc aguda das vias aereas super NE        J069
+     42  J35.0 Amigdalite cronica                           J350
+     43  J35.1 Hipertrofia das amigdalas                    J351
+     44  J35.2 Hipertrofia das adenoides                    J352
+     45  J35.3 Hipertrofia amigdalas c/hipertrof adenoides  J353
+     46  J35.8 Outr doenc cronicas amigdalas e adenoides    J358
+     47  J35.9 Doenc das amigdalas e das adenoides NE       J359
+     48  L01.0 Impetigo                                     L010
+     49  L01.1 Impetiginizacao de outr dermatoses           L011
+     50  L03.0 Celulite de dedos das maos e dos pes         L030
+     51  L04.0 Linfadenite aguda de face cabeca e pescoco   L040
+     52  L04.1 Linfadenite aguda do tronco                  L041
+     53  L04.2 Linfadenite aguda de membro super            L042
+     54  L04.3 Linfadenite aguda de membro infer            L043
+     55  L04.8 Linfadenite aguda de outr localiz            L048
+     56  L04.9 Linfadenite aguda de localiz NE              L049
+     57  L05.0 Cisto pilonidal c/abscesso                   L050
+     58  L05.9 Cisto pilonidal s/abscesso                   L059
+     59  L08.0 Piodermite                                   L080
+     60  L08.1 Eritrasma                                    L081
+     61  L08.8 Outr infecc local espec pele tec subcutaneo  L088
+     62  L98.5 Mucinose da pele                             L985
+     63  M35.3 Polimialgia reumatica                        M353
+     64  M43.8 Outr dorsopatias deformantes espec           M438
+     65  M43.9 Dorsopatia deformante NE                     M439
+     66  M48.0 Estenose da coluna vertebral                 M480
+     67  M60.0 Miosite infecc                               M600
+     68  M60.1 Miosite intersticial                         M601
+     69  M60.2 Granuloma de corpo estranho no tec mole NCOP M602
+     70  M60.8 Outr miosites                                M608
+     71  M60.9 Miosite NE                                   M609
+     72  N92.0 Menstruacao excessiva freq c/ciclo regular   N920
+     73  N92.1 Menstruacao excessiva freq c/ciclo irregular N921
+     74  N92.2 Menstruacao excessiva na puberdade           N922
+     75  N92.3 Sangramento da ovulacao                      N923
+     76  N92.4 Sangramento abundante na pre-menopausa       N924
+     77  N92.5 Outr tipos espec irregularidade menstruacao  N925
+     78  N92.6 Menstruacao irregular NE                     N926
+     79  S00.0 Traum superf do couro cabeludo               S000
+     80  S00.1 Contusao da palpebra e da regiao periocular  S001
+     81  S00.2 Outr traum superf palpebra regiao periocular S002
+     82  S00.3 Traum superf do nariz                        S003
+     83  S00.4 Traum superf do ouvido                       S004
+     84  S00.5 Traum superf dos labios e da cavidade oral   S005
+     85  S00.7 Traum superf mult da cabeca                  S007
+     86  S00.8 Traum superf de outr partes da cabeca        S008
+     87  S00.9 Traum superf da cabeca parte NE              S009
+     88  S05.0 Traum conj abrasao cornea s/menc corp estran S050
+     89  S05.1 Contusao do globo ocular e dos tec da orbita S051
+     90  S05.8 Outr traum do olho e da orbita               S058
+     91  S10.0 Contusao da garganta                         S100
+     92  S10.1 Outr traum superf da garganta e os NE        S101
+     93  S10.7 Traum superf mult do pescoco                 S107
+     94  S10.8 Traum superf de outr localiz do pescoco      S108
+     95  S10.9 Traum superf do pescoco parte NE             S109
+     96  S20.0 Contusao da mama                             S200
+     97  S20.1 Outr traum superf da mama e os NE            S201
+     98  S20.2 Contusao do torax                            S202
+     99  S20.3 Outr traum superf da parede anterior torax   S203
+    100  S20.4 Outr traum superf da parede posterior torax  S204
+    101  S20.7 Traum superf mult do torax                   S207
+    102  S20.8 Traum superf de outr partes espec torax e NE S208
+    103  S30.0 Contusao do dorso e da pelve                 S300
+    104  S30.1 Contusao da parede abdominal                 S301
+    105  S30.2 Contusao dos orgaos genitais externos        S302
+    106  S30.7 Traum superf mult do abdome do dorso e pelve S307
+    107  S30.8 Outr traum superf do abdome do dorso e pelve S308
+    108  S30.9 Traum superf parte NE abdome dorso e pelve   S309
+    109  S40.0 Contusao do ombro e do braco                 S400
+    110  S40.7 Traum superf mult do ombro e do braco        S407
+    111  S40.8 Outr traum superf do ombro e do braco        S408
+    112  S40.9 Traum superf NE do ombro e do braco          S409
+    113  S50.0 Contusao do cotovelo                         S500
+    114  S50.1 Contusao outr partes e NE do antebraco       S501
+    115  S50.7 Traum superf mult do antebraco               S507
+    116  S50.8 Outr traum superf do antebraco               S508
+    117  S50.9 Traum superf do antebraco NE                 S509
+    118  S60.0 Contusao de dedos s/lesao da unha            S600
+    119  S60.1 Contusao de dedos c/lesao da unha            S601
+    120  S60.2 Contusao de outr partes do punho e da mao    S602
+    121  S60.7 Traum superf mult do punho e da mao          S607
+    122  S60.8 Outr traum superf do punho e da mao          S608
+    123  S60.9 Traum superf NE do punho e da mao            S609
+    124  S70.0 Contusao do quadril                          S700
+    125  S70.1 Contusao da coxa                             S701
+    126  S70.7 Traum superf mult do quadril e da coxa       S707
+    127  S70.8 Outr traum superf do quadril e da coxa       S708
+    128  S70.9 Traum superf NE do quadril e da coxa         S709
+    129  S80.0 Contusao do joelho                           S800
+    130  S80.1 Contusao de outr partes e de partes NE perna S801
+    131  S80.7 Traum superf mult da perna                   S807
+    132  S80.8 Outr traum superf da perna                   S808
+    133  S80.9 Traum superf NE da perna                     S809
+    134  S90.0 Contusao do tornozelo                        S900
+    135  S90.1 Contusao de artelho s/lesao da unha          S901
+    136  S90.2 Contusao de artelho c/lesao da unha          S902
+    137  S90.3 Contusao de outr partes e partes NE do pe    S903
+    138  S90.7 Traum superf mult do tornozelo e do pe       S907
+    139  S90.8 Outr traum superf do tornozelo e do pe       S908
+    140  S90.9 Traum superf do tornozelo e do pe NE         S909
+    141  T09.0 Traum superf do tronco nivel NE              T090
+    142  T11.0 Traum superf do membro super nivel NE        T110
+    143  T13.0 Traum superf de membro infer nivel NE        T130
+    144  T14.0 Traum superf de regiao NE do corpo           T140
+    145  T20.1 Queim de 1.grau da cabeca e pescoco          T201
+    146  T21.1 Queim de 1.grau do tronco                    T211
+    147  T22.1 Queim 1.grau ombro membr sup exc punho e mao T221
+    148  T23.1 Queim de 1.grau do punho e da mao            T231
+    149  T24.1 Queim 1.grau quadr membr inf exc tornoz pe   T241
+    150  T25.1 Queim de 1.grau do tornozelo e do pe         T251

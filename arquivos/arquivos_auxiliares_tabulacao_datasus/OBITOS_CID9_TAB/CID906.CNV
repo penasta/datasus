@@ -1,0 +1,526 @@
+    524  4 L                                                     
+      1  320 - Meningite bacteriana                         320X 
+  1   2  320.0 Meningite por haemophilus                    3200 
+  1   3  320.1 Meningite pneumocócica                       3201 
+  1   4  320.2 Meningite estreptocócica                     3202 
+  1   5  320.3 Meningite estafilocócica                     3203 
+  1   6  320.4 Meningite tuberculosa                        3204 
+  1   7  320.5 Meningite meningocócica                      3205 
+  1   8  320.7 Meningite outr doenç bacter class outr parte 3207 
+  1   9  320.8 Meningite dev outras bactérias especificadas 3208 
+  1  10  320.9 Meningite devida a bacteria não especificada 3209 
+     11  321 - Meningite devida a outros microorganism      321X 
+ 11  12  321.0 Meningite devida a fungos                    3210 
+ 11  13  321.1 Meningite devida a vírus coxsackie           3211 
+ 11  14  321.2 Meningite devida a echo vírus                3212 
+ 11  15  321.3 Meningite devida ao vírus do herpes zoster   3213 
+ 11  16  321.4 Meningite devida ao vírus do herpes simples  3214 
+ 11  17  321.5 Meningite devida ao vírus da caxumba         3215 
+ 11  18  321.6 Meningite dev vírus coriomening linfocítica  3216 
+ 11  19  321.7 Meningite dev outr vírus e vírus não especif 3217 
+ 11  20  321.8 Outras meningites                            3218 
+     21  322 - Meningite de causa não especificada          322X 
+ 21  22  322.0 Meningite não piogenica                      3220 
+ 21  23  322.1 Meningite eosinofilica                       3221 
+ 21  24  322.2 Meningite crônica                            3222 
+ 21  25  322.9 Meningite não especificada                   3229 
+     26  323 - Encefalite mielite e encefalomielite         323X 
+ 26  27  323.0 Kuru                                         3230 
+ 26  28  323.1 Panencefalite esclerosante subaguda          3231 
+ 26  29  323.2 Poliomielite                                 3232 
+ 26  30  323.3 Encefalite dev vírus transmitidos artropodes 3233 
+ 26  31  323.4 Outras encefalites devidas a infecções       3234 
+ 26  32  323.5 Encefalite seguida a processos de imunização 3235 
+ 26  33  323.6 Encefalite pós-infecciosa                    3236 
+ 26  34  323.7 Encefalite toxica                            3237 
+ 26  35  323.8 Outras encefalites                           3238 
+ 26  36  323.9 Encefalites                                  3239 
+     37  324 - Abscessos intracranianos intra-raquidia      324X 
+ 37  38  324.0 Abcesso intracraniano                        3240 
+ 37  39  324.1 Abcesso intra-raquidiano                     3241 
+ 37  40  324.9 Abcesso de localização não especificada      3249 
+     41  325 - Flebit trombofleb seios ven intracran        325X 
+     42  326 - Ef tard absces ou infec piogên intracr       326X 
+     43  330 - Degen cereb geralm manifestam na infânc      330X 
+ 43  44  330.0 Leucodistrofia                               3300 
+ 43  45  330.1 Lipidoses cerebrais                          3301 
+ 43  46  330.2 Degeneração cerebral lipidoses generalizadas 3302 
+ 43  47  330.3 Degen cereb infanc outr doenç class outr par 3303 
+ 43  48  330.8 Outras degeneracoes cerebrais na infancia    3308 
+ 43  49  330.9 Não especificadas                            3309 
+     50  331 - Outras degenerações cerebrais                331X 
+ 50  51  331.0 Doença de alzheimer                          3310 
+ 50  52  331.1 Doença de pick                               3311 
+ 50  53  331.2 Degeneração senil do cérebro                 3312 
+ 50  54  331.3 Hidrocefalia comunicante                     3313 
+ 50  55  331.4 Hidrocefalia obstrutiva                      3314 
+ 50  56  331.5 Doença de jakob-creutzfeldt                  3315 
+ 50  57  331.6 Leucoencefalopatia multifocal progressiva    3316 
+ 50  58  331.7 Degen cerebr outras doenç classif outr parte 3317 
+ 50  59  331.8 Outras degeneracoes cerebrais                3318 
+ 50  60  331.9 Não especificadas                            3319 
+     61  332 - Doença de Parkinson                          332X 
+ 61  62  332.0 Paralisia agitante                           3320 
+ 61  63  332.1 Parkinsonismo secundario                     3321 
+ 61  64  332.9 Código inválido - fora da CID                3329 
+     65  333 - Out d sist extrapir transt da motricid       333X 
+ 65  66  333.0 Outr doenças degenerativas dos gânglios base 3330 
+ 65  67  333.1 Tremor essencial e outr formas especif tremo 3331 
+ 65  68  333.2 Mioclonia                                    3332 
+ 65  69  333.3 Tiques de origem organica                    3333 
+ 65  70  333.4 Coreia de huntington                         3334 
+ 65  71  333.5 Outros tipos de coreia                       3335 
+ 65  72  333.6 Distonia de torção                           3336 
+ 65  73  333.7 Distonia de torção                           3337 
+ 65  74  333.8 Distonia de torção localizada                3338 
+ 65  75  333.9 Outras e as não especificadas                3339 
+     76  334 - Doenças espinocerebelares                    334X 
+ 76  77  334.0 Ataxia de friedreich                         3340 
+ 76  78  334.1 Paraplegia espastica hereditaria             3341 
+ 76  79  334.2 Degeneração cerebelar primária               3342 
+ 76  80  334.3 Outras ataxias cerebelares                   3343 
+ 76  81  334.4 Ataxia cerebelar doenç class outra parte     3344 
+ 76  82  334.8 Outras ataxias                               3348 
+ 76  83  334.9 Doencas espino-cerebelares não especificadas 3349 
+     84  335 - Doenças celulas corno anterior da medul      335X 
+ 84  85  335.0 Doença de werdnig-hoffmann                   3350 
+ 84  86  335.1 Atrofia muscular espinhal                    3351 
+ 84  87  335.2 Doencas dos neuronios motores                3352 
+ 84  88  335.8 Outras doenças dos neuronios motores         3358 
+ 84  89  335.9 Doencas não especific dos neuronios motores  3359 
+     90  336 - Outras doenças da medula espinhal            336X 
+ 90  91  336.0 Siringomielia e siringobulbia                3360 
+ 90  92  336.1 Mielopatias vasculares                       3361 
+ 90  93  336.2 Degeneração combin subaguda medula espinhal  3362 
+ 90  94  336.3 Mielopatias outr doenças classif outra parte 3363 
+ 90  95  336.8 Outras mielopatias                           3368 
+ 90  96  336.9 Doencas não especificadas da medula espinhal 3369 
+     97  337 - Transtornos do sistema nervoso autônomo      337X 
+ 97  98  337.0 Neuropatia periferica autonoma idiopatica    3370 
+ 97  99  337.1 Neurop perif autonom transt class outr parte 3371 
+ 97 100  337.9 Transt sistema nervoso autonomo não especifi 3379 
+    101  340 - Esclerose múltipla                           340X 
+    102  341 - Out doenç desmielinizant sist nerv cent      341X 
+102 103  341.0 Neuromielite optica                          3410 
+102 104  341.1 Doença de schilder                           3411 
+102 105  341.8 Outras                                       3418 
+102 106  341.9 Não especificadas                            3419 
+    107  342 - Hemiplegia                                   342X 
+107 108  342.0 Hemiplegia flacida                           3420 
+107 109  342.1 Hemiplegia espastica                         3421 
+107 110  342.9 Não especificada                             3429 
+    111  343 - Paralisia cerebral infantil                  343X 
+111 112  343.0 Diplegica                                    3430 
+111 113  343.1 Hemiplegica                                  3431 
+111 114  343.2 Quadriplegica                                3432 
+111 115  343.3 Monoplegica                                  3433 
+111 116  343.4 Hemiplegia infantil                          3434 
+111 117  343.8 Outras                                       3438 
+111 118  343.9 Não especificadas                            3439 
+    119  344 - Outras síndromes paralíticas                 344X 
+119 120  344.0 Quadriplegia                                 3440 
+119 121  344.1 Paraplegia                                   3441 
+119 122  344.2 Diplegia dos membros superiores              3442 
+119 123  344.3 Monoplegia de membro inferior                3443 
+119 124  344.4 Monoplegia de membro superior                3444 
+119 125  344.5 Monoplegia não especificada                  3445 
+119 126  344.6 Síndrome da cauda eqüina                     3446 
+119 127  344.8 Outras                                       3448 
+119 128  344.9 Não especificadas                            3449 
+    129  345 - Epilepsia                                    345X 
+129 130  345.0 Epilepsia não convulsiva generalizada        3450 
+129 131  345.1 Epilepsia convulsiva generalizada            3451 
+129 132  345.2 Estado de pequeno mal                        3452 
+129 133  345.3 Estado de grande mal                         3453 
+129 134  345.4 Epilepsia parcial c/comprometim consciencia  3454 
+129 135  345.5 Epilepsia parcial                            3455 
+129 136  345.6 Espasmos infantis                            3456 
+129 137  345.7 Epilepsia parcial continua                   3457 
+129 138  345.8 Outras                                       3458 
+129 139  345.9 Não especificadas                            3459 
+    140  346 - Enxaqueca                                    346X 
+140 141  346.0 Enxaqueca classica                           3460 
+140 142  346.1 Enxaqueca comum                              3461 
+140 143  346.2 Variantes de enxaqueca                       3462 
+140 144  346.8 Outras                                       3468 
+140 145  346.9 Não especificadas                            3469 
+    146  347 - Catalepsia e narcolepsia                     347X 
+    147  348 - Outras afecções do cérebro                   348X 
+147 148  348.0 Cistos cerebrais                             3480 
+147 149  348.1 Lesao cerebral anoxica                       3481 
+147 150  348.2 Hipertensao intracraniana benigna            3482 
+147 151  348.3 Encefalopatia não especificada               3483 
+147 152  348.4 Compressao do encefalo                       3484 
+147 153  348.5 Edema cerebral                               3485 
+147 154  348.8 Outras                                       3488 
+147 155  348.9 Não especificadas                            3489 
+    156  349 - Out transt sistema nerv e os não espec       349X 
+156 157  349.0 Reação a punção lombar ou espinhal           3490 
+156 158  349.1 Complic sist nerv dev disposit implant cirur 3491 
+156 159  349.2 Transtornos das meninges NCOP                3492 
+156 160  349.8 Outros                                       3498 
+156 161  349.9 Não especificados                            3499 
+    162  350 - Transtornos do nervo trigêmeo                350X 
+162 163  350.0 Neuralgia pós-herpetica do trigemeo          3500 
+162 164  350.1 Outras neuralgias do trigemeo                3501 
+162 165  350.2 Dor facial atipica                           3502 
+162 166  350.8 Outros                                       3508 
+162 167  350.9 Não especificados                            3509 
+    168  351 - Transtornos do nervo facial                  351X 
+168 169  351.0 Paralisia de bell                            3510 
+168 170  351.1 Ganglionite geniculada                       3511 
+168 171  351.8 Outros                                       3518 
+168 172  351.9 Não especificados                            3519 
+    173  352 - Transtornos de outros nervos cranianos       352X 
+173 174  352.0 Transtornos do nervo olfatorio               3520 
+173 175  352.1 Neuralgia glossofaringeia                    3521 
+173 176  352.2 Outros transtornos do nervo glossofaringeo   3522 
+173 177  352.3 Transtornos do nervo vago (pneumogastrico)   3523 
+173 178  352.4 Transtornos do nervo acessorio               3524 
+173 179  352.5 Transtornos do nervo hipoglosso              3525 
+173 180  352.6 Paralisias múltiplas dos nervos cranianos    3526 
+173 181  352.9 Não especificados                            3529 
+    182  353 - Transtornos das raízes e plexos nervos       353X 
+182 183  353.0 Lesões do plexo braquial                     3530 
+182 184  353.1 Lesões do plexo lombo-sacro                  3531 
+182 185  353.2 Lesões das raizes cervicais NCOP             3532 
+182 186  353.3 Lesões das raizes toracicas NCOP             3533 
+182 187  353.4 Lesões das raizes lombo-sacras NCOP          3534 
+182 188  353.5 Amiotrofia-neuralgica                        3535 
+182 189  353.6 Síndrome do membro fantasma                  3536 
+182 190  353.8 Outros                                       3538 
+182 191  353.9 Não especificados                            3539 
+    192  354 - Mononeurite memb super e mononeur múlt       354X 
+192 193  354.0 Síndrome do tunel carpal                     3540 
+192 194  354.1 Outras lesões do nervo mediano               3541 
+192 195  354.2 Lesões do nervo ulnar                        3542 
+192 196  354.3 Lesões do nervo radial                       3543 
+192 197  354.4 Causalgia                                    3544 
+192 198  354.5 Mononeurite multipla                         3545 
+192 199  354.8 Outras                                       3548 
+192 200  354.9 Não especificadas                            3549 
+    201  355 - Mononeurite membro inferior                  355X 
+201 202  355.0 Lesao do nervo ciatico                       3550 
+201 203  355.1 Meralgia parestesica                         3551 
+201 204  355.2 Lesao do nervo femural                       3552 
+201 205  355.3 Lesao do nervo popliteo lateral              3553 
+201 206  355.4 Lesao do nervo popliteo mediano              3554 
+201 207  355.5 Síndrome do tunel do tarso                   3555 
+201 208  355.6 Lesao do nervo plantar                       3556 
+201 209  355.7 Outras                                       3557 
+201 210  355.8 Mononeurite do membro inferior não especific 3558 
+201 211  355.9 Mononeurite de localização não especificada  3559 
+    212  356 - Neuropat perif hereditár e idiopáticas       356X 
+212 213  356.0 Neuropatia periferica hereditaria            3560 
+212 214  356.1 Atrofia muscular peroneal                    3561 
+212 215  356.2 Neuropatia sensorial hereditaria             3562 
+212 216  356.3 Doença de refsum                             3563 
+212 217  356.4 Polineuropatia idiopatica progressiva        3564 
+212 218  356.8 Outras                                       3568 
+212 219  356.9 Não especificadas                            3569 
+    220  357 - Neuropatias inflamatórias e tóxicas          357X 
+220 221  357.0 Polineurite infecciosa aguda                 3570 
+220 222  357.1 Polineuropatia na colagenose vascular        3571 
+220 223  357.2 Polineuropatia nos diabetes mellitus         3572 
+220 224  357.3 Polineuropatia em doenca maligna             3573 
+220 225  357.4 Polineuropatia outr doenç classif outr parte 3574 
+220 226  357.5 Polineuropatia alcoolica                     3575 
+220 227  357.6 Polineuropatia devida a drogas               3576 
+220 228  357.7 Polineuropatia dev outros agentes toxicos    3577 
+220 229  357.8 Outras                                       3578 
+220 230  357.9 Não especificadas                            3579 
+    231  358 - Transtornos neuromusculares                  358X 
+231 232  358.0 Miastenia gravis                             3580 
+231 233  358.1 Sindr miastenicas doenç classif outr parte   3581 
+231 234  358.2 Transtornos neuromusculares toxicos          3582 
+231 235  358.8 Outros                                       3588 
+231 236  358.9 Não especificados                            3589 
+    237  359 - Distrofias musculares e out miopatias        359X 
+237 238  359.0 Distrofia muscular congênita hereditaria     3590 
+237 239  359.1 Distrofia muscular progressiva hereditaria   3591 
+237 240  359.2 Transtornos miotonicos                       3592 
+237 241  359.3 Paralisia periodica familiar                 3593 
+237 242  359.4 Miopatia toxica                              3594 
+237 243  359.5 Miopatia endocrina                           3595 
+237 244  359.6 Miopatia inflamatoria sintomática            3596 
+237 245  359.8 Outras                                       3598 
+237 246  359.9 Não especificadas                            3599 
+    247  360 - Transtornos do globo ocular                  360X 
+247 248  360.0 Endoftalmite purulenta                       3600 
+247 249  360.1 Outras endoftalmites                         3601 
+247 250  360.2 Transtornos degenerativos do globo ocular    3602 
+247 251  360.3 Hipotonia do olho                            3603 
+247 252  360.4 Afecções degenerativas do globo ocular       3604 
+247 253  360.5 Corpo estranho intra-ocular natureza magneti 3605 
+247 254  360.6 Corpo estranho intra-ocular natur não magnet 3606 
+247 255  360.8 Outros transtornos do globo ocular           3608 
+247 256  360.9 Não especificados                            3609 
+    257  361 - Descolamento e defeitos da retina            361X 
+257 258  361.0 Descolamento da retina com defeito retiniano 3610 
+257 259  361.1 Retinosquise e cistos da retina              3611 
+257 260  361.2 Descolamento seroso da retina                3612 
+257 261  361.3 Defeitos da retina sem descolamento          3613 
+257 262  361.8 Outras formas de descolamento da retina      3618 
+257 263  361.9 Não especificados                            3619 
+    264  362 - Outros transtornos da retina                 362X 
+264 265  362.0 Retinopatia diabetica                        3620 
+264 266  362.1 Outr retinopat simples e alter vasc retina   3621 
+264 267  362.2 Outras retinopatias proliferativas           3622 
+264 268  362.3 Oclusao vascular da retina                   3623 
+264 269  362.4 Separação das camadas da retina              3624 
+264 270  362.5 Degeneração macular e do polo posterior      3625 
+264 271  362.6 Degeneracoes perifericas da retina           3626 
+264 272  362.7 Distrofias hereditarias da retina            3627 
+264 273  362.8 Outros transtornos da retina                 3628 
+264 274  362.9 Não especificados                            3629 
+    275  363 - Inflam e cicat coriorret e trans coroid      363X 
+275 276  363.0 Coriorretinite e retinocoroidite focais      3630 
+275 277  363.1 Coriorretinite e retinocoroidite disseminada 3631 
+275 278  363.2 Outr form coriorret retinocoroidite n especi 3632 
+275 279  363.3 Cicatrizes coriorretinianas                  3633 
+275 280  363.4 Degeneracoes da coróide                      3634 
+275 281  363.5 Distrofias hereditarias da coróide           3635 
+275 282  363.6 Hemorragia e ruptura da coróide              3636 
+275 283  363.7 Descolamento da coróide                      3637 
+275 284  363.8 Outros transtornos da coróide                3638 
+275 285  363.9 Não especificados                            3639 
+    286  364 - Transtornos da íris e do corpo ciliar        364X 
+286 287  364.0 Iridociclite aguda e subaguda                3640 
+286 288  364.1 Iridociclite crônica                         3641 
+286 289  364.2 Determinados tipos de iridociclites          3642 
+286 290  364.3 Iridociclites não especificadas              3643 
+286 291  364.4 Transtornos vasculares iris e do corpo cilia 3644 
+286 292  364.5 Degeneracoes da iris e do corpo ciliar       3645 
+286 293  364.6 Cistos da iris                               3646 
+286 294  364.7 Aderencias e rupturas do iris e corpo ciliar 3647 
+286 295  364.8 Outros transtornos da iris e do corpo ciliar 3648 
+286 296  364.9 Não especificados                            3649 
+    297  365 - Glaucoma                                     365X 
+297 298  365.0 Glaucoma 'borderline'                        3650 
+297 299  365.1 Glaucoma de angulo aberto                    3651 
+297 300  365.2 Glaucoma primário de angulo fechado          3652 
+297 301  365.3 Glaucoma induzido por corticoesteróide       3653 
+297 302  365.4 Glaucoma associado a anomalias congenitas    3654 
+297 303  365.5 Glaucoma associado a transtornos cristalino  3655 
+297 304  365.6 Glaucoma associado a outros transtornos olho 3656 
+297 305  365.8 Outros glaucomas                             3658 
+297 306  365.9 Não especificados                            3659 
+    307  366 - Catarata                                     366X 
+307 308  366.0 Catarata infantil                            3660 
+307 309  366.1 Catarata senil                               3661 
+307 310  366.2 Catarata traumatica                          3662 
+307 311  366.3 Catarata secundária a transtornos oculares   3663 
+307 312  366.4 Catarata associada a outros transtornos      3664 
+307 313  366.5 Pos-catarata                                 3665 
+307 314  366.8 Outras cataratas                             3668 
+307 315  366.9 Não especificadas                            3669 
+    316  367 - Transtornos da refração e da acomodação      367X 
+316 317  367.0 Hipermetropia                                3670 
+316 318  367.1 Miopia                                       3671 
+316 319  367.2 Astigmatismo                                 3672 
+316 320  367.3 Anisometropia e aniseiconia                  3673 
+316 321  367.4 Presbiopia                                   3674 
+316 322  367.5 Transtornos da acomodação                    3675 
+316 323  367.8 Outros                                       3678 
+316 324  367.9 Não especificados                            3679 
+    325  368 - Distúrbios da visão                          368X 
+325 326  368.0 Ambliopia exanopsia                          3680 
+325 327  368.1 Disturbios visuais subjetivos                3681 
+325 328  368.2 Diplopia                                     3682 
+325 329  368.3 Outros transtornos da visao binocular        3683 
+325 330  368.4 Defeitos do campo visual                     3684 
+325 331  368.5 Deficiencias da visao colorida               3685 
+325 332  368.6 Cegueira noturna                             3686 
+325 333  368.8 Outros disturbios visuais                    3688 
+325 334  368.9 Não especificados                            3689 
+    335  369 - Cegueira e visão subnormal                   369X 
+335 336  369.0 Cegueira                                     3690 
+335 337  369.1 Cegueira em um olho e visao subnormal em out 3691 
+335 338  369.2 Visao subnormal em ambos olhos               3692 
+335 339  369.3 Perda da visao não qualificada em ambos olho 3693 
+335 340  369.6 Cegueira em um olho                          3696 
+335 341  369.7 Visao subnormal em um olho                   3697 
+335 342  369.8 Perda da visao não qualificada em um olho    3698 
+335 343  369.9 Perda da visao não especificada              3699 
+    344  370 - Ceratite                                     370X 
+344 345  370.0 Úlcera da cornea                             3700 
+344 346  370.1 Ceratite dendritica                          3701 
+344 347  370.2 Outr ceratites superficiais sem conjuntivite 3702 
+344 348  370.3 Alguns tipos de ceratoconjuntivites          3703 
+344 349  370.4 Outr ceratoconjuntivites e não especificadas 3704 
+344 350  370.5 Ceratite intersticial e profunda             3705 
+344 351  370.6 Neovascularização da cornea                  3706 
+344 352  370.8 Outras formas de ceratite                    3708 
+344 353  370.9 Não especificada                             3709 
+    354  371 - Opacidade e outros transtornos córnea        371X 
+354 355  371.0 Cicatrizes e opacidades da cornea            3710 
+354 356  371.1 Pigmentacoes e depositos da cornea           3711 
+354 357  371.2 Edema da cornea                              3712 
+354 358  371.3 Alteracoes das membranas da cornea           3713 
+354 359  371.4 Degeneracoes da cornea                       3714 
+354 360  371.5 Distrofias hereditarias da cornea            3715 
+354 361  371.6 Ceratocone                                   3716 
+354 362  371.7 Outras deformidades da cornea                3717 
+354 363  371.8 Outros transtornos da cornea                 3718 
+354 364  371.9 Não especificados                            3719 
+    365  372 - Transtornos da conjuntiva                    372X 
+365 366  372.0 Conjuntivite aguda                           3720 
+365 367  372.1 Conjuntivite crônica                         3721 
+365 368  372.2 Blefaroconjuntivite                          3722 
+365 369  372.3 Outras conjuntivites e as não especificadas  3723 
+365 370  372.4 Pterigio                                     3724 
+365 371  372.5 Degeneracoes e depositos da conjuntiva       3725 
+365 372  372.6 Cicatrizes da conjuntiva                     3726 
+365 373  372.7 Cistos e transtornos vasculares da conjuntiv 3727 
+365 374  372.8 Outros transtornos da conjuntiva             3728 
+365 375  372.9 Não especificados                            3729 
+    376  373 - Inflamação das pálpebras                     373X 
+376 377  373.0 Blefarite                                    3730 
+376 378  373.1 Hordeolo e outr inflamac profundas palpebras 3731 
+376 379  373.2 Calazio                                      3732 
+376 380  373.3 Dermatoses não infecciosas da palpebra       3733 
+376 381  373.4 Dermatites infec palpebra tip q produz defor 3734 
+376 382  373.5 Outras dermatites infecciosas da palpebra    3735 
+376 383  373.6 Infestação parasitaria da palpebra           3736 
+376 384  373.8 Outra                                        3738 
+376 385  373.9 Não especificada                             3739 
+    386  374 - Outros transtornos das pálpebras             374X 
+386 387  374.0 Entropio e triquiase da palpebra             3740 
+386 388  374.1 Ectropio                                     3741 
+386 389  374.2 Lagoftalmo                                   3742 
+386 390  374.3 Ptose da palpebra                            3743 
+386 391  374.4 Outros transtornos q afetam a função palpebr 3744 
+386 392  374.5 Transt degenerat palpebras e area periocular 3745 
+386 393  374.8 Outros transtornos das palpebras             3748 
+386 394  374.9 Não especificados                            3749 
+    395  375 - Transtornos do aparelho lacrimal             375X 
+395 396  375.0 Dacriadenite                                 3750 
+395 397  375.1 Outros transtornos da glandula lacrimal      3751 
+395 398  375.2 Epifora                                      3752 
+395 399  375.3 Inflamac aguda e não especif canais lacrimai 3753 
+395 400  375.4 Inflamação crônica dos canais lacrimais      3754 
+395 401  375.5 Estenose e insuficiencia dos canais lacrimai 3755 
+395 402  375.6 Outras alteracoes dos canais lacrimais       3756 
+395 403  375.8 Outros transtornos do sistema lacrimal       3758 
+395 404  375.9 Não especificados                            3759 
+    405  376 - Transtornos da órbita                        376X 
+405 406  376.0 Inflamação aguda da orbita                   3760 
+405 407  376.1 Transtornos inflamatorios cronicos da orbita 3761 
+405 408  376.2 Exoftalmo endocrino                          3762 
+405 409  376.3 Outras afecções exoftalmicas                 3763 
+405 410  376.4 Deformidade da orbita                        3764 
+405 411  376.5 Enoftalmia                                   3765 
+405 412  376.6 Corpo estr retido seguida ferim perfur orbit 3766 
+405 413  376.8 Outros transtornos da orbita                 3768 
+405 414  376.9 Não especificados                            3769 
+    415  377 - Transt nervo óptico e das vias ópticas       377X 
+415 416  377.0 Papiledema                                   3770 
+415 417  377.1 Atrofia optica                               3771 
+415 418  377.2 Outros transtornos do disco optico           3772 
+415 419  377.3 Neurite optica                               3773 
+415 420  377.4 Outros transtornos do nervo optico           3774 
+415 421  377.5 Transtornos do quiasma optico                3775 
+415 422  377.6 Transtornos de outras vias opticas           3776 
+415 423  377.7 Transtornos da cortex visual                 3777 
+415 424  377.9 Não especificados                            3779 
+    425  378 - Estrab e out transt moviment binocular       378X 
+425 426  378.0 Estrabismo convergente concomitante          3780 
+425 427  378.1 Estrabismo divergente concomitante           3781 
+425 428  378.2 Heterotropia intermitente                    3782 
+425 429  378.3 Outras heterotropias e as não especificadas  3783 
+425 430  378.4 Heteroforia                                  3784 
+425 431  378.5 Estrabismo paralitico                        3785 
+425 432  378.6 Estrabismo mecanico                          3786 
+425 433  378.7 Outros estrabismos                           3787 
+425 434  378.8 Outros transt movimentos binoculares olhos   3788 
+425 435  378.9 Não especificados                            3789 
+    436  379 - Outros transtornos do olho                   379X 
+436 437  379.0 Esclerite e episclerite                      3790 
+436 438  379.1 Outros transtornos da esclerotica            3791 
+436 439  379.2 Transtornos do humor vitreo                  3792 
+436 440  379.3 Afacia e outros transtornos do cristalino    3793 
+436 441  379.4 Anomalias da função pupilar                  3794 
+436 442  379.5 Nistagmo e outros movimentos irregulares olh 3795 
+436 443  379.8 Outros transtornos do olho e de seus anexos  3798 
+436 444  379.9 Não especificados                            3799 
+    445  380 - Transtornos do ouvido externo                380X 
+445 446  380.0 Pericondrite da orelha                       3800 
+445 447  380.1 Otite externa infecciosa                     3801 
+445 448  380.2 Outras otites externas                       3802 
+445 449  380.3 Transtornos não infecciosos da orelha        3803 
+445 450  380.4 Rolha de cerume                              3804 
+445 451  380.5 Estenose adquirida conduto auditivo externo  3805 
+445 452  380.8 Outros transtornos do ouvido externo         3808 
+445 453  380.9 Não especificados                            3809 
+    454  381 - Otit média ñ sup transt tromp Eustáquio      381X 
+454 455  381.0 Otite media aguda não supurativa             3810 
+454 456  381.1 Otite media serosa crônica                   3811 
+454 457  381.2 Otite media mucóide crônica                  3812 
+454 458  381.3 Outr otites medias crônic n supurat e n espe 3813 
+454 459  381.4 Otite media não supurativa                   3814 
+454 460  381.5 Salpingite da trompa de eustaquio            3815 
+454 461  381.6 Obstrução da trompa de eustaquio             3816 
+454 462  381.7 Trompa de eustaquio aberta (patula)          3817 
+454 463  381.8 Outros transtornos da trompa de eustaquio    3818 
+454 464  381.9 Transtornos não especif trompa de eustaquio  3819 
+    465  382 - Otite média supurativa e não especific       382X 
+465 466  382.0 Otite media aguda supurativa                 3820 
+465 467  382.1 Otite media tubotimpanica crônica supurativa 3821 
+465 468  382.2 Otite media atico-antral crônica supurativa  3822 
+465 469  382.3 Otite media crônica supurativa não especific 3823 
+465 470  382.4 Otite media supurativa não especificada      3824 
+465 471  382.9 Otite media não especificada                 3829 
+    472  383 - Mastoidite e afecções correlatas             383X 
+472 473  383.0 Mastoidite aguda                             3830 
+472 474  383.1 Mastoidite crônica                           3831 
+472 475  383.2 Petrosite                                    3832 
+472 476  383.3 Complicacoes consequentes a mastoidectomia   3833 
+472 477  383.8 Outras                                       3838 
+472 478  383.9 Mastoidite não especificada                  3839 
+    479  384 - Out transtornos da membrana do tímpano       384X 
+479 480  384.0 Miringite aguda sem menção de otite media    3840 
+479 481  384.1 Miringite crônica sem menção de otite media  3841 
+479 482  384.2 Perfuração da membrana do timpano            3842 
+479 483  384.8 Outros                                       3848 
+479 484  384.9 Não especificados                            3849 
+    485  385 - Out transt ouvido médio e da mastóide        385X 
+485 486  385.0 Timpanosclerose                              3850 
+485 487  385.1 Doença adesiva do ouvido medio               3851 
+485 488  385.2 Outr anormalid adquiridas ossiculos ouvido   3852 
+485 489  385.3 Colesteatoma do ouvido medio e da mastóide   3853 
+485 490  385.8 Outros                                       3858 
+485 491  385.9 Não especificados                            3859 
+    492  386 - Sínd vertig out transt sist vestibular       386X 
+492 493  386.0 Doença de meniere                            3860 
+492 494  386.1 Outras vertigens perifericas e não especific 3861 
+492 495  386.2 Vertigem de origem central                   3862 
+492 496  386.3 Labirintite                                  3863 
+492 497  386.4 Fistula do labirinto                         3864 
+492 498  386.5 Disfunção do labirinto                       3865 
+492 499  386.8 Outros transtornos do labirinto              3868 
+492 500  386.9 Sindromes vertiginosas e transt labirinto    3869 
+    501  387 - Otosclerose                                  387X 
+501 502  387.0 Otosclerose que compromete a janela oval     3870 
+501 503  387.1 Otosclerose que compromete a janela oval     3871 
+501 504  387.2 Otosclerose da coclea                        3872 
+501 505  387.8 Outra                                        3878 
+501 506  387.9 Não especificada                             3879 
+    507  388 - Outros transtornos do ouvido                 388X 
+507 508  388.0 Transtornos degenerativos e vasculares ouvid 3880 
+507 509  388.1 Efeitos do ruido sobre o ouvido interno      3881 
+507 510  388.2 Perda subida da audição                      3882 
+507 511  388.3 Tinnitus                                     3883 
+507 512  388.4 Outras anormalidades da percepção auditiva   3884 
+507 513  388.5 Transtornos do nervo acustico                3885 
+507 514  388.6 Otorreia                                     3886 
+507 515  388.7 Otalgia                                      3887 
+507 516  388.8 Outros                                       3888 
+507 517  388.9 Não especificados                            3889 
+    518  389 - Surdez                                       389X 
+518 519  389.0 Surdez de conducao                           3890 
+518 520  389.1 Surdez neuro-sensorial                       3891 
+518 521  389.2 Surdez mista de conducao e neuro-sensorial   3892 
+518 522  389.7 Surdo-mudez não classificavel em outra parte 3897 
+518 523  389.8 Outras formas especificadas de surdez        3898 
+518 524  389.9 Surdez não especificada                      3899 
+

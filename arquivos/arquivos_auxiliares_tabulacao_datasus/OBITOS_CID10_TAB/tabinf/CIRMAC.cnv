@@ -1,0 +1,219 @@
+     20  6                                                                                    
+      1  Açailândia                                         210005                            
+      1  Açailândia                                         210203                            
+      1  Açailândia                                         210232                            
+      1  Açailândia                                         210325                            
+      1  Açailândia                                         210542                            
+      1  Açailândia                                         211085                            
+      1  Açailândia                                         211153                            
+      1  Açailândia                                         211285                            
+      2  Bacabal                                            210040                            
+      2  Bacabal                                            210120                            
+      2  Bacabal                                            210207                            
+      2  Bacabal                                            210215                            
+      2  Bacabal                                            210355                            
+      2  Bacabal                                            210590                            
+      2  Bacabal                                            210635                            
+      2  Bacabal                                            210740                            
+      2  Bacabal                                            210810                            
+      2  Bacabal                                            211140                            
+      2  Bacabal                                            211300                            
+      3  Balsas                                             210050                            
+      3  Balsas                                             210140                            
+      3  Balsas                                             210280                            
+      3  Balsas                                             210407                            
+      3  Balsas                                             210409                            
+      3  Balsas                                             210410                            
+      3  Balsas                                             210610                            
+      3  Balsas                                             210725                            
+      3  Balsas                                             210950                            
+      3  Balsas                                             210970                            
+      3  Balsas                                             211080                            
+      3  Balsas                                             211157                            
+      3  Balsas                                             211160                            
+      3  Balsas                                             211200                            
+      4  Barra do Corda                                     210095                            
+      4  Barra do Corda                                     210160                            
+      4  Barra do Corda                                     210408                            
+      4  Barra do Corda                                     210480                            
+      4  Barra do Corda                                     210535                            
+      4  Barra do Corda                                     210547                            
+      5  Caxias                                             210010                            
+      5  Caxias                                             210030                            
+      5  Caxias                                             210220                            
+      5  Caxias                                             210300                            
+      5  Caxias                                             210340                            
+      5  Caxias                                             210390                            
+      5  Caxias                                             211107                            
+      6  Chapadinha                                         210015                            
+      6  Chapadinha                                         210080                            
+      6  Chapadinha                                         210090                            
+      6  Chapadinha                                         210210                            
+      6  Chapadinha                                         210320                            
+      6  Chapadinha                                         210630                            
+      6  Chapadinha                                         210640                            
+      6  Chapadinha                                         210667                            
+      6  Chapadinha                                         210805                            
+      6  Chapadinha                                         211010                            
+      6  Chapadinha                                         211023                            
+      6  Chapadinha                                         211060                            
+      6  Chapadinha                                         211250                            
+      7  Codó                                               210043                            
+      7  Codó                                               210330,213307                     
+      7  Codó                                               210360                            
+      7  Codó                                               210845                            
+      7  Codó                                               211150                            
+      7  Codó                                               211210                            
+      8  Imperatriz                                         210060                            
+      8  Imperatriz                                         210235                            
+      8  Imperatriz                                         210255                            
+      8  Imperatriz                                         210375                            
+      8  Imperatriz                                         210405                            
+      8  Imperatriz                                         210455                            
+      8  Imperatriz                                         210530                            
+      8  Imperatriz                                         210550                            
+      8  Imperatriz                                         210598                            
+      8  Imperatriz                                         210700                            
+      8  Imperatriz                                         210900                            
+      8  Imperatriz                                         210955                            
+      8  Imperatriz                                         211105                            
+      8  Imperatriz                                         211176                            
+      8  Imperatriz                                         211180                            
+      9  Itapecuru Mirim                                    210070                            
+      9  Itapecuru Mirim                                    210100                            
+      9  Itapecuru Mirim                                    210173                            
+      9  Itapecuru Mirim                                    210270                            
+      9  Itapecuru Mirim                                    210540                            
+      9  Itapecuru Mirim                                    210663                            
+      9  Itapecuru Mirim                                    210675                            
+      9  Itapecuru Mirim                                    210720                            
+      9  Itapecuru Mirim                                    210880                            
+      9  Itapecuru Mirim                                    210930                            
+      9  Itapecuru Mirim                                    211040                            
+      9  Itapecuru Mirim                                    211260                            
+      9  Itapecuru Mirim                                    211270                            
+      9  Itapecuru Mirim                                    211290                            
+     10  Pedreiras                                          210193                            
+     10  Pedreiras                                          210400                            
+     10  Pedreiras                                          210520                            
+     10  Pedreiras                                          210570                            
+     10  Pedreiras                                          210580                            
+     10  Pedreiras                                          210594                            
+     10  Pedreiras                                          210596                            
+     10  Pedreiras                                          210600                            
+     10  Pedreiras                                          210820                            
+     10  Pedreiras                                          210890                            
+     10  Pedreiras                                          211163                            
+     10  Pedreiras                                          211167                            
+     10  Pedreiras                                          211223                            
+     11  Pinheiro                                           210083                            
+     11  Pinheiro                                           210130                            
+     11  Pinheiro                                           210190                            
+     11  Pinheiro                                           210310                            
+     11  Pinheiro                                           210312                            
+     11  Pinheiro                                           210370                            
+     11  Pinheiro                                           210490                            
+     11  Pinheiro                                           210680                            
+     11  Pinheiro                                           210825                            
+     11  Pinheiro                                           210840                            
+     11  Pinheiro                                           210860                            
+     11  Pinheiro                                           210905                            
+     11  Pinheiro                                           210927                            
+     11  Pinheiro                                           210980                            
+     11  Pinheiro                                           211178                            
+     11  Pinheiro                                           211240                            
+     11  Pinheiro                                           211245                            
+     12  Presidente Dutra                                   210275                            
+     12  Presidente Dutra                                   210380                            
+     12  Presidente Dutra                                   210420                            
+     12  Presidente Dutra                                   210440                            
+     12  Presidente Dutra                                   210450                            
+     12  Presidente Dutra                                   210460                            
+     12  Presidente Dutra                                   210462                            
+     12  Presidente Dutra                                   210470                            
+     12  Presidente Dutra                                   210560                            
+     12  Presidente Dutra                                   210910                            
+     12  Presidente Dutra                                   210975                            
+     12  Presidente Dutra                                   211030                            
+     12  Presidente Dutra                                   211070                            
+     12  Presidente Dutra                                   211125                            
+     12  Presidente Dutra                                   211174                            
+     12  Presidente Dutra                                   211230                            
+     13  Rosário                                            210110                            
+     13  Rosário                                            210125                            
+     13  Rosário                                            210170,211707                     
+     13  Rosário                                            210237                            
+     13  Rosário                                            210500                            
+     13  Rosário                                            210510                            
+     13  Rosário                                            210710                            
+     13  Rosário                                            210920                            
+     13  Rosário                                            210940                            
+     13  Rosário                                            210960                            
+     13  Rosário                                            211020                            
+     13  Rosário                                            211027                            
+     14  Santa Inês                                         210047                            
+     14  Santa Inês                                         210177                            
+     14  Santa Inês                                         210200                            
+     14  Santa Inês                                         210465                            
+     14  Santa Inês                                         210515                            
+     14  Santa Inês                                         210690                            
+     14  Santa Inês                                         210850                            
+     14  Santa Inês                                         210870                            
+     14  Santa Inês                                         210990                            
+     14  Santa Inês                                         211000                            
+     14  Santa Inês                                         211102                            
+     14  Santa Inês                                         211172                            
+     14  Santa Inês                                         211227                            
+     15  São João dos Patos                                 210150                            
+     15  São João dos Patos                                 210180                            
+     15  São João dos Patos                                 210230                            
+     15  São João dos Patos                                 210350                            
+     15  São João dos Patos                                 210545                            
+     15  São João dos Patos                                 210592                            
+     15  São João dos Patos                                 210670                            
+     15  São João dos Patos                                 210730                            
+     15  São João dos Patos                                 210770                            
+     15  São João dos Patos                                 210790                            
+     15  São João dos Patos                                 210800                            
+     15  São João dos Patos                                 211065                            
+     15  São João dos Patos                                 211110                            
+     15  São João dos Patos                                 211190                            
+     15  São João dos Patos                                 211195                            
+     16  São Luís                                           210020                            
+     16  São Luís                                           210750                            
+     16  São Luís                                           210945                            
+     16  São Luís                                           211120                            
+     16  São Luís                                           211130                            
+     17  Timon                                              210660                            
+     17  Timon                                              210780                            
+     17  Timon                                              211090                            
+     17  Timon                                              211220                            
+     18  Viana                                              210135                            
+     18  Viana                                              210240                            
+     18  Viana                                              210250                            
+     18  Viana                                              210650                            
+     18  Viana                                              210745                            
+     18  Viana                                              210760                            
+     18  Viana                                              210830                            
+     18  Viana                                              211050                            
+     18  Viana                                              211100                            
+     18  Viana                                              211170                            
+     18  Viana                                              211280                            
+     19  Zé Doca                                            210055                            
+     19  Zé Doca                                            210087                            
+     19  Zé Doca                                            210197                            
+     19  Zé Doca                                            210260                            
+     19  Zé Doca                                            210290                            
+     19  Zé Doca                                            210315                            
+     19  Zé Doca                                            210317                            
+     19  Zé Doca                                            210430                            
+     19  Zé Doca                                            210467                            
+     19  Zé Doca                                            210565                            
+     19  Zé Doca                                            210620                            
+     19  Zé Doca                                            210632                            
+     19  Zé Doca                                            210637                            
+     19  Zé Doca                                            210735                            
+     19  Zé Doca                                            210923                            
+     19  Zé Doca                                            211003                            
+     19  Zé Doca                                            211400                            
+     20  Ignorado - MA                                      210000,219999                     

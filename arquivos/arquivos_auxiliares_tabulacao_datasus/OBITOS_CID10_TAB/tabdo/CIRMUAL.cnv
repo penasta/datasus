@@ -1,0 +1,114 @@
+    113  6                                                                                    
+      1  27001 1ª Região de Saúde                           270050                            
+  1   2  .... Barra de Santo Antônio                        270050                            
+  1   3  .... Barra de São Miguel                           270060                            
+  1   4  .... Coqueiro Seco                                 270220                            
+  1   5  .... Flexeiras                                     270280                            
+  1   6  .... Maceió                                        270430                            
+  1   7  .... Marechal Deodoro                              270470                            
+  1   8  .... Messias                                       270520                            
+  1   9  .... Paripueira                                    270644                            
+  1  10  .... Pilar                                         270690                            
+  1  11  .... Rio Largo                                     270770                            
+  1  12  .... Santa Luzia do Norte                          270790                            
+  1  13  .... Satuba                                        270890                            
+     14  27002 2ª Região de Saúde                           270350                            
+ 14  15  .... Jacuípe                                       270350                            
+ 14  16  .... Japaratinga                                   270360                            
+ 14  17  .... Maragogi                                      270450                            
+ 14  18  .... Matriz de Camaragibe                          270510                            
+ 14  19  .... Passo de Camaragibe                           270650                            
+ 14  20  .... Porto Calvo                                   270730                            
+ 14  21  .... Porto de Pedras                               270740                            
+ 14  22  .... São Luís do Quitunde                          270850                            
+ 14  23  .... São Miguel dos Milagres                       270870                            
+     24  27003 3ª Região de Saúde                           270110                            
+ 24  25  .... Branquinha                                    270110                            
+ 24  26  .... Campestre                                     270135                            
+ 24  27  .... Colônia Leopoldina                            270210                            
+ 24  28  .... Ibateguara                                    270300                            
+ 24  29  .... Joaquim Gomes                                 270380                            
+ 24  30  .... Jundiá                                        270390                            
+ 24  31  .... Murici                                        270550                            
+ 24  32  .... Novo Lino                                     270560                            
+ 24  33  .... Santana do Mundaú                             270810                            
+ 24  34  .... São José da Laje                              270830                            
+ 24  35  .... União dos Palmares                            270930                            
+     36  27004 4ª Região de Saúde                           270040                            
+ 36  37  .... Atalaia                                       270040                            
+ 36  38  .... Cajueiro                                      270130                            
+ 36  39  .... Capela                                        270170                            
+ 36  40  .... Chã Preta                                     270190                            
+ 36  41  .... Mar Vermelho                                  270490                            
+ 36  42  .... Paulo Jacinto                                 270660                            
+ 36  43  .... Pindoba                                       270700                            
+ 36  44  .... Quebrangulo                                   270760                            
+ 36  45  .... Viçosa                                        270940                            
+     46  27005 5ª Região de Saúde                           270020                            
+ 46  47  .... Anadia                                        270020                            
+ 46  48  .... Boca da Mata                                  270100                            
+ 46  49  .... Campo Alegre                                  270140                            
+ 46  50  .... Junqueiro                                     270400                            
+ 46  51  .... Roteiro                                       270780                            
+ 46  52  .... São Miguel dos Campos                         270860                            
+ 46  53  .... Teotônio Vilela                               270915                            
+     54  27006 6ª Região de Saúde                           270230                            
+ 54  55  .... Coruripe                                      270230                            
+ 54  56  .... Feliz Deserto                                 270270                            
+ 54  57  .... Igreja Nova                                   270320                            
+ 54  58  .... Jequiá da Praia                               270375                            
+ 54  59  .... Penedo                                        270670                            
+ 54  60  .... Piaçabuçu                                     270680                            
+ 54  61  .... Porto Real do Colégio                         270750                            
+ 54  62  .... São Brás                                      270820                            
+     63  27007 7ª Região de Saúde                           270030                            
+ 63  64  .... Arapiraca                                     270030                            
+ 63  65  .... Batalha                                       270070                            
+ 63  66  .... Belo Monte                                    270090                            
+ 63  67  .... Campo Grande                                  270150                            
+ 63  68  .... Coité do Nóia                                 270200                            
+ 63  69  .... Craíbas                                       270235                            
+ 63  70  .... Feira Grande                                  270260                            
+ 63  71  .... Girau do Ponciano                             270290                            
+ 63  72  .... Jacaré dos Homens                             270340                            
+ 63  73  .... Jaramataia                                    270370                            
+ 63  74  .... Lagoa da Canoa                                270410                            
+ 63  75  .... Limoeiro de Anadia                            270420                            
+ 63  76  .... Major Isidoro                                 270440                            
+ 63  77  .... Olho d'Água Grande                            270590                            
+ 63  78  .... São Sebastião                                 270880                            
+ 63  79  .... Taquarana                                     270910                            
+ 63  80  .... Traipu                                        270920                            
+     81  27008 8ª Região de Saúde                           270080                            
+ 81  82  .... Belém                                         270080                            
+ 81  83  .... Cacimbinhas                                   270120                            
+ 81  84  .... Estrela de Alagoas                            270255                            
+ 81  85  .... Igaci                                         270310                            
+ 81  86  .... Maribondo                                     270480                            
+ 81  87  .... Minador do Negrão                             270530                            
+ 81  88  .... Palmeira dos Índios                           270630                            
+ 81  89  .... Tanque d'Arca                                 270900                            
+     90  27009 9ª Região de Saúde                           270160                            
+ 90  91  .... Canapi                                        270160                            
+ 90  92  .... Carneiros                                     270180                            
+ 90  93  .... Dois Riachos                                  270250                            
+ 90  94  .... Maravilha                                     270460                            
+ 90  95  .... Monteirópolis                                 270540                            
+ 90  96  .... Olho d'Água das Flores                        270570                            
+ 90  97  .... Olivença                                      270600                            
+ 90  98  .... Ouro Branco                                   270610                            
+ 90  99  .... Palestina                                     270620                            
+ 90 100  .... Pão de Açúcar                                 270640                            
+ 90 101  .... Poço das Trincheiras                          270720                            
+ 90 102  .... Santana do Ipanema                            270800                            
+ 90 103  .... São José da Tapera                            270840                            
+ 90 104  .... Senador Rui Palmeira                          270895                            
+    105  27010 10ª Região de Saúde                          270010                            
+105 106  .... Água Branca                                   270010                            
+105 107  .... Delmiro Gouveia                               270240                            
+105 108  .... Inhapi                                        270330                            
+105 109  .... Mata Grande                                   270500                            
+105 110  .... Olho d'Água do Casado                         270580                            
+105 111  .... Pariconha                                     270642                            
+105 112  .... Piranhas                                      270710                            
+    113  27000 Ignorado - AL                                270000,279999                     

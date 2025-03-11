@@ -1,0 +1,201 @@
+    199  4 L                                                     
+      1  460 - Nasofaringite aguda (resfriado comum)        460X 
+      2  461 - Sinusite aguda                               461X 
+  2   3  461.0 Maxilar                                      4610 
+  2   4  461.1 Frontal                                      4611 
+  2   5  461.2 Etmoidal                                     4612 
+  2   6  461.3 Esfenoidal                                   4613 
+  2   7  461.8 Outras                                       4618 
+  2   8  461.9 Não especificada                             4619 
+      9  462 - Faringite aguda                              462X 
+  9  10  62.9 Código inválido - fora da CID                 4629 
+     11  463 - Amigdalite aguda                             463X 
+     12  464 - Laringite e traqueíte agudas                 464X 
+ 12  13  464.0 Laringite aguda                              4640 
+ 12  14  464.1 Traqueite aguda                              4641 
+ 12  15  464.2 Laringotraqueite aguda                       4642 
+ 12  16  464.3 Epiglotite aguda                             4643 
+ 12  17  464.4 Crupe                                        4644 
+ 12  18  464.9 Código inválido - fora da CID                4649 
+     19  465 - Infec agud v respir sup loc mul ou ñ es      465X 
+ 19  20  465.0 Laringofaringite aguda                       4650 
+ 19  21  465.8 Outras localizações múltiplas                4658 
+ 19  22  465.9 Localizacao não especificada                 4659 
+     23  466 - Bronquite e bronquiolite agudas              466X 
+ 23  24  466.0 Bronquite aguda                              4660 
+ 23  25  466.1 Bronquiolite aguda                           4661 
+ 23  26  466.9 Código inválido - fora da CID                4669 
+     27  470 - Desvio do septo nasal                        470X 
+     28  471 - Pólipos nasais                               471X 
+ 28  29  471.0 Polipo da cavidade nasal                     4710 
+ 28  30  471.1 Degeneracao polipóide dos seios da face      4711 
+ 28  31  471.7 Degeneracao polipóide dos seios da face      4717 
+ 28  32  471.8 Outros polipos dos seios da face             4718 
+ 28  33  471.9 Não especificado                             4719 
+     34  472 - Faringite e nasofaringite crônicas           472X 
+ 34  35  472.0 Rinite crônica                               4720 
+ 34  36  472.1 Faringite crônica                            4721 
+ 34  37  472.2 Nasofaringite crônica                        4722 
+ 34  38  472.9 Código inválido - fora da CID                4729 
+     39  473 - Sinusite crônica                             473X 
+ 39  40  473.0 Maxilar                                      4730 
+ 39  41  473.1 Frontal                                      4731 
+ 39  42  473.2 Etmoidal                                     4732 
+ 39  43  473.3 Esfenoidal                                   4733 
+ 39  44  473.8 Outras                                       4738 
+ 39  45  473.9 Não especificada                             4739 
+     46  474 - Doença crônica amígdalas e adenóides         474X 
+ 46  47  474.0 Amigdalite crônica                           4740 
+ 46  48  474.1 Hipertrofia das amigdalas e das adenóides    4741 
+ 46  49  474.2 Vegetacoes adenóides                         4742 
+ 46  50  474.8 Outras doenças crônicas amigdalas e adenóide 4748 
+ 46  51  474.9 Não especificada                             4749 
+     52  475 - Abscesso periamigdaliano                     475X 
+     53  476 - Laringite crônica e laringotraqueíte         476X 
+ 53  54  476.0 Laringite crônica                            4760 
+ 53  55  476.1 Laringotraqueite crônica                     4761 
+ 53  56  476.9 Código inválido - fora da CID                4769 
+     57  477 - Rinite alérgica                              477X 
+ 57  58  477.0 Devida a polen                               4770 
+ 57  59  477.8 Devida a outros alergenos                    4778 
+ 57  60  477.9 Causa não especificada                       4779 
+     61  478 - Out doen vias respiratórias superiores       478X 
+ 61  62  478.0 Hipertrofia dos cornetos nasais              4780 
+ 61  63  478.1 Outras doenças cavidade nasal e seios da fac 4781 
+ 61  64  478.2 Outras doenças da faringe                    4782 
+ 61  65  478.3 Paralisia das cordas vocais ou da laringe    4783 
+ 61  66  478.4 Polipo das cordas vocais ou da laringe       4784 
+ 61  67  478.5 Outras doenças das cordas vocais             4785 
+ 61  68  478.6 Edema da laringe                             4786 
+ 61  69  478.7 Outras doenças da laringe                    4787 
+ 61  70  478.8 Reacao hipersensibilidade vias respirat supe 4788 
+ 61  71  478.9 Outr doenç vias respirat super e n especif   4789 
+     72  480 - Pneumonia viral                              480X 
+ 72  73  480.0 Pneumonia devida a adenovírus                4800 
+ 72  74  480.1 Pneumonia dev vírus respiratorio sincicial   4801 
+ 72  75  480.2 Pneumonia devida a vírus da parainflueza     4802 
+ 72  76  480.8 Pneumonia devida a outros vírus              4808 
+ 72  77  480.9 Pneumonia viral não especificada             4809 
+     78  481 - Pneumonia pneumocócica                       481X 
+     79  482 - Outras pneumonias bacterianas                482X 
+ 79  80  482.0 Pneumonia devida a klebsiella pneumoniae     4820 
+ 79  81  482.1 Pneumonia devida a pseudomonas               4821 
+ 79  82  482.2 Pneumonia dev haemophilus influenzae         4822 
+ 79  83  482.3 Pneumonia devida a streptococcus             4823 
+ 79  84  482.4 Pneumonia devida a staphylococcus            4824 
+ 79  85  482.8 Pneumonia dev outras bactérias especificadas 4828 
+ 79  86  482.9 Pneumonia bacteriana não especificada        4829 
+     87  483 - Pneumonia out microrganismos especific       483X 
+     88  484 - Pneumonia em doe infec class outr parte      484X 
+ 88  89  484.0 Sarampo                                      4840 
+ 88  90  484.1 Doença de inclusão citomegálica              4841 
+ 88  91  484.2 Psitacose (ornitose)                         4842 
+ 88  92  484.3 Coqueluche                                   4843 
+ 88  93  484.4 Tularemia                                    4844 
+ 88  94  484.5 Carbúnculo                                   4845 
+ 88  95  484.6 Aspergilose                                  4846 
+ 88  96  484.7 Pneumonia em outras micoses sistemicas       4847 
+ 88  97  484.8 Pneumonia em outras doenças infecciosas      4848 
+     98  485 - Broncopneumonia microorgan não especif       485X 
+     99  486 - Pneumonia microorganismo não especific       486X 
+    100  487 - Gripe                                        487X 
+100 101  487.0 Com pneumonia                                4870 
+100 102  487.1 Com outras manifestações respiratorias       4871 
+100 103  487.8 Com outras manifestações                     4878 
+100 104  487.9 Código inválido - fora da CID                4879 
+    105  490 - Bronquite não especif se aguda ou crôn       490X 
+    106  491 - Bronquite crônica                            491X 
+106 107  491.0 Bronquite crônica simples                    4910 
+106 108  491.1 Bronquite crônica mucopurulenta              4911 
+106 109  491.2 Bronquite crônica obstrutiva                 4912 
+106 110  491.8 Outras bronquites crônicas                   4918 
+106 111  491.9 Não especificada                             4919 
+    112  492 - Enfisema                                     492X 
+    113  493 - Asma                                         493X 
+113 114  493.0 Asma extrinseca                              4930 
+113 115  493.1 Asma intrinseca                              4931 
+113 116  93.3 Código inválido - fora da CID                 4933 
+113 117  93.4 Código inválido - fora da CID                 4934 
+113 118  493.9 Asma não especificada                        4939 
+    119  494 - Bronquectasia                                494X 
+    120  495 - Alveolite alérgica extrínseca                495X 
+120 121  495.0 Pulmao de fazendeiro                         4950 
+120 122  495.1 Bagacose                                     4951 
+120 123  495.2 Pulmao dos criadores de passaros             4952 
+120 124  495.3 Suberose                                     4953 
+120 125  495.4 Pulmao dos trabalhadores em malte            4954 
+120 126  495.5 Pulmao dos que trabalham com cogumelos       4955 
+120 127  495.6 Pulmao dos cortadores de casca do bordo      4956 
+120 128  495.7 Pneumonite de "ventilacao"                   4957 
+120 129  495.8 Outras pneumonites alergicas                 4958 
+120 130  495.9 Alveolite alergica não especificada          4959 
+    131  496 - Obstução crônica vias respirat NCOP          496X 
+    132  500 - Pneumoconiose trabalhadores em carvão        500X 
+    133  501 - Asbestose                                    501X 
+    134  502 - Pneumoconiose dev out sílicas e silicat      502X 
+    135  503 - Pneumoconiose dev out poeiras inorgânic      503X 
+    136  504 - Pneumopatia devido inalação out poeiras      504X 
+    137  505 - Pneumoconiose não especificada               505X 
+    138  506 - Afec respir dev fumaça gas vapores quím      506X 
+138 139  506.0 Bronquite e pneumonite devida a fumaca       5060 
+138 140  506.1 Edema agudo de pulmão devido a fumaca        5061 
+138 141  506.2 Inflamac vias respirat superiores dev fumaca 5062 
+138 142  506.3 Outr afec respirat agudas subagud dev fumaca 5063 
+138 143  506.4 Afecções respiratorias crônicas dev fumaca   5064 
+138 144  506.9 Não especificada                             5069 
+    145  507 - Pneumonite devida a sólidos e líquidos       507X 
+145 146  507.0 Devida a aspiracao de alimento ou vomito     5070 
+145 147  507.1 Devida a aspiracao de oleos e essencias      5071 
+145 148  507.5 Código inválido - fora da CID                5075 
+145 149  507.8 Outras                                       5078 
+145 150  07.9 Código inválido - fora da CID                 5079 
+    151  508 - Afec resp dev out agent ext e não espec      508X 
+151 152  508.0 Manifestacoes pulmonares agudas dev radiacao 5080 
+151 153  508.1 Manif pulm crônic outr manif pulm dev radiac 5081 
+151 154  508.8 Outras                                       5088 
+151 155  508.9 Não especificadas                            5089 
+    156  510 - Empiema                                      510X 
+156 157  510.0 Com fistula                                  5100 
+156 158  510.9 Sem mencao de fistula                        5109 
+    159  511 - Pleuris                                      511X 
+159 160  511.0 Sem mencao de derrame ou de tuberculose ativ 5110 
+159 161  511.1 Com derrame                                  5111 
+159 162  511.8 Outras formas especificadas de derrame       5118 
+159 163  511.9 Derrame pleural não especificado             5119 
+    164  512 - Pneumotórax                                  512X 
+    165  513 - Abscesso do pulmão e mediastino              513X 
+165 166  513.0 Abcesso do pulmão                            5130 
+165 167  513.1 Abcesso do mediastino                        5131 
+165 168  513.9 Código inválido - fora da CID                5139 
+    169  514 - Congestão e hipostase pulmonares             514X 
+    170  515 - Fibrose pulmonar pós-inflamatória            515X 
+    171  516 - Out pneumopat alveolares e parietalveol      516X 
+171 172  516.0 Proteinose alveolar pulmonar                 5160 
+171 173  516.1 Hemossiderose pulmonar idiopatica            5161 
+171 174  516.2 Microlitiase alveolar pulmonar               5162 
+171 175  516.3 Alveolite fibrosante idiopatica              5163 
+171 176  516.8 Outras                                       5168 
+171 177  516.9 Não especificadas                            5169 
+    178  517 - Compromet pulmon em afec class out part      517X 
+178 179  517.0 Pulmao reumatóide                            5170 
+178 180  517.1 Pneumonia reumatica                          5171 
+178 181  517.2 Comprometimento pulmonar esclerose sistemica 5172 
+178 182  517.8 Outras                                       5178 
+    183  518 - Outras doenças do pulmão                     518X 
+183 184  518.0 Colapso do pulmão                            5180 
+183 185  518.1 Enfisema intersticial                        5181 
+183 186  518.2 Enfisema compensatorio                       5182 
+183 187  518.3 Eosinofilia pulmonar                         5183 
+183 188  518.4 Edema agudo de pulmão não especificado       5184 
+183 189  518.5 Insuficiencia pulmonar conseq trauma e cirur 5185 
+183 190  518.8 Outras doenças do pulmão                     5188 
+183 191  518.9 Código inválido - fora da CID                5189 
+    192  519 - Outras doenças do aparelho respiratório      519X 
+192 193  519.0 Mau funcionamento de traqueostomia           5190 
+192 194  519.1 Outras doenças traqueia e brônquios NCOP     5191 
+192 195  519.2 Mediastinite                                 5192 
+192 196  519.3 Outras doenças do mediastino                 5193 
+192 197  519.4 Transtornos do diafragma                     5194 
+192 198  519.8 Outras doenças do aparelho respiratorio      5198 
+192 199  519.9 Não especificadas                            5199 
+

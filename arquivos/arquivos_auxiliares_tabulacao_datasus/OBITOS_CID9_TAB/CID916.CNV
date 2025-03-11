@@ -1,0 +1,190 @@
+    188  4 L                                                     
+      1  780 - Sintomas gerais                              780X 
+  1   2  780.0 Coma e estupor                               7800 
+  1   3  780.1 Alucinacoes                                  7801 
+  1   4  780.2 Sincope e colapso                            7802 
+  1   5  780.3 Convulsoes                                   7803 
+  1   6  780.4 Tontura                                      7804 
+  1   7  780.5 Disturbios do sono                           7805 
+  1   8  780.6 Hipertermia de origem desconhecida           7806 
+  1   9  780.7 Mal-estar e fadiga                           7807 
+  1  10  780.8 Hiperidrose                                  7808 
+  1  11  780.9 Outras                                       7809 
+     12  781 - Sint rel sistema nervoso e osteomuscul       781X 
+ 12  13  781.0 Movimentos involuntarios anormais            7810 
+ 12  14  781.1 Disturbios das sensacoes olfato e do paladar 7811 
+ 12  15  781.2 Anormalidades da marcha                      7812 
+ 12  16  781.3 Falta de coordenacao                         7813 
+ 12  17  781.4 Paralisia transitoria de membro              7814 
+ 12  18  781.5 Baqueteamento dos dedos                      7815 
+ 12  19  781.6 Meningismo                                   7816 
+ 12  20  781.7 Tetania                                      7817 
+ 12  21  781.9 Outras                                       7819 
+     22  782 - Sint rel pele out tecidos do tegumento       782X 
+ 22  23  782.0 Disturbios sensitivos da pele                7820 
+ 22  24  782.1 Eritema e outras erupcoes não especif da pel 7821 
+ 22  25  782.2 Inchaco                                      7822 
+ 22  26  782.3 Edema                                        7823 
+ 22  27  782.4 Ictericia não especificada                   7824 
+ 22  28  782.5 Cianose                                      7825 
+ 22  29  782.6 Palidez e rubor                              7826 
+ 22  30  782.7 Equimoses espontaneas                        7827 
+ 22  31  782.8 Alteracoes da textura da pele                7828 
+ 22  32  782.9 Outras                                       7829 
+     33  783 - Sint rel nutrição metabolismo e desenv       783X 
+ 33  34  783.0 Anorexia                                     7830 
+ 33  35  783.1 Ganho anormal de peso                        7831 
+ 33  36  783.2 Perda anormal de peso                        7832 
+ 33  37  783.3 Dificuld aliment e erros administr aliment   7833 
+ 33  38  783.4 Falha desenvolv fisiologico normal esperado  7834 
+ 33  39  783.5 Polidipsia                                   7835 
+ 33  40  783.6 Polifagia                                    7836 
+ 33  41  783.9 Outros                                       7839 
+     42  784 - Sint relativos à cabeça e ao pescoco         784X 
+ 42  43  784.0 Cefaleia                                     7840 
+ 42  44  784.1 Dor de garganta                              7841 
+ 42  45  784.2 Inchaco                                      7842 
+ 42  46  784.3 Afasia                                       7843 
+ 42  47  784.4 Disturbios da voz                            7844 
+ 42  48  784.5 Outros disturbios da fala                    7845 
+ 42  49  784.6 Outras disfuncoes da funcao simbolica        7846 
+ 42  50  784.7 Epistaxe                                     7847 
+ 42  51  784.8 Hemorragia da garganta                       7848 
+ 42  52  784.9 Outros                                       7849 
+     53  785 - Sint relativos aparelho cardiovascular       785X 
+ 53  54  785.0 Taquicardia não especificada                 7850 
+ 53  55  785.1 Palpitacoes                                  7851 
+ 53  56  785.2 Sopros cardiacos funcionais e os não diagnos 7852 
+ 53  57  785.3 Outros ruidos cardiacos anormais             7853 
+ 53  58  785.4 Gangrena                                     7854 
+ 53  59  785.5 Choque sem mencao de trauma                  7855 
+ 53  60  785.6 Hipertrofia dos gânglios linfáticos          7856 
+ 53  61  785.9 Outros                                       7859 
+     62  786 - Sint rel ap respirat out sint torácicos      786X 
+ 62  63  786.0 Dispneia e outras alteracoes respiratorias   7860 
+ 62  64  786.1 Estridor                                     7861 
+ 62  65  786.2 Tosse                                        7862 
+ 62  66  786.3 Hemoptise                                    7863 
+ 62  67  786.4 Escarro anormal                              7864 
+ 62  68  786.5 Dor toracica                                 7865 
+ 62  69  786.6 Inchaco                                      7866 
+ 62  70  786.7 Ruidos toracicos anormais                    7867 
+ 62  71  786.8 Soluco                                       7868 
+ 62  72  786.9 Outros                                       7869 
+     73  787 - Sintomas relativos ao aparelho digestiv      787X 
+ 73  74  787.0 Nausea e vomito                              7870 
+ 73  75  787.1 Azia                                         7871 
+ 73  76  787.2 Disfagia                                     7872 
+ 73  77  787.3 Flatulencia                                  7873 
+ 73  78  787.4 Peristaltismo visivel                        7874 
+ 73  79  787.5 Ruidos intestinais anormais                  7875 
+ 73  80  787.6 Incontinencia fecal                          7876 
+ 73  81  787.7 Fezes anormais                               7877 
+ 73  82  787.9 Outros                                       7879 
+     83  788 - Sintomas relativos ao aparelho urinário      788X 
+ 83  84  788.0 Colica renal                                 7880 
+ 83  85  788.1 Disuria                                      7881 
+ 83  86  788.2 Retencao urinaria                            7882 
+ 83  87  788.3 Incontinencia urinaria                       7883 
+ 83  88  788.4 Miccao frequente e poliuria                  7884 
+ 83  89  788.5 Oliguria e anuria                            7885 
+ 83  90  788.6 Outras alteracoes da miccao                  7886 
+ 83  91  788.7 Corrimento uretral                           7887 
+ 83  92  788.8 Extravasamento de urina                      7888 
+ 83  93  788.9 Outros                                       7889 
+     94  789 - Out sint relativos ao abdômen e a pelve      789X 
+ 94  95  789.0 Dor abdominal                                7890 
+ 94  96  789.1 Hepatomegalia                                7891 
+ 94  97  789.2 Esplenomegalia                               7892 
+ 94  98  789.3 Inchaco                                      7893 
+ 94  99  789.4 Rigidez abdominal                            7894 
+ 94 100  789.5 Ascite                                       7895 
+ 94 101  789.9 Outros                                       7899 
+    102  790 - Achados não especific ao exame do sang       790X 
+102 103  790.0 Anormalidade dos globulos vermelhos          7900 
+102 104  790.1 Velocidade de hemossedimentacao elevada      7901 
+102 105  790.2 Teste de tolerancia a glicose alterado       7902 
+102 106  790.3 Nivel sanguineo excessivo de alcool          7903 
+102 107  790.4 Elev n espec niv transamin ou dehidrog latic 7904 
+102 108  790.5 Outros result anormais niveis sericos enzima 7905 
+102 109  790.6 Outr result anorm dosagem subst quim sangue  7906 
+102 110  790.7 Bacteremia não especificada                  7907 
+102 111  790.8 Viremia não especificada                     7908 
+102 112  790.9 Outros                                       7909 
+    113  791 - Achados não especific ao exame de urina      791X 
+113 114  791.0 Proteinuria                                  7910 
+113 115  791.1 Quiluria                                     7911 
+113 116  791.2 Hemoglobinuria                               7912 
+113 117  791.3 Mioglobinuria                                7913 
+113 118  791.4 Biliuria                                     7914 
+113 119  791.5 Glicosuria                                   7915 
+113 120  791.6 Acetonuria                                   7916 
+113 121  791.7 Outras celulas e cilindros na urina          7917 
+113 122  791.9 Outros                                       7919 
+    123  792 - Achad anorm ñ espec exam outr subst          792X 
+123 124  792.0 Liquido cefalorraquidiano                    7920 
+123 125  792.1 Caracteristicas do conteudo fecal            7921 
+123 126  792.2 Semen                                        7922 
+123 127  792.3 Liquido amniotico                            7923 
+123 128  792.4 Saliva                                       7924 
+123 129  792.9 Outros                                       7929 
+    130  793 - Achad anorm ñ espec exam radio e outros      793X 
+130 131  793.0 Cranio e cabeca                              7930 
+130 132  793.1 Campos pulmonares                            7931 
+130 133  793.2 Outros órgãos intratoracicos                 7932 
+130 134  793.3 Vias biliares                                7933 
+130 135  793.4 Trato gastrintestinal                        7934 
+130 136  793.5 Órgãos geniturinarios                        7935 
+130 137  793.6 Regiao abdominal incluindo retroperitonio    7936 
+130 138  793.7 Sistema osteomuscular                        7937 
+130 139  793.8 Mama                                         7938 
+130 140  793.9 Outros                                       7939 
+    141  794 - Result anormais ñ espec de provas func       794X 
+141 142  794.0 Cerebro e sistema nervoso central            7940 
+141 143  794.1 Sistema nervoso periferico e órgãos sentidos 7941 
+141 144  794.2 Pulmonar                                     7942 
+141 145  794.3 Cardiovascular                               7943 
+141 146  794.4 Rim                                          7944 
+141 147  794.5 Tireóide                                     7945 
+141 148  794.6 Outras provas de funcao endocrina            7946 
+141 149  794.7 Metabolismo basal                            7947 
+141 150  794.8 Figado                                       7948 
+141 151  794.9 Outras                                       7949 
+    152  795 - Achad histol e imunol anorm ñ espec          795X 
+152 153  795.0 Esfreg papanicolau colo uter anormal n espec 7950 
+152 154  795.1 Esfregaco de papanicolau                     7951 
+152 155  795.2 Achados anorm não espec analise cromossomica 7952 
+152 156  795.3 Achados não especificos de culturas positiva 7953 
+152 157  795.4 Outros achados histologicos anormais n espec 7954 
+152 158  795.5 Reacao não especifica ao teste da tuberculin 7955 
+152 159  795.6 Teste sorologico falso positivo para sífilis 7956 
+152 160  795.7 Outros achados imunologicos anormais n espec 7957 
+    161  796 - Outros achados anormais não espec            796X 
+161 162  796.0 Achados toxicologicos anormais não especific 7960 
+161 163  796.1 Reflexo anormal                              7961 
+161 164  796.2 Medida pressao arterial elev s/diag hiperten 7962 
+161 165  796.3 Medida de pressao arterial baixa             7963 
+161 166  796.4 Outros achados clinicos anormais             7964 
+161 167  796.9 Outros                                       7969 
+    168  797 - Senilidade sem menção de psicose             797X 
+    169  798 - Morte súbita de causa desconhecida           798X 
+169 170  798.0 Síndrome da morte subita na infancia         7980 
+169 171  798.1 Morte instantanea                            7981 
+169 172  798.2 Morte q ocorre menos 24 h apos inic sintomas 7982 
+169 173  98.4 Código inválido - fora da CID                 7984 
+169 174  98.5 Código inválido - fora da CID                 7985 
+169 175  98.6 Código inválido - fora da CID                 7986 
+169 176  98.7 Código inválido - fora da CID                 7987 
+169 177  98.8 Código inválido - fora da CID                 7988 
+169 178  798.9 Morte sem assistencia                        7989 
+    179  799 - Out causas mal definidas e desconhecid       799X 
+179 180  799.0 Asfixia                                      7990 
+179 181  799.1 Falencia respiratoria                        7991 
+179 182  799.2 Nervosismo                                   7992 
+179 183  799.3 Debilidade não especificada                  7993 
+179 184  799.4 Caquexia                                     7994 
+179 185  99.5 Código inválido - fora da CID                 7995 
+179 186  799.6 Código inválido - fora da CID                7996 
+179 187  799.8 Outras afecções mal definidas                7998 
+179 188  799.9 Outras causas desconhecidas e não especific  7999 
+

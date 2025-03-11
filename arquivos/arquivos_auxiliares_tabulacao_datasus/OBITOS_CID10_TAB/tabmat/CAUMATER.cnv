@@ -1,0 +1,18 @@
+17 4    
+      1  01 Causas obstétricas diretas                      O000-O089,O110-O239,O244,O260-O927,D392,E230,F530-F539,M830
+  1   2     Hipertensão                                     O110-O119,O130-O169
+  1   3     Hemorragia                                      O200-O209,O440-O469,O670-O679,O710,O711,O720-O729
+  1   4     Infecção puerperal                              O850-O869
+  1   5     Aborto                                          O030-O079
+  1   6     Neoplasia de placenta                           D392
+  1   7     Necrose pós parto da hipófise                   E230
+  1   8     Trastornos mentais do puerpério                 F530-F539
+  1   9     Osteomalácia Puerperal                          M830
+     10  02 Causas obstétricas indiretas                    O100-O109,O240-O243,O249,O250-O259,O980-O998,A340-A349,B200-B249
+ 10  11     Tétano obstétrico                               A340-A349
+ 10  12     Doenças do aparelho circulatório                O994
+ 10  13     Doenças do aparelho respiratório                O995
+ 10  14     Doenças infecciosas e parasitárias              O980-O989,B200-B249
+ 14  15       AIDS (codificado como B20-B24)                B200-B249
+ 14  16       AIDS (codificado como O98.7)                  O987
+     17  03 Causas obstétricas inespecíficas                O950-O959

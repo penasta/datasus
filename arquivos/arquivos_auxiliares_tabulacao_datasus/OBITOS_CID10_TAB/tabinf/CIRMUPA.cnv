@@ -1,0 +1,158 @@
+    157  6                                                                                    
+      1  15001 Araguaia                                     150034                            
+  1   2  .... Água Azul do Norte                            150034                            
+  1   3  .... Bannach                                       150125                            
+  1   4  .... Conceição do Araguaia                         150270                            
+  1   5  .... Cumaru do Norte                               150276                            
+  1   6  .... Floresta do Araguaia                          150304                            
+  1   7  .... Ourilândia do Norte                           150543                            
+  1   8  .... Pau D'Arco                                    150555                            
+  1   9  .... Redenção                                      150613                            
+  1  10  .... Rio Maria                                     150616                            
+  1  11  .... Santa Maria das Barreiras                     150658                            
+  1  12  .... Santana do Araguaia                           150670                            
+  1  13  .... São Félix do Xingu                            150730                            
+  1  14  .... Sapucaia                                      150775                            
+  1  15  .... Tucumã                                        150808                            
+  1  16  .... Xinguara                                      150840                            
+     17  15002 Baixo Amazonas                               150040                            
+ 17  18  .... Alenquer                                      150040                            
+ 17  19  .... Almeirim                                      150050                            
+ 17  20  .... Belterra                                      150145                            
+ 17  21  .... Curuá                                         150285                            
+ 17  22  .... Faro                                          150300                            
+ 17  23  .... Juruti                                        150390                            
+ 17  24  .... Mojuí dos Campos                              150475                            
+ 17  25  .... Monte Alegre                                  150480                            
+ 17  26  .... Óbidos                                        150510                            
+ 17  27  .... Oriximiná                                     150530                            
+ 17  28  .... Prainha                                       150600                            
+ 17  29  .... Santarém                                      150680                            
+ 17  30  .... Terra Santa                                   150797                            
+     31  15003 Carajás                                      150013                            
+ 31  32  .... Abel Figueiredo                               150013                            
+ 31  33  .... Bom Jesus do Tocantins                        150157                            
+ 31  34  .... Brejo Grande do Araguaia                      150175                            
+ 31  35  .... Canaã dos Carajás                             150215                            
+ 31  36  .... Curionópolis                                  150277                            
+ 31  37  .... Dom Eliseu                                    150293                            
+ 31  38  .... Eldorado dos Carajás                          150295                            
+ 31  39  .... Itupiranga                                    150370                            
+ 31  40  .... Marabá                                        150420                            
+ 31  41  .... Nova Ipixuna                                  150497                            
+ 31  42  .... Palestina do Pará                             150549                            
+ 31  43  .... Parauapebas                                   150553                            
+ 31  44  .... Piçarra                                       150563                            
+ 31  45  .... Rondon do Pará                                150618                            
+ 31  46  .... São Domingos do Araguaia                      150715                            
+ 31  47  .... São Geraldo do Araguaia                       150745                            
+ 31  48  .... São João do Araguaia                          150750                            
+     49  15004 Lago de Tucuruí                              150178                            
+ 49  50  .... Breu Branco                                   150178                            
+ 49  51  .... Goianésia do Pará                             150309                            
+ 49  52  .... Jacundá                                       150380                            
+ 49  53  .... Novo Repartimento                             150506                            
+ 49  54  .... Tailândia                                     150795                            
+ 49  55  .... Tucuruí                                       150810                            
+     56  15005 Marajó                                       150030                            
+ 56  57  .... Afuá                                          150030                            
+ 56  58  .... Anajás                                        150070                            
+ 56  59  .... Bagre                                         150110                            
+ 56  60  .... Breves                                        150180                            
+ 56  61  .... Cachoeira do Arari                            150200                            
+ 56  62  .... Chaves                                        150250                            
+ 56  63  .... Curralinho                                    150280                            
+ 56  64  .... Gurupá                                        150310                            
+ 56  65  .... Melgaço                                       150450                            
+ 56  66  .... Muaná                                         150490                            
+ 56  67  .... Ponta de Pedras                               150570                            
+ 56  68  .... Portel                                        150580                            
+ 56  69  .... Salvaterra                                    150630                            
+ 56  70  .... Santa Cruz do Arari                           150640                            
+ 56  71  .... São Sebastião da Boa Vista                    150770                            
+ 56  72  .... Soure                                         150790                            
+     73  15006 Metropolitana I                              150080                            
+ 73  74  .... Ananindeua                                    150080                            
+ 73  75  .... Belém                                         150140                            
+ 73  76  .... Benevides                                     150150                            
+ 73  77  .... Marituba                                      150442                            
+ 73  78  .... Santa Bárbara do Pará                         150635                            
+     79  15007 Metropolitana II                             150020                            
+ 79  80  .... Acará                                         150020                            
+ 79  81  .... Bujaru                                        150190                            
+ 79  82  .... Colares                                       150260                            
+ 79  83  .... Concórdia do Pará                             150275                            
+ 79  84  .... Santa Isabel do Pará                          150650                            
+ 79  85  .... Santo Antônio do Tauá                         150700                            
+ 79  86  .... São Caetano de Odivelas                       150710                            
+ 79  87  .... Tomé-Açu                                      150800                            
+ 79  88  .... Vigia                                         150820                            
+     89  15008 Metropolitana III                            150095                            
+ 89  90  .... Aurora do Pará                                150095                            
+ 89  91  .... Capitão Poço                                  150230                            
+ 89  92  .... Castanhal                                     150240                            
+ 89  93  .... Curuçá                                        150290                            
+ 89  94  .... Garrafão do Norte                             150307                            
+ 89  95  .... Igarapé-Açu                                   150320                            
+ 89  96  .... Inhangapi                                     150340                            
+ 89  97  .... Ipixuna do Pará                               150345                            
+ 89  98  .... Irituia                                       150350                            
+ 89  99  .... Mãe do Rio                                    150405                            
+ 89 100  .... Magalhães Barata                              150410                            
+ 89 101  .... Maracanã                                      150430                            
+ 89 102  .... Marapanim                                     150440                            
+ 89 103  .... Nova Esperança do Piriá                       150495                            
+ 89 104  .... Paragominas                                   150550                            
+ 89 105  .... Santa Maria do Pará                           150660                            
+ 89 106  .... São Domingos do Capim                         150720                            
+ 89 107  .... São Francisco do Pará                         150740                            
+ 89 108  .... São João da Ponta                             150746                            
+ 89 109  .... São Miguel do Guamá                           150760                            
+ 89 110  .... Terra Alta                                    150796                            
+ 89 111  .... Ulianópolis                                   150812                            
+    112  15009 Rio Caetés                                   150090                            
+112 113  .... Augusto Corrêa                                150090                            
+112 114  .... Bonito                                        150160                            
+112 115  .... Bragança                                      150170                            
+112 116  .... Cachoeira do Piriá                            150195                            
+112 117  .... Capanema                                      150220                            
+112 118  .... Nova Timboteua                                150500                            
+112 119  .... Ourém                                         150540                            
+112 120  .... Peixe-Boi                                     150560                            
+112 121  .... Primavera                                     150610                            
+112 122  .... Quatipuru                                     150611                            
+112 123  .... Salinópolis                                   150620                            
+112 124  .... Santa Luzia do Pará                           150655                            
+112 125  .... Santarém Novo                                 150690                            
+112 126  .... São João de Pirabas                           150747                            
+112 127  .... Tracuateua                                    150803                            
+112 128  .... Viseu                                         150830                            
+    129  15010 Tapajós                                      150100                            
+129 130  .... Aveiro                                        150100                            
+129 131  .... Itaituba                                      150360                            
+129 132  .... Jacareacanga                                  150375                            
+129 133  .... Novo Progresso                                150503                            
+129 134  .... Rurópolis                                     150619                            
+129 135  .... Trairão                                       150805                            
+    136  15011 Tocantins                                    150010                            
+136 137  .... Abaetetuba                                    150010                            
+136 138  .... Baião                                         150120                            
+136 139  .... Barcarena                                     150130                            
+136 140  .... Cametá                                        150210                            
+136 141  .... Igarapé-Miri                                  150330                            
+136 142  .... Limoeiro do Ajuru                             150400                            
+136 143  .... Mocajuba                                      150460                            
+136 144  .... Moju                                          150470                            
+136 145  .... Oeiras do Pará                                150520                            
+    146  15012 Xingu                                        150060                            
+146 147  .... Altamira                                      150060                            
+146 148  .... Anapu                                         150085                            
+146 149  .... Brasil Novo                                   150172                            
+146 150  .... Medicilândia                                  150445                            
+146 151  .... Pacajá                                        150548                            
+146 152  .... Placas                                        150565                            
+146 153  .... Porto de Moz                                  150590                            
+146 154  .... Senador José Porfírio                         150780                            
+146 155  .... Uruará                                        150815                            
+146 156  .... Vitória do Xingu                              150835                            
+    157  15000 Município ignorado - PA                      150000,159999                     

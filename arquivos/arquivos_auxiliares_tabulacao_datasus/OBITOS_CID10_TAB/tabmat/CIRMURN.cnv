@@ -1,0 +1,177 @@
+    176  6                                                                                    
+      1  24001 Açu                                          240020                            
+  1   2  .... Açu                                           240020                            
+  1   3  .... Afonso Bezerra                                240030                            
+  1   4  .... Alto do Rodrigues                             240070                            
+  1   5  .... Angicos                                       240080                            
+  1   6  .... Carnaubais                                    240250                            
+  1   7  .... Fernando Pedroza                              240375                            
+  1   8  .... Ipanguaçu                                     240470                            
+  1   9  .... Itajá                                         240485                            
+  1  10  .... Paraú                                         240870                            
+  1  11  .... Pendências                                    240990                            
+  1  12  .... Porto do Mangue                               241025                            
+  1  13  .... São Rafael                                    241280                            
+  1  14  .... Triunfo Potiguar                              241445                            
+     15  24002 Caicó                                        240010                            
+ 15  16  .... Acari                                         240010                            
+ 15  17  .... Bodó                                          240165                            
+ 15  18  .... Caicó                                         240200                            
+ 15  19  .... Carnaúba dos Dantas                           240240                            
+ 15  20  .... Cerro Corá                                    240270                            
+ 15  21  .... Cruzeta                                       240300                            
+ 15  22  .... Currais Novos                                 240310                            
+ 15  23  .... Equador                                       240340                            
+ 15  24  .... Florânia                                      240380                            
+ 15  25  .... Ipueira                                       240480                            
+ 15  26  .... Jardim de Piranhas                            240560                            
+ 15  27  .... Jardim do Seridó                              240570                            
+ 15  28  .... Jucurutu                                      240610                            
+ 15  29  .... Lagoa Nova                                    240650                            
+ 15  30  .... Ouro Branco                                   240850                            
+ 15  31  .... Parelhas                                      240890                            
+ 15  32  .... Santana do Matos                              241140                            
+ 15  33  .... Santana do Seridó                             241142                            
+ 15  34  .... São Fernando                                  241180                            
+ 15  35  .... São João do Sabugi                            241210                            
+ 15  36  .... São José do Seridó                            241240                            
+ 15  37  .... São Vicente                                   241300                            
+ 15  38  .... Serra Negra do Norte                          241340                            
+ 15  39  .... Tenente Laurentino Cruz                       241415                            
+ 15  40  .... Timbaúba dos Batistas                         241430                            
+     41  24003 João Câmara                                  240160                            
+ 41  42  .... Bento Fernandes                               240160                            
+ 41  43  .... Caiçara do Norte                              240185                            
+ 41  44  .... Caiçara do Rio do Vento                       240190                            
+ 41  45  .... Ceará-Mirim                                   240260                            
+ 41  46  .... Galinhos                                      240410                            
+ 41  47  .... Guamaré                                       240450                            
+ 41  48  .... Ielmo Marinho                                 240460                            
+ 41  49  .... Jandaíra                                      240510                            
+ 41  50  .... Jardim de Angicos                             240550                            
+ 41  51  .... João Câmara                                   240580                            
+ 41  52  .... Lajes                                         240670                            
+ 41  53  .... Macau                                         240720                            
+ 41  54  .... Maxaranguape                                  240750                            
+ 41  55  .... Parazinho                                     240880                            
+ 41  56  .... Pedra Grande                                  240950                            
+ 41  57  .... Pedra Preta                                   240960                            
+ 41  58  .... Pedro Avelino                                 240970                            
+ 41  59  .... Poço Branco                                   241010                            
+ 41  60  .... Pureza                                        241040                            
+ 41  61  .... Riachuelo                                     241090                            
+ 41  62  .... Rio do Fogo                                   240895                            
+ 41  63  .... São Bento do Norte                            241160                            
+ 41  64  .... São Miguel do Gostoso                         241255                            
+ 41  65  .... Taipu                                         241390                            
+ 41  66  .... Touros                                        241440                            
+     67  24004 Metropolitana                                240360                            
+ 67  68  .... Extremoz                                      240360                            
+ 67  69  .... Macaíba                                       240710                            
+ 67  70  .... Natal                                         240810                            
+ 67  71  .... Parnamirim                                    240325                            
+ 67  72  .... São Gonçalo do Amarante                       241200                            
+     73  24005 Mossoró                                      240100                            
+ 73  74  .... Apodi                                         240100                            
+ 73  75  .... Areia Branca                                  240110                            
+ 73  76  .... Augusto Severo                                240130                            
+ 73  77  .... Baraúna                                       240145                            
+ 73  78  .... Caraúbas                                      240230                            
+ 73  79  .... Felipe Guerra                                 240370                            
+ 73  80  .... Governador Dix-Sept Rosado                    240430                            
+ 73  81  .... Grossos                                       240440                            
+ 73  82  .... Janduís                                       240520                            
+ 73  83  .... Messias Targino                               240760                            
+ 73  84  .... Mossoró                                       240800                            
+ 73  85  .... Patu                                          240930                            
+ 73  86  .... Serra do Mel                                  241335                            
+ 73  87  .... Tibau                                         241105                            
+ 73  88  .... Upanema                                       241460                            
+     89  24006 Pau dos Ferros                               240040                            
+ 89  90  .... Água Nova                                     240040                            
+ 89  91  .... Alexandria                                    240050                            
+ 89  92  .... Almino Afonso                                 240060                            
+ 89  93  .... Antônio Martins                               240090                            
+ 89  94  .... Coronel João Pessoa                           240290                            
+ 89  95  .... Doutor Severiano                              240320                            
+ 89  96  .... Encanto                                       240330                            
+ 89  97  .... Francisco Dantas                              240390                            
+ 89  98  .... Frutuoso Gomes                                240400                            
+ 89  99  .... Itaú                                          240490                            
+ 89 100  .... João Dias                                     240590                            
+ 89 101  .... José da Penha                                 240600                            
+ 89 102  .... Lucrécia                                      240690                            
+ 89 103  .... Luís Gomes                                    240700                            
+ 89 104  .... Major Sales                                   240725                            
+ 89 105  .... Marcelino Vieira                              240730                            
+ 89 106  .... Martins                                       240740                            
+ 89 107  .... Olho-d'Água do Borges                         240840                            
+ 89 108  .... Paraná                                        240860                            
+ 89 109  .... Pau dos Ferros                                240940                            
+ 89 110  .... Pilões                                        241000                            
+ 89 111  .... Portalegre                                    241020                            
+ 89 112  .... Rafael Fernandes                              241050                            
+ 89 113  .... Rafael Godeiro                                241060                            
+ 89 114  .... Riacho da Cruz                                241070                            
+ 89 115  .... Riacho de Santana                             241080                            
+ 89 116  .... Rodolfo Fernandes                             241100                            
+ 89 117  .... São Francisco do Oeste                        241190                            
+ 89 118  .... São Miguel                                    241250                            
+ 89 119  .... Serrinha dos Pintos                           241355                            
+ 89 120  .... Severiano Melo                                241360                            
+ 89 121  .... Taboleiro Grande                              241380                            
+ 89 122  .... Tenente Ananias                               241410                            
+ 89 123  .... Umarizal                                      241450                            
+ 89 124  .... Venha-Ver                                     241475                            
+ 89 125  .... Viçosa                                        241490                            
+    126  24007 Santa Cruz                                   240150                            
+126 127  .... Barcelona                                     240150                            
+126 128  .... Bom Jesus                                     240170                            
+126 129  .... Campo Redondo                                 240210                            
+126 130  .... Coronel Ezequiel                              240280                            
+126 131  .... Jaçanã                                        240500                            
+126 132  .... Januário Cicco                                240530                            
+126 133  .... Japi                                          240540                            
+126 134  .... Lagoa de Velhos                               240640                            
+126 135  .... Lajes Pintadas                                240680                            
+126 136  .... Presidente Juscelino                          241030                            
+126 137  .... Ruy Barbosa                                   241110                            
+126 138  .... Santa Cruz                                    241120                            
+126 139  .... Santa Maria                                   240933                            
+126 140  .... São Bento do Trairí                           241170                            
+126 141  .... São José do Campestre                         241230                            
+126 142  .... São Paulo do Potengi                          241260                            
+126 143  .... São Pedro                                     241270                            
+126 144  .... São Tomé                                      241290                            
+126 145  .... Senador Elói de Souza                         241310                            
+126 146  .... Sítio Novo                                    241370                            
+126 147  .... Tangará                                       241400                            
+    148  24008 São José de Mipibu                           240120                            
+148 149  .... Arês                                          240120                            
+148 150  .... Baía Formosa                                  240140                            
+148 151  .... Brejinho                                      240180                            
+148 152  .... Canguaretama                                  240220                            
+148 153  .... Espírito Santo                                240350                            
+148 154  .... Goianinha                                     240420                            
+148 155  .... Jundiá                                        240615                            
+148 156  .... Lagoa d'Anta                                  240620                            
+148 157  .... Lagoa de Pedras                               240630                            
+148 158  .... Lagoa Salgada                                 240660                            
+148 159  .... Montanhas                                     240770                            
+148 160  .... Monte Alegre                                  240780                            
+148 161  .... Monte das Gameleiras                          240790                            
+148 162  .... Nísia Floresta                                240820                            
+148 163  .... Nova Cruz                                     240830                            
+148 164  .... Passa e Fica                                  240910                            
+148 165  .... Passagem                                      240920                            
+148 166  .... Pedro Velho                                   240980                            
+148 167  .... Santo Antônio                                 241150                            
+148 168  .... São José de Mipibu                            241220                            
+148 169  .... Senador Georgino Avelino                      241320                            
+148 170  .... Serra de São Bento                            241330                            
+148 171  .... Serrinha                                      241350                            
+148 172  .... Tibau do Sul                                  241420                            
+148 173  .... Várzea                                        241470                            
+148 174  .... Vera Cruz                                     241480                            
+148 175  .... Vila Flor                                     241500                            
+    176  24000 Ignorado - RN                                240000,249999                     

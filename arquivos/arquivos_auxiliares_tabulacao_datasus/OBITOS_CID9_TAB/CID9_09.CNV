@@ -1,0 +1,303 @@
+    301  4 L                                                     
+      1  520.0 Anodontia                                    5200 
+      2  520.1 Dentes supranumerarios                       5201 
+      3  520.2 Anormalidades tamanho e forma dos dentes     5202 
+      4  520.3 Esmalte manchado                             5203 
+      5  520.4 Alteracoes da formacao dos dentes            5204 
+      6  520.5 Alteracoes hereditarias estrutura dentes nco 5205 
+      7  520.6 Alteracoes na erupcao dos dentes             5206 
+      8  520.7 Síndrome da erupcao dentaria                 5207 
+      9  520.8 Outros transtornos do desenvolvimento dentes 5208 
+     10  520.9 Não especificados                            5209 
+     11  521.0 Carie dentaria                               5210 
+     12  521.1 Atrito excessivo                             5211 
+     13  521.2 Abrasao                                      5212 
+     14  521.3 Erosao                                       5213 
+     15  521.4 Reabsorcao patologica                        5214 
+     16  521.5 Hipercementose                               5215 
+     17  521.6 Ancilose dos dentes                          5216 
+     18  521.7 Alteracoes pós-eruptivas da cor dos dentes   5217 
+     19  521.8 Outras doenças dos tecidos dentarios duros   5218 
+     20  521.9 Não especificadas                            5219 
+     21  522.0 Pulpite                                      5220 
+     22  522.1 Necrose da polpa                             5221 
+     23  522.2 Degeneracao da polpa                         5222 
+     24  522.3 Formacao anormal de tecido duro na polpa     5223 
+     25  522.4 Periodontite apical aguda originada na polpa 5224 
+     26  522.5 Abcesso periapical sem fistula               5225 
+     27  522.6 Periodontite apical crônica                  5226 
+     28  522.7 Abcesso periapical com fistula               5227 
+     29  522.8 Cisto radicular                              5228 
+     30  522.9 Outras e não especificadas                   5229 
+     31  523.0 Gengivite aguda                              5230 
+     32  523.1 Gengivite crônica                            5231 
+     33  523.2 Retracao gengival                            5232 
+     34  523.3 Periodontite aguda                           5233 
+     35  523.4 Periodontite crônica                         5234 
+     36  523.5 Periodontose                                 5235 
+     37  523.6 Deposito sobre os dentes                     5236 
+     38  523.8 Outras doenças periodontais                  5238 
+     39  523.9 Não especificadas                            5239 
+     40  524.0 Principais anomalias do tamanho da mandibula 5240 
+     41  524.1 Anomalias relacao mandibula com base cranio  5241 
+     42  524.2 Anomalias da relacao entre os arcos dentario 5242 
+     43  524.3 Anomalias da posicao dos dentes              5243 
+     44  524.4 Maloclusao não especificada                  5244 
+     45  524.5 Anomalias funcionais dentofaciais            5245 
+     46  524.6 Transtornos da articulacao temporomandibular 5246 
+     47  524.8 Outras anomalias dentofaciais                5248 
+     48  524.9 Não especificadas                            5249 
+     49  525.0 Exfoliacao dos dentes dev causas sistemicas  5250 
+     50  525.1 Perda de dentes devida a acidente            5251 
+     51  525.2 Atrofia do rebordo alveolar sem dentes       5252 
+     52  525.3 Raiz dentaria retida                         5253 
+     53  525.8 Outras                                       5258 
+     54  525.9 Não especificadas                            5259 
+     55  526.0 Cistos odontogenicos de desenvolvimento      5260 
+     56  526.1 Cistos das fissuras das mandibulas           5261 
+     57  526.2 Outros cistos das mandibulas                 5262 
+     58  526.3 Granuloma central de celulas gigantes        5263 
+     59  526.4 Afecções inflamatorias                       5264 
+     60  526.5 Alveolite mandibular                         5265 
+     61  526.8 Outras doenças da mandibula                  5268 
+     62  526.9 Não especificadas                            5269 
+     63  527.0 Atrofia                                      5270 
+     64  527.1 Hipertrofia                                  5271 
+     65  527.2 Sialadenite                                  5272 
+     66  527.3 Abcesso                                      5273 
+     67  527.4 Fistula                                      5274 
+     68  527.5 Sialolitiase                                 5275 
+     69  527.6 Mucocele                                     5276 
+     70  527.7 Alteracoes da secrecao salivar               5277 
+     71  527.8 Outras                                       5278 
+     72  527.9 Não especificadas                            5279 
+     73  528.0 Estomatite                                   5280 
+     74  528.1 Cancrum oris                                 5281 
+     75  528.2 Aftas bucais                                 5282 
+     76  528.3 Celulite e abcesso                           5283 
+     77  528.4 Cistos                                       5284 
+     78  528.5 Doencas dos labios                           5285 
+     79  528.6 Leucoplasia da mucosa bucal                  5286 
+     80  528.7 Outros disturbios do epitelio bucal          5287 
+     81  528.8 Fibrose bucal submucosa                      5288 
+     82  528.9 Outras e as não especificadas                5289 
+     83  529.0 Glossite                                     5290 
+     84  529.1 Lingua geografica                            5291 
+     85  529.2 Glossite rombóide mediana                    5292 
+     86  529.3 Hipertrofia das papilas linguais             5293 
+     87  529.4 Atrofia das papilas linguais                 5294 
+     88  529.5 Lingua escrotal                              5295 
+     89  529.6 Glossodinia                                  5296 
+     90  529.8 Outras afecções da lingua                    5298 
+     91  529.9 Não especificada                             5299 
+     92  530.0 Acalasia e cardiospasmo                      5300 
+     93  530.1 Esofagite                                    5301 
+     94  530.2 Úlcera do esofago                            5302 
+     95  530.3 Estenose e estreitamento do esofago          5303 
+     96  530.4 Perfuracao do esofago                        5304 
+     97  530.5 Discinesia do esofago                        5305 
+     98  530.6 Diverticulo do esofago                       5306 
+     99  530.7 Sindr laceracao e hemorragia gastro-esofagic 5307 
+    100  530.8 Outros transtornos do esofago                5308 
+    101  530.9 Não especificadas                            5309 
+    102  531.0 Aguda com hemorragia                         5310 
+    103  531.1 Aguda com perfuracao                         5311 
+    104  531.2 Aguda com hemorragia e perfuracao            5312 
+    105  531.3 Aguda sem mencao de hemorragia ou perfuracao 5313 
+    106  531.4 Cronica ou não especificada com hemorragia   5314 
+    107  531.5 Cronica ou não especificada com perfuracao   5315 
+    108  531.6 Cronica ou não especif c/hemorrag e perfurac 5316 
+    109  531.7 Cronica s/mencao de hemorragia ou perfuracao 5317 
+    110  531.9 Não especificada como aguda ou crônica       5319 
+    111  532.0 Aguda com hemorragia                         5320 
+    112  532.1 Aguda com perfuracao                         5321 
+    113  532.2 Aguda com hemorragia e perfuracao            5322 
+    114  532.3 Aguda sem mencao de hemorragia ou perfuracao 5323 
+    115  532.4 Cronica ou não especificada com hemorragia   5324 
+    116  532.5 Cronica ou não especificada com perfuracao   5325 
+    117  532.6 Cronica ou n especif com hemorrag e perfurac 5326 
+    118  532.7 Cronica s/mencao de hemorragia ou perfuracao 5327 
+    119  532.9 Não especificada como aguda ou crônica       5329 
+    120  533.0 Aguda com hemorragia                         5330 
+    121  533.1 Aguda com perfuracao                         5331 
+    122  533.2 Aguda com hemorragia e perfuracao            5332 
+    123  533.3 Aguda sem mencao de hemorragia ou perfuracao 5333 
+    124  533.4 Cronica ou não especificada com hemorragia   5334 
+    125  533.5 Cronica ou não especificada com perfuracao   5335 
+    126  533.6 Cronica ou n especif c/hemorrag e perfuracao 5336 
+    127  533.7 Cronica s/mencao de hemorragia ou perfuracao 5337 
+    128  533.9 Não especificada como aguda ou crônica       5339 
+    129  534.0 Aguda com hemorragia                         5340 
+    130  534.1 Aguda com perfuracao                         5341 
+    131  534.2 Aguda com hemorragia e perfuracao            5342 
+    132  534.3 Aguda sem mencao de hemorragia ou perfuracao 5343 
+    133  534.4 Cronica ou não especificada com hemorragia   5344 
+    134  534.5 Cronica ou não especificada com perfuracao   5345 
+    135  534.6 Cronica ou n especif c/hemorrag e perfuracao 5346 
+    136  534.7 Cronica s/mencao de hemorragia ou perfuracao 5347 
+    137  534.9 Não especificada como aguda ou crônica       5349 
+    138  535.0 Gastrite aguda                               5350 
+    139  535.1 Gastrite atrofica                            5351 
+    140  535.2 Hipertrofia da mucosa gastrica               5352 
+    141  535.3 Gastrite alcoolica                           5353 
+    142  535.4 Outras gastrites                             5354 
+    143  535.5 Gastrite e gastroduodenite não especificadas 5355 
+    144  535.6 Duodenite                                    5356 
+    145  535.9 Código inválido - fora da CID                5359 
+    146  536.0 Acloridria                                   5360 
+    147  536.1 Dilatacao aguda do estomago                  5361 
+    148  536.2 Vomitos habituais                            5362 
+    149  536.8 Dispepsia e outr transt da funcao do estomag 5368 
+    150  536.9 Não especificados                            5369 
+    151  537.0 Estenose pilorica hipertrofica do adulto     5370 
+    152  537.1 Diverticulo gastrico                         5371 
+    153  537.2 Ileo duodenal cronico                        5372 
+    154  537.3 Outras obstrucoes do duodeno                 5373 
+    155  537.4 Fistula do estomago ou do duodeno            5374 
+    156  537.5 Gastroptose                                  5375 
+    157  537.6 Estenose ou estreitam em ampulheta estomago  5376 
+    158  537.8 Outros                                       5378 
+    159  537.9 Não especificados                            5379 
+    160  540.0 Com peritonite generalizada                  5400 
+    161  540.1 Com abcesso peritonial                       5401 
+    162  540.9 Sem mencao de peritonite                     5409 
+    163  541 - Apendicite não especificada                  541X 
+    164  542 - Outras formas de apendicite                  542X 
+    165  543 - Outras doenças do apêndice                   543X 
+    166  550.0 Hernia inguinal com gangrena                 5500 
+    167  550.1 Hernia inguinal                              5501 
+    168  550.9 Hernia inguinal s/menc obstrucao ou gangrena 5509 
+    169  551.0 Femoral                                      5510 
+    170  551.1 Umbilical                                    5511 
+    171  551.2 Ventral (incisional)                         5512 
+    172  551.3 Diafragmatica                                5513 
+    173  551.8 De outras localizações especificadas         5518 
+    174  551.9 De localizacao não especificada              5519 
+    175  552.0 Femoral                                      5520 
+    176  552.1 Umbilical                                    5521 
+    177  552.2 Ventral (incisional)                         5522 
+    178  552.3 Diafragmatica                                5523 
+    179  552.8 De outras localizações especificadas         5528 
+    180  552.9 De localizacao não especificada              5529 
+    181  553.0 Femoral                                      5530 
+    182  553.1 Umbilical                                    5531 
+    183  553.2 Ventral (incisional)                         5532 
+    184  553.3 Diafragmatica                                5533 
+    185  553.8 De outras localizações especificadas         5538 
+    186  553.9 De localizacao não especificada              5539 
+    187  555.0 Comprometendo intestino delgado              5550 
+    188  555.1 Comprometendo intestino grosso               5551 
+    189  555.2 Comprometendo intestino delgado e grosso     5552 
+    190  555.9 De localizacao não especificada              5559 
+    191  556 - Proctocolite idiopática                      556X 
+    192  557.0 Aguda                                        5570 
+    193  557.1 Cronica                                      5571 
+    194  557.9 Não especificada                             5579 
+    195  558 - Out gastroenterites e colites não infec      558X 
+    196  560.0 Intussuscepcao                               5600 
+    197  560.1 Ileo paralitico                              5601 
+    198  560.2 Volvo                                        5602 
+    199  560.3 Obstrucao (mecanica) do intestino            5603 
+    200  560.4 Código inválido - fora da CID                5604 
+    201  60.7 Código inválido - fora da CID                 5607 
+    202  560.8 Outras obstrucoes intestinais                5608 
+    203  560.9 Obstrucao intestinal não especificada        5609 
+    204  562.0 Intestino delgado                            5620 
+    205  562.1 Colon                                        5621 
+    206  564.0 Constipacao                                  5640 
+    207  564.1 Colon irritavel                              5641 
+    208  564.2 Sindromes pós-cirurgia gastrica              5642 
+    209  564.3 Vomitos subseq a cirurgia gastrintestinal    5643 
+    210  564.4 Outros transtornos funcionais pós-operatorio 5644 
+    211  564.5 Diarréia funcional                           5645 
+    212  564.6 Espasmo anal                                 5646 
+    213  564.7 Megacolon                                    5647 
+    214  564.8 Outros transtornos funcionais do intestino   5648 
+    215  564.9 Não especificados                            5649 
+    216  565.0 Fissura anal                                 5650 
+    217  565.1 Fistula anal                                 5651 
+    218  565.9 Código inválido - fora da CID                5659 
+    219  566 - Abscesso das regiões anal e retal            566X 
+    220  567.0 Peritonite doenç infecc classif outr parte   5670 
+    221  567.1 Peritonite pneumocócica                      5671 
+    222  567.2 Outras peritonites supurativas               5672 
+    223  567.8 Outras peritonites                           5678 
+    224  567.9 Não especificadas                            5679 
+    225  568.0 Aderencias peritoniais                       5680 
+    226  568.8 Outras                                       5688 
+    227  568.9 Não especificadas                            5689 
+    228  569.0 Polipo anal e retal                          5690 
+    229  569.1 Prolapso retal                               5691 
+    230  569.2 Estenose do reto e do ânus                   5692 
+    231  569.3 Hemorragia do reto e do ânus                 5693 
+    232  569.4 Outras afecções do reto e do ânus            5694 
+    233  569.5 Abcesso do intestino                         5695 
+    234  569.6 Mau funcionamento colostomia ou enterostomia 5696 
+    235  569.8 Outras                                       5698 
+    236  569.9 Não especificadas                            5699 
+    237  570 - Necrose aguda e subaguda do fígado           570X 
+    238  571.0 Figado gorduroso alcoolico                   5710 
+    239  571.1 Hepatite alcoolica aguda                     5711 
+    240  571.2 Cirrose alcoolica do fígado                  5712 
+    241  571.3 Lesao alcoolica do fígado                    5713 
+    242  571.4 Hepatite crônica                             5714 
+    243  571.5 Cirrose do fígado sem mencao de alcool       5715 
+    244  571.6 Cirrose biliar                               5716 
+    245  571.8 Outras doenças crônicas do fígado            5718 
+    246  571.9 Doencas crônicas do fígado não especificadas 5719 
+    247  572.0 Abcesso do fígado                            5720 
+    248  572.1 Piemia portal                                5721 
+    249  572.2 Coma hepatico                                5722 
+    250  572.3 Hipertensao portal                           5723 
+    251  572.4 Síndrome hepatorrenal                        5724 
+    252  572.8 Outras sequelas de doenca crônica do fígado  5728 
+    253  572.9 Código inválido - fora da CID                5729 
+    254  573.0 Congestao passiva crônica do fígado          5730 
+    255  573.1 Hepatite em doenças virais classif outr part 5731 
+    256  573.2 Hepatite outr doenç infec classif outr parte 5732 
+    257  573.3 Hepatite não especificada                    5733 
+    258  573.4 Infarto hepatico                             5734 
+    259  573.8 Outros                                       5738 
+    260  573.9 Não especificados                            5739 
+    261  574.0 Calculos vesicula biliar c/colecistite aguda 5740 
+    262  574.1 Calculos vesicula biliar c/outr colecistites 5741 
+    263  574.2 Calculos vesicula biliar s/menc colecistite  5742 
+    264  574.3 Calculos vias biliares com colecistite aguda 5743 
+    265  574.4 Calculos vias biliares com outr colecistites 5744 
+    266  574.5 Calculos vias biliares s/mencao colecistite  5745 
+    267  574.9 Código inválido - fora da CID                5749 
+    268  575.0 Colecistite aguda                            5750 
+    269  575.1 Outras colecistites                          5751 
+    270  575.2 Obstrucao da vesicula biliar                 5752 
+    271  575.3 Hidropsia da vesicula biliar                 5753 
+    272  575.4 Perfuracao da vesicula biliar                5754 
+    273  575.5 Fistula da vesicula biliar                   5755 
+    274  575.6 Colesterolose da vesicula biliar             5756 
+    275  575.8 Outros                                       5758 
+    276  575.9 Não especificados                            5759 
+    277  576.0 Síndrome pós-colecistectomia                 5760 
+    278  576.1 Colangite                                    5761 
+    279  576.2 Obstrucao de via biliar                      5762 
+    280  576.3 Perfuracao de via biliar                     5763 
+    281  576.4 Fistula de via biliar                        5764 
+    282  576.5 Espasmo do esfincter de oddi                 5765 
+    283  576.8 Outros                                       5768 
+    284  576.9 Não especificados                            5769 
+    285  577.0 Pancreatite aguda                            5770 
+    286  577.1 Pancreatite crônica                          5771 
+    287  577.2 Cisto e pseudocisto do pancreas              5772 
+    288  577.8 Outras doenças do pancreas                   5778 
+    289  577.9 Não especificadas                            5779 
+    290  578.0 Hematemese                                   5780 
+    291  578.1 Melena                                       5781 
+    292  78.4 Código inválido - fora da CID                 5784 
+    293  578.8 Código inválido - fora da CID                5788 
+    294  578.9 Hemorragia trato gastrintestinal não especif 5789 
+    295  579.0 Doença celiaca                               5790 
+    296  579.1 Espru tropical                               5791 
+    297  579.2 Síndrome da alca cega                        5792 
+    298  579.3 Outros tipos ma absorcao e não especificados 5793 
+    299  579.4 Esteatorreia pancreatica                     5794 
+    300  579.8 Outras                                       5798 
+    301  579.9 Não especificadas                            5799 
+

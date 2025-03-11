@@ -1,0 +1,7 @@
+5  4
+      5  Demais causas                                      A00 -Z999,
+      1  Sinais e sintomas (R00-R99)                        R00 -R999,
+      2  Causa externa de intenção indeterminada            Y10 -Y349,Y872,
+      3  Cardio circulatorio inespecifico                   I472,I490,I46 -I469,I50 -I509,I514,I515,I516,I519,I709,
+      4  Neoplasia de sitio primario não especif            C76 ,C80 ,C97 ,
+

@@ -1,0 +1,74 @@
+     72  4 L                                                     
+      1  280 - Anemias por deficiências de ferro            280X 
+      2  281 - Outras anemias por deficiência               281X 
+  2   3  281.0 Anemia perniciosa                            2810 
+  2   4  281.1 Outras anemias deficiencia de vitamina b12   2811 
+  2   5  281.2 Anemia por deficiencia de acido folico       2812 
+  2   6  281.3 Outras anemias megaloblasticas especificadas 2813 
+  2   7  281.4 Anemia por deficiencia de proteinas          2814 
+  2   8  281.8 Anemia assoc outr defic nutric especific     2818 
+  2   9  281.9 Não especificadas                            2819 
+     10  282 - Anemias hemolíticas hereditárias             282X 
+ 10  11  282.0 Esferocitose hereditaria                     2820 
+ 10  12  282.1 Eliptocitose hereditaria                     2821 
+ 10  13  282.2 Anemia dev transt metabolismo do glutation   2822 
+ 10  14  282.3 Outr anemias hemoliticas dev defic enzimatic 2823 
+ 10  15  282.4 Talassemias                                  2824 
+ 10  16  282.5 Estigma falciforme                           2825 
+ 10  17  282.6 Anemia falciforme                            2826 
+ 10  18  282.7 Outras hemoglobinopatias                     2827 
+ 10  19  282.8 Outras                                       2828 
+ 10  20  282.9 Não especificadas                            2829 
+     21  283 - Anemias hemolíticas adquiridas               283X 
+ 21  22  283.0 Anemias hemoliticas auto-imunes              2830 
+ 21  23  283.1 Anemias hemoliticas não auto-imunes          2831 
+ 21  24  283.2 Hemoglobinuria dev hemolise fatores externos 2832 
+ 21  25  283.9 Não especificadas                            2839 
+     26  284 - Anemia aplástica                             284X 
+ 26  27  284.0 Anemia aplastica constitucional              2840 
+ 26  28  284.8 Outras                                       2848 
+ 26  29  284.9 Não especificada                             2849 
+     30  285 - Outras anemias e as não especificadas        285X 
+ 30  31  285.0 Anemia sideroblastica                        2850 
+ 30  32  285.1 Anemia aguda pós-hemorragica                 2851 
+ 30  33  85.4 Código inválido - fora da CID                 2854 
+ 30  34  285.8 Outras anemias especificadas                 2858 
+ 30  35  285.9 Anemia não especificada                      2859 
+     36  286 - Defeitos da coagulação                       286X 
+ 36  37  286.0 Deficiencia congênita do fator viii          2860 
+ 36  38  286.1 Deficiencia congênita do fator ix            2861 
+ 36  39  286.2 Deficiencia congênita do fator xi            2862 
+ 36  40  286.3 Deficiencia congênita outr fatores coagulaca 2863 
+ 36  41  286.4 Doença de von willebrand                     2864 
+ 36  42  286.5 Transt hemorragicos dev anticoagul circulant 2865 
+ 36  43  286.6 Síndrome de defibrinação                     2866 
+ 36  44  286.7 Deficiencia adquirida fatores de coagulação  2867 
+ 36  45  286.9 Outros defeitos de coagulação e não especifi 2869 
+     46  287 - Púrpura e outras afecções hemorrágicas       287X 
+ 46  47  287.0 Purpura alergica                             2870 
+ 46  48  287.1 Defeitos qualitativos das plaquetas          2871 
+ 46  49  287.2 Outras purpuras não trombocitopenicas        2872 
+ 46  50  287.3 Trombocitopenia primária                     2873 
+ 46  51  287.4 Trombocitopenia secundária                   2874 
+ 46  52  287.5 Trombocitopenia não especificada             2875 
+ 46  53  287.8 Outras afecções hemorrágicas especificadas   2878 
+ 46  54  287.9 Afecções hemorrágicas não especificadas      2879 
+     55  288 - Doenças dos leucócitos                       288X 
+ 55  56  288.0 Agranulocitose                               2880 
+ 55  57  288.1 Transt func polimorfonucleares neutrofilos   2881 
+ 55  58  288.2 Anomalias geneticas dos leucocitos           2882 
+ 55  59  288.3 Eosinofilia                                  2883 
+ 55  60  288.8 Outras                                       2888 
+ 55  61  288.9 Não especificadas                            2889 
+     62  289 - Out doenças sangue e órgãos hematopoét       289X 
+ 62  63  289.0 Policitemia secundária                       2890 
+ 62  64  289.1 Linfadenite crônica                          2891 
+ 62  65  289.2 Linfadenite mesenterica não especificada     2892 
+ 62  66  289.3 Linfadenite sem especificar                  2893 
+ 62  67  289.4 Hiperesplenismo                              2894 
+ 62  68  289.5 Outras doenças do baco                       2895 
+ 62  69  289.6 Policitemia familiar                         2896 
+ 62  70  289.7 Metemoglobinemia                             2897 
+ 62  71  289.8 Outras                                       2898 
+ 62  72  289.9 Não especificadas                            2899 
+

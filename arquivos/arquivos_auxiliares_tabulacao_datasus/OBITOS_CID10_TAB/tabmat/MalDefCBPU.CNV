@@ -1,0 +1,13 @@
+6 4 L
+      6  Demais Causas                                      A00 -Z999,K717,
+      1  Tipo 1 - Causas que nao podem ser CB               A311,A59 -A599,A600,A71 -A749,A630,B000,B07 -B079,B081,B088,B30 -B309,B35 -B369,F32 -F339,F40 -F429,F45 -F489,F51 -F539,F60 -F989,
+      1  Tipo 1 - Causas que nao podem ser CB               G43 -G459,G47 -G529,G54 -G549,G56 -G589,H00 -H049,H052-H699,H71 -H809,H83 -H939,J30 -J309,J33 -J339,J342,J35 -J359,K00 -K119,K14 -K149,
+      1  Tipo 1 - Causas que nao podem ser CB               L04 -L089,L20 -L259,L28 -L879,L90 -L929,L94 -L949,L980-L983,L985-L989,M03 -M039,M07 -M079,M09 -M129,M14 -M259,M353,M40 -M409,M436-M439,
+      1  Tipo 1 - Causas que nao podem ser CB               M45 -M459,M47 -M609,M63 -M719,M73 -M799,M95 -M999,N393,N40 -N409,N46 -N469,N60 -N609,N84 -N939,N97 -N979,Q10 -Q189,Q36 -Q369,Q381,Q54 -Q549,Q65 -Q749,
+      1  Tipo 1 - Causas que nao podem ser CB               Q82 -Q849,B948,B949,G80 -G839,Y86 -Y869,Y872,Y89 -Y899,I10 -I109,I15 -I159,I70 -I709,
+      2  Tipo 2 - Causas intermediarias                     A40 -A419,A480,A483,E853-E859,E86 -E879,G911,G913-G918,G92 -G929,G931-G936,I26 -I269,I271,I44 -I449,I49 -I509,
+      2  Tipo 2 - Causas intermediarias                     I74 -I749,I81 -I819,J69 -J699,J80 -J819,J86 -J869,J90 -J909,J938-J939,J94 -J949,J981-J983,K65 -K669,
+      2  Tipo 2 - Causas intermediarias                     K71 -K716,K718-K721,K75 -K759,K760-K764,K920-K922,M86 -M869,N14 -N149,N17 -N199,
+      3  Tipo 3 - Causas terminais                          D65 -D659,I45 -I469,J96 -J969,
+      4  Tipo 4 - Causas nao especificadas                  A499,B839,B99 -B999,C80 -C809,C26 -C269,C39 -C399,C579,C76 -C769,D00 -D139,D16 -D189,D20 -D249,D28 -D489,E889,I51 -I519,I99 -I999,Y10 -Y349,X59 -X599,
+      5  Tipo 5 - Mal Definidas                             R00 -R999,

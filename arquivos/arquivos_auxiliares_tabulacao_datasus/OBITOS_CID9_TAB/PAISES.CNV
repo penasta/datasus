@@ -1,0 +1,264 @@
+    263 7                                                          
+    001  Brasil                                             0000000-9999999
+    002  Ignorado                                           0000000
+    003  Abu Dabi                                           0000001
+    004  Açores                                             0000002
+    005  Afeganistão                                        0000003
+    006  África do Sul                                      0000004
+    007  Aiman                                              0000005
+    008  Albânia                                            0000006
+    009  Alemanha                                           0000008
+    010  Andorra                                            0000009
+    011  Angola                                             0000010
+    012  Antilhas Holandesas                                0000011
+    013  Anguilla                                           0000012
+    014  Antígua                                            0000013
+    015  Arábia Saudita                                     0000014
+    016  Argélia                                            0000015
+    017  Argentina                                          0000016
+    018  Armênia                                            0000017
+    019  Aruba                                              0000018
+    020  Austrália                                          0000019
+    021  Áustria                                            0000020
+    022  Azerbaidjão                                        0000021
+    023  Bahamas                                            0000022
+    024  Bahrein, Ilha                                      0000023
+    025  Baleares, Ilhas                                    0000024
+    026  Bangladesh                                         0000025
+    027  Barbados                                           0000026
+    028  Bélgica                                            0000027
+    029  Belize                                             0000028
+    030  Benin                                              0000029
+    031  Bermudas                                           0000030
+    032  Bielorrússia                                       0000031
+    033  Birmânia                                           0000032
+    034  Bolívia                                            0000033
+    035  Bonaire                                            0000034
+    036  Botswana                                           0000035
+    037  Brunei                                             0000036
+    038  Bulgária                                           0000037
+    039  Burundi                                            0000038
+    040  Burkina Fasso (Alto Volta)                         0000039
+    041  Butão                                              0000040
+    042  Cabo Verde                                         0000041
+    043  Caicos, Ilha                                       0000042
+    044  Cameroon                                           0000043
+    045  Camboja/Laos                                       0000044
+    046  Canadá                                             0000045
+    047  Canárias                                           0000046
+    048  Carolinas, Ilhas                                   0000047
+    049  Casaquistão                                        0000048
+    050  Cayman, Ilhas                                      0000049
+    051  Ceuta e Melilla                                    0000050
+    052  Chade                                              0000051
+    053  Chile                                              0000052
+    054  China                                              0000053
+    055  Chipre                                             0000054
+    056  Christmas, Ilha                                    0000055
+    057  Cingapura                                          0000056
+    058  Cocos, Ilhas                                       0000057
+    059  Colômbia                                           0000058
+    060  Comores, Ilhas                                     0000059
+    061  Congo                                              0000060
+    062  Cook, Ilhas                                        0000061
+    063  Coréia do Norte                                    0000062
+    064  Coréia do Sul                                      0000063
+    065  Costa do Marfim                                    0000064
+    066  Costa Rica                                         0000065
+    067  Cuba                                               0000066
+    068  Curaçao                                            0000067
+    069  Dinamarca                                          0000068
+    070  Djibuti                                            0000069
+    071  Dominica                                           0000070
+    072  Dubai                                              0000071
+    073  Egito                                              0000072
+    074  Irlanda                                            0000073
+    075  El Salvador                                        0000074
+    076  Equador                                            0000075
+    077  Escócia                                            0000076
+    078  Espanha                                            0000077
+    079  Estados Unidos                                     0000078
+    080  Estônia                                            0000079
+    081  Etiópia                                            0000080
+    082  Falkland, Ilhas                                    0000081
+    083  Faroé, Ilhas                                       0000082
+    084  Fiji                                               0000083
+    085  Filipinas                                          0000084
+    086  Finlândia                                          0000085
+    087  Formosa                                            0000086
+    088  França                                             0000087
+    089  Fujaira                                            0000088
+    090  Futuna, Ilhas                                      0000089
+    091  Gabão                                              0000090
+    092  Galápagos, Ilhas                                   0000091
+    093  Gales, País de                                     0000092
+    094  Gâmbia                                             0000093
+    095  Gana                                               0000094
+    096  Geórgia                                            0000095
+    097  Gibraltar                                          0000096
+    098  Grã-Bretanha                                       0000097
+    099  Granada                                            0000098
+    100  Grécia                                             0000099
+    101  Groenlândia                                        0000100
+    102  Guadalupe                                          0000101
+    103  Guam                                               0000102
+    104  Guatemala                                          0000103
+    105  Guiana Francesa                                    0000104
+    106  Guyana                                             0000105
+    107  Guiné                                              0000106
+    108  Guiné-Bissau                                       0000107
+    109  Guiné Equatorial                                   0000108
+    110  Haiti                                              0000109
+    111  Holanda                                            0000110
+    112  Honduras                                           0000111
+    113  Honduras Britânicas                                0000112
+    114  Hong Kong                                          0000113
+    115  Hungria                                            0000114
+    116  Iêmen                                              0000115
+    117  Iêmen do Sul                                       0000116
+    118  Índia                                              0000117
+    119  Indonésia                                          0000118
+    120  Inglaterra                                         0000119
+    121  Irã                                                0000120
+    122  Iraque                                             0000121
+    123  Irlanda do Norte                                   0000122
+    124  Islândia                                           0000123
+    125  Israel                                             0000124
+    126  Itália                                             0000125
+    127  Jamaica                                            0000126
+    128  Japão                                              0000127
+    129  Johnston, Ilha                                     0000128
+    130  Jordânia                                           0000129
+    131  Juan Fernandes, Ilhas                              0000130
+    132  Kiribati                                           0000131
+    133  Kuweit                                             0000132
+    134  Lesoto                                             0000133
+    135  Letônia                                            0000134
+    136  Líbano                                             0000135
+    137  Libéria                                            0000136
+    138  Líbia                                              0000137
+    139  Liechtenstein                                      0000138
+    140  Lituânia                                           0000139
+    141  Luxemburgo                                         0000140
+    142  Macau                                              0000141
+    143  Madagascar                                         0000142
+    144  Madeira                                            0000143
+    145  Malaísia                                           0000144
+    146  Malawi                                             0000145
+    147  Maldivas                                           0000146
+    148  Mali                                               0000147
+    149  Malta                                              0000148
+    150  Man, Ilha de                                       0000149
+    151  Marianas, Ilhas                                    0000150
+    152  Marquesas, Ilhas                                   0000151
+    153  Marrocos                                           0000152
+    154  Marshal, Ilhas                                     0000153
+    155  Martinica                                          0000154
+    156  Mayotte                                            0000155
+    157  Mauricius                                          0000156
+    158  Mauritânia                                         0000157
+    159  Melilla                                            0000158
+    160  México                                             0000159
+    161  Midway, Ilhas                                      0000160
+    162  Moçambique                                         0000161
+    163  Moldávia                                           0000162
+    164  Mônaco                                             0000163
+    165  Mongólia                                           0000164
+    166  Montserrat                                         0000165
+    167  Namíbia                                            0000166
+    168  Nassau                                             0000167
+    169  Nauru                                              0000168
+    170  Nepal                                              0000169
+    171  Nevis                                              0000170
+    172  Nicarágua                                          0000171
+    173  Níger                                              0000172
+    174  Nigéria                                            0000173
+    175  Norfolk, Ilha                                      0000174
+    176  Noruega                                            0000175
+    177  Nova Caledônia                                     0000176
+    178  Nova Guiné                                         0000177
+    179  Nova Zelândia                                      0000178
+    180  Nove, Ilhas                                        0000179
+    181  Omã                                                0000180
+    182  Panamá                                             0000181
+    183  Papua Nova Guiné                                   0000182
+    184  Paquistão                                          0000183
+    185  Paraguai                                           0000184
+    186  Páscoa, Ilha                                       0000185
+    187  Peru                                               0000186
+    188  Polinésia Francesa                                 0000187
+    189  Polônia                                            0000188
+    190  Porto Rico                                         0000189
+    191  Portugal                                           0000190
+    192  Pitcairn, Ilha                                     0000191
+    193  Qatar                                              0000192
+    194  Quênia                                             0000193
+    195  Quirguízia                                         0000194
+    196  Reino Unido                                        0000195
+    197  República Centro-Africana                          0000196
+    198  República Dominicana                               0000197
+    199  Reunião                                            0000198
+    200  Romênia                                            0000199
+    201  Ruanda                                             0000200
+    202  Rússia                                             0000201
+    203  Saara Ocidental                                    0000202
+    204  Saba, Ilha                                         0000203
+    205  São Cristóvão e Nevis                              0000204
+    206  Saint Maarten, Ilhas                               0000205
+    207  Saint Pierre e Miquelon, Ilhas                     0000206
+    208  Salomão, Ilhas                                     0000207
+    209  Samoa Americana, Ilhas                             0000208
+    210  Samoa Isisifo (Ocidental)                          0000209
+    211  San Marino                                         0000210
+    212  Santa Lúcia, Ilha                                  0000211
+    213  Santo Eustáquio, Ilha                              0000212
+    214  São Tomé e Príncipe                                0000213
+    215  São Vicente e Granadinas                           0000214
+    216  Senegal                                            0000215
+    217  Serra Leoa                                         0000216
+    218  Seychelles                                         0000217
+    219  Síria                                              0000218
+    220  Sociedade, Ilhas                                   0000219
+    221  Somália                                            0000220
+    222  Sri Lanka                                          0000221
+    223  Suazilândia                                        0000222
+    224  Sudão                                              0000223
+    225  Suécia                                             0000224
+    226  Suíça                                              0000225
+    227  Suriname                                           0000226
+    228  Tadjiquistão                                       0000227
+    229  Tailândia                                          0000228
+    230  Tanzânia                                           0000229
+    231  Tasmânia                                           0000230
+    232  Tchad                                              0000231
+    233  Tcheco e Eslováquia                                0000232
+    234  Timor                                              0000233
+    235  Togo                                               0000234
+    236  Tokelau                                            0000235
+    237  Tonga                                              0000236
+    238  Tuvalu                                             0000237
+    239  Trinidad and Tobago                                0000238
+    240  Tuamotu                                            0000239
+    241  Tubuai                                             0000240
+    242  Tunísia                                            0000241
+    243  Turcomenistão                                      0000242
+    244  Turks, Ilha                                        0000243
+    245  Turquia                                            0000244
+    246  Ucrânia                                            0000245
+    247  Uganda                                             0000246
+    248  União dos Emirados Árabes                          0000247
+    249  União Soviética                                    0000248
+    250  Uruguai                                            0000249
+    251  Uzbequistão                                        0000250
+    252  Vanuatu                                            0000251
+    253  Vaticano                                           0000252
+    254  Venezuela                                          0000253
+    255  Vietnã                                             0000254
+    256  Virgens Norte-americanas, Ilhas                    0000255
+    257  Virgens britânicas, Ilhas                          0000256
+    258  Wallis, Ilha                                       0000257
+    259  Iugoslávia                                         0000258
+    260  Zaire                                              0000259
+    261  Zâmbia                                             0000260
+    262  Zimbábue                                           0000261
+    263  Zona do Canal do Panamá                            0000262

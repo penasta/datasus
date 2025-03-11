@@ -1,0 +1,303 @@
+    301  4 L                                                     
+      1  630 - Mola hidatiforme                             630X 
+      2  631 - Outros produtos anormais da concepção        631X 
+      3  632 - Aborto retido                                632X 
+      4  633.0 Gravidez abdominal                           6330 
+      5  633.1 Gravidez tubaria                             6331 
+      6  633.2 Gravidez ovariana                            6332 
+      7  633.8 Outras localizações de gravidez ectopica     6338 
+      8  633.9 Não especificada                             6339 
+      9  634.0 Complicado por infec pelvica e trato genital 6340 
+     10  634.1 Complicado p hemorragia prolong ou excessiva 6341 
+     11  634.2 Complicado p lesao órgãos e tecidos pelvicos 6342 
+     12  634.3 Complicado por insuficiencia renal           6343 
+     13  634.4 Complicado por transtorno metabolico         6344 
+     14  634.5 Complicado por choque                        6345 
+     15  634.6 Complicado por embolia                       6346 
+     16  634.7 Com outras complicações especificadas        6347 
+     17  634.8 Com complicações não especificadas           6348 
+     18  634.9 Sem mencao de complicacao                    6349 
+     19  635.0 Complicado p infeccao pelvica e trato genita 6350 
+     20  635.1 Complicado p hemorrag prolongada ou excessiv 6351 
+     21  635.2 Complicado p lesao órgãos e tecidos pelvicos 6352 
+     22  635.3 Complicado por insuficiencia renal           6353 
+     23  635.4 Complicado por transtorno metabolico         6354 
+     24  635.5 Complicado por choque                        6355 
+     25  635.6 Complicado por embolia                       6356 
+     26  635.7 Com outras complicações especificadas        6357 
+     27  635.8 Com complicações não especificadas           6358 
+     28  635.9 Sem mencao de complicacao                    6359 
+     29  636.0 Complicado p infeccao pelvica e trato genita 6360 
+     30  636.1 Complicado p hemorrag prolongada ou excessiv 6361 
+     31  636.2 Complicado p lesao órgãos e tecidos pelvicos 6362 
+     32  636.3 Complicado por insuficiencia renal           6363 
+     33  636.4 Complicado por transtorno metabolico         6364 
+     34  636.5 Complicado por choque                        6365 
+     35  636.6 Complicado por embolia                       6366 
+     36  636.7 Com outras complicações especificadas        6367 
+     37  636.8 Com complicações não especificadas           6368 
+     38  636.9 Sem mencao de complicacao                    6369 
+     39  637.0 Complicado p infeccao pelvica e trato genita 6370 
+     40  637.1 Complicado p hemorrag prolongada ou excessiv 6371 
+     41  637.2 Complicado p lesao órgãos e tecidos pelvicos 6372 
+     42  637.3 Complicado por insuficiencia renal           6373 
+     43  637.4 Complicado por transtorno metabolico         6374 
+     44  637.5 Complicado por choque                        6375 
+     45  637.6 Complicado por embolia                       6376 
+     46  637.7 Com outras complicações especificadas        6377 
+     47  637.8 Com complicações não especificadas           6378 
+     48  637.9 Sem mencao de complicacao                    6379 
+     49  638.0 Complicada p infeccao pelvica e trato genita 6380 
+     50  638.1 Complicada p hemorragia prolong ou excessiva 6381 
+     51  638.2 Complicada p lesao órgãos e tecidos pelvicos 6382 
+     52  638.3 Complicada por insuficiencia renal           6383 
+     53  638.4 Complicada por transtorno metabolico         6384 
+     54  638.5 Complicada por choque                        6385 
+     55  638.6 Complicada por embolia                       6386 
+     56  638.7 Com outras complicações especificadas        6387 
+     57  638.8 Com complicações não especificadas           6388 
+     58  638.9 Sem mencao de complicacao                    6389 
+     59  639.0 Infeccao pelvica e do trato genital          6390 
+     60  639.1 Hemorragia prolongada ou excessiva           6391 
+     61  639.2 Lesao dos órgãos e tecidos pelvicos          6392 
+     62  639.3 Insuficiencia renal                          6393 
+     63  639.4 Transtornos metabolicos                      6394 
+     64  639.5 Choque                                       6395 
+     65  639.6 Embolia                                      6396 
+     66  639.8 Outras complicações especificadas            6398 
+     67  639.9 Complic não especif conseq afec class em 630 6399 
+     68  640.0 Ameaca de aborto                             6400 
+     69  640.8 Outras                                       6408 
+     70  640.9 Não especificadas                            6409 
+     71  641.0 Placenta previa sem hemorragia               6410 
+     72  641.1 Hemorragia por placenta previa               6411 
+     73  641.2 Descolamento prematuro da placenta           6412 
+     74  641.3 Hemorragia anteparto assoc com coagulopatias 6413 
+     75  641.8 Outras hemorragias anteparto                 6418 
+     76  641.9 Hemorragia anteparto não especificada        6419 
+     77  642.0 Hipertensao essencial benigna compl gravidez 6420 
+     78  642.1 Hipertensao secundária a doenca renal        6421 
+     79  642.2 Outr form pre-existent hipertensao compl gra 6422 
+     80  642.3 Hipertensao transitoria da gravidez          6423 
+     81  642.4 Pre-eclampsia leve ou não especificada       6424 
+     82  642.5 Pre-eclampsia severa                         6425 
+     83  642.6 Eclampsia                                    6426 
+     84  642.7 Pre-eclampsia eclamps sobrep hipert pre-exis 6427 
+     85  642.9 Hipertensao não especif complic a gravidez   6429 
+     86  643.0 Hiperemese gravidica leve                    6430 
+     87  643.1 Hiperemese gravidica c/disturbios metabolico 6431 
+     88  643.2 Vomitos tardios da gravidez                  6432 
+     89  643.8 Outros vomitos complicando a gravidez        6438 
+     90  643.9 Vomitos não especificados da gravidez        6439 
+     91  644.0 Falso trabalho de parto                      6440 
+     92  644.1 Trabalho de parto prematuro                  6441 
+     93  645 - Gravidez prolongada                          645X 
+     94  646.0 Feto papiraceo                               6460 
+     95  646.1 Edema ou ganho excessivo de peso na gravidez 6461 
+     96  646.2 Doença renal não especificada                6462 
+     97  646.3 Abortamento habitual                         6463 
+     98  646.4 Neurite periferica na gravidez               6464 
+     99  646.5 Bacteriuria assintomática na gravidez        6465 
+    100  646.6 Infecções do trato geniturinario na gravidez 6466 
+    101  646.7 Transtornos do fígado na gravidez            6467 
+    102  646.8 Outras complicações especificadas da gravide 6468 
+    103  646.9 Complicacoes não especificadas da gravidez   6469 
+    104  647.0 Sífilis                                      6470 
+    105  647.1 Gonorreia                                    6471 
+    106  647.2 Outras doenças venereas                      6472 
+    107  647.3 Tuberculose                                  6473 
+    108  647.4 Malária                                      6474 
+    109  647.5 Rubéola                                      6475 
+    110  647.6 Outras doenças virais                        6476 
+    111  647.8 Outr doenç infecciosas e parasitarias especi 6478 
+    112  647.9 Infeccao ou infestacao não especificada      6479 
+    113  648.0 Diabetes mellitus                            6480 
+    114  648.1 Disfuncao da tireóide                        6481 
+    115  648.2 Anemia                                       6482 
+    116  648.3 Dependencia de drogas                        6483 
+    117  648.4 Transtornos mentais                          6484 
+    118  648.5 Transtornos cardiovasculares congenitos      6485 
+    119  648.6 Outras doenças cardiovasculares              6486 
+    120  648.7 Transtornos osseos e articulares do dorso    6487 
+    121  648.8 Tolerancia anormal a glicose                 6488 
+    122  648.9 Outras                                       6489 
+    123  650 - Parto normal                                 650X 
+    124  651.0 Gravidez dupla                               6510 
+    125  651.1 Gravidez tripla                              6511 
+    126  651.2 Gravidez quadrupla                           6512 
+    127  651.8 Outras                                       6518 
+    128  651.9 Não especificadas                            6519 
+    129  652.0 Situacao instavel                            6520 
+    130  652.1 Apres pelv outr mas apres conv apres cefalic 6521 
+    131  652.2 Apresentacao pelvica sem mencao de versao    6522 
+    132  652.3 Situacao obliqua ou transversa               6523 
+    133  652.4 Apresentacao de face ou de fronte            6524 
+    134  652.5 Polo cefalico alto em gestacao a termo       6525 
+    135  652.6 Gestacao multip c/ma apresent um feto ou mai 6526 
+    136  652.7 Prolapso de membro superior                  6527 
+    137  652.8 Outras                                       6528 
+    138  652.9 Não especificadas                            6529 
+    139  653.0 Anormalidade severa da bacia ossea           6530 
+    140  653.1 Bacia geral e regularmente estreitada        6531 
+    141  653.2 Bacia estreitada no estreito superior        6532 
+    142  653.3 Bacia estreitada no estreito inferior        6533 
+    143  653.4 Desproporcao fetopelvica                     6534 
+    144  653.5 Feto excepcionalm grande causando desproporc 6535 
+    145  653.6 Feto hidrocefalico causando desproporcao     6536 
+    146  653.7 Outras anormalid fetais causando desproporc  6537 
+    147  653.8 Desproporcao de outra origem                 6538 
+    148  653.9 Não especificada                             6539 
+    149  654.0 Anormalidades congenitas do utero            6540 
+    150  654.1 Tumores do corpo do utero                    6541 
+    151  654.2 Cicatriz uterina result de cirurgia previa   6542 
+    152  654.3 Utero gravido                                6543 
+    153  654.4 Outr anorm form ou posic utero gravid e estr 6544 
+    154  654.5 Incompetencia do canal cervical              6545 
+    155  654.6 Outr anorm congenit ou adquiridas colo utero 6546 
+    156  654.7 Anormalid congenitas ou adquiridas da vagina 6547 
+    157  654.8 Anormalidades congenitas ou adquiridas vulva 6548 
+    158  654.9 Não especificadas                            6549 
+    159  655.0 Malformacao sistema nervoso central do feto  6550 
+    160  655.1 Anormalidade cromossomica do feto            6551 
+    161  655.2 Doenc hereditaria familia afet possiv feto   6552 
+    162  655.3 Suspeit lesao fetal causada p doenç viral ma 6553 
+    163  655.4 Suspeit lesao fetal causada p outr doenç mae 6554 
+    164  655.5 Suspeita de lesao fetal causada por drogas   6555 
+    165  655.6 Suspeita de lesao fetal causada por radiacao 6556 
+    166  655.8 Outr anorm fetais conhecidas ou suspeitadas  6558 
+    167  655.9 Não especificada                             6559 
+    168  656.0 Hemorragia feto-materna                      6560 
+    169  656.1 Isoimunizacao rh                             6561 
+    170  656.2 Isoimunizacao p outr incompat sang e n espec 6562 
+    171  656.3 Sofrimento fetal                             6563 
+    172  656.4 Morte intra-uterina                          6564 
+    173  656.5 Crescimento fetal insuficiente               6565 
+    174  656.6 Crescimento fetal excessivo                  6566 
+    175  656.7 Outras afecções da placenta                  6567 
+    176  656.8 Outros                                       6568 
+    177  656.9 Não especificados                            6569 
+    178  657 - Polihidrâmnio                                657X 
+    179  658.0 Oligoamnio                                   6580 
+    180  658.1 Rotura prematura de membranas                6581 
+    181  658.2 Parto prolong rotura espont ou n espec membr 6582 
+    182  658.3 Parto prolong rotura artificial membranas    6583 
+    183  658.4 Infeccao da cavidade amniotica               6584 
+    184  658.8 Outros                                       6588 
+    185  658.9 Não especificados                            6589 
+    186  659.0 Falha de inducao mecanica                    6590 
+    187  659.1 Falha inducao p metodos clinicos ou n especi 6591 
+    188  659.2 Hipertermia materna durante trabalho de part 6592 
+    189  659.3 Infeccao generalizada durante trabalho parto 6593 
+    190  659.4 Grande multiparidade                         6594 
+    191  659.5 Primigesta idosa                             6595 
+    192  659.8 Outras                                       6598 
+    193  659.9 Não especificadas                            6599 
+    194  660.0 Obstr causada ma posic feto inic trab parto  6600 
+    195  660.1 Obstrucao por bacia ossea                    6601 
+    196  660.2 Obstrucao p anormalidade tecidos moles pelve 6602 
+    197  660.3 Parad transv prof posic occip-post occip-ant 6603 
+    198  660.4 Distocia de biacromial (ombro)               6604 
+    199  660.5 Colisao de gemeos                            6605 
+    200  660.6 Falha da prova de trabalho de parto          6606 
+    201  660.7 Falha no uso de forcipe ou vacuo-extrator    6607 
+    202  660.8 Outras                                       6608 
+    203  660.9 Não especificadas                            6609 
+    204  661.0 Inercia uterina primária                     6610 
+    205  661.1 Inercia uterina secundária                   6611 
+    206  661.2 Outras inercias uterinas e as não especif    6612 
+    207  661.3 Trabalho de parto precipitado                6613 
+    208  661.4 Contracoes uterinas prolongadas              6614 
+    209  661.9 Não especificada                             6619 
+    210  662.0 Primeiro periodo prolongado                  6620 
+    211  662.1 Trabalho de parto prolongado                 6621 
+    212  662.2 Segundo periodo prolongado                   6622 
+    213  662.3 Demora na expulsao do segundo gemeo          6623 
+    214  662.8 Código inválido - fora da CID                6628 
+    215  663.0 Prolapso do cordao                           6630 
+    216  663.1 Circulares de cordao ao redor do pescoco     6631 
+    217  663.2 Outros enovelamentos do cordao umbilical     6632 
+    218  663.3 Outros enovelamentos do cordao umbilical     6633 
+    219  663.4 Cordao umbilical curto                       6634 
+    220  663.5 Vasa praevia                                 6635 
+    221  663.6 Lesões vasculares do cordao                  6636 
+    222  663.8 Outras                                       6638 
+    223  663.9 Não especificadas                            6639 
+    224  664.0 Laceracao de perineo de primeiro grau        6640 
+    225  664.1 Laceracao de perineo de segundo grau         6641 
+    226  664.2 Laceracao de perineo de terceiro grau        6642 
+    227  664.3 Laceracao de perineo de quarto grau          6643 
+    228  664.4 Laceracao de perineo não especificada        6644 
+    229  664.5 Hematoma da vulva e do perineo               6645 
+    230  664.8 Outros                                       6648 
+    231  664.9 Não especificados                            6649 
+    232  665.0 Rotura do utero antes inicio trabalho parto  6650 
+    233  665.1 Rotura do utero durante e apos trabalho part 6651 
+    234  665.2 Inversao do utero                            6652 
+    235  665.3 Laceracao do colo do utero                   6653 
+    236  665.4 Laceracao vaginal alta                       6654 
+    237  665.5 Trauma de outros órgãos pelvicos             6655 
+    238  665.6 Lesao de articulações e ligamentos pelvicos  6656 
+    239  665.7 Hematoma pelvico                             6657 
+    240  665.8 Outros                                       6658 
+    241  665.9 Não especificados                            6659 
+    242  666.0 Hemorragia do terceiro estagio               6660 
+    243  666.1 Outras hemorragias do pós-parto imediato     6661 
+    244  666.2 Hemorragia pós-parto prolongada e secundária 6662 
+    245  666.3 Deficiencias de coagulacao pós-parto         6663 
+    246  66.9 Código inválido - fora da CID                 6669 
+    247  667.0 Placenta retida sem hemorragia               6670 
+    248  667.1 Retencao partes da placenta ou das membranas 6671 
+    249  67.9 Código inválido - fora da CID                 6679 
+    250  668.0 Complicacoes pulmonares                      6680 
+    251  668.1 Complicacoes cardiacas                       6681 
+    252  668.2 Complicacoes do sistema nervoso central      6682 
+    253  668.8 Outras                                       6688 
+    254  668.9 Não especificadas                            6689 
+    255  669.0 Sofrimento materno                           6690 
+    256  669.1 Choque durante ou subseq trab parto e parto  6691 
+    257  669.2 Síndrome de hipotensao materna               6692 
+    258  669.3 Insufic renal aguda conseq trab parto e part 6693 
+    259  669.4 Outr compl cirurg obst ou outr proced obstet 6694 
+    260  669.5 Parto p forcip ou vacuo-extrator s/menc indi 6695 
+    261  669.6 Extracao pelvica                             6696 
+    262  669.7 Parto por cesarea                            6697 
+    263  669.8 Outras                                       6698 
+    264  669.9 Não especificadas                            6699 
+    265  670 - Infecção puerperal                           670X 
+    266  671.0 Varizes das pernas                           6710 
+    267  671.1 Varizes da vulva e do perineo                6711 
+    268  671.2 Tromboflebite superficial                    6712 
+    269  671.3 Flebotrombose profunda                       6713 
+    270  671.4 Flebotrombose profunda                       6714 
+    271  671.5 Outras flebites e tromboses                  6715 
+    272  671.8 Outras                                       6718 
+    273  671.9 Não especificadas                            6719 
+    274  672 - Hipertermia orig desconh ocor dur puerp      672X 
+    275  673.0 Embolia aerea obstetrica                     6730 
+    276  673.1 Embolia de liquido amniotico                 6731 
+    277  673.2 Embolia por coagulos sanguineos              6732 
+    278  673.3 Embolia piemica e septica                    6733 
+    279  673.8 Outras                                       6738 
+    280  73.9 Código inválido - fora da CID                 6739 
+    281  674.0 Transtornos cérebrovasculares no puerperio   6740 
+    282  674.1 Deiscencia de incisao de cesarea             6741 
+    283  674.2 Deiscencia de incisao perineal               6742 
+    284  674.3 Outr complic incisoes cirurgicas obstetricas 6743 
+    285  674.4 Polipo placentario                           6744 
+    286  674.8 Outras                                       6748 
+    287  674.9 Não especificada                             6749 
+    288  675.0 Infecções do mamilo                          6750 
+    289  675.1 Abcesso da mama                              6751 
+    290  675.2 Mastite não purulenta                        6752 
+    291  675.8 Outras                                       6758 
+    292  675.9 Não especificadas                            6759 
+    293  676.0 Mamilo retratil                              6760 
+    294  676.1 Mamilo fissurado                             6761 
+    295  676.2 Ingurgitamento mamario                       6762 
+    296  676.3 Outras afecções mama e as não especificadas  6763 
+    297  676.4 Insuficiencia da lactacao                    6764 
+    298  676.5 Supressao da lactacao                        6765 
+    299  676.6 Galactorreia                                 6766 
+    300  676.8 Outros transtornos da lactacao               6768 
+    301  676.9 Transtornos não especificados da lactacao    6769 
+

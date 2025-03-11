@@ -1,0 +1,855 @@
+     78  6                                                                                    
+      1  Alfenas Machado                                    310160                            
+      1  Alfenas Machado                                    310200                            
+      1  Alfenas Machado                                    310430                            
+      1  Alfenas Machado                                    310530                            
+      1  Alfenas Machado                                    310840                            
+      1  Alfenas Machado                                    311100                            
+      1  Alfenas Machado                                    311130                            
+      1  Alfenas Machado                                    311160                            
+      1  Alfenas Machado                                    311440                            
+      1  Alfenas Machado                                    311470                            
+      1  Alfenas Machado                                    311710                            
+      1  Alfenas Machado                                    312240                            
+      1  Alfenas Machado                                    312520                            
+      1  Alfenas Machado                                    313900                            
+      1  Alfenas Machado                                    314720                            
+      1  Alfenas Machado                                    315170                            
+      1  Alfenas Machado                                    316690                            
+      2  Almenara                                           310170                            
+      2  Almenara                                           310520                            
+      2  Almenara                                           312245                            
+      2  Almenara                                           312560                            
+      2  Almenara                                           313470                            
+      2  Almenara                                           313580                            
+      2  Almenara                                           313600                            
+      2  Almenara                                           313650                            
+      2  Almenara                                           314055                            
+      2  Almenara                                           314315                            
+      2  Almenara                                           314675                            
+      2  Almenara                                           315510                            
+      2  Almenara                                           315660                            
+      2  Almenara                                           315710                            
+      2  Almenara                                           315810                            
+      2  Almenara                                           316030                            
+      3  Além Paraíba                                       310150                            
+      3  Além Paraíba                                       312460                            
+      3  Além Paraíba                                       315110                            
+      3  Além Paraíba                                       316000                            
+      3  Além Paraíba                                       317210                            
+      4  Araxá                                              310400                            
+      4  Araxá                                              311150                            
+      4  Araxá                                              312950                            
+      4  Araxá                                              314920                            
+      4  Araxá                                              314980                            
+      4  Araxá                                              315300                            
+      4  Araxá                                              315770                            
+      4  Araxá                                              316810                            
+      5  Araçuaí                                            310340                            
+      5  Araçuaí                                            310650                            
+      5  Araçuaí                                            311950                            
+      5  Araçuaí                                            312650                            
+      5  Araçuaí                                            313545                            
+      5  Araçuaí                                            317160                            
+      6  B.Horizonte/N.Lima/Caeté                           310620                            
+      6  B.Horizonte/N.Lima/Caeté                           310640                            
+      6  B.Horizonte/N.Lima/Caeté                           311000                            
+      6  B.Horizonte/N.Lima/Caeté                           313460                            
+      6  B.Horizonte/N.Lima/Caeté                           313660                            
+      6  B.Horizonte/N.Lima/Caeté                           314230                            
+      6  B.Horizonte/N.Lima/Caeté                           314480                            
+      6  B.Horizonte/N.Lima/Caeté                           315390                            
+      6  B.Horizonte/N.Lima/Caeté                           315460                            
+      6  B.Horizonte/N.Lima/Caeté                           315480                            
+      6  B.Horizonte/N.Lima/Caeté                           315670                            
+      6  B.Horizonte/N.Lima/Caeté                           315780                            
+      6  B.Horizonte/N.Lima/Caeté                           316830                            
+      7  Barbacena                                          310163                            
+      7  Barbacena                                          310210                            
+      7  Barbacena                                          310290                            
+      7  Barbacena                                          310560                            
+      7  Barbacena                                          311220                            
+      7  Barbacena                                          311320                            
+      7  Barbacena                                          311630                            
+      7  Barbacena                                          312150                            
+      7  Barbacena                                          312940                            
+      7  Barbacena                                          314660                            
+      7  Barbacena                                          315440                            
+      7  Barbacena                                          315730                            
+      7  Barbacena                                          315870                            
+      7  Barbacena                                          315940                            
+      7  Barbacena                                          316620                            
+      8  Betim                                              310670                            
+      8  Betim                                              310810                            
+      8  Betim                                              310900                            
+      8  Betim                                              312060                            
+      8  Betim                                              312410                            
+      8  Betim                                              312600                            
+      8  Betim                                              313010                            
+      8  Betim                                              313665                            
+      8  Betim                                              314015                            
+      8  Betim                                              314070                            
+      8  Betim                                              315040                            
+      8  Betim                                              315530                            
+      8  Betim                                              316292                            
+      9  Bom Despacho                                       310740                            
+      9  Bom Despacho                                       312320                            
+      9  Bom Despacho                                       312470                            
+      9  Bom Despacho                                       313880                            
+      9  Bom Despacho                                       314050                            
+      9  Bom Despacho                                       314240                            
+      9  Bom Despacho                                       316660                            
+     10  Brasília MG/S.Francisco                            310860                            
+     10  Brasília MG/S.Francisco                            311115                            
+     10  Brasília MG/S.Francisco                            312965                            
+     10  Brasília MG/S.Francisco                            313005                            
+     10  Brasília MG/S.Francisco                            313535                            
+     10  Brasília MG/S.Francisco                            313865                            
+     10  Brasília MG/S.Francisco                            313868                            
+     10  Brasília MG/S.Francisco                            314200                            
+     10  Brasília MG/S.Francisco                            314795                            
+     10  Brasília MG/S.Francisco                            315057                            
+     10  Brasília MG/S.Francisco                            316110                            
+     10  Brasília MG/S.Francisco                            316240                            
+     10  Brasília MG/S.Francisco                            316420                            
+     10  Brasília MG/S.Francisco                            317000                            
+     10  Brasília MG/S.Francisco                            317052                            
+     10  Brasília MG/S.Francisco                            317090                            
+     11  Carangola                                          311010                            
+     11  Carangola                                          311210                            
+     11  Carangola                                          311330                            
+     11  Carangola                                          312200                            
+     11  Carangola                                          312420                            
+     11  Carangola                                          312530                            
+     11  Carangola                                          312595                            
+     11  Carangola                                          314587                            
+     11  Carangola                                          314875                            
+     11  Carangola                                          314900                            
+     11  Carangola                                          316920                            
+     12  Caratinga                                          310780                            
+     12  Caratinga                                          311340                            
+     12  Caratinga                                          312385                            
+     12  Caratinga                                          313055                            
+     12  Caratinga                                          313090                            
+     12  Caratinga                                          315015                            
+     12  Caratinga                                          315725                            
+     12  Caratinga                                          315935                            
+     12  Caratinga                                          316095                            
+     12  Caratinga                                          316447                            
+     12  Caratinga                                          317005                            
+     12  Caratinga                                          317057                            
+     12  Caratinga                                          317115                            
+     13  Cel.Fabriciano/Timóteo                             310300                            
+     13  Cel.Fabriciano/Timóteo                             311940                            
+     13  Cel.Fabriciano/Timóteo                             312000                            
+     13  Cel.Fabriciano/Timóteo                             312180                            
+     13  Cel.Fabriciano/Timóteo                             313500                            
+     13  Cel.Fabriciano/Timóteo                             314030                            
+     13  Cel.Fabriciano/Timóteo                             315053                            
+     13  Cel.Fabriciano/Timóteo                             316870                            
+     14  Cons.Lafaiete/Congonhas                            311310                            
+     14  Cons.Lafaiete/Congonhas                            311490                            
+     14  Cons.Lafaiete/Congonhas                            311540                            
+     14  Cons.Lafaiete/Congonhas                            311800                            
+     14  Cons.Lafaiete/Congonhas                            311830                            
+     14  Cons.Lafaiete/Congonhas                            312040                            
+     14  Cons.Lafaiete/Congonhas                            312140                            
+     14  Cons.Lafaiete/Congonhas                            312390                            
+     14  Cons.Lafaiete/Congonhas                            313390                            
+     14  Cons.Lafaiete/Congonhas                            313540                            
+     14  Cons.Lafaiete/Congonhas                            313790                            
+     14  Cons.Lafaiete/Congonhas                            314590                            
+     14  Cons.Lafaiete/Congonhas                            315080                            
+     14  Cons.Lafaiete/Congonhas                            315380                            
+     14  Cons.Lafaiete/Congonhas                            315520                            
+     14  Cons.Lafaiete/Congonhas                            315910                            
+     14  Cons.Lafaiete/Congonhas                            316090                            
+     14  Cons.Lafaiete/Congonhas                            316600                            
+     15  Contagem                                           311860                            
+     15  Contagem                                           312980                            
+     15  Contagem                                           316553                            
+     16  Coração de Jesus                                   311880                            
+     16  Coração de Jesus                                   313560                            
+     16  Coração de Jesus                                   313730                            
+     16  Coração de Jesus                                   316225                            
+     16  Coração de Jesus                                   316265                            
+     17  Curvelo                                            310480                            
+     17  Curvelo                                            310920                            
+     17  Curvelo                                            311910                            
+     17  Curvelo                                            312090                            
+     17  Curvelo                                            312570                            
+     17  Curvelo                                            313110                            
+     17  Curvelo                                            314250                            
+     17  Curvelo                                            314360                            
+     17  Curvelo                                            315320                            
+     17  Curvelo                                            316060                            
+     17  Curvelo                                            316935                            
+     18  Diamantina                                         310240                            
+     18  Diamantina                                         311350                            
+     18  Diamantina                                         311680                            
+     18  Diamantina                                         311810                            
+     18  Diamantina                                         312010                            
+     18  Diamantina                                         312100                            
+     18  Diamantina                                         312160                            
+     18  Diamantina                                         312540                            
+     18  Diamantina                                         312550                            
+     18  Diamantina                                         312760                            
+     18  Diamantina                                         313250                            
+     18  Diamantina                                         315330                            
+     18  Diamantina                                         316020                            
+     18  Diamantina                                         316590                            
+     18  Diamantina                                         316710                            
+     19  Divinópolis/S.Antº.Monte                           310390                            
+     19  Divinópolis/S.Antº.Monte                           310420                            
+     19  Divinópolis/S.Antº.Monte                           311420                            
+     19  Divinópolis/S.Antº.Monte                           311660                            
+     19  Divinópolis/S.Antº.Monte                           312230                            
+     19  Divinópolis/S.Antº.Monte                           313350                            
+     19  Divinópolis/S.Antº.Monte                           313530                            
+     19  Divinópolis/S.Antº.Monte                           313720                            
+     19  Divinópolis/S.Antº.Monte                           314890                            
+     19  Divinópolis/S.Antº.Monte                           314970                            
+     19  Divinópolis/S.Antº.Monte                           316040                            
+     19  Divinópolis/S.Antº.Monte                           316180                            
+     19  Divinópolis/S.Antº.Monte                           316460                            
+     20  Formiga                                            310510                            
+     20  Formiga                                            311980                            
+     20  Formiga                                            311995                            
+     20  Formiga                                            312610                            
+     20  Formiga                                            313030                            
+     20  Formiga                                            314130                            
+     20  Formiga                                            314650                            
+     20  Formiga                                            315050                            
+     20  Formiga                                            316820                            
+     21  Francisco Sá                                       310850                            
+     21  Francisco Sá                                       311270                            
+     21  Francisco Sá                                       312030                            
+     21  Francisco Sá                                       312670                            
+     21  Francisco Sá                                       312780                            
+     21  Francisco Sá                                       313657                            
+     22  Frutal Iturama                                     311455                            
+     22  Frutal Iturama                                     311690                            
+     22  Frutal Iturama                                     312700                            
+     22  Frutal Iturama                                     312710                            
+     22  Frutal Iturama                                     313340                            
+     22  Frutal Iturama                                     313440                            
+     22  Frutal Iturama                                     313862                            
+     22  Frutal Iturama                                     315070                            
+     22  Frutal Iturama                                     315160                            
+     22  Frutal Iturama                                     316130                            
+     22  Frutal Iturama                                     317043                            
+     23  Governador Valadares                               310180                            
+     23  Governador Valadares                               311265                            
+     23  Governador Valadares                               311920                            
+     23  Governador Valadares                               312220                            
+     23  Governador Valadares                               312370                            
+     23  Governador Valadares                               312580                            
+     23  Governador Valadares                               312690                            
+     23  Governador Valadares                               312730                            
+     23  Governador Valadares                               312750                            
+     23  Governador Valadares                               312770                            
+     23  Governador Valadares                               313320                            
+     23  Governador Valadares                               313507                            
+     23  Governador Valadares                               314010                            
+     23  Governador Valadares                               314420                            
+     23  Governador Valadares                               315750                            
+     23  Governador Valadares                               316160                            
+     23  Governador Valadares                               316165                            
+     23  Governador Valadares                               316300                            
+     23  Governador Valadares                               316550                            
+     23  Governador Valadares                               316770                            
+     23  Governador Valadares                               316840                            
+     23  Governador Valadares                               316950                            
+     23  Governador Valadares                               317150                            
+     23  Governador Valadares                               317190                            
+     24  Guanhães                                           311380                            
+     24  Guanhães                                           312260                            
+     24  Guanhães                                           312310                            
+     24  Guanhães                                           312800                            
+     24  Guanhães                                           314060                            
+     24  Guanhães                                           315600                            
+     24  Guanhães                                           315680                            
+     24  Guanhães                                           316610                            
+     24  Guanhães                                           316650                            
+     24  Guanhães                                           317180                            
+     25  Guaxupé                                            310410                            
+     25  Guaxupé                                            310950                            
+     25  Guaxupé                                            312830                            
+     25  Guaxupé                                            312870                            
+     25  Guaxupé                                            313690                            
+     25  Guaxupé                                            314300                            
+     25  Guaxupé                                            314410                            
+     25  Guaxupé                                            314510                            
+     25  Guaxupé                                            316390                            
+     26  Ipatinga                                           310050                            
+     26  Ipatinga                                           310630                            
+     26  Ipatinga                                           310880                            
+     26  Ipatinga                                           310925                            
+     26  Ipatinga                                           312250                            
+     26  Ipatinga                                           312930                            
+     26  Ipatinga                                           313115                            
+     26  Ipatinga                                           313130                            
+     26  Ipatinga                                           313610                            
+     26  Ipatinga                                           314170                            
+     26  Ipatinga                                           314435                            
+     26  Ipatinga                                           314995                            
+     26  Ipatinga                                           315895                            
+     26  Ipatinga                                           316260                            
+     27  Itabira                                            310540                            
+     27  Itabira                                            310770                            
+     27  Itabira                                            311535                            
+     27  Itabira                                            312590                            
+     27  Itabira                                            313170                            
+     27  Itabira                                            313280                            
+     27  Itabira                                            314370                            
+     27  Itabira                                            314750                            
+     27  Itabira                                            315720                            
+     27  Itabira                                            315800                            
+     27  Itabira                                            316050                            
+     27  Itabira                                            316190                            
+     27  Itabira                                            316480                            
+     28  Itajubá                                            310890                            
+     28  Itajubá                                            311720                            
+     28  Itajubá                                            311850                            
+     28  Itajubá                                            312110                            
+     28  Itajubá                                            312740                            
+     28  Itajubá                                            313240                            
+     28  Itajubá                                            313990                            
+     28  Itajubá                                            314040                            
+     28  Itajubá                                            314730                            
+     28  Itajubá                                            314910                            
+     28  Itajubá                                            315090                            
+     28  Itajubá                                            315100                            
+     28  Itajubá                                            316320                            
+     28  Itajubá                                            316540                            
+     28  Itajubá                                            317220                            
+     29  Itaobim                                            311700                            
+     29  Itaobim                                            313330                            
+     29  Itaobim                                            313400                            
+     29  Itaobim                                            314140                            
+     29  Itaobim                                            315217                            
+     30  Itaúna                                             313220                            
+     30  Itaúna                                             313370                            
+     30  Itaúna                                             313380                            
+     30  Itaúna                                             315060                            
+     31  Ituiutaba                                          310980                            
+     31  Ituiutaba                                          311110                            
+     31  Ituiutaba                                          311180                            
+     31  Ituiutaba                                          311260                            
+     31  Ituiutaba                                          311580                            
+     31  Ituiutaba                                          312910                            
+     31  Ituiutaba                                          313140                            
+     31  Ituiutaba                                          313420                            
+     31  Ituiutaba                                          315980                            
+     32  J.Fora/L.Duarte/B.Jardim                           310280                            
+     32  J.Fora/L.Duarte/B.Jardim                           310360                            
+     32  J.Fora/L.Duarte/B.Jardim                           310610                            
+     32  J.Fora/L.Duarte/B.Jardim                           310680                            
+     32  J.Fora/L.Duarte/B.Jardim                           310720                            
+     32  J.Fora/L.Duarte/B.Jardim                           310750                            
+     32  J.Fora/L.Duarte/B.Jardim                           311590                            
+     32  J.Fora/L.Duarte/B.Jardim                           311620                            
+     32  J.Fora/L.Duarte/B.Jardim                           311960                            
+     32  J.Fora/L.Duarte/B.Jardim                           312500                            
+     32  J.Fora/L.Duarte/B.Jardim                           312738                            
+     32  J.Fora/L.Duarte/B.Jardim                           313670                            
+     32  J.Fora/L.Duarte/B.Jardim                           313850                            
+     32  J.Fora/L.Duarte/B.Jardim                           313860                            
+     32  J.Fora/L.Duarte/B.Jardim                           314080                            
+     32  J.Fora/L.Duarte/B.Jardim                           314540                            
+     32  J.Fora/L.Duarte/B.Jardim                           314780                            
+     32  J.Fora/L.Duarte/B.Jardim                           314940                            
+     32  J.Fora/L.Duarte/B.Jardim                           315010                            
+     32  J.Fora/L.Duarte/B.Jardim                           315540                            
+     32  J.Fora/L.Duarte/B.Jardim                           315590                            
+     32  J.Fora/L.Duarte/B.Jardim                           315727                            
+     32  J.Fora/L.Duarte/B.Jardim                           315860                            
+     32  J.Fora/L.Duarte/B.Jardim                           315930                            
+     32  J.Fora/L.Duarte/B.Jardim                           316750                            
+     33  Janaúba Monte Azul                                 311547                            
+     33  Janaúba Monte Azul                                 312430                            
+     33  Janaúba Monte Azul                                 312733                            
+     33  Janaúba Monte Azul                                 313505                            
+     33  Janaúba Monte Azul                                 313510                            
+     33  Janaúba Monte Azul                                 313925                            
+     33  Janaúba Monte Azul                                 314085                            
+     33  Janaúba Monte Azul                                 314100                            
+     33  Janaúba Monte Azul                                 314290                            
+     33  Janaúba Monte Azul                                 314505                            
+     33  Janaúba Monte Azul                                 314655                            
+     33  Janaúba Monte Azul                                 315220                            
+     33  Janaúba Monte Azul                                 315450                            
+     33  Janaúba Monte Azul                                 316695                            
+     33  Janaúba Monte Azul                                 317103                            
+     34  Januária                                           310825                            
+     34  Januária                                           311783                            
+     34  Januária                                           313210                            
+     34  Januária                                           313520                            
+     34  Januária                                           314915                            
+     35  João Monlevade                                     310600                            
+     35  João Monlevade                                     313620                            
+     35  João Monlevade                                     314470                            
+     35  João Monlevade                                     315570                            
+     35  João Monlevade                                     316100                            
+     36  João Pinheiro                                      310855                            
+     36  João Pinheiro                                      313630                            
+     36  João Pinheiro                                      313753                            
+     37  Lavras                                             311460                            
+     37  Lavras                                             313040                            
+     37  Lavras                                             313080                            
+     37  Lavras                                             313430                            
+     37  Lavras                                             313450                            
+     37  Lavras                                             313820                            
+     37  Lavras                                             313870                            
+     37  Lavras                                             314460                            
+     37  Lavras                                             314990                            
+     37  Lavras                                             315470                            
+     38  Leopoldina Cataguases                              310440                            
+     38  Leopoldina Cataguases                              310460                            
+     38  Leopoldina Cataguases                              311530                            
+     38  Leopoldina Cataguases                              312290                            
+     38  Leopoldina Cataguases                              313260                            
+     38  Leopoldina Cataguases                              313800                            
+     38  Leopoldina Cataguases                              313840                            
+     38  Leopoldina Cataguases                              314670                            
+     38  Leopoldina Cataguases                              315410                            
+     38  Leopoldina Cataguases                              315840                            
+     39  M.Novas/Turmalin/Capelin                           310445                            
+     39  M.Novas/Turmalin/Capelin                           311230                            
+     39  M.Novas/Turmalin/Capelin                           311610                            
+     39  M.Novas/Turmalin/Capelin                           313652                            
+     39  M.Novas/Turmalin/Capelin                           313835                            
+     39  M.Novas/Turmalin/Capelin                           314180                            
+     39  M.Novas/Turmalin/Capelin                           316970                            
+     39  M.Novas/Turmalin/Capelin                           317107                            
+     40  Manga                                              313695                            
+     40  Manga                                              313930                            
+     40  Manga                                              314225                            
+     40  Manga                                              314270                            
+     40  Manga                                              316245                            
+     41  Manhuaçu                                           310030                            
+     41  Manhuaçu                                           310205                            
+     41  Manhuaçu                                           311290                            
+     41  Manhuaçu                                           311600                            
+     41  Manhuaçu                                           311740                            
+     41  Manhuaçu                                           312352                            
+     41  Manhuaçu                                           313120                            
+     41  Manhuaçu                                           313770                            
+     41  Manhuaçu                                           313867                            
+     41  Manhuaçu                                           313940                            
+     41  Manhuaçu                                           313950                            
+     41  Manhuaçu                                           314053                            
+     41  Manhuaçu                                           314090                            
+     41  Manhuaçu                                           314400                            
+     41  Manhuaçu                                           315190                            
+     41  Manhuaçu                                           315350                            
+     41  Manhuaçu                                           315415                            
+     41  Manhuaçu                                           315790                            
+     41  Manhuaçu                                           315890                            
+     41  Manhuaçu                                           316255                            
+     41  Manhuaçu                                           316360                            
+     41  Manhuaçu                                           316760                            
+     41  Manhuaçu                                           316805                            
+     42  Mantena                                            311570                            
+     42  Mantena                                            312083                            
+     42  Mantena                                            312210                            
+     42  Mantena                                            313180                            
+     42  Mantena                                            313960                            
+     42  Mantena                                            314150                            
+     42  Mantena                                            314467                            
+     42  Mantena                                            316105                            
+     42  Mantena                                            316257                            
+     43  Montes Claros Bocaiúva                             310730                            
+     43  Montes Claros Bocaiúva                             311650                            
+     43  Montes Claros Bocaiúva                             312380                            
+     43  Montes Claros Bocaiúva                             312660                            
+     43  Montes Claros Bocaiúva                             312735                            
+     43  Montes Claros Bocaiúva                             312825                            
+     43  Montes Claros Bocaiúva                             313200                            
+     43  Montes Claros Bocaiúva                             313640                            
+     43  Montes Claros Bocaiúva                             313680                            
+     43  Montes Claros Bocaiúva                             314330                            
+     43  Montes Claros Bocaiúva                             314545                            
+     44  Muriaé                                             310310                            
+     44  Muriaé                                             310550                            
+     44  Muriaé                                             312490                            
+     44  Muriaé                                             314210                            
+     44  Muriaé                                             314220                            
+     44  Muriaé                                             314390                            
+     44  Muriaé                                             314820                            
+     44  Muriaé                                             315645                            
+     44  Muriaé                                             316140                            
+     44  Muriaé                                             316443                            
+     44  Muriaé                                             317140                            
+     45  Nanuque                                            311370                            
+     45  Nanuque                                            314430                            
+     45  Nanuque                                            316670                            
+     46  Ouro Preto                                         313190                            
+     46  Ouro Preto                                         314000                            
+     46  Ouro Preto                                         314610                            
+     47  Padre Paraíso                                      311300                            
+     47  Padre Paraíso                                      311545                            
+     47  Padre Paraíso                                      313230                            
+     47  Padre Paraíso                                      314630                            
+     48  Pará de Minas                                      311760                            
+     48  Pará de Minas                                      313020                            
+     48  Pará de Minas                                      313830                            
+     48  Pará de Minas                                      314520                            
+     48  Pará de Minas                                      314580                            
+     48  Pará de Minas                                      314710                            
+     48  Pará de Minas                                      315140                            
+     48  Pará de Minas                                      316310                            
+     49  Passos Piumhi                                      310190                            
+     49  Passos Piumhi                                      310760                            
+     49  Passos Piumhi                                      311240                            
+     49  Passos Piumhi                                      311280                            
+     49  Passos Piumhi                                      311510                            
+     49  Passos Piumhi                                      311640                            
+     49  Passos Piumhi                                      312120                            
+     49  Passos Piumhi                                      312340                            
+     49  Passos Piumhi                                      312630                            
+     49  Passos Piumhi                                      312810                            
+     49  Passos Piumhi                                      312970                            
+     49  Passos Piumhi                                      313375                            
+     49  Passos Piumhi                                      314790                            
+     49  Passos Piumhi                                      315150                            
+     49  Passos Piumhi                                      316220                            
+     49  Passos Piumhi                                      316294                            
+     49  Passos Piumhi                                      316430                            
+     49  Passos Piumhi                                      317060                            
+     50  Patos de Minas                                     310380                            
+     50  Patos de Minas                                     311430                            
+     50  Patos de Minas                                     312070                            
+     50  Patos de Minas                                     312860                            
+     50  Patos de Minas                                     312890                            
+     50  Patos de Minas                                     313710                            
+     50  Patos de Minas                                     313750                            
+     50  Patos de Minas                                     314120                            
+     50  Patos de Minas                                     314800                            
+     50  Patos de Minas                                     315340                            
+     50  Patos de Minas                                     315550                            
+     50  Patos de Minas                                     315970                            
+     50  Patos de Minas                                     316170                            
+     50  Patos de Minas                                     316210                            
+     50  Patos de Minas                                     316680                            
+     50  Patos de Minas                                     316890                            
+     50  Patos de Minas                                     317075                            
+     50  Patos de Minas                                     317100                            
+     51  Patrocínio Monte Carmelo                           310010                            
+     51  Patrocínio Monte Carmelo                           311930                            
+     51  Patrocínio Monte Carmelo                           312350                            
+     51  Patrocínio Monte Carmelo                           312480                            
+     51  Patrocínio Monte Carmelo                           312790                            
+     51  Patrocínio Monte Carmelo                           313160                            
+     51  Patrocínio Monte Carmelo                           314310                            
+     51  Patrocínio Monte Carmelo                           314810                            
+     51  Patrocínio Monte Carmelo                           315640                            
+     52  Pedra Azul                                         310100                            
+     52  Pedra Azul                                         310270                            
+     52  Pedra Azul                                         312235                            
+     52  Pedra Azul                                         314870                            
+     53  Pirapora                                           310940                            
+     53  Pirapora                                           312960                            
+     53  Pirapora                                           313810                            
+     53  Pirapora                                           315120                            
+     53  Pirapora                                           315213                            
+     53  Pirapora                                           315760                            
+     53  Pirapora                                           317080                            
+     54  Ponte Nova                                         310040                            
+     54  Ponte Nova                                         310230                            
+     54  Ponte Nova                                         310250                            
+     54  Ponte Nova                                         310570                            
+     54  Ponte Nova                                         312170                            
+     54  Ponte Nova                                         312270                            
+     54  Ponte Nova                                         312820                            
+     54  Ponte Nova                                         313550                            
+     54  Ponte Nova                                         314585                            
+     54  Ponte Nova                                         315020                            
+     54  Ponte Nova                                         315210                            
+     54  Ponte Nova                                         315400                            
+     54  Ponte Nova                                         315490                            
+     54  Ponte Nova                                         315500                            
+     54  Ponte Nova                                         315740                            
+     54  Ponte Nova                                         316010                            
+     54  Ponte Nova                                         316340                            
+     54  Ponte Nova                                         316400                            
+     54  Ponte Nova                                         316556                            
+     54  Ponte Nova                                         316630                            
+     54  Ponte Nova                                         317050                            
+     55  Pouso Alegre                                       310140                            
+     55  Pouso Alegre                                       310790                            
+     55  Pouso Alegre                                       310830                            
+     55  Pouso Alegre                                       310910                            
+     55  Pouso Alegre                                       310970                            
+     55  Pouso Alegre                                       311050                            
+     55  Pouso Alegre                                       311060                            
+     55  Pouso Alegre                                       311360                            
+     55  Pouso Alegre                                       311780                            
+     55  Pouso Alegre                                       311790                            
+     55  Pouso Alegre                                       311990                            
+     55  Pouso Alegre                                       312440                            
+     55  Pouso Alegre                                       312450                            
+     55  Pouso Alegre                                       312510                            
+     55  Pouso Alegre                                       312920                            
+     55  Pouso Alegre                                       313060                            
+     55  Pouso Alegre                                       313150                            
+     55  Pouso Alegre                                       313360                            
+     55  Pouso Alegre                                       313490                            
+     55  Pouso Alegre                                       314340                            
+     55  Pouso Alegre                                       314380                            
+     55  Pouso Alegre                                       314440                            
+     55  Pouso Alegre                                       314600                            
+     55  Pouso Alegre                                       315250                            
+     55  Pouso Alegre                                       315960                            
+     55  Pouso Alegre                                       316230                            
+     55  Pouso Alegre                                       316440                            
+     55  Pouso Alegre                                       316557                            
+     55  Pouso Alegre                                       316580                            
+     55  Pouso Alegre                                       316740                            
+     55  Pouso Alegre                                       316905                            
+     55  Pouso Alegre                                       316910                            
+     55  Pouso Alegre                                       316980                            
+     56  Poços de Caldas                                    310260                            
+     56  Poços de Caldas                                    311030                            
+     56  Poços de Caldas                                    312990                            
+     56  Poços de Caldas                                    315180                            
+     56  Poços de Caldas                                    315920                            
+     57  Resplendor                                         310110                            
+     57  Resplendor                                         310220                            
+     57  Resplendor                                         311840                            
+     57  Resplendor                                         312737                            
+     57  Resplendor                                         313410                            
+     57  Resplendor                                         315430                            
+     57  Resplendor                                         315950                            
+     58  S.Antôn.Amparo/Cpo.Belo                            310080                            
+     58  S.Antôn.Amparo/Cpo.Belo                            310800                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311040                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311120                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311190                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311200                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311400                            
+     58  S.Antôn.Amparo/Cpo.Belo                            311450                            
+     58  S.Antôn.Amparo/Cpo.Belo                            312020                            
+     58  S.Antôn.Amparo/Cpo.Belo                            314560                            
+     58  S.Antôn.Amparo/Cpo.Belo                            314770                            
+     58  S.Antôn.Amparo/Cpo.Belo                            315880                            
+     58  S.Antôn.Amparo/Cpo.Belo                            315990                            
+     58  S.Antôn.Amparo/Cpo.Belo                            316120                            
+     59  S.João Nepomuceno/Bicas                            310690                            
+     59  S.João Nepomuceno/Bicas                            312130                            
+     59  S.João Nepomuceno/Bicas                            312850                            
+     59  S.João Nepomuceno/Bicas                            313980                            
+     59  S.João Nepomuceno/Bicas                            314020                            
+     59  S.João Nepomuceno/Bicas                            314950                            
+     59  S.João Nepomuceno/Bicas                            315620                            
+     59  S.João Nepomuceno/Bicas                            316290                            
+     59  S.João Nepomuceno/Bicas                            316560                            
+     60  S.Maria Suaçuí/S.João Ev                           310060                            
+     60  S.Maria Suaçuí/S.João Ev                           311205                            
+     60  S.Maria Suaçuí/S.João Ev                           312695                            
+     60  S.Maria Suaçuí/S.João Ev                           313655                            
+     60  S.Maria Suaçuí/S.João Ev                           314840                            
+     60  S.Maria Suaçuí/S.João Ev                           314860                            
+     60  S.Maria Suaçuí/S.João Ev                           315820                            
+     60  S.Maria Suaçuí/S.João Ev                           316280                            
+     60  S.Maria Suaçuí/S.João Ev                           316350                            
+     60  S.Maria Suaçuí/S.João Ev                           316410                            
+     60  S.Maria Suaçuí/S.João Ev                           316450                            
+     61  Salinas Taiobeiras                                 310665                            
+     61  Salinas Taiobeiras                                 312087                            
+     61  Salinas Taiobeiras                                 312707                            
+     61  Salinas Taiobeiras                                 313065                            
+     61  Salinas Taiobeiras                                 314345                            
+     61  Salinas Taiobeiras                                 314465                            
+     61  Salinas Taiobeiras                                 314537                            
+     61  Salinas Taiobeiras                                 314625                            
+     61  Salinas Taiobeiras                                 315560                            
+     61  Salinas Taiobeiras                                 315650                            
+     61  Salinas Taiobeiras                                 315700                            
+     61  Salinas Taiobeiras                                 315737                            
+     61  Salinas Taiobeiras                                 316045                            
+     61  Salinas Taiobeiras                                 316270                            
+     61  Salinas Taiobeiras                                 316800                            
+     61  Salinas Taiobeiras                                 317065                            
+     62  Santos Dumont                                      310330                            
+     62  Santos Dumont                                      314570                            
+     62  Santos Dumont                                      316070                            
+     63  Sete Lagoas                                        310020                            
+     63  Sete Lagoas                                        310320                            
+     63  Sete Lagoas                                        310500                            
+     63  Sete Lagoas                                        310700                            
+     63  Sete Lagoas                                        310960                            
+     63  Sete Lagoas                                        310990                            
+     63  Sete Lagoas                                        311250                            
+     63  Sete Lagoas                                        311560                            
+     63  Sete Lagoas                                        311890                            
+     63  Sete Lagoas                                        312640                            
+     63  Sete Lagoas                                        312720                            
+     63  Sete Lagoas                                        313100                            
+     63  Sete Lagoas                                        313570                            
+     63  Sete Lagoas                                        313970                            
+     63  Sete Lagoas                                        314350                            
+     63  Sete Lagoas                                        314640                            
+     63  Sete Lagoas                                        314690                            
+     63  Sete Lagoas                                        314740                            
+     63  Sete Lagoas                                        314960                            
+     63  Sete Lagoas                                        315200                            
+     63  Sete Lagoas                                        315360                            
+     63  Sete Lagoas                                        315370                            
+     63  Sete Lagoas                                        315850                            
+     63  Sete Lagoas                                        316720                            
+     64  São João del Rei                                   310590                            
+     64  São João del Rei                                   311520                            
+     64  São João del Rei                                   311970                            
+     64  São João del Rei                                   312300                            
+     64  São João del Rei                                   313000                            
+     64  São João del Rei                                   313740                            
+     64  São João del Rei                                   313910                            
+     64  São João del Rei                                   314450                            
+     64  São João del Rei                                   315030                            
+     64  São João del Rei                                   315270                            
+     64  São João del Rei                                   315420                            
+     64  São João del Rei                                   315610                            
+     64  São João del Rei                                   315733                            
+     64  São João del Rei                                   316250                            
+     64  São João del Rei                                   316500                            
+     64  São João del Rei                                   316530                            
+     64  São João del Rei                                   316880                            
+     65  São Lourenço                                       310120                            
+     65  São Lourenço                                       310130                            
+     65  São Lourenço                                       310490                            
+     65  São Lourenço                                       311410                            
+     65  São Lourenço                                       311480                            
+     65  São Lourenço                                       311550                            
+     65  São Lourenço                                       311770                            
+     65  São Lourenço                                       312050                            
+     65  São Lourenço                                       312080                            
+     65  São Lourenço                                       312280                            
+     65  São Lourenço                                       313300                            
+     65  São Lourenço                                       313310                            
+     65  São Lourenço                                       313590                            
+     65  São Lourenço                                       313780                            
+     65  São Lourenço                                       314190                            
+     65  São Lourenço                                       314550                            
+     65  São Lourenço                                       314760                            
+     65  São Lourenço                                       315260                            
+     65  São Lourenço                                       316370                            
+     65  São Lourenço                                       316490                            
+     65  São Lourenço                                       316640                            
+     65  São Lourenço                                       316700                            
+     65  São Lourenço                                       316780                            
+     65  São Lourenço                                       317170                            
+     66  São Sebastião do Paraíso                           313290                            
+     66  São Sebastião do Paraíso                           313480                            
+     66  São Sebastião do Paraíso                           314320                            
+     66  São Sebastião do Paraíso                           315290                            
+     66  São Sebastião do Paraíso                           316470                            
+     66  São Sebastião do Paraíso                           316510                            
+     67  T.Otoni/Malacac/Itambac.                           310285                            
+     67  T.Otoni/Malacac/Itambac.                           310470                            
+     67  T.Otoni/Malacac/Itambac.                           311080                            
+     67  T.Otoni/Malacac/Itambac.                           312675                            
+     67  T.Otoni/Malacac/Itambac.                           312680                            
+     67  T.Otoni/Malacac/Itambac.                           313270                            
+     67  T.Otoni/Malacac/Itambac.                           313700                            
+     67  T.Otoni/Malacac/Itambac.                           313920                            
+     67  T.Otoni/Malacac/Itambac.                           314490                            
+     67  T.Otoni/Malacac/Itambac.                           314530                            
+     67  T.Otoni/Malacac/Itambac.                           314620                            
+     67  T.Otoni/Malacac/Itambac.                           315000                            
+     67  T.Otoni/Malacac/Itambac.                           315240                            
+     67  T.Otoni/Malacac/Itambac.                           316330                            
+     67  T.Otoni/Malacac/Itambac.                           316555                            
+     67  T.Otoni/Malacac/Itambac.                           316860                            
+     68  Três Corações                                      311070                            
+     68  Três Corações                                      311090                            
+     68  Três Corações                                      311390                            
+     68  Três Corações                                      316080                            
+     68  Três Corações                                      316520                            
+     68  Três Corações                                      316930                            
+     69  Três Pontas                                        310710                            
+     69  Três Pontas                                        311870                            
+     69  Três Pontas                                        313050                            
+     69  Três Pontas                                        315830                            
+     69  Três Pontas                                        316940                            
+     70  Uberaba                                            310070                            
+     70  Uberaba                                            311140                            
+     70  Uberaba                                            311730                            
+     70  Uberaba                                            311820                            
+     70  Uberaba                                            312125                            
+     70  Uberaba                                            315690                            
+     70  Uberaba                                            317010                            
+     70  Uberaba                                            317110                            
+     71  Uberlândia Araguari                                310350                            
+     71  Uberlândia Araguari                                310375                            
+     71  Uberlândia Araguari                                311500                            
+     71  Uberlândia Araguari                                313070                            
+     71  Uberlândia Araguari                                314280                            
+     71  Uberlândia Araguari                                314500                            
+     71  Uberlândia Araguari                                315280                            
+     71  Uberlândia Araguari                                316960                            
+     71  Uberlândia Araguari                                317020                            
+     72  Ubá                                                310870                            
+     72  Ubá                                                311670                            
+     72  Ubá                                                312190                            
+     72  Ubá                                                312330                            
+     72  Ubá                                                312400                            
+     72  Ubá                                                312840                            
+     72  Ubá                                                312880                            
+     72  Ubá                                                312900                            
+     72  Ubá                                                314160                            
+     72  Ubá                                                315130                            
+     72  Ubá                                                315310                            
+     72  Ubá                                                315580                            
+     72  Ubá                                                315630                            
+     72  Ubá                                                316150                            
+     72  Ubá                                                316570                            
+     72  Ubá                                                316730                            
+     72  Ubá                                                316790                            
+     72  Ubá                                                316900                            
+     72  Ubá                                                316990                            
+     72  Ubá                                                317200                            
+     73  Unaí                                               310450                            
+     73  Unaí                                               310820                            
+     73  Unaí                                               310930                            
+     73  Unaí                                               310945                            
+     73  Unaí                                               311615                            
+     73  Unaí                                               312247                            
+     73  Unaí                                               312620                            
+     73  Unaí                                               314437                            
+     73  Unaí                                               314700                            
+     73  Unaí                                               315445                            
+     73  Unaí                                               317040                            
+     73  Unaí                                               317047                            
+     74  Varginha                                           311900                            
+     74  Varginha                                           312360                            
+     74  Varginha                                           314260                            
+     74  Varginha                                           316200                            
+     74  Varginha                                           317070                            
+     75  Vespasiano                                         311750                            
+     75  Vespasiano                                         311787                            
+     75  Vespasiano                                         313760                            
+     75  Vespasiano                                         314110                            
+     75  Vespasiano                                         314930                            
+     75  Vespasiano                                         315900                            
+     75  Vespasiano                                         316295                            
+     75  Vespasiano                                         317120                            
+     76  Viçosa                                             310370                            
+     76  Viçosa                                             311020                            
+     76  Viçosa                                             311170                            
+     76  Viçosa                                             314830                            
+     76  Viçosa                                             314880                            
+     76  Viçosa                                             315230                            
+     76  Viçosa                                             316380                            
+     76  Viçosa                                             316850                            
+     76  Viçosa                                             317130                            
+     77  Águas Formosas                                     310090                            
+     77  Águas Formosas                                     310660                            
+     77  Águas Formosas                                     312015                            
+     77  Águas Formosas                                     312705                            
+     77  Águas Formosas                                     313890                            
+     77  Águas Formosas                                     314535                            
+     77  Águas Formosas                                     314850                            
+     77  Águas Formosas                                     315765                            
+     77  Águas Formosas                                     317030                            
+     78  Ignorado - MG                                      310000,319999                     

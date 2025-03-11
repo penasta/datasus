@@ -1,0 +1,423 @@
+    422  6                                                                                    
+      1  41001 1ª RS Paranaguá                              410120                            
+  1   2  .... Antonina                                      410120                            
+  1   3  .... Guaraqueçaba                                  410950                            
+  1   4  .... Guaratuba                                     410960                            
+  1   5  .... Matinhos                                      411570                            
+  1   6  .... Morretes                                      411620                            
+  1   7  .... Paranaguá                                     411820                            
+  1   8  .... Pontal do Paraná                              411995                            
+      9  41002 2ª RS Metropolitana                          410020                            
+  9  10  .... Adrianópolis                                  410020                            
+  9  11  .... Agudos do Sul                                 410030                            
+  9  12  .... Almirante Tamandaré                           410040                            
+  9  13  .... Araucária                                     410180                            
+  9  14  .... Balsa Nova                                    410230                            
+  9  15  .... Bocaiúva do Sul                               410310                            
+  9  16  .... Campina Grande do Sul                         410400                            
+  9  17  .... Campo do Tenente                              410410                            
+  9  18  .... Campo Largo                                   410420                            
+  9  19  .... Campo Magro                                   410425                            
+  9  20  .... Cerro Azul                                    410520                            
+  9  21  .... Colombo                                       410580                            
+  9  22  .... Contenda                                      410620                            
+  9  23  .... Curitiba                                      410690                            
+  9  24  .... Doutor Ulysses                                412863                            
+  9  25  .... Fazenda Rio Grande                            410765                            
+  9  26  .... Itaperuçu                                     411125                            
+  9  27  .... Lapa                                          411320                            
+  9  28  .... Mandirituba                                   411430                            
+  9  29  .... Piên                                          411910                            
+  9  30  .... Pinhais                                       411915                            
+  9  31  .... Piraquara                                     411950                            
+  9  32  .... Quatro Barras                                 412080                            
+  9  33  .... Quitandinha                                   412120                            
+  9  34  .... Rio Branco do Sul                             412220                            
+  9  35  .... Rio Negro                                     412230                            
+  9  36  .... São José dos Pinhais                          412550                            
+  9  37  .... Tijucas do Sul                                412760                            
+  9  38  .... Tunas do Paraná                               412788                            
+     39  41003 3ª RS Ponta Grossa                           410160                            
+ 39  40  .... Arapoti                                       410160                            
+ 39  41  .... Carambeí                                      410465                            
+ 39  42  .... Castro                                        410490                            
+ 39  43  .... Ipiranga                                      411050                            
+ 39  44  .... Ivaí                                          411140                            
+ 39  45  .... Jaguariaíva                                   411200                            
+ 39  46  .... Palmeira                                      411770                            
+ 39  47  .... Piraí do Sul                                  411940                            
+ 39  48  .... Ponta Grossa                                  411990                            
+ 39  49  .... Porto Amazonas                                412010                            
+ 39  50  .... São João do Triunfo                           412510                            
+ 39  51  .... Sengés                                        412630                            
+     52  41004 4ª RS Irati                                  410773                            
+ 52  53  .... Fernandes Pinheiro                            410773                            
+ 52  54  .... Guamiranga                                    410895                            
+ 52  55  .... Imbituva                                      411010                            
+ 52  56  .... Inácio Martins                                411020                            
+ 52  57  .... Irati                                         411070                            
+ 52  58  .... Mallet                                        411390                            
+ 52  59  .... Rebouças                                      412150                            
+ 52  60  .... Rio Azul                                      412200                            
+ 52  61  .... Teixeira Soares                               412700                            
+     62  41005 5ª RS Guarapuava                             410304                            
+ 62  63  .... Boa Ventura de São Roque                      410304                            
+ 62  64  .... Campina do Simão                              410395                            
+ 62  65  .... Candói                                        410442                            
+ 62  66  .... Cantagalo                                     410445                            
+ 62  67  .... Foz do Jordão                                 410845                            
+ 62  68  .... Goioxim                                       410865                            
+ 62  69  .... Guarapuava                                    410940                            
+ 62  70  .... Laranjal                                      411325                            
+ 62  71  .... Laranjeiras do Sul                            411330                            
+ 62  72  .... Marquinho                                     411545                            
+ 62  73  .... Nova Laranjeiras                              411705                            
+ 62  74  .... Palmital                                      411780                            
+ 62  75  .... Pinhão                                        411930                            
+ 62  76  .... Pitanga                                       411960                            
+ 62  77  .... Porto Barreiro                                412015                            
+ 62  78  .... Prudentópolis                                 412060                            
+ 62  79  .... Reserva do Iguaçu                             412175                            
+ 62  80  .... Rio Bonito do Iguaçu                          412215                            
+ 62  81  .... Turvo                                         412796                            
+ 62  82  .... Virmond                                       412865                            
+     83  41006 6ª RS União da Vitória                       410130                            
+ 83  84  .... Antônio Olinto                                410130                            
+ 83  85  .... Bituruna                                      410290                            
+ 83  86  .... Cruz Machado                                  410680                            
+ 83  87  .... General Carneiro                              410850                            
+ 83  88  .... Paula Freitas                                 411860                            
+ 83  89  .... Paulo Frontin                                 411870                            
+ 83  90  .... Porto Vitória                                 412030                            
+ 83  91  .... São Mateus do Sul                             412560                            
+ 83  92  .... União da Vitória                              412820                            
+     93  41007 7ª RS Pato Branco                            410322                            
+ 93  94  .... Bom Sucesso do Sul                            410322                            
+ 93  95  .... Chopinzinho                                   410540                            
+ 93  96  .... Clevelândia                                   410570                            
+ 93  97  .... Coronel Domingos Soares                       410645                            
+ 93  98  .... Coronel Vivida                                410650                            
+ 93  99  .... Honório Serpa                                 410965                            
+ 93 100  .... Itapejara d'Oeste                             411120                            
+ 93 101  .... Mangueirinha                                  411440                            
+ 93 102  .... Mariópolis                                    411530                            
+ 93 103  .... Palmas                                        411760                            
+ 93 104  .... Pato Branco                                   411850                            
+ 93 105  .... São João                                      412480                            
+ 93 106  .... Saudade do Iguaçu                             412627                            
+ 93 107  .... Sulina                                        412665                            
+ 93 108  .... Vitorino                                      412870                            
+    109  41008 8ª RS Francisco Beltrão                      410100                            
+109 110  .... Ampére                                        410100                            
+109 111  .... Barracão                                      410260                            
+109 112  .... Bela Vista da Caroba                          410275                            
+109 113  .... Boa Esperança do Iguaçu                       410302                            
+109 114  .... Bom Jesus do Sul                              410315                            
+109 115  .... Capanema                                      410450                            
+109 116  .... Cruzeiro do Iguaçu                            410657                            
+109 117  .... Dois Vizinhos                                 410720                            
+109 118  .... Enéas Marques                                 410740                            
+109 119  .... Flor da Serra do Sul                          410785                            
+109 120  .... Francisco Beltrão                             410840                            
+109 121  .... Manfrinópolis                                 411435                            
+109 122  .... Marmeleiro                                    411540                            
+109 123  .... Nova Esperança do Sudoeste                    411695                            
+109 124  .... Nova Prata do Iguaçu                          411725                            
+109 125  .... Pérola d'Oeste                                411900                            
+109 126  .... Pinhal de São Bento                           411925                            
+109 127  .... Planalto                                      411980                            
+109 128  .... Pranchita                                     412035                            
+109 129  .... Realeza                                       412140                            
+109 130  .... Renascença                                    412160                            
+109 131  .... Salgado Filho                                 412280                            
+109 132  .... Salto do Lontra                               412300                            
+109 133  .... Santa Izabel do Oeste                         412380                            
+109 134  .... Santo Antônio do Sudoeste                     412440                            
+109 135  .... São Jorge d'Oeste                             412520                            
+109 136  .... Verê                                          412860                            
+    137  41009 9ª RS Foz do Iguaçu                          410830                            
+137 138  .... Foz do Iguaçu                                 410830                            
+137 139  .... Itaipulândia                                  411095                            
+137 140  .... Matelândia                                    411560                            
+137 141  .... Medianeira                                    411580                            
+137 142  .... Missal                                        411605                            
+137 143  .... Ramilândia                                    412125                            
+137 144  .... Santa Terezinha de Itaipu                     412405                            
+137 145  .... São Miguel do Iguaçu                          412570                            
+137 146  .... Serranópolis do Iguaçu                        412635                            
+    147  41010 10ª RS Cascavel                              410105                            
+147 148  .... Anahy                                         410105                            
+147 149  .... Boa Vista da Aparecida                        410305                            
+147 150  .... Braganey                                      410335                            
+147 151  .... Cafelândia                                    410345                            
+147 152  .... Campo Bonito                                  410405                            
+147 153  .... Capitão Leônidas Marques                      410460                            
+147 154  .... Cascavel                                      410480                            
+147 155  .... Catanduvas                                    410500                            
+147 156  .... Céu Azul                                      410530                            
+147 157  .... Corbélia                                      410630                            
+147 158  .... Diamante do Sul                               410712                            
+147 159  .... Espigão Alto do Iguaçu                        410754                            
+147 160  .... Formosa do Oeste                              410820                            
+147 161  .... Guaraniaçu                                    410930                            
+147 162  .... Ibema                                         410975                            
+147 163  .... Iguatu                                        411005                            
+147 164  .... Iracema do Oeste                              411065                            
+147 165  .... Jesuítas                                      411275                            
+147 166  .... Lindoeste                                     411345                            
+147 167  .... Nova Aurora                                   411670                            
+147 168  .... Quedas do Iguaçu                              412090                            
+147 169  .... Santa Lúcia                                   412382                            
+147 170  .... Santa Tereza do Oeste                         412402                            
+147 171  .... Três Barras do Paraná                         412785                            
+147 172  .... Vera Cruz do Oeste                            412855                            
+    173  41011 11ª RS Campo Mourão                          410045                            
+173 174  .... Altamira do Paraná                            410045                            
+173 175  .... Araruna                                       410170                            
+173 176  .... Barbosa Ferraz                                410250                            
+173 177  .... Boa Esperança                                 410300                            
+173 178  .... Campina da Lagoa                              410390                            
+173 179  .... Campo Mourão                                  410430                            
+173 180  .... Corumbataí do Sul                             410655                            
+173 181  .... Engenheiro Beltrão                            410750                            
+173 182  .... Farol                                         410755                            
+173 183  .... Fênix                                         410770                            
+173 184  .... Goioerê                                       410860                            
+173 185  .... Iretama                                       411080                            
+173 186  .... Janiópolis                                    411220                            
+173 187  .... Juranda                                       411295                            
+173 188  .... Luiziana                                      411373                            
+173 189  .... Mamborê                                       411400                            
+173 190  .... Moreira Sales                                 411610                            
+173 191  .... Nova Cantu                                    411680                            
+173 192  .... Peabiru                                       411880                            
+173 193  .... Quarto Centenário                             412065                            
+173 194  .... Quinta do Sol                                 412110                            
+173 195  .... Rancho Alegre D'Oeste                         412135                            
+173 196  .... Roncador                                      412250                            
+173 197  .... Terra Boa                                     412720                            
+173 198  .... Ubiratã                                       412800                            
+    199  41012 12ª RS Umuarama                              412862                            
+199 200  .... Alto Paraíso                                  412862                            
+199 201  .... Alto Piquiri                                  410070                            
+199 202  .... Altônia                                       410050                            
+199 203  .... Brasilândia do Sul                            410337                            
+199 204  .... Cafezal do Sul                                410347                            
+199 205  .... Cruzeiro do Oeste                             410660                            
+199 206  .... Douradina                                     410725                            
+199 207  .... Esperança Nova                                410752                            
+199 208  .... Francisco Alves                               410832                            
+199 209  .... Icaraíma                                      410990                            
+199 210  .... Iporã                                         411060                            
+199 211  .... Ivaté                                         411155                            
+199 212  .... Maria Helena                                  411470                            
+199 213  .... Mariluz                                       411510                            
+199 214  .... Nova Olímpia                                  411720                            
+199 215  .... Perobal                                       411885                            
+199 216  .... Pérola                                        411890                            
+199 217  .... São Jorge do Patrocínio                       412535                            
+199 218  .... Tapira                                        412690                            
+199 219  .... Umuarama                                      412810                            
+199 220  .... Xambrê                                        412880                            
+    221  41013 13ª RS Cianorte                              410550                            
+221 222  .... Cianorte                                      410550                            
+221 223  .... Cidade Gaúcha                                 410560                            
+221 224  .... Guaporema                                     410910                            
+221 225  .... Indianópolis                                  411040                            
+221 226  .... Japurá                                        411240                            
+221 227  .... Jussara                                       411300                            
+221 228  .... Rondon                                        412260                            
+221 229  .... São Manoel do Paraná                          412555                            
+221 230  .... São Tomé                                      412610                            
+221 231  .... Tapejara                                      412680                            
+221 232  .... Tuneiras do Oeste                             412790                            
+    233  41014 14ª RS Paranavaí                             410060                            
+233 234  .... Alto Paraná                                   410060                            
+233 235  .... Amaporã                                       410090                            
+233 236  .... Cruzeiro do Sul                               410670                            
+233 237  .... Diamante do Norte                             410710                            
+233 238  .... Guairaçá                                      410890                            
+233 239  .... Inajá                                         411030                            
+233 240  .... Itaúna do Sul                                 411130                            
+233 241  .... Jardim Olinda                                 411260                            
+233 242  .... Loanda                                        411350                            
+233 243  .... Marilena                                      411500                            
+233 244  .... Mirador                                       411590                            
+233 245  .... Nova Aliança do Ivaí                          411650                            
+233 246  .... Nova Londrina                                 411710                            
+233 247  .... Paraíso do Norte                              411800                            
+233 248  .... Paranapoema                                   411830                            
+233 249  .... Paranavaí                                     411840                            
+233 250  .... Planaltina do Paraná                          411970                            
+233 251  .... Porto Rico                                    412020                            
+233 252  .... Querência do Norte                            412100                            
+233 253  .... Santa Cruz de Monte Castelo                   412330                            
+233 254  .... Santa Isabel do Ivaí                          412370                            
+233 255  .... Santa Mônica                                  412395                            
+233 256  .... Santo Antônio do Caiuá                        412420                            
+233 257  .... São Carlos do Ivaí                            412460                            
+233 258  .... São João do Caiuá                             412490                            
+233 259  .... São Pedro do Paraná                           412590                            
+233 260  .... Tamboara                                      412670                            
+233 261  .... Terra Rica                                    412730                            
+    262  41015 15ª RS Maringá                               410115                            
+262 263  .... Ângulo                                        410115                            
+262 264  .... Astorga                                       410210                            
+262 265  .... Atalaia                                       410220                            
+262 266  .... Colorado                                      410590                            
+262 267  .... Doutor Camargo                                410730                            
+262 268  .... Floraí                                        410780                            
+262 269  .... Floresta                                      410790                            
+262 270  .... Flórida                                       410810                            
+262 271  .... Iguaraçu                                      411000                            
+262 272  .... Itaguajé                                      411090                            
+262 273  .... Itambé                                        411110                            
+262 274  .... Ivatuba                                       411160                            
+262 275  .... Lobato                                        411360                            
+262 276  .... Mandaguaçu                                    411410                            
+262 277  .... Mandaguari                                    411420                            
+262 278  .... Marialva                                      411480                            
+262 279  .... Maringá                                       411520                            
+262 280  .... Munhoz de Melo                                411630                            
+262 281  .... Nossa Senhora das Graças                      411640                            
+262 282  .... Nova Esperança                                411690                            
+262 283  .... Ourizona                                      411740                            
+262 284  .... Paiçandu                                      411750                            
+262 285  .... Paranacity                                    411810                            
+262 286  .... Presidente Castelo Branco                     412040                            
+262 287  .... Santa Fé                                      412340                            
+262 288  .... Santa Inês                                    412360                            
+262 289  .... Santo Inácio                                  412450                            
+262 290  .... São Jorge do Ivaí                             412530                            
+262 291  .... Sarandi                                       412625                            
+262 292  .... Uniflor                                       412830                            
+    293  41016 16ª RS Apucarana                             410140                            
+293 294  .... Apucarana                                     410140                            
+293 295  .... Arapongas                                     410150                            
+293 296  .... Bom Sucesso                                   410320                            
+293 297  .... Borrazópolis                                  410330                            
+293 298  .... Califórnia                                    410350                            
+293 299  .... Cambira                                       410380                            
+293 300  .... Faxinal                                       410760                            
+293 301  .... Grandes Rios                                  410870                            
+293 302  .... Jandaia do Sul                                411210                            
+293 303  .... Kaloré                                        411310                            
+293 304  .... Marilândia do Sul                             411490                            
+293 305  .... Marumbi                                       411550                            
+293 306  .... Mauá da Serra                                 411575                            
+293 307  .... Novo Itacolomi                                411729                            
+293 308  .... Rio Bom                                       412210                            
+293 309  .... Sabáudia                                      412270                            
+293 310  .... São Pedro do Ivaí                             412580                            
+    311  41017 17ª RS Londrina                              410080                            
+311 312  .... Alvorada do Sul                               410080                            
+311 313  .... Assaí                                         410190                            
+311 314  .... Bela Vista do Paraíso                         410280                            
+311 315  .... Cafeara                                       410340                            
+311 316  .... Cambé                                         410370                            
+311 317  .... Centenário do Sul                             410510                            
+311 318  .... Florestópolis                                 410800                            
+311 319  .... Guaraci                                       410920                            
+311 320  .... Ibiporã                                       410980                            
+311 321  .... Jaguapitã                                     411190                            
+311 322  .... Jataizinho                                    411270                            
+311 323  .... Londrina                                      411370                            
+311 324  .... Lupionópolis                                  411380                            
+311 325  .... Miraselva                                     411600                            
+311 326  .... Pitangueiras                                  411965                            
+311 327  .... Porecatu                                      412000                            
+311 328  .... Prado Ferreira                                412033                            
+311 329  .... Primeiro de Maio                              412050                            
+311 330  .... Rolândia                                      412240                            
+311 331  .... Sertanópolis                                  412650                            
+311 332  .... Tamarana                                      412667                            
+    333  41018 18ª RS Cornélio Procópio                     410010                            
+333 334  .... Abatiá                                        410010                            
+333 335  .... Andirá                                        410110                            
+333 336  .... Bandeirantes                                  410240                            
+333 337  .... Congonhinhas                                  410600                            
+333 338  .... Cornélio Procópio                             410640                            
+333 339  .... Itambaracá                                    411100                            
+333 340  .... Leópolis                                      411340                            
+333 341  .... Nova América da Colina                        411660                            
+333 342  .... Nova Fátima                                   411700                            
+333 343  .... Nova Santa Bárbara                            411721                            
+333 344  .... Rancho Alegre                                 412130                            
+333 345  .... Ribeirão do Pinhal                            412190                            
+333 346  .... Santa Amélia                                  412310                            
+333 347  .... Santa Cecília do Pavão                        412320                            
+333 348  .... Santa Mariana                                 412390                            
+333 349  .... Santo Antônio do Paraíso                      412430                            
+333 350  .... São Jerônimo da Serra                         412470                            
+333 351  .... São Sebastião da Amoreira                     412600                            
+333 352  .... Sapopema                                      412620                            
+333 353  .... Sertaneja                                     412640                            
+333 354  .... Uraí                                          412840                            
+    355  41019 19ª RS Jacarezinho                           410270                            
+355 356  .... Barra do Jacaré                               410270                            
+355 357  .... Cambará                                       410360                            
+355 358  .... Carlópolis                                    410470                            
+355 359  .... Conselheiro Mairinck                          410610                            
+355 360  .... Figueira                                      410775                            
+355 361  .... Guapirama                                     410900                            
+355 362  .... Ibaiti                                        410970                            
+355 363  .... Jaboti                                        411170                            
+355 364  .... Jacarezinho                                   411180                            
+355 365  .... Japira                                        411230                            
+355 366  .... Joaquim Távora                                411280                            
+355 367  .... Jundiaí do Sul                                411290                            
+355 368  .... Pinhalão                                      411920                            
+355 369  .... Quatiguá                                      412070                            
+355 370  .... Ribeirão Claro                                412180                            
+355 371  .... Salto do Itararé                              412290                            
+355 372  .... Santana do Itararé                            412400                            
+355 373  .... Santo Antônio da Platina                      412410                            
+355 374  .... São José da Boa Vista                         412540                            
+355 375  .... Siqueira Campos                               412660                            
+355 376  .... Tomazina                                      412780                            
+355 377  .... Wenceslau Braz                                412850                            
+    378  41020 20ª RS Toledo                                410200                            
+378 379  .... Assis Chateaubriand                           410200                            
+378 380  .... Diamante D'Oeste                              410715                            
+378 381  .... Entre Rios do Oeste                           410753                            
+378 382  .... Guaíra                                        410880                            
+378 383  .... Marechal Cândido Rondon                       411460                            
+378 384  .... Maripá                                        411535                            
+378 385  .... Mercedes                                      411585                            
+378 386  .... Nova Santa Rosa                               411722                            
+378 387  .... Ouro Verde do Oeste                           411745                            
+378 388  .... Palotina                                      411790                            
+378 389  .... Pato Bragado                                  411845                            
+378 390  .... Quatro Pontes                                 412085                            
+378 391  .... Santa Helena                                  412350                            
+378 392  .... São José das Palmeiras                        412545                            
+378 393  .... São Pedro do Iguaçu                           412575                            
+378 394  .... Terra Roxa                                    412740                            
+378 395  .... Toledo                                        412770                            
+378 396  .... Tupãssi                                       412795                            
+    397  41021 21ª RS Telêmaco Borba                        410700                            
+397 398  .... Curiúva                                       410700                            
+397 399  .... Imbaú                                         411007                            
+397 400  .... Ortigueira                                    411730                            
+397 401  .... Reserva                                       412170                            
+397 402  .... Telêmaco Borba                                412710                            
+397 403  .... Tibagi                                        412750                            
+397 404  .... Ventania                                      412853                            
+    405  41022 22ª RS Ivaiporã                              410165                            
+405 406  .... Arapuã                                        410165                            
+405 407  .... Ariranha do Ivaí                              410185                            
+405 408  .... Cândido de Abreu                              410440                            
+405 409  .... Cruzmaltina                                   410685                            
+405 410  .... Godoy Moreira                                 410855                            
+405 411  .... Ivaiporã                                      411150                            
+405 412  .... Jardim Alegre                                 411250                            
+405 413  .... Lidianópolis                                  411342                            
+405 414  .... Lunardelli                                    411375                            
+405 415  .... Manoel Ribas                                  411450                            
+405 416  .... Mato Rico                                     411573                            
+405 417  .... Nova Tebas                                    411727                            
+405 418  .... Rio Branco do Ivaí                            412217                            
+405 419  .... Rosário do Ivaí                               412265                            
+405 420  .... Santa Maria do Oeste                          412385                            
+405 421  .... São João do Ivaí                              412500                            
+    422  41000 Ignorado - PR                                410000,419999                     

@@ -1,0 +1,698 @@
+    696  4 L                                                     
+      1  E800 - Acid estr ferro colisão mater rodante       800X 
+  1   2  E800.0 Empregado de estrada de ferro               8000 
+  1   3  E800.1 Passageiro de trem                          8001 
+  1   4  E800.2 Pedestre                                    8002 
+  1   5  E800.3 Ciclista                                    8003 
+  1   6  E800.8 Outra pessoa especificada                   8008 
+  1   7  E800.9 Pessoa não especificada                     8009 
+      8  E801 - Acid estr ferro colisão outro objeto        801X 
+  8   9  E801.0 Empregado de estrada de ferro               8010 
+  8  10  E801.1 Passageiro de trem                          8011 
+  8  11  E801.2 Pedestre                                    8012 
+  8  12  E801.3 Ciclista                                    8013 
+  8  13  E801.8 Outra pessoa especificada                   8018 
+  8  14  E801.9 Pessoa não especificada                     8019 
+     15  E802 - Acid estr fer descarrilamen sem colis       802X 
+ 15  16  E802.0 Empregado de estrada de ferro               8020 
+ 15  17  E802.1 Passageiro de trem                          8021 
+ 15  18  E802.2 Pedestre                                    8022 
+ 15  19  E802.3 Ciclista                                    8023 
+ 15  20  E802.8 Outra pessoa especificada                   8028 
+ 15  21  E802.9 Pessoa não especificada                     8029 
+     22  E803 - Acid estr fer c explos incêndio ou fog      803X 
+ 22  23  E803.0 Empregado de estrada de ferro               8030 
+ 22  24  E803.1 Passageiro de trem                          8031 
+ 22  25  E803.2 Pedestre                                    8032 
+ 22  26  E803.3 Ciclista                                    8033 
+ 22  27  E803.8 Outra pessoa especificada                   8038 
+ 22  28  E803.9 Pessoa não especificada                     8039 
+     29  E804 - Acid por queda dentro sobre ou de trem      804X 
+ 29  30  E804.0 Empregado de estrada de ferro               8040 
+ 29  31  E804.1 Passageiro de trem                          8041 
+ 29  32  E804.2 Pedestre                                    8042 
+ 29  33  E804.3 Ciclista                                    8043 
+ 29  34  E804.8 Outra pessoa especificada                   8048 
+ 29  35  E804.9 Pessoa não especificada                     8049 
+     36  E805 - Acid golpe causado mat rod estr ferr        805X 
+ 36  37  E805.0 Empregado de estrada de ferro               8050 
+ 36  38  E805.1 Passageiro de trem                          8051 
+ 36  39  E805.2 Pedestre                                    8052 
+ 36  40  E805.3 Ciclista                                    8053 
+ 36  41  E805.8 Outra pessoa especificada                   8058 
+ 36  42  E805.9 Pessoa não especificada                     8059 
+     43  E806 - Out acid especificados de estrada ferr      806X 
+ 43  44  E806.0 Empregado de estrada de ferro               8060 
+ 43  45  E806.1 Passageiro de trem                          8061 
+ 43  46  E806.2 Pedestre                                    8062 
+ 43  47  E806.3 Ciclista                                    8063 
+ 43  48  E806.8 Outra pessoa especificada                   8068 
+ 43  49  E806.9 Pessoa não especificada                     8069 
+     50  E807 - Acid est ferro natureza não especific       807X 
+ 50  51  E807.0 Empregado de estrada de ferro               8070 
+ 50  52  E807.1 Passageiro de trem                          8071 
+ 50  53  E807.2 Pedestre                                    8072 
+ 50  54  E807.3 Ciclista                                    8073 
+ 50  55  E807.8 Outra pessoa especificada                   8078 
+ 50  56  E807.9 Pessoa não especificada                     8079 
+     57  E810 - Acid trâns colis veíc a motor e trem        810X 
+ 57  58  E810.0 Condutor de veiculo a motor                 8100 
+ 57  59  E810.1 Passageiro de veiculo a motor               8101 
+ 57  60  E810.2 Motociclista                                8102 
+ 57  61  E810.3 Passageiro de motocicleta                   8103 
+ 57  62  E810.4 Ocupante de um bonde                        8104 
+ 57  63  E810.5 Pessoa montada animal ou ocup veic trac ani 8105 
+ 57  64  E810.6 Ciclista                                    8106 
+ 57  65  E810.7 Pedestre                                    8107 
+ 57  66  E810.8 Outra pessoa especificada                   8108 
+ 57  67  E810.9 Pessoa não especificada                     8109 
+     68  E811 - Ac tr veíc sain retor pist colis out v      811X 
+ 68  69  E811.0 Condutor de veiculo a motor                 8110 
+ 68  70  E811.1 Passageiro de veiculo a motor               8111 
+ 68  71  E811.2 Motociclista                                8112 
+ 68  72  E811.3 Passageiro de motocicleta                   8113 
+ 68  73  E811.4 Ocupante de um bonde                        8114 
+ 68  74  E811.5 Pessoa montada animal ou ocup veic trac ani 8115 
+ 68  75  E811.6 Ciclista                                    8116 
+ 68  76  E811.7 Pedestre                                    8117 
+ 68  77  E811.8 Outra pessoa especificada                   8118 
+ 68  78  E811.9 Pessoa não especificada                     8119 
+     79  E812 - Out ac trâns col veíc mot c out v mot       812X 
+ 79  80  E812.0 Condutor de veiculo a motor                 8120 
+ 79  81  E812.1 Passageiro de veiculo a motor               8121 
+ 79  82  E812.2 Motociclista                                8122 
+ 79  83  E812.3 Passageiro de motocicleta                   8123 
+ 79  84  E812.4 Ocupante de um bonde                        8124 
+ 79  85  E812.5 Pessoa montada animal ou ocup veic trac ani 8125 
+ 79  86  E812.6 Ciclista                                    8126 
+ 79  87  E812.7 Pedestre                                    8127 
+ 79  88  E812.8 Outra pessoa especificada                   8128 
+ 79  89  E812.9 Pessoa não especificada                     8129 
+     90  E813 - Ac trâns colis veíc mot e out tip veíc      813X 
+ 90  91  E813.0 Condutor de veiculo a motor                 8130 
+ 90  92  E813.1 Passageiro de veiculo a motor               8131 
+ 90  93  E813.2 Motociclista                                8132 
+ 90  94  E813.3 Passageiro de motocicleta                   8133 
+ 90  95  E813.4 Ocupante de um bonde                        8134 
+ 90  96  E813.5 Pessoa montada animal ou ocup veic trac ani 8135 
+ 90  97  E813.6 Ciclista                                    8136 
+ 90  98  E813.7 Pedestre                                    8137 
+ 90  99  E813.8 Outra pessoa especificada                   8138 
+ 90 100  E813.9 Pessoa não especificada                     8139 
+    101  E814 - Ac trâns colis veículo motor e pedestr      814X 
+101 102  E814.0 Condutor de veiculo a motor                 8140 
+101 103  E814.1 Passageiro de veiculo a motor               8141 
+101 104  E814.2 Motociclista                                8142 
+101 105  E814.3 Passageiro de motocicleta                   8143 
+101 106  E814.4 Ocupante de um bonde                        8144 
+101 107  E814.5 Pessoa montada animal ou ocup veic trac ani 8145 
+101 108  E814.6 Ciclista                                    8146 
+101 109  E814.7 Pedestre                                    8147 
+101 110  E814.8 Outra pessoa especificada                   8148 
+101 111  E814.9 Pessoa não especificada                     8149 
+    112  E815 - Out ac trâns col veíc motor em via púb      815X 
+112 113  E815.0 Condutor de veiculo a motor                 8150 
+112 114  E815.1 Passageiro de veiculo a motor               8151 
+112 115  E815.2 Motociclista                                8152 
+112 116  E815.3 Passageiro de motocicleta                   8153 
+112 117  E815.4 Ocupante de um bonde                        8154 
+112 118  E815.5 Pessoa montada animal ou ocup veic trac ani 8155 
+112 119  E815.6 Ciclista                                    8156 
+112 120  E815.7 Pedestre                                    8157 
+112 121  E815.8 Outra pessoa especificada                   8158 
+112 122  E815.9 Pessoa não especificada                     8159 
+    123  E816 - Ac trâns perda contr veíc mot sem col       816X 
+123 124  E816.0 Condutor de veiculo a motor                 8160 
+123 125  E816.1 Passageiro de veiculo a motor               8161 
+123 126  E816.2 Motociclista                                8162 
+123 127  E816.3 Passageiro de motocicleta                   8163 
+123 128  E816.4 Ocupante de um bonde                        8164 
+123 129  E816.5 Pessoa montada animal ou ocup veic trac ani 8165 
+123 130  E816.6 Ciclista                                    8166 
+123 131  E816.7 Pedestre                                    8167 
+123 132  E816.8 Outra pessoa especificada                   8168 
+123 133  E816.9 Pessoa não especificada                     8169 
+    134  E817 - Ac trâns ao subir ou desc v mot s col       817X 
+134 135  E817.0 Condutor de veiculo a motor                 8170 
+134 136  E817.1 Passageiro de veiculo a motor               8171 
+134 137  E817.2 Motociclista                                8172 
+134 138  E817.3 Passageiro de motocicleta                   8173 
+134 139  E817.4 Ocupante de um bonde                        8174 
+134 140  E817.5 Pessoa montada animal ou ocup veic trac ani 8175 
+134 141  E817.6 Ciclista                                    8176 
+134 142  E817.7 Pedestre                                    8177 
+134 143  E817.8 Outra pessoa especificada                   8178 
+134 144  E817.9 Pessoa não especificada                     8179 
+    145  E818 - Out ac trâns veículo a mot sem colisão      818X 
+145 146  E818.0 Condutor de veiculo a motor                 8180 
+145 147  E818.1 Passageiro de veiculo a motor               8181 
+145 148  E818.2 Motociclista                                8182 
+145 149  E818.3 Passageiro de motocicleta                   8183 
+145 150  E818.4 Ocupante de um bonde                        8184 
+145 151  E818.5 Pessoa montada animal ou ocup veic trac ani 8185 
+145 152  E818.6 Ciclista                                    8186 
+145 153  E818.7 Pedestre                                    8187 
+145 154  E818.8 Outra pessoa especificada                   8188 
+145 155  E818.9 Pessoa não especificada                     8189 
+    156  E819 - Ac trans veículo a motor de nat ñ esp       819X 
+156 157  E819.0 Condutor de veiculo a motor                 8190 
+156 158  E819.1 Passageiro de veiculo a motor               8191 
+156 159  E819.2 Motociclista                                8192 
+156 160  E819.3 Passageiro de motocicleta                   8193 
+156 161  E819.4 Ocupante de um bonde                        8194 
+156 162  E819.5 Pessoa montada animal ou ocup veic trac ani 8195 
+156 163  E819.6 Ciclista                                    8196 
+156 164  E819.7 Pedestre                                    8197 
+156 165  E819.8 Outra pessoa especificada                   8198 
+156 166  E819.9 Pessoa não especificada                     8199 
+    167  E820 - Acid veíc mot p mov s neve exc trans        820X 
+167 168  E820.0 Condutor de veiculo a motor                 8200 
+167 169  E820.1 Passageiro de veiculo a motor               8201 
+167 170  E820.2 Motociclista                                8202 
+167 171  E820.3 Passageiro de motocicleta                   8203 
+167 172  E820.4 Ocupante de um bonde                        8204 
+167 173  E820.5 Pessoa montada animal ou ocup veic trac ani 8205 
+167 174  E820.6 Ciclista                                    8206 
+167 175  E820.7 Pedestre                                    8207 
+167 176  E820.8 Outra pessoa especificada                   8208 
+167 177  E820.9 Pessoa não especificada                     8209 
+    178  E821 - Acid out veíc espcial mot exc de trans      821X 
+178 179  E821.0 Condutor de veiculo a motor                 8210 
+178 180  E821.1 Passageiro de veiculo a motor               8211 
+178 181  E821.2 Motociclista                                8212 
+178 182  E821.3 Passageiro de motocicleta                   8213 
+178 183  E821.4 Ocupante de um bonde                        8214 
+178 184  E821.5 Pessoa montada animal ou ocup veic trac ani 8215 
+178 185  E821.6 Ciclista                                    8216 
+178 186  E821.7 Pedestre                                    8217 
+178 187  E821.8 Outra pessoa especificada                   8218 
+178 188  E821.9 Pessoa não especificada                     8219 
+    189  E822 - Out ac v mot exc trâns colis obj movim      822X 
+189 190  E822.0 Condutor de veiculo a motor                 8220 
+189 191  E822.1 Passageiro de veiculo a motor               8221 
+189 192  E822.2 Motociclista                                8222 
+189 193  E822.3 Passageiro de motocicleta                   8223 
+189 194  E822.4 Ocupante de um bonde                        8224 
+189 195  E822.5 Pessoa montada animal ou ocup veic trac ani 8225 
+189 196  E822.6 Ciclista                                    8226 
+189 197  E822.7 Pedestre                                    8227 
+189 198  E822.8 Outra pessoa especificada                   8228 
+189 199  E822.9 Pessoa não especificada                     8229 
+    200  E823 - Out ac v mot exc trâns colis obj parad      823X 
+200 201  E823.0 Condutor de veiculo a motor                 8230 
+200 202  E823.1 Passageiro de veiculo a motor               8231 
+200 203  E823.2 Motociclista                                8232 
+200 204  E823.3 Passageiro de motocicleta                   8233 
+200 205  E823.4 Ocupante de um bonde                        8234 
+200 206  E823.5 Pessoa montada animal ou ocup veic trac ani 8235 
+200 207  E823.6 Ciclista                                    8236 
+200 208  E823.7 Pedestre                                    8237 
+200 209  E823.8 Outra pessoa especificada                   8238 
+200 210  E823.9 Pessoa não especificada                     8239 
+    211  E824 - Out ac v mot exc trâns ao sub desc v m      824X 
+211 212  E824.0 Condutor de veiculo a motor                 8240 
+211 213  E824.1 Passageiro de veiculo a motor               8241 
+211 214  E824.2 Motociclista                                8242 
+211 215  E824.3 Passageiro de motocicleta                   8243 
+211 216  E824.4 Ocupante de um bonde                        8244 
+211 217  E824.5 Pessoa montada animal ou ocup veic trac ani 8245 
+211 218  E824.6 Ciclista                                    8246 
+211 219  E824.7 Pedestre                                    8247 
+211 220  E824.8 Outra pessoa especificada                   8248 
+211 221  E824.9 Pessoa não especificada                     8249 
+    222  E825 - Out ac vei mot exc trâns out nat e ñ e      825X 
+222 223  E825.0 Condutor de veiculo a motor                 8250 
+222 224  E825.1 Passageiro de veiculo a motor               8251 
+222 225  E825.2 Motociclista                                8252 
+222 226  E825.3 Passageiro de motocicleta                   8253 
+222 227  E825.4 Ocupante de um bonde                        8254 
+222 228  E825.5 Pessoa montada animal ou ocup veic trac ani 8255 
+222 229  E825.6 Ciclista                                    8256 
+222 230  E825.7 Pedestre                                    8257 
+222 231  E825.8 Outra pessoa especificada                   8258 
+222 232  E825.9 Pessoa não especificada                     8259 
+    233  E826 - Acidente causado por veículo a pedal        826X 
+233 234  E826.0 Pedestre                                    8260 
+233 235  E826.1 Ciclista                                    8261 
+233 236  E826.2 Pessoa montada em animal (pessoa a cavalo)  8262 
+233 237  E826.3 Ocupante de veiculo a tracao animal         8263 
+233 238  E826.4 Ocupante de bonde                           8264 
+233 239  E826.8 Outra pessoa especificada                   8268 
+233 240  E826.9 Pessoa não especificada                     8269 
+    241  E827 - Acidente caus por veículo tração anim       827X 
+241 242  E827.0 Pedestre                                    8270 
+241 243  E827.1 Ciclista                                    8271 
+241 244  E827.2 Pessoa montada em animal (pessoa a cavalo)  8272 
+241 245  E827.3 Ocupante de veiculo a tracao animal         8273 
+241 246  E827.4 Ocupante de bonde                           8274 
+241 247  E827.8 Outra pessoa especificada                   8278 
+241 248  E827.9 Pessoa não especificada                     8279 
+    249  E828 - Acidente envolvendo animal montado          828X 
+249 250  E828.0 Pedestre                                    8280 
+249 251  E828.1 Ciclista                                    8281 
+249 252  E828.2 Pessoa montada em animal (pessoa a cavalo)  8282 
+249 253  E828.3 Ocupante de veiculo a tracao animal         8283 
+249 254  E828.4 Ocupante de bonde                           8284 
+249 255  E828.8 Outra pessoa especificada                   8288 
+249 256  E828.9 Pessoa não especificada                     8289 
+    257  E829 - Acidente de outros veículos de estrada      829X 
+257 258  E829.0 Pedestre                                    8290 
+257 259  E829.1 Ciclista                                    8291 
+257 260  E829.2 Pessoa montada em animal (pessoa a cavalo)  8292 
+257 261  E829.3 Ocupante de veiculo a tracao animal         8293 
+257 262  E829.4 Ocupante de bonde                           8294 
+257 263  E829.8 Outra pessoa especificada                   8298 
+257 264  E829.9 Pessoa não especificada                     8299 
+    265  E830 - Acid de transp água que cause submers       830X 
+265 266  E830.0 Ocupante de pequena embarcacao              8300 
+265 267  E830.1 Ocupante de pequena embarcacao              8301 
+265 268  E830.2 Ocupante de outro tipo de embarcacao        8302 
+265 269  E830.3 Ocupante de outro tipo de embarcacao        8303 
+265 270  E830.4 Esquiador aquatico                          8304 
+265 271  E830.5 Banhista                                    8305 
+265 272  E830.6 Doqueiros                                   8306 
+265 273  E830.8 Outra pessoa especificada                   8308 
+265 274  E830.9 Pessoa não especificada                     8309 
+    275  E831 - Acid transp água caus out tipo traumat      831X 
+275 276  E831.0 Ocupante de pequena embarcacao              8310 
+275 277  E831.1 Ocupante de pequena embarcacao              8311 
+275 278  E831.2 Ocupante de outro tipo de embarcacao        8312 
+275 279  E831.3 Ocupante de outro tipo de embarcacao        8313 
+275 280  E831.4 Esquiador aquatico                          8314 
+275 281  E831.5 Banhista                                    8315 
+275 282  E831.6 Doqueiros                                   8316 
+275 283  E831.8 Outra pessoa especificada                   8318 
+275 284  E831.9 Pessoa não especificada                     8319 
+    285  E832 - Out form subm afog acid em transp água      832X 
+285 286  E832.0 Ocupante de pequena embarcacao              8320 
+285 287  E832.1 Ocupante de pequena embarcacao              8321 
+285 288  E832.2 Ocupante de outro tipo de embarcacao        8322 
+285 289  E832.3 Ocupante de outro tipo de embarcacao        8323 
+285 290  E832.4 Esquiador aquatico                          8324 
+285 291  E832.5 Banhista                                    8325 
+285 292  E832.6 Doqueiros                                   8326 
+285 293  E832.8 Outra pessoa especificada                   8328 
+285 294  E832.9 Pessoa não especificada                     8329 
+    295  E833 - Qued escad mov fix portát em transp ág      833X 
+295 296  E833.0 Ocupante de pequena embarcacao              8330 
+295 297  E833.1 Ocupante de pequena embarcacao              8331 
+295 298  E833.2 Ocupante de outro tipo de embarcacao        8332 
+295 299  E833.3 Ocupante de outro tipo de embarcacao        8333 
+295 300  E833.4 Esquiador aquatico                          8334 
+295 301  E833.5 Banhista                                    8335 
+295 302  E833.6 Doqueiros                                   8336 
+295 303  E833.8 Outra pessoa especificada                   8338 
+295 304  E833.9 Pessoa não especificada                     8339 
+    305  E834 - Out qued um nível a out em transp p ág      834X 
+305 306  E834.0 Ocupante de pequena embarcacao              8340 
+305 307  E834.1 Ocupante de pequena embarcacao              8341 
+305 308  E834.2 Ocupante de outro tipo de embarcacao        8342 
+305 309  E834.3 Ocupante de outro tipo de embarcacao        8343 
+305 310  E834.4 Esquiador aquatico                          8344 
+305 311  E834.5 Banhista                                    8345 
+305 312  E834.6 Doqueiros                                   8346 
+305 313  E834.8 Outra pessoa especificada                   8348 
+305 314  E834.9 Pessoa não especificada                     8349 
+    315  E835 - Out qued e não espec em transp por ág       835X 
+315 316  E835.0 Ocupante de pequena embarcacao              8350 
+315 317  E835.1 Ocupante de pequena embarcacao              8351 
+315 318  E835.2 Ocupante de outro tipo de embarcacao        8352 
+315 319  E835.3 Ocupante de outro tipo de embarcacao        8353 
+315 320  E835.4 Esquiador aquatico                          8354 
+315 321  E835.5 Banhista                                    8355 
+315 322  E835.6 Doqueiros                                   8356 
+315 323  E835.8 Outra pessoa especificada                   8358 
+315 324  E835.9 Pessoa não especificada                     8359 
+    325  E836 - Acid maquinar ocorr em transp por água      836X 
+325 326  E836.0 Ocupante de pequena embarcacao              8360 
+325 327  E836.1 Ocupante de pequena embarcacao              8361 
+325 328  E836.2 Ocupante de outro tipo de embarcacao        8362 
+325 329  E836.3 Ocupante de outro tipo de embarcacao        8363 
+325 330  E836.4 Esquiador aquatico                          8364 
+325 331  E836.5 Banhista                                    8365 
+325 332  E836.6 Doqueiros                                   8366 
+325 333  E836.8 Outra pessoa especificada                   8368 
+325 334  E836.9 Pessoa não especificada                     8369 
+    335  E837 - Acid expl incênd fogo em transp por ág      837X 
+335 336  E837.0 Ocupante de pequena embarcacao              8370 
+335 337  E837.1 Ocupante de pequena embarcacao              8371 
+335 338  E837.2 Ocupante de outro tipo de embarcacao        8372 
+335 339  E837.3 Ocupante de outro tipo de embarcacao        8373 
+335 340  E837.4 Esquiador aquatico                          8374 
+335 341  E837.5 Banhista                                    8375 
+335 342  E837.6 Doqueiros                                   8376 
+335 343  E837.8 Outra pessoa especificada                   8378 
+335 344  E837.9 Pessoa não especificada                     8379 
+    345  E838 - Out ac e ñ espec ocor em transp por ág      838X 
+345 346  E838.0 Ocupante de pequena embarcacao              8380 
+345 347  E838.1 Ocupante de pequena embarcacao              8381 
+345 348  E838.2 Ocupante de outro tipo de embarcacao        8382 
+345 349  E838.3 Ocupante de outro tipo de embarcacao        8383 
+345 350  E838.4 Esquiador aquatico                          8384 
+345 351  E838.5 Banhista                                    8385 
+345 352  E838.6 Doqueiros                                   8386 
+345 353  E838.8 Outra pessoa especificada                   8388 
+345 354  E838.9 Pessoa não especificada                     8389 
+    355  E840 - Acid aeron motor durante decol ou ater      840X 
+355 356  E840.0 Ocupante de nave espacial                   8400 
+355 357  E840.1 Ocupante de aeronave militar                8401 
+355 358  E840.2 Tripul aeronav comerc util transp terra ter 8402 
+355 359  E840.3 Outr ocup aeronav com util transp terra ter 8403 
+355 360  E840.4 Ocup aeronave comerc util transp terra ar   8404 
+355 361  E840.5 Ocup outr aeronave prov energia movimentaca 8405 
+355 362  E840.6 Ocupante de aeronave não provida de energia 8406 
+355 363  E840.7 Paraquedista (militar) (outro)              8407 
+355 364  E840.8 Pessoal terra ou empreg linha aerea comerci 8408 
+355 365  E840.9 Outras pessoas                              8409 
+    366  E841 - Out acid ou não especific aeronave mot      841X 
+366 367  E841.0 Ocupante de nave espacial                   8410 
+366 368  E841.1 Ocupante de aeronave militar                8411 
+366 369  E841.2 Tripul aeronav comerc util transp terra ter 8412 
+366 370  E841.3 Outr ocup aeronav com util transp terra ter 8413 
+366 371  E841.4 Ocup aeronav comerc util transp terra ar    8414 
+366 372  E841.5 Ocup outr aeronave prov energia movimentaca 8415 
+366 373  E841.6 Ocupante de aeronave não provida de energia 8416 
+366 374  E841.7 Paraquedista (militar) (outro)              8417 
+366 375  E841.8 Pessoal terra ou empreg linha aerea comerci 8418 
+366 376  E841.9 Outras pessoas                              8419 
+    377  E842 - Acidente de aeronave não motorizada         842X 
+377 378  E842.0 Ocupante de nave espacial                   8420 
+377 379  E842.1 Ocupante de aeronave militar                8421 
+377 380  E842.2 Tripul aeronav comerc util transp terra ter 8422 
+377 381  E842.3 Outr ocup aeronav com util transp terra ter 8423 
+377 382  E842.4 Ocup aeronav comerc util transp terra ar    8424 
+377 383  E842.5 Ocup outr aeronave prov energia movimentaca 8425 
+377 384  E842.6 Ocupante de aeronave não provida de energia 8426 
+377 385  E842.7 Paraquedista (militar) (outro)              8427 
+377 386  E842.8 Pessoal terra ou empreg linha aerea comerci 8428 
+377 387  E842.9 Outras pessoas                              8429 
+    388  E843 - Qued ocor dentro de sobre ou de aeron       843X 
+388 389  E843.0 Ocupante de nave espacial                   8430 
+388 390  E843.1 Ocupante de aeronave militar                8431 
+388 391  E843.2 Tripul aeronav comerc util transp terra ter 8432 
+388 392  E843.3 Outr ocup aeronav com util transp terra ter 8433 
+388 393  E843.4 Ocup aeronav comerc util transp terra ar    8434 
+388 394  E843.5 Ocup outra aeronave prov energia movimentac 8435 
+388 395  E843.6 Ocupante de aeronave não provida de energia 8436 
+388 396  E843.7 Paraquedista (militar) (outro)              8437 
+388 397  E843.8 Pessoal terra ou empreg linha aerea comerci 8438 
+388 398  E843.9 Outras pessoas                              8439 
+    399  E844 - Out acid especificad de transp aéreo        844X 
+399 400  E844.0 Ocupante de nave espacial                   8440 
+399 401  E844.1 Ocupante de aeronave militar                8441 
+399 402  E844.2 Tripul aeronav comerc util transp terra ter 8442 
+399 403  E844.3 Outr ocup aeronav com util transp terra ter 8443 
+399 404  E844.4 Ocup aeronav comerc util transp terra ar    8444 
+399 405  E844.5 Ocup outra aeronave prov energia movimentac 8445 
+399 406  E844.6 Ocupante de aeronave não provida de energia 8446 
+399 407  E844.7 Paraquedista (militar) (outro)              8447 
+399 408  E844.8 Pessoal terra ou empreg linha aerea comerci 8448 
+399 409  E844.9 Outras pessoas                              8449 
+    410  E845 - Acidente de nave espacial                   845X 
+410 411  E845.0 Ocupante de nave espacial                   8450 
+410 412  E845.1 Ocupante de aeronave militar                8451 
+410 413  E845.2 Tripul aeronav comerc util transp terra ter 8452 
+410 414  E845.3 Outr ocup aeronav com util transp terra ter 8453 
+410 415  E845.4 Ocup aeronav comerc util transp terra ar    8454 
+410 416  E845.5 Ocup outra aeronave prov energia movimentac 8455 
+410 417  E845.6 Ocupante de aeronave não provida de energia 8456 
+410 418  E845.7 Paraquedista (militar) (outro)              8457 
+410 419  E845.8 Pessoal terra ou empreg linha aerea comerci 8458 
+410 420  E845.9 Outras pessoas                              8459 
+    421  E846 - Ac v mot us inter edifíc indust comerc      846X 
+    422  E847 - Acid veíc trac cabo exc mov sobre tril      847X 
+    423  E848 - Acidentes de outros veículos NCOP           848X 
+    424  E850 - Intox acid analg antipirét e anti-reum      850X 
+424 425  E850.0 Opiaceos e narcoticos correlatos            8500 
+424 426  E850.1 Salicilatos                                 8501 
+424 427  E850.2 Analgesicos aromaticos NCOP                 8502 
+424 428  E850.3 Derivados pirazolicos                       8503 
+424 429  E850.4 Anti-reumaticos (antiflogisticos)           8504 
+424 430  E850.5 Outros analgesicos não narcoticos           8505 
+424 431  E850.8 Outros                                      8508 
+424 432  E850.9 Não especificados                           8509 
+    433  E851 - Intoxicação acidental por barbitúricos      851X 
+    434  E852 - Intox acidental por out sedat e hipnót      852X 
+434 435  E852.0 Substancias do grupo do hidrato de cloral   8520 
+434 436  E852.1 Paraldeido                                  8521 
+434 437  E852.2 Compostos do bromo                          8522 
+434 438  E852.3 Compostos da metaqualona                    8523 
+434 439  E852.4 Substancias do grupo da glutetimida         8524 
+434 440  E852.5 Sedativos mistos NCOP                       8525 
+434 441  E852.8 Outros                                      8528 
+434 442  E852.9 Não especificados                           8529 
+    443  E853 - Intoxicação acidental p tranquilizant       853X 
+443 444  E853.0 Tranquilizantes fenotiazinicos              8530 
+443 445  E853.1 Tranquilizantes butirofenonicos             8531 
+443 446  E853.2 Tranquilizantes benzodiazepinicos           8532 
+443 447  E853.8 Outros                                      8538 
+443 448  E853.9 Não especificados                           8539 
+    449  E854 - Intox acid por out agentes psicotrópic      854X 
+449 450  E854.0 Antidepressivos                             8540 
+449 451  E854.1 Psicodislepticos (alucinogenos)             8541 
+449 452  E854.2 Psicoestimulantes                           8542 
+449 453  E854.3 Estimulantes do sistema nervoso central     8543 
+449 454  854.9 Código inválido - fora da CID                8549 
+    455  E855 - Intox acid out drog ação SNC e SN aut       855X 
+455 456  E855.0 Drogas anticonvulsivant e antiparkinsoniana 8550 
+455 457  E855.1 Outros depressores do sistema nervoso centr 8551 
+455 458  E855.2 Anestesicos locais                          8552 
+455 459  E855.3 Parassimpaticomimeticos (colinergicos)      8553 
+455 460  E855.4 Parassimpat (anticolin e antimusc) e espasm 8554 
+455 461  E855.5 Simpaticomimeticos (adrenergicos)           8555 
+455 462  E855.6 Simpaticoliticos (antiadrenergicos)         8556 
+455 463  E855.8 Outros                                      8558 
+455 464  E855.9 Não especificados                           8559 
+    465  E856 - Intoxicação acidental por antibióticos      856X 
+    466  E857 - Intox acidental p subst antiinfeccios       857X 
+    467  E858 - Intoxicação acidental por outras drog       858X 
+467 468  E858.0 Hormonios e seus substitutos sinteticos     8580 
+467 469  E858.1 Agentes de acao primariamente sistemica     8581 
+467 470  E858.2 Agentes de acao primariamente hematologica  8582 
+467 471  E858.3 Agentes q atuam primar aparelho cardiovasc  8583 
+467 472  E858.4 Agentes q atuam primar aparelho gastrintest 8584 
+467 473  E858.5 Drogas que atuam sobre o metabolismo da agu 8585 
+467 474  E858.6 Agent q atuam primar muscul lisos e esquele 8586 
+467 475  E858.7 Agent q atuam primar pele e membr mucosas   8587 
+467 476  E858.8 Outras                                      8588 
+467 477  E858.9 Não especificadas                           8589 
+    478  E860 - Intoxicação acidental por álcool NCOP       860X 
+478 479  E860.0 Bebidas alcoolicas                          8600 
+478 480  E860.1 Outr apres alcool etilico e as não especif  8601 
+478 481  E860.2 Alcool metilico                             8602 
+478 482  E860.3 Alcool isopropilico                         8603 
+478 483  E860.4 Oleo fusel                                  8604 
+478 484  E860.8 Outros                                      8608 
+478 485  E860.9 Não especificados                           8609 
+    486  E861 - Intoxicação acidental por subst limpez      861X 
+486 487  E861.0 Deterg e prod lavagem e limpeza cabeca      8610 
+486 488  E861.1 Sabao e derivados                           8611 
+486 489  E861.2 Polidores                                   8612 
+486 490  E861.3 Outros agentes de limpeza e polimento       8613 
+486 491  E861.4 Desinfetantes                               8614 
+486 492  E861.5 Tintas que contenham chumbo                 8615 
+486 493  E861.6 Outras subst utiliz como tintas ou vernizes 8616 
+486 494  E861.9 Não especificadas                           8619 
+    495  E862 - Intox ac der petr out solv e vap NCOP       862X 
+495 496  E862.0 Solventes derivados do petroleo             8620 
+495 497  E862.1 Combustiveis e substancias para limpeza     8621 
+495 498  E862.2 Oleos lubrificantes                         8622 
+495 499  E862.3 Solidos derivados do petroleo               8623 
+495 500  E862.4 Outros solventes                            8624 
+495 501  862.8 Código inválido - fora da CID                8628 
+495 502  E862.9 Não especificados                           8629 
+    503  E863 - Intox ac prep quí agr hort ex adu fert      863X 
+503 504  E863.0 Inseticidas deriv compostos organoclorados  8630 
+503 505  E863.1 Inseticidas deriv compostos organofosforado 8631 
+503 506  E863.2 Carbamatos                                  8632 
+503 507  E863.3 Misturas de inseticidas                     8633 
+503 508  E863.4 Outros inseticidas e os não especificados   8634 
+503 509  E863.5 Herbicidas                                  8635 
+503 510  E863.6 Fungicidas                                  8636 
+503 511  E863.7 Rodenticidas                                8637 
+503 512  E863.8 Fumigantes                                  8638 
+503 513  E863.9 Outros e os não especificados               8639 
+    514  E864 - Intox acid subst corros e cáustic NCOP      864X 
+514 515  E864.0 Aromaticos corrosivos                       8640 
+514 516  E864.1 Acidos                                      8641 
+514 517  E864.2 Alcalis causticos                           8642 
+514 518  E864.3 Outros                                      8643 
+514 519  E864.4 Não especificados                           8644 
+514 520  864.9 Código inválido - fora da CID                8649 
+    521  E865 - Intox acident alimentos e plantas vene      865X 
+521 522  E865.0 Carne                                       8650 
+521 523  E865.1 Mariscos                                    8651 
+521 524  E865.2 Outros peixes                               8652 
+521 525  E865.3 Bagas e sementes                            8653 
+521 526  E865.4 Outras plantas                              8654 
+521 527  E865.5 Cogumelos e outros fungos                   8655 
+521 528  E865.8 Outros alimentos                            8658 
+521 529  E865.9 Não especificados                           8659 
+    530  E866 - Intox acid out subs sól e líq e ñ esp       866X 
+530 531  E866.0 Chumbo e seus compostos e vapores           8660 
+530 532  E866.1 Mercurio e seus compostos e vapores         8661 
+530 533  E866.2 Antimonio e seus compostos e vapores        8662 
+530 534  E866.3 Arsenico e seus compostos e vapores         8663 
+530 535  E866.4 Outros metais e seus compostos e vapores    8664 
+530 536  E866.5 Adubos e fertilizantes                      8665 
+530 537  E866.6 Colas e adesivos                            8666 
+530 538  E866.7 Cosmeticos                                  8667 
+530 539  E866.8 Outras                                      8668 
+530 540  E866.9 Não especificadas                           8669 
+    541  E867 - Intoxicação acidental por gás de rua        867X 
+    542  E868 - Intox ac out gás ilum mon carb out fon      868X 
+542 543  E868.0 Gas liquefeito petroleo distr recip moveis  8680 
+542 544  E868.1 Outros gases de iluminacao e os não especif 8681 
+542 545  E868.2 Gas de escape de veiculo a motor            8682 
+542 546  E868.3 Monox carbono orig combust incomp outr comb 8683 
+542 547  E868.8 Monoxido de carbono devido a outras fontes  8688 
+542 548  E868.9 Monoxido de carbono não especificado        8689 
+    549  E869 - Intox acid por outros gases e vapores       869X 
+549 550  E869.0 Oxidos de nitrogenio                        8690 
+549 551  E869.1 Dioxido de enxofre                          8691 
+549 552  E869.2 Freon                                       8692 
+549 553  E869.3 Gas lacrimogenio                            8693 
+549 554  E869.8 Outros gases e vapores especificados        8698 
+549 555  E869.9 Gases e vapores não especificados           8699 
+    556  E870 - Corte punção perfuraç hemor duran cuid      870X 
+556 557  E870.0 Intervencao cirurgica                       8700 
+556 558  E870.1 Infusao ou transfusao                       8701 
+556 559  E870.2 Hemodialise ou outras perfusoes             8702 
+556 560  E870.3 Injecao ou vacinacao                        8703 
+556 561  E870.4 Exame endoscopico                           8704 
+556 562  E870.5 Aspiracao de fluido ou tecido               8705 
+556 563  E870.6 Cateterismo cardiaco                        8706 
+556 564  E870.7 Administracao de enema                      8707 
+556 565  E870.8 Outros                                      8708 
+556 566  E870.9 Não especificados                           8709 
+    567  E871 - Obj estranho deixado no corpo dur proc      871X 
+567 568  E871.0 Intervencao cirurgica                       8710 
+567 569  E871.1 Infusao ou transfusao                       8711 
+567 570  E871.2 Hemodialise e outras perfusoes              8712 
+567 571  E871.3 Injecao ou vacinacao                        8713 
+567 572  E871.4 Exame endoscopico                           8714 
+567 573  E871.5 Aspiracao de fluido ou tecido               8715 
+567 574  E871.6 Cateterismo cardiaco                        8716 
+567 575  E871.7 Remocao de cateter ou curativo              8717 
+567 576  E871.8 Outros                                      8718 
+567 577  E871.9 Não especificados                           8719 
+    578  E872 - Falha de esterilização durante proced       872X 
+578 579  E872.0 Intervencao cirurgica                       8720 
+578 580  E872.1 Infusao ou transfusao                       8721 
+578 581  E872.2 Hemodialise e outras perfusoes              8722 
+578 582  E872.3 Injecao ou vacinacao                        8723 
+578 583  E872.4 Exame endoscopico                           8724 
+578 584  E872.5 Aspiracao de fluido ou tecido               8725 
+578 585  E872.6 Cateterismo cardiaco                        8726 
+578 586  E872.8 Outras                                      8728 
+578 587  E872.9 Não especificadas                           8729 
+    588  E873 - Erros de dosagem                            873X 
+588 589  E873.0 Quant exces sang ou outr liq dur transfusao 8730 
+588 590  E873.1 Diluicao incorreta liquido durante a infusa 8731 
+588 591  E873.2 Superdosagem de radiacao terapeutica        8732 
+588 592  E873.3 Expos inadv paciente a rad durante cuid med 8733 
+588 593  E873.4 Erro dosag terap eletrochoq choque insulini 8734 
+588 594  E873.5 Temperatura inapropriada em aplicacao local 8735 
+588 595  E873.6 Falta administr droga ou medicam necessario 8736 
+588 596  E873.8 Outras                                      8738 
+588 597  E873.9 Não especificadas                           8739 
+    598  E874 - Falh mecan instrum apar durante proced      874X 
+598 599  E874.0 Intervencao cirurgica                       8740 
+598 600  E874.1 Infusao ou transfusao                       8741 
+598 601  E874.2 Hemodialise e outras perfusoes              8742 
+598 602  E874.3 Exame endoscopico                           8743 
+598 603  E874.4 Aspiracao de fluido ou tecido               8744 
+598 604  E874.5 Cateterismo cardiaco                        8745 
+598 605  E874.8 Outras                                      8748 
+598 606  E874.9 Não especificadas                           8749 
+    607  E875 - Contam inf sang outr líq drog subs bio      875X 
+607 608  E875.0 Subst contaminada transfundida ou infundida 8750 
+607 609  E875.1 Subst contamin injetada ou usada p vacinaca 8751 
+607 610  E875.2 Droga ou subst biolog contam admin outr mei 8752 
+607 611  E875.8 Outras                                      8758 
+607 612  E875.9 Não especificadas                           8759 
+    613  E876 - Outros acid e ñ esp durante cuidad med      876X 
+613 614  E876.0 Transfusao de sangue incompativel           8760 
+613 615  E876.1 Infusao de liquido errado                   8761 
+613 616  E876.2 Falha sutura ou ligadura durant interv ciru 8762 
+613 617  E876.3 Canula endotraq coloc errad dur proced anes 8763 
+613 618  E876.4 Falha introd ou remocao outro tubo ou instr 8764 
+613 619  E876.5 Realizacao de operacao inapropriada         8765 
+613 620  E876.8 Outros acidentes especificados              8768 
+613 621  E876.9 Acidentes não especificado                  8769 
+    622  E878 - Reaç anorm comp tard inter cirúr s men      878X 
+622 623  E878.0 Interv cirurg c/transplante órgãos inteiros 8780 
+622 624  E878.1 Interv cirurg c/implante dispos intern arti 8781 
+622 625  E878.2 Intervencao cirurgica com anastomose        8782 
+622 626  E878.3 Interv cirurg c/form abertura externa       8783 
+622 627  E878.4 Outras cirurgias restauradoras              8784 
+622 628  E878.5 Amputacao de membro(s)                      8785 
+622 629  E878.6 Remocao de outro orgao (parcial) (total)    8786 
+622 630  E878.8 Outras                                      8788 
+622 631  E878.9 Não especificadas                           8789 
+    632  E879 - Reaç anorm compl tard por proced s men      879X 
+632 633  E879.0 Cateterismo cardiaco                        8790 
+632 634  E879.1 Hemodialise                                 8791 
+632 635  E879.2 Procedimentos radiologicos e radioterapia   8792 
+632 636  E879.3 Terapia por choque                          8793 
+632 637  E879.4 Aspiracao de liquido                        8794 
+632 638  E879.5 Insercao de sonda gastrica ou duodenal      8795 
+632 639  E879.6 Cateterismo urinário                        8796 
+632 640  E879.7 Amostra de sangue                           8797 
+632 641  E879.8 Outras                                      8798 
+632 642  E879.9 Não especificadas                           8799 
+    643  E880 - Queda em ou de escada ou degraus            880X 
+643 644  E880.0 Escada rolante                              8800 
+643 645  E880.9 Outras escadas ou degraus                   8809 
+    646  E881 - Queda em ou de escada de mão e andaim       881X 
+646 647  E881.0 Queda de escada de mao                      8810 
+646 648  E881.1 Queda de andaime                            8811 
+646 649  881.9 Código inválido - fora da CID                8819 
+    650  E882 - Queda de ou fora de edifíc ou out cons      882X 
+    651  E883 - Queda em buraco ou out abertur em sup       883X 
+651 652  E883.0 Acidente dev mergulho ou pulo agua (piscina 8830 
+651 653  E883.1 Queda acidental dentro de poco              8831 
+651 654  E883.2 Queda acidental dentro bueiro ou boca de lo 8832 
+651 655  E883.9 Queda dentro outr buracos ou abert  superf  8839 
+    656  E884 - Outras quedas de um nível a outro           884X 
+656 657  E884.0 Queda de equipamento de "playground"        8840 
+656 658  E884.1 Queda de penhasco                           8841 
+656 659  E884.2 Queda da cadeira ou da cama                 8842 
+656 660  E884.9 Outras quedas de um nivel a outro           8849 
+    661  E885 - Qued mesm nív escorreg tropeç ou trasp      885X 
+    662  E886 - Queda mesmo nível p colisão ou empurr       886X 
+662 663  E886.0 No esporte                                  8860 
+662 664  E886.9 Outras e não especificadas                  8869 
+    665  E887 - Fratura de causa não especificada           887X 
+    666  E888 - Outras quedas ou não especificadas          888X 
+    667  E890 - Incêndio em habitação particular            890X 
+667 668  E890.0 Explosao causada por incendio               8900 
+667 669  E890.1 Fumaca result combustao cloreto de polivini 8901 
+667 670  E890.2 Outras fumacas e vapores causados incendio  8902 
+667 671  E890.3 Queimadura causada por incendio             8903 
+667 672  E890.8 Outros acidentes resultantes de incendio    8908 
+667 673  E890.9 Não especificado                            8909 
+    674  E891 - Incênd out edif ou out construção e NE      891X 
+674 675  E891.0 Explosao causada por incendio               8910 
+674 676  E891.1 Fumaca prov combustao cloreto de polivinila 8911 
+674 677  E891.2 Outras fumacas e vapores causados p incendi 8912 
+674 678  E891.3 Queimadura causada por incendio             8913 
+674 679  E891.8 Outros acidentes resultantes de incendio    8918 
+674 680  E891.9 Não especificado                            8919 
+    681  E892 - Incêndio exc em edifício ou out constr      892X 
+    682  E893 - Acidente causado por combust das vest       893X 
+682 683  E893.0 Por fogo controlado em habitacao particular 8930 
+682 684  E893.1 Por fogo control outr edif e outr construco 8931 
+682 685  E893.2 Por fogo control lugar q não edif outr cons 8932 
+682 686  E893.8 De outras fontes                            8938 
+682 687  E893.9 Não especificado                            8939 
+    688  E894 - Combustão material altamente inflamáv       894X 
+    689  E895 - Acid fogo controlado em habit particul      895X 
+    690  E896 - Ac fogo control out edifíc constr e NE      896X 
+    691  E897 - Ac fogo control exc em edif out constr      897X 
+    692  E898 - Acid caus out fogos chamas especificad      898X 
+692 693  E898.0 Roupas de cama em chamas                    8980 
+692 694  E898.1 Outros                                      8981 
+692 695  898.9 Código inválido - fora da CID                8989 
+    696  E899 - Acidente causado por fogo ñ especific       899X 
+

@@ -1,0 +1,932 @@
+    931  6                                                                                    
+      1  31001 Águas Formosas                               310090                            
+  1   2  .... Águas Formosas                                310090                            
+  1   3  .... Bertópolis                                    310660                            
+  1   4  .... Crisólita                                     312015                            
+  1   5  .... Fronteira dos Vales                           312705                            
+  1   6  .... Machacalis                                    313890                            
+  1   7  .... Novo Oriente de Minas                         314535                            
+  1   8  .... Pavão                                         314850                            
+  1   9  .... Santa Helena de Minas                         315765                            
+  1  10  .... Umburatiba                                    317030                            
+     11  31002 Além Paraíba                                 310150                            
+ 11  12  .... Além Paraíba                                  310150                            
+ 11  13  .... Estrela Dalva                                 312460                            
+ 11  14  .... Pirapetinga                                   315110                            
+ 11  15  .... Santo Antônio do Aventureiro                  316000                            
+ 11  16  .... Volta Grande                                  317210                            
+     17  31003 Alfenas Machado                              310160                            
+ 17  18  .... Alfenas                                       310160                            
+ 17  19  .... Alterosa                                      310200                            
+ 17  20  .... Areado                                        310430                            
+ 17  21  .... Bandeira do Sul                               310530                            
+ 17  22  .... Botelhos                                      310840                            
+ 17  23  .... Campestre                                     311100                            
+ 17  24  .... Campo do Meio                                 311130                            
+ 17  25  .... Campos Gerais                                 311160                            
+ 17  26  .... Carmo do Rio Claro                            311440                            
+ 17  27  .... Carvalhópolis                                 311470                            
+ 17  28  .... Conceição da Aparecida                        311710                            
+ 17  29  .... Divisa Nova                                   312240                            
+ 17  30  .... Fama                                          312520                            
+ 17  31  .... Machado                                       313900                            
+ 17  32  .... Paraguaçu                                     314720                            
+ 17  33  .... Poço Fundo                                    315170                            
+ 17  34  .... Serrania                                      316690                            
+     35  31004 Almenara                                     310170                            
+ 35  36  .... Almenara                                      310170                            
+ 35  37  .... Bandeira                                      310520                            
+ 35  38  .... Divisópolis                                   312245                            
+ 35  39  .... Felisburgo                                    312560                            
+ 35  40  .... Jacinto                                       313470                            
+ 35  41  .... Jequitinhonha                                 313580                            
+ 35  42  .... Joaíma                                        313600                            
+ 35  43  .... Jordânia                                      313650                            
+ 35  44  .... Mata Verde                                    314055                            
+ 35  45  .... Monte Formoso                                 314315                            
+ 35  46  .... Palmópolis                                    314675                            
+ 35  47  .... Rio do Prado                                  315510                            
+ 35  48  .... Rubim                                         315660                            
+ 35  49  .... Salto da Divisa                               315710                            
+ 35  50  .... Santa Maria do Salto                          315810                            
+ 35  51  .... Santo Antônio do Jacinto                      316030                            
+     52  31005 Araçuaí                                      310340                            
+ 52  53  .... Araçuaí                                       310340                            
+ 52  54  .... Berilo                                        310650                            
+ 52  55  .... Coronel Murta                                 311950                            
+ 52  56  .... Francisco Badaró                              312650                            
+ 52  57  .... Jenipapo de Minas                             313545                            
+ 52  58  .... Virgem da Lapa                                317160                            
+     59  31006 Araxá                                        310400                            
+ 59  60  .... Araxá                                         310400                            
+ 59  61  .... Campos Altos                                  311150                            
+ 59  62  .... Ibiá                                          312950                            
+ 59  63  .... Pedrinópolis                                  314920                            
+ 59  64  .... Perdizes                                      314980                            
+ 59  65  .... Pratinha                                      315300                            
+ 59  66  .... Santa Juliana                                 315770                            
+ 59  67  .... Tapira                                        316810                            
+     68  31007 Barbacena                                    310163                            
+ 68  69  .... Alfredo Vasconcelos                           310163                            
+ 68  70  .... Alto Rio Doce                                 310210                            
+ 68  71  .... Antônio Carlos                                310290                            
+ 68  72  .... Barbacena                                     310560                            
+ 68  73  .... Capela Nova                                   311220                            
+ 68  74  .... Carandaí                                      311320                            
+ 68  75  .... Cipotânea                                     311630                            
+ 68  76  .... Desterro do Melo                              312150                            
+ 68  77  .... Ibertioga                                     312940                            
+ 68  78  .... Paiva                                         314660                            
+ 68  79  .... Ressaquinha                                   315440                            
+ 68  80  .... Santa Bárbara do Tugúrio                      315730                            
+ 68  81  .... Santa Rita de Ibitipoca                       315940                            
+ 68  82  .... Santana do Garambéu                           315870                            
+ 68  83  .... Senhora dos Remédios                          316620                            
+     84  31008 B.Horizonte/N.Lima/Caeté                     310620                            
+ 84  85  .... Belo Horizonte                                310620                            
+ 84  86  .... Belo Vale                                     310640                            
+ 84  87  .... Caeté                                         311000                            
+ 84  88  .... Jaboticatubas                                 313460                            
+ 84  89  .... Moeda                                         314230                            
+ 84  90  .... Nova Lima                                     314480                            
+ 84  91  .... Nova União                                    313660                            
+ 84  92  .... Raposos                                       315390                            
+ 84  93  .... Ribeirão das Neves                            315460                            
+ 84  94  .... Rio Acima                                     315480                            
+ 84  95  .... Sabará                                        315670                            
+ 84  96  .... Santa Luzia                                   315780                            
+ 84  97  .... Taquaraçu de Minas                            316830                            
+     98  31009 Betim                                        310670                            
+ 98  99  .... Betim                                         310670                            
+ 98 100  .... Bonfim                                        310810                            
+ 98 101  .... Brumadinho                                    310900                            
+ 98 102  .... Crucilândia                                   312060                            
+ 98 103  .... Esmeraldas                                    312410                            
+ 98 104  .... Florestal                                     312600                            
+ 98 105  .... Igarapé                                       313010                            
+ 98 106  .... Juatuba                                       313665                            
+ 98 107  .... Mário Campos                                  314015                            
+ 98 108  .... Mateus Leme                                   314070                            
+ 98 109  .... Piedade dos Gerais                            315040                            
+ 98 110  .... Rio Manso                                     315530                            
+ 98 111  .... São Joaquim de Bicas                          316292                            
+    112  31010 Bom Despacho                                 310740                            
+112 113  .... Bom Despacho                                  310740                            
+112 114  .... Dores do Indaiá                               312320                            
+112 115  .... Estrela do Indaiá                             312470                            
+112 116  .... Luz                                           313880                            
+112 117  .... Martinho Campos                               314050                            
+112 118  .... Moema                                         314240                            
+112 119  .... Serra da Saudade                              316660                            
+    120  31011 Brasília MG/S.Francisco                      310860                            
+120 121  .... Brasília de Minas                             310860                            
+120 122  .... Campo Azul                                    311115                            
+120 123  .... Ibiracatu                                     312965                            
+120 124  .... Icaraí de Minas                               313005                            
+120 125  .... Japonvar                                      313535                            
+120 126  .... Lontra                                        313865                            
+120 127  .... Luislândia                                    313868                            
+120 128  .... Mirabela                                      314200                            
+120 129  .... Patis                                         314795                            
+120 130  .... Pintópolis                                    315057                            
+120 131  .... São Francisco                                 316110                            
+120 132  .... São João da Ponte                             316240                            
+120 133  .... São Romão                                     316420                            
+120 134  .... Ubaí                                          317000                            
+120 135  .... Urucuia                                       317052                            
+120 136  .... Varzelândia                                   317090                            
+    137  31012 Carangola                                    311010                            
+137 138  .... Caiana                                        311010                            
+137 139  .... Caparaó                                       311210                            
+137 140  .... Carangola                                     311330                            
+137 141  .... Divino                                        312200                            
+137 142  .... Espera Feliz                                  312420                            
+137 143  .... Faria Lemos                                   312530                            
+137 144  .... Fervedouro                                    312595                            
+137 145  .... Orizânia                                      314587                            
+137 146  .... Pedra Bonita                                  314875                            
+137 147  .... Pedra Dourada                                 314900                            
+137 148  .... Tombos                                        316920                            
+    149  31013 Caratinga                                    310780                            
+149 150  .... Bom Jesus do Galho                            310780                            
+149 151  .... Caratinga                                     311340                            
+149 152  .... Entre Folhas                                  312385                            
+149 153  .... Imbé de Minas                                 313055                            
+149 154  .... Inhapim                                       313090                            
+149 155  .... Piedade de Caratinga                          315015                            
+149 156  .... Santa Bárbara do Leste                        315725                            
+149 157  .... Santa Rita de Minas                           315935                            
+149 158  .... São Domingos das Dores                        316095                            
+149 159  .... São Sebastião do Anta                         316447                            
+149 160  .... Ubaporanga                                    317005                            
+149 161  .... Vargem Alegre                                 317057                            
+149 162  .... Vermelho Novo                                 317115                            
+    163  31014 Cons.Lafaiete/Congonhas                      311310                            
+163 164  .... Caranaíba                                     311310                            
+163 165  .... Casa Grande                                   311490                            
+163 166  .... Catas Altas da Noruega                        311540                            
+163 167  .... Congonhas                                     311800                            
+163 168  .... Conselheiro Lafaiete                          311830                            
+163 169  .... Cristiano Otoni                               312040                            
+163 170  .... Desterro de Entre Rios                        312140                            
+163 171  .... Entre Rios de Minas                           312390                            
+163 172  .... Itaverava                                     313390                            
+163 173  .... Jeceaba                                       313540                            
+163 174  .... Lamim                                         313790                            
+163 175  .... Ouro Branco                                   314590                            
+163 176  .... Piranga                                       315080                            
+163 177  .... Queluzito                                     315380                            
+163 178  .... Rio Espera                                    315520                            
+163 179  .... Santana dos Montes                            315910                            
+163 180  .... São Brás do Suaçuí                            316090                            
+163 181  .... Senhora de Oliveira                           316600                            
+    182  31015 Contagem                                     311860                            
+182 183  .... Contagem                                      311860                            
+182 184  .... Ibirité                                       312980                            
+182 185  .... Sarzedo                                       316553                            
+    186  31016 Coração de Jesus                             311880                            
+186 187  .... Coração de Jesus                              311880                            
+186 188  .... Jequitaí                                      313560                            
+186 189  .... Lagoa dos Patos                               313730                            
+186 190  .... São João da Lagoa                             316225                            
+186 191  .... São João do Pacuí                             316265                            
+    192  31017 Cel.Fabriciano/Timóteo                       310300                            
+192 193  .... Antônio Dias                                  310300                            
+192 194  .... Coronel Fabriciano                            311940                            
+192 195  .... Córrego Novo                                  312000                            
+192 196  .... Dionísio                                      312180                            
+192 197  .... Jaguaraçu                                     313500                            
+192 198  .... Marliéria                                     314030                            
+192 199  .... Pingo-d'Água                                  315053                            
+192 200  .... Timóteo                                       316870                            
+    201  31018 Curvelo                                      310480                            
+201 202  .... Augusto de Lima                               310480                            
+201 203  .... Buenópolis                                    310920                            
+201 204  .... Corinto                                       311910                            
+201 205  .... Curvelo                                       312090                            
+201 206  .... Felixlândia                                   312570                            
+201 207  .... Inimutaba                                     313110                            
+201 208  .... Monjolos                                      314250                            
+201 209  .... Morro da Garça                                314360                            
+201 210  .... Presidente Juscelino                          315320                            
+201 211  .... Santo Hipólito                                316060                            
+201 212  .... Três Marias                                   316935                            
+    213  31019 Diamantina                                   310240                            
+213 214  .... Alvorada de Minas                             310240                            
+213 215  .... Carbonita                                     311350                            
+213 216  .... Coluna                                        311680                            
+213 217  .... Congonhas do Norte                            311810                            
+213 218  .... Couto de Magalhães de Minas                   312010                            
+213 219  .... Datas                                         312100                            
+213 220  .... Diamantina                                    312160                            
+213 221  .... Felício dos Santos                            312540                            
+213 222  .... Gouveia                                       312760                            
+213 223  .... Itamarandiba                                  313250                            
+213 224  .... Presidente Kubitschek                         315330                            
+213 225  .... Santo Antônio do Itambé                       316020                            
+213 226  .... São Gonçalo do Rio Preto                      312550                            
+213 227  .... Senador Modestino Gonçalves                   316590                            
+213 228  .... Serro                                         316710                            
+    229  31020 Divinópolis/S.Antº.Monte                     310390                            
+229 230  .... Araújos                                       310390                            
+229 231  .... Arcos                                         310420                            
+229 232  .... Carmo do Cajuru                               311420                            
+229 233  .... Cláudio                                       311660                            
+229 234  .... Divinópolis                                   312230                            
+229 235  .... Itapecerica                                   313350                            
+229 236  .... Japaraíba                                     313530                            
+229 237  .... Lagoa da Prata                                313720                            
+229 238  .... Pedra do Indaiá                               314890                            
+229 239  .... Perdigão                                      314970                            
+229 240  .... Santo Antônio do Monte                        316040                            
+229 241  .... São Gonçalo do Pará                           316180                            
+229 242  .... São Sebastião do Oeste                        316460                            
+    243  31021 Formiga                                      310510                            
+243 244  .... Bambuí                                        310510                            
+243 245  .... Córrego Danta                                 311980                            
+243 246  .... Córrego Fundo                                 311995                            
+243 247  .... Formiga                                       312610                            
+243 248  .... Iguatama                                      313030                            
+243 249  .... Medeiros                                      314130                            
+243 250  .... Pains                                         314650                            
+243 251  .... Pimenta                                       315050                            
+243 252  .... Tapiraí                                       316820                            
+    253  31022 Francisco Sá                                 310850                            
+253 254  .... Botumirim                                     310850                            
+253 255  .... Capitão Enéas                                 311270                            
+253 256  .... Cristália                                     312030                            
+253 257  .... Francisco Sá                                  312670                            
+253 258  .... Grão Mogol                                    312780                            
+253 259  .... Josenópolis                                   313657                            
+    260  31023 Frutal Iturama                               311455                            
+260 261  .... Carneirinho                                   311455                            
+260 262  .... Comendador Gomes                              311690                            
+260 263  .... Fronteira                                     312700                            
+260 264  .... Frutal                                        312710                            
+260 265  .... Itapagipe                                     313340                            
+260 266  .... Iturama                                       313440                            
+260 267  .... Limeira do Oeste                              313862                            
+260 268  .... Pirajuba                                      315070                            
+260 269  .... Planura                                       315160                            
+260 270  .... São Francisco de Sales                        316130                            
+260 271  .... União de Minas                                317043                            
+    272  31024 Governador Valadares                         310180                            
+272 273  .... Alpercata                                     310180                            
+272 274  .... Capitão Andrade                               311265                            
+272 275  .... Coroaci                                       311920                            
+272 276  .... Divinolândia de Minas                         312220                            
+272 277  .... Engenheiro Caldas                             312370                            
+272 278  .... Fernandes Tourinho                            312580                            
+272 279  .... Frei Inocêncio                                312690                            
+272 280  .... Galiléia                                      312730                            
+272 281  .... Gonzaga                                       312750                            
+272 282  .... Governador Valadares                          312770                            
+272 283  .... Itanhomi                                      313320                            
+272 284  .... Jampruca                                      313507                            
+272 285  .... Marilac                                       314010                            
+272 286  .... Mathias Lobato                                317150                            
+272 287  .... Nacip Raydan                                  314420                            
+272 288  .... Santa Efigênia de Minas                       315750                            
+272 289  .... São Geraldo da Piedade                        316160                            
+272 290  .... São Geraldo do Baixio                         316165                            
+272 291  .... São José da Safira                            316300                            
+272 292  .... Sardoá                                        316550                            
+272 293  .... Sobrália                                      316770                            
+272 294  .... Tarumirim                                     316840                            
+272 295  .... Tumiritinga                                   316950                            
+272 296  .... Virgolândia                                   317190                            
+    297  31025 Guanhães                                     311380                            
+297 298  .... Carmésia                                      311380                            
+297 299  .... Dom Joaquim                                   312260                            
+297 300  .... Dores de Guanhães                             312310                            
+297 301  .... Guanhães                                      312800                            
+297 302  .... Materlândia                                   314060                            
+297 303  .... Rio Vermelho                                  315600                            
+297 304  .... Sabinópolis                                   315680                            
+297 305  .... Senhora do Porto                              316610                            
+297 306  .... Serra Azul de Minas                           316650                            
+297 307  .... Virginópolis                                  317180                            
+    308  31026 Guaxupé                                      310410                            
+308 309  .... Arceburgo                                     310410                            
+308 310  .... Cabo Verde                                    310950                            
+308 311  .... Guaranésia                                    312830                            
+308 312  .... Guaxupé                                       312870                            
+308 313  .... Juruaia                                       313690                            
+308 314  .... Monte Belo                                    314300                            
+308 315  .... Muzambinho                                    314410                            
+308 316  .... Nova Resende                                  314510                            
+308 317  .... São Pedro da União                            316390                            
+    318  31027 Ipatinga                                     310050                            
+318 319  .... Açucena                                       310050                            
+318 320  .... Belo Oriente                                  310630                            
+318 321  .... Braúnas                                       310880                            
+318 322  .... Bugre                                         310925                            
+318 323  .... Dom Cavati                                    312250                            
+318 324  .... Iapu                                          312930                            
+318 325  .... Ipaba                                         313115                            
+318 326  .... Ipatinga                                      313130                            
+318 327  .... Joanésia                                      313610                            
+318 328  .... Mesquita                                      314170                            
+318 329  .... Naque                                         314435                            
+318 330  .... Periquito                                     314995                            
+318 331  .... Santana do Paraíso                            315895                            
+318 332  .... São João do Oriente                           316260                            
+    333  31028 Itabira                                      310540                            
+333 334  .... Barão de Cocais                               310540                            
+333 335  .... Bom Jesus do Amparo                           310770                            
+333 336  .... Catas Altas                                   311535                            
+333 337  .... Ferros                                        312590                            
+333 338  .... Itabira                                       313170                            
+333 339  .... Itambé do Mato Dentro                         313280                            
+333 340  .... Morro do Pilar                                314370                            
+333 341  .... Passabém                                      314750                            
+333 342  .... Santa Bárbara                                 315720                            
+333 343  .... Santa Maria de Itabira                        315800                            
+333 344  .... Santo Antônio do Rio Abaixo                   316050                            
+333 345  .... São Gonçalo do Rio Abaixo                     316190                            
+333 346  .... São Sebastião do Rio Preto                    316480                            
+    347  31029 Itajubá                                      310890                            
+347 348  .... Brasópolis                                    310890                            
+347 349  .... Conceição das Pedras                          311720                            
+347 350  .... Consolação                                    311850                            
+347 351  .... Delfim Moreira                                312110                            
+347 352  .... Gonçalves                                     312740                            
+347 353  .... Itajubá                                       313240                            
+347 354  .... Maria da Fé                                   313990                            
+347 355  .... Marmelópolis                                  314040                            
+347 356  .... Paraisópolis                                  314730                            
+347 357  .... Pedralva                                      314910                            
+347 358  .... Piranguçu                                     315090                            
+347 359  .... Piranguinho                                   315100                            
+347 360  .... São José do Alegre                            316320                            
+347 361  .... Sapucaí-Mirim                                 316540                            
+347 362  .... Wenceslau Braz                                317220                            
+    363  31030 Itaobim                                      311700                            
+363 364  .... Comercinho                                    311700                            
+363 365  .... Itaobim                                       313330                            
+363 366  .... Itinga                                        313400                            
+363 367  .... Medina                                        314140                            
+363 368  .... Ponto dos Volantes                            315217                            
+    369  31031 Itaúna                                       313220                            
+369 370  .... Itaguara                                      313220                            
+369 371  .... Itatiaiuçu                                    313370                            
+369 372  .... Itaúna                                        313380                            
+369 373  .... Piracema                                      315060                            
+    374  31032 Ituiutaba                                    310980                            
+374 375  .... Cachoeira Dourada                             310980                            
+374 376  .... Campina Verde                                 311110                            
+374 377  .... Canápolis                                     311180                            
+374 378  .... Capinópolis                                   311260                            
+374 379  .... Centralina                                    311580                            
+374 380  .... Gurinhatã                                     312910                            
+374 381  .... Ipiaçu                                        313140                            
+374 382  .... Ituiutaba                                     313420                            
+374 383  .... Santa Vitória                                 315980                            
+    384  31033 Janaúba Monte Azul                           311547                            
+384 385  .... Catuti                                        311547                            
+384 386  .... Espinosa                                      312430                            
+384 387  .... Gameleiras                                    312733                            
+384 388  .... Jaíba                                         313505                            
+384 389  .... Janaúba                                       313510                            
+384 390  .... Mamonas                                       313925                            
+384 391  .... Matias Cardoso                                314085                            
+384 392  .... Mato Verde                                    314100                            
+384 393  .... Monte Azul                                    314290                            
+384 394  .... Nova Porteirinha                              314505                            
+384 395  .... Pai Pedro                                     314655                            
+384 396  .... Porteirinha                                   315220                            
+384 397  .... Riacho dos Machados                           315450                            
+384 398  .... Serranópolis de Minas                         316695                            
+384 399  .... Verdelândia                                   317103                            
+    400  31034 Januária                                     310825                            
+400 401  .... Bonito de Minas                               310825                            
+400 402  .... Cônego Marinho                                311783                            
+400 403  .... Itacarambi                                    313210                            
+400 404  .... Januária                                      313520                            
+400 405  .... Pedras de Maria da Cruz                       314915                            
+    406  31035 João Monlevade                               310600                            
+406 407  .... Bela Vista de Minas                           310600                            
+406 408  .... João Monlevade                                313620                            
+406 409  .... Nova Era                                      314470                            
+406 410  .... Rio Piracicaba                                315570                            
+406 411  .... São Domingos do Prata                         316100                            
+    412  31036 João Pinheiro                                310855                            
+412 413  .... Brasilândia de Minas                          310855                            
+412 414  .... João Pinheiro                                 313630                            
+412 415  .... Lagoa Grande                                  313753                            
+    416  31037 J.Fora/L.Duarte/B.Jardim                     310280                            
+416 417  .... Andrelândia                                   310280                            
+416 418  .... Arantina                                      310360                            
+416 419  .... Belmiro Braga                                 310610                            
+416 420  .... Bias Fortes                                   310680                            
+416 421  .... Bocaina de Minas                              310720                            
+416 422  .... Bom Jardim de Minas                           310750                            
+416 423  .... Chácara                                       311590                            
+416 424  .... Chiador                                       311620                            
+416 425  .... Coronel Pacheco                               311960                            
+416 426  .... Ewbank da Câmara                              312500                            
+416 427  .... Goianá                                        312738                            
+416 428  .... Juiz de Fora                                  313670                            
+416 429  .... Liberdade                                     313850                            
+416 430  .... Lima Duarte                                   313860                            
+416 431  .... Matias Barbosa                                314080                            
+416 432  .... Olaria                                        314540                            
+416 433  .... Passa-Vinte                                   314780                            
+416 434  .... Pedro Teixeira                                314940                            
+416 435  .... Piau                                          315010                            
+416 436  .... Rio Novo                                      315540                            
+416 437  .... Rio Preto                                     315590                            
+416 438  .... Santa Bárbara do Monte Verde                  315727                            
+416 439  .... Santa Rita de Jacutinga                       315930                            
+416 440  .... Santana do Deserto                            315860                            
+416 441  .... Simão Pereira                                 316750                            
+    442  31038 Lavras                                       311460                            
+442 443  .... Carrancas                                     311460                            
+442 444  .... Ijaci                                         313040                            
+442 445  .... Ingaí                                         313080                            
+442 446  .... Itumirim                                      313430                            
+442 447  .... Itutinga                                      313450                            
+442 448  .... Lavras                                        313820                            
+442 449  .... Luminárias                                    313870                            
+442 450  .... Nepomuceno                                    314460                            
+442 451  .... Perdões                                       314990                            
+442 452  .... Ribeirão Vermelho                             315470                            
+    453  31039 Leopoldina Cataguases                        310440                            
+453 454  .... Argirita                                      310440                            
+453 455  .... Astolfo Dutra                                 310460                            
+453 456  .... Cataguases                                    311530                            
+453 457  .... Dona Eusébia                                  312290                            
+453 458  .... Itamarati de Minas                            313260                            
+453 459  .... Laranjal                                      313800                            
+453 460  .... Leopoldina                                    313840                            
+453 461  .... Palma                                         314670                            
+453 462  .... Recreio                                       315410                            
+453 463  .... Santana de Cataguases                         315840                            
+    464  31040 Manga                                        313695                            
+464 465  .... Juvenília                                     313695                            
+464 466  .... Manga                                         313930                            
+464 467  .... Miravânia                                     314225                            
+464 468  .... Montalvânia                                   314270                            
+464 469  .... São João das Missões                          316245                            
+    470  31041 Manhuaçu                                     310030                            
+470 471  .... Abre Campo                                    310030                            
+470 472  .... Alto Caparaó                                  310205                            
+470 473  .... Alto Jequitibá                                315350                            
+470 474  .... Caputira                                      311290                            
+470 475  .... Chalé                                         311600                            
+470 476  .... Conceição de Ipanema                          311740                            
+470 477  .... Durandé                                       312352                            
+470 478  .... Ipanema                                       313120                            
+470 479  .... Lajinha                                       313770                            
+470 480  .... Luisburgo                                     313867                            
+470 481  .... Manhuaçu                                      313940                            
+470 482  .... Manhumirim                                    313950                            
+470 483  .... Martins Soares                                314053                            
+470 484  .... Matipó                                        314090                            
+470 485  .... Mutum                                         314400                            
+470 486  .... Pocrane                                       315190                            
+470 487  .... Reduto                                        315415                            
+470 488  .... Santa Margarida                               315790                            
+470 489  .... Santana do Manhuaçu                           315890                            
+470 490  .... São João do Manhuaçu                          316255                            
+470 491  .... São José do Mantimento                        316360                            
+470 492  .... Simonésia                                     316760                            
+470 493  .... Taparuba                                      316805                            
+    494  31042 Mantena                                      311570                            
+494 495  .... Central de Minas                              311570                            
+494 496  .... Cuparaque                                     312083                            
+494 497  .... Divino das Laranjeiras                        312210                            
+494 498  .... Itabirinha                                    313180                            
+494 499  .... Mantena                                       313960                            
+494 500  .... Mendes Pimentel                               314150                            
+494 501  .... Nova Belém                                    314467                            
+494 502  .... São Félix de Minas                            316105                            
+494 503  .... São João do Manteninha                        316257                            
+    504  31043 M.Novas/Turmalin/Capelin                     310445                            
+504 505  .... Aricanduva                                    310445                            
+504 506  .... Capelinha                                     311230                            
+504 507  .... Chapada do Norte                              311610                            
+504 508  .... José Gonçalves de Minas                       313652                            
+504 509  .... Leme do Prado                                 313835                            
+504 510  .... Minas Novas                                   314180                            
+504 511  .... Turmalina                                     316970                            
+504 512  .... Veredinha                                     317107                            
+    513  31044 Montes Claros Bocaiúva                       310730                            
+513 514  .... Bocaiúva                                      310730                            
+513 515  .... Claro dos Poções                              311650                            
+513 516  .... Engenheiro Navarro                            312380                            
+513 517  .... Francisco Dumont                              312660                            
+513 518  .... Glaucilândia                                  312735                            
+513 519  .... Guaraciama                                    312825                            
+513 520  .... Itacambira                                    313200                            
+513 521  .... Joaquim Felício                               313640                            
+513 522  .... Juramento                                     313680                            
+513 523  .... Montes Claros                                 314330                            
+513 524  .... Olhos-d'Água                                  314545                            
+    525  31045 Muriaé                                       310310                            
+525 526  .... Antônio Prado de Minas                        310310                            
+525 527  .... Barão de Monte Alto                           310550                            
+525 528  .... Eugenópolis                                   312490                            
+525 529  .... Miradouro                                     314210                            
+525 530  .... Miraí                                         314220                            
+525 531  .... Muriaé                                        314390                            
+525 532  .... Patrocínio do Muriaé                          314820                            
+525 533  .... Rosário da Limeira                            315645                            
+525 534  .... São Francisco do Glória                       316140                            
+525 535  .... São Sebastião da Vargem Alegre                316443                            
+525 536  .... Vieiras                                       317140                            
+    537  31046 Nanuque                                      311370                            
+537 538  .... Carlos Chagas                                 311370                            
+537 539  .... Nanuque                                       314430                            
+537 540  .... Serra dos Aimorés                             316670                            
+    541  31047 Ouro Preto                                   313190                            
+541 542  .... Itabirito                                     313190                            
+541 543  .... Mariana                                       314000                            
+541 544  .... Ouro Preto                                    314610                            
+    545  31048 Padre Paraíso                                311300                            
+545 546  .... Caraí                                         311300                            
+545 547  .... Catuji                                        311545                            
+545 548  .... Itaipé                                        313230                            
+545 549  .... Padre Paraíso                                 314630                            
+    550  31049 Pará de Minas                                311760                            
+550 551  .... Conceição do Pará                             311760                            
+550 552  .... Igaratinga                                    313020                            
+550 553  .... Leandro Ferreira                              313830                            
+550 554  .... Nova Serrana                                  314520                            
+550 555  .... Onça de Pitangui                              314580                            
+550 556  .... Pará de Minas                                 314710                            
+550 557  .... Pitangui                                      315140                            
+550 558  .... São José da Varginha                          316310                            
+    559  31050 Passos Piumhi                                310190                            
+559 560  .... Alpinópolis                                   310190                            
+559 561  .... Bom Jesus da Penha                            310760                            
+559 562  .... Capetinga                                     311240                            
+559 563  .... Capitólio                                     311280                            
+559 564  .... Cássia                                        311510                            
+559 565  .... Claraval                                      311640                            
+559 566  .... Delfinópolis                                  312120                            
+559 567  .... Doresópolis                                   312340                            
+559 568  .... Fortaleza de Minas                            312630                            
+559 569  .... Guapé                                         312810                            
+559 570  .... Ibiraci                                       312970                            
+559 571  .... Itaú de Minas                                 313375                            
+559 572  .... Passos                                        314790                            
+559 573  .... Piumhi                                        315150                            
+559 574  .... São João Batista do Glória                    316220                            
+559 575  .... São José da Barra                             316294                            
+559 576  .... São Roque de Minas                            316430                            
+559 577  .... Vargem Bonita                                 317060                            
+    578  31051 Patos de Minas                               310380                            
+578 579  .... Arapuá                                        310380                            
+578 580  .... Carmo do Paranaíba                            311430                            
+578 581  .... Cruzeiro da Fortaleza                         312070                            
+578 582  .... Guarda-Mor                                    312860                            
+578 583  .... Guimarânia                                    312890                            
+578 584  .... Lagamar                                       313710                            
+578 585  .... Lagoa Formosa                                 313750                            
+578 586  .... Matutina                                      314120                            
+578 587  .... Patos de Minas                                314800                            
+578 588  .... Presidente Olegário                           315340                            
+578 589  .... Rio Paranaíba                                 315550                            
+578 590  .... Santa Rosa da Serra                           315970                            
+578 591  .... São Gonçalo do Abaeté                         316170                            
+578 592  .... São Gotardo                                   316210                            
+578 593  .... Serra do Salitre                              316680                            
+578 594  .... Tiros                                         316890                            
+578 595  .... Varjão de Minas                               317075                            
+578 596  .... Vazante                                       317100                            
+    597  31052 Patrocínio Monte Carmelo                     310010                            
+597 598  .... Abadia dos Dourados                           310010                            
+597 599  .... Coromandel                                    311930                            
+597 600  .... Douradoquara                                  312350                            
+597 601  .... Estrela do Sul                                312480                            
+597 602  .... Grupiara                                      312790                            
+597 603  .... Iraí de Minas                                 313160                            
+597 604  .... Monte Carmelo                                 314310                            
+597 605  .... Patrocínio                                    314810                            
+597 606  .... Romaria                                       315640                            
+    607  31053 Pedra Azul                                   310100                            
+607 608  .... Águas Vermelhas                               310100                            
+607 609  .... Cachoeira de Pajeú                            310270                            
+607 610  .... Divisa Alegre                                 312235                            
+607 611  .... Pedra Azul                                    314870                            
+    612  31054 Pirapora                                     310940                            
+612 613  .... Buritizeiro                                   310940                            
+612 614  .... Ibiaí                                         312960                            
+612 615  .... Lassance                                      313810                            
+612 616  .... Pirapora                                      315120                            
+612 617  .... Ponto Chique                                  315213                            
+612 618  .... Santa Fé de Minas                             315760                            
+612 619  .... Várzea da Palma                               317080                            
+    620  31055 Poços de Caldas                              310260                            
+620 621  .... Andradas                                      310260                            
+620 622  .... Caldas                                        311030                            
+620 623  .... Ibitiúra de Minas                             312990                            
+620 624  .... Poços de Caldas                               315180                            
+620 625  .... Santa Rita de Caldas                          315920                            
+    626  31056 Ponte Nova                                   310040                            
+626 627  .... Acaiaca                                       310040                            
+626 628  .... Alvinópolis                                   310230                            
+626 629  .... Amparo do Serra                               310250                            
+626 630  .... Barra Longa                                   310570                            
+626 631  .... Diogo de Vasconcelos                          312170                            
+626 632  .... Dom Silvério                                  312270                            
+626 633  .... Guaraciaba                                    312820                            
+626 634  .... Jequeri                                       313550                            
+626 635  .... Oratórios                                     314585                            
+626 636  .... Piedade de Ponte Nova                         315020                            
+626 637  .... Ponte Nova                                    315210                            
+626 638  .... Raul Soares                                   315400                            
+626 639  .... Rio Casca                                     315490                            
+626 640  .... Rio Doce                                      315500                            
+626 641  .... Santa Cruz do Escalvado                       315740                            
+626 642  .... Santo Antônio do Grama                        316010                            
+626 643  .... São José do Goiabal                           316340                            
+626 644  .... São Pedro dos Ferros                          316400                            
+626 645  .... Sem-Peixe                                     316556                            
+626 646  .... Sericita                                      316630                            
+626 647  .... Urucânia                                      317050                            
+    648  31057 Pouso Alegre                                 310140                            
+648 649  .... Albertina                                     310140                            
+648 650  .... Bom Repouso                                   310790                            
+648 651  .... Borda da Mata                                 310830                            
+648 652  .... Bueno Brandão                                 310910                            
+648 653  .... Cachoeira de Minas                            310970                            
+648 654  .... Camanducaia                                   311050                            
+648 655  .... Cambuí                                        311060                            
+648 656  .... Careaçu                                       311360                            
+648 657  .... Conceição dos Ouros                           311780                            
+648 658  .... Congonhal                                     311790                            
+648 659  .... Córrego do Bom Jesus                          311990                            
+648 660  .... Espírito Santo do Dourado                     312440                            
+648 661  .... Estiva                                        312450                            
+648 662  .... Extrema                                       312510                            
+648 663  .... Heliodora                                     312920                            
+648 664  .... Inconfidentes                                 313060                            
+648 665  .... Ipuiúna                                       313150                            
+648 666  .... Itapeva                                       313360                            
+648 667  .... Jacutinga                                     313490                            
+648 668  .... Monte Sião                                    314340                            
+648 669  .... Munhoz                                        314380                            
+648 670  .... Natércia                                      314440                            
+648 671  .... Ouro Fino                                     314600                            
+648 672  .... Pouso Alegre                                  315250                            
+648 673  .... Santa Rita do Sapucaí                         315960                            
+648 674  .... São João da Mata                              316230                            
+648 675  .... São Sebastião da Bela Vista                   316440                            
+648 676  .... Senador Amaral                                316557                            
+648 677  .... Senador José Bento                            316580                            
+648 678  .... Silvianópolis                                 316740                            
+648 679  .... Tocos do Moji                                 316905                            
+648 680  .... Toledo                                        316910                            
+648 681  .... Turvolândia                                   316980                            
+    682  31058 Resplendor                                   310110                            
+682 683  .... Aimorés                                       310110                            
+682 684  .... Alvarenga                                     310220                            
+682 685  .... Conselheiro Pena                              311840                            
+682 686  .... Goiabeira                                     312737                            
+682 687  .... Itueta                                        313410                            
+682 688  .... Resplendor                                    315430                            
+682 689  .... Santa Rita do Itueto                          315950                            
+    690  31059 Salinas Taiobeiras                           310665                            
+690 691  .... Berizal                                       310665                            
+690 692  .... Curral de Dentro                              312087                            
+690 693  .... Fruta de Leite                                312707                            
+690 694  .... Indaiabira                                    313065                            
+690 695  .... Montezuma                                     314345                            
+690 696  .... Ninheira                                      314465                            
+690 697  .... Novorizonte                                   314537                            
+690 698  .... Padre Carvalho                                314625                            
+690 699  .... Rio Pardo de Minas                            315560                            
+690 700  .... Rubelita                                      315650                            
+690 701  .... Salinas                                       315700                            
+690 702  .... Santa Cruz de Salinas                         315737                            
+690 703  .... Santo Antônio do Retiro                       316045                            
+690 704  .... São João do Paraíso                           316270                            
+690 705  .... Taiobeiras                                    316800                            
+690 706  .... Vargem Grande do Rio Pardo                    317065                            
+    707  31060 S.Maria Suaçuí/S.João Ev                     310060                            
+707 708  .... Água Boa                                      310060                            
+707 709  .... Cantagalo                                     311205                            
+707 710  .... Frei Lagonegro                                312695                            
+707 711  .... José Raydan                                   313655                            
+707 712  .... Paulistas                                     314840                            
+707 713  .... Peçanha                                       314860                            
+707 714  .... Santa Maria do Suaçuí                         315820                            
+707 715  .... São João Evangelista                          316280                            
+707 716  .... São José do Jacuri                            316350                            
+707 717  .... São Pedro do Suaçuí                           316410                            
+707 718  .... São Sebastião do Maranhão                     316450                            
+    719  31061 S.Antôn.Amparo/Cpo.Belo                      310080                            
+719 720  .... Aguanil                                       310080                            
+719 721  .... Bom Sucesso                                   310800                            
+719 722  .... Camacho                                       311040                            
+719 723  .... Campo Belo                                    311120                            
+719 724  .... Cana Verde                                    311190                            
+719 725  .... Candeias                                      311200                            
+719 726  .... Carmo da Mata                                 311400                            
+719 727  .... Carmópolis de Minas                           311450                            
+719 728  .... Cristais                                      312020                            
+719 729  .... Oliveira                                      314560                            
+719 730  .... Passa Tempo                                   314770                            
+719 731  .... Santana do Jacaré                             315880                            
+719 732  .... Santo Antônio do Amparo                       315990                            
+719 733  .... São Francisco de Paula                        316120                            
+    734  31062 Santos Dumont                                310330                            
+734 735  .... Aracitaba                                     310330                            
+734 736  .... Oliveira Fortes                               314570                            
+734 737  .... Santos Dumont                                 316070                            
+    738  31063 São João del Rei                             310590                            
+738 739  .... Barroso                                       310590                            
+738 740  .... Conceição da Barra de Minas                   311520                            
+738 741  .... Coronel Xavier Chaves                         311970                            
+738 742  .... Dores de Campos                               312300                            
+738 743  .... Ibituruna                                     313000                            
+738 744  .... Lagoa Dourada                                 313740                            
+738 745  .... Madre de Deus de Minas                        313910                            
+738 746  .... Nazareno                                      314450                            
+738 747  .... Piedade do Rio Grande                         315030                            
+738 748  .... Prados                                        315270                            
+738 749  .... Resende Costa                                 315420                            
+738 750  .... Ritápolis                                     315610                            
+738 751  .... Santa Cruz de Minas                           315733                            
+738 752  .... São João del Rei                              316250                            
+738 753  .... São Tiago                                     316500                            
+738 754  .... São Vicente de Minas                          316530                            
+738 755  .... Tiradentes                                    316880                            
+    756  31064 S.João Nepomuceno/Bicas                      310690                            
+756 757  .... Bicas                                         310690                            
+756 758  .... Descoberto                                    312130                            
+756 759  .... Guarará                                       312850                            
+756 760  .... Mar de Espanha                                313980                            
+756 761  .... Maripá de Minas                               314020                            
+756 762  .... Pequeri                                       314950                            
+756 763  .... Rochedo de Minas                              315620                            
+756 764  .... São João Nepomuceno                           316290                            
+756 765  .... Senador Cortes                                316560                            
+    766  31065 São Lourenço                                 310120                            
+766 767  .... Aiuruoca                                      310120                            
+766 768  .... Alagoa                                        310130                            
+766 769  .... Baependi                                      310490                            
+766 770  .... Carmo de Minas                                311410                            
+766 771  .... Carvalhos                                     311480                            
+766 772  .... Caxambu                                       311550                            
+766 773  .... Conceição do Rio Verde                        311770                            
+766 774  .... Cristina                                      312050                            
+766 775  .... Cruzília                                      312080                            
+766 776  .... Dom Viçoso                                    312280                            
+766 777  .... Itamonte                                      313300                            
+766 778  .... Itanhandu                                     313310                            
+766 779  .... Jesuânia                                      313590                            
+766 780  .... Lambari                                       313780                            
+766 781  .... Minduri                                       314190                            
+766 782  .... Olímpio Noronha                               314550                            
+766 783  .... Passa Quatro                                  314760                            
+766 784  .... Pouso Alto                                    315260                            
+766 785  .... São Lourenço                                  316370                            
+766 786  .... São Sebastião do Rio Verde                    316490                            
+766 787  .... Seritinga                                     316640                            
+766 788  .... Serranos                                      316700                            
+766 789  .... Soledade de Minas                             316780                            
+766 790  .... Virgínia                                      317170                            
+    791  31066 São Sebastião do Paraíso                     313290                            
+791 792  .... Itamogi                                       313290                            
+791 793  .... Jacuí                                         313480                            
+791 794  .... Monte Santo de Minas                          314320                            
+791 795  .... Pratápolis                                    315290                            
+791 796  .... São Sebastião do Paraíso                      316470                            
+791 797  .... São Tomás de Aquino                           316510                            
+    798  31067 Sete Lagoas                                  310020                            
+798 799  .... Abaeté                                        310020                            
+798 800  .... Araçaí                                        310320                            
+798 801  .... Baldim                                        310500                            
+798 802  .... Biquinhas                                     310700                            
+798 803  .... Cachoeira da Prata                            310960                            
+798 804  .... Caetanópolis                                  310990                            
+798 805  .... Capim Branco                                  311250                            
+798 806  .... Cedro do Abaeté                               311560                            
+798 807  .... Cordisburgo                                   311890                            
+798 808  .... Fortuna de Minas                              312640                            
+798 809  .... Funilândia                                    312720                            
+798 810  .... Inhaúma                                       313100                            
+798 811  .... Jequitibá                                     313570                            
+798 812  .... Maravilhas                                    313970                            
+798 813  .... Morada Nova de Minas                          314350                            
+798 814  .... Paineiras                                     314640                            
+798 815  .... Papagaios                                     314690                            
+798 816  .... Paraopeba                                     314740                            
+798 817  .... Pequi                                         314960                            
+798 818  .... Pompéu                                        315200                            
+798 819  .... Prudente de Morais                            315360                            
+798 820  .... Quartel Geral                                 315370                            
+798 821  .... Santana de Pirapama                           315850                            
+798 822  .... Sete Lagoas                                   316720                            
+    823  31068 T.Otoni/Malacac/Itambac.                     310285                            
+823 824  .... Angelândia                                    310285                            
+823 825  .... Ataléia                                       310470                            
+823 826  .... Campanário                                    311080                            
+823 827  .... Franciscópolis                                312675                            
+823 828  .... Frei Gaspar                                   312680                            
+823 829  .... Itambacuri                                    313270                            
+823 830  .... Ladainha                                      313700                            
+823 831  .... Malacacheta                                   313920                            
+823 832  .... Nova Módica                                   314490                            
+823 833  .... Novo Cruzeiro                                 314530                            
+823 834  .... Ouro Verde de Minas                           314620                            
+823 835  .... Pescador                                      315000                            
+823 836  .... Poté                                          315240                            
+823 837  .... São José do Divino                            316330                            
+823 838  .... Setubinha                                     316555                            
+823 839  .... Teófilo Otoni                                 316860                            
+    840  31069 Três Corações                                311070                            
+840 841  .... Cambuquira                                    311070                            
+840 842  .... Campanha                                      311090                            
+840 843  .... Carmo da Cachoeira                            311390                            
+840 844  .... São Bento Abade                               316080                            
+840 845  .... São Thomé das Letras                          316520                            
+840 846  .... Três Corações                                 316930                            
+    847  31070 Três Pontas                                  310710                            
+847 848  .... Boa Esperança                                 310710                            
+847 849  .... Coqueiral                                     311870                            
+847 850  .... Ilicínea                                      313050                            
+847 851  .... Santana da Vargem                             315830                            
+847 852  .... Três Pontas                                   316940                            
+    853  31071 Ubá                                          310870                            
+853 854  .... Brás Pires                                    310870                            
+853 855  .... Coimbra                                       311670                            
+853 856  .... Divinésia                                     312190                            
+853 857  .... Dores do Turvo                                312330                            
+853 858  .... Ervália                                       312400                            
+853 859  .... Guarani                                       312840                            
+853 860  .... Guidoval                                      312880                            
+853 861  .... Guiricema                                     312900                            
+853 862  .... Mercês                                        314160                            
+853 863  .... Piraúba                                       315130                            
+853 864  .... Presidente Bernardes                          315310                            
+853 865  .... Rio Pomba                                     315580                            
+853 866  .... Rodeiro                                       315630                            
+853 867  .... São Geraldo                                   316150                            
+853 868  .... Senador Firmino                               316570                            
+853 869  .... Silveirânia                                   316730                            
+853 870  .... Tabuleiro                                     316790                            
+853 871  .... Tocantins                                     316900                            
+853 872  .... Ubá                                           316990                            
+853 873  .... Visconde do Rio Branco                        317200                            
+    874  31072 Uberaba                                      310070                            
+874 875  .... Água Comprida                                 310070                            
+874 876  .... Campo Florido                                 311140                            
+874 877  .... Conceição das Alagoas                         311730                            
+874 878  .... Conquista                                     311820                            
+874 879  .... Delta                                         312125                            
+874 880  .... Sacramento                                    315690                            
+874 881  .... Uberaba                                       317010                            
+874 882  .... Veríssimo                                     317110                            
+    883  31073 Uberlândia Araguari                          310350                            
+883 884  .... Araguari                                      310350                            
+883 885  .... Araporã                                       310375                            
+883 886  .... Cascalho Rico                                 311500                            
+883 887  .... Indianópolis                                  313070                            
+883 888  .... Monte Alegre de Minas                         314280                            
+883 889  .... Nova Ponte                                    314500                            
+883 890  .... Prata                                         315280                            
+883 891  .... Tupaciguara                                   316960                            
+883 892  .... Uberlândia                                    317020                            
+    893  31074 Unaí                                         310450                            
+893 894  .... Arinos                                        310450                            
+893 895  .... Bonfinópolis de Minas                         310820                            
+893 896  .... Buritis                                       310930                            
+893 897  .... Cabeceira Grande                              310945                            
+893 898  .... Chapada Gaúcha                                311615                            
+893 899  .... Dom Bosco                                     312247                            
+893 900  .... Formoso                                       312620                            
+893 901  .... Natalândia                                    314437                            
+893 902  .... Paracatu                                      314700                            
+893 903  .... Riachinho                                     315445                            
+893 904  .... Unaí                                          317040                            
+893 905  .... Uruana de Minas                               317047                            
+    906  31075 Varginha                                     311900                            
+906 907  .... Cordislândia                                  311900                            
+906 908  .... Elói Mendes                                   312360                            
+906 909  .... Monsenhor Paulo                               314260                            
+906 910  .... São Gonçalo do Sapucaí                        316200                            
+906 911  .... Varginha                                      317070                            
+    912  31076 Vespasiano                                   311750                            
+912 913  .... Conceição do Mato Dentro                      311750                            
+912 914  .... Confins                                       311787                            
+912 915  .... Lagoa Santa                                   313760                            
+912 916  .... Matozinhos                                    314110                            
+912 917  .... Pedro Leopoldo                                314930                            
+912 918  .... Santana do Riacho                             315900                            
+912 919  .... São José da Lapa                              316295                            
+912 920  .... Vespasiano                                    317120                            
+    921  31077 Viçosa                                       310370                            
+921 922  .... Araponga                                      310370                            
+921 923  .... Cajuri                                        311020                            
+921 924  .... Canaã                                         311170                            
+921 925  .... Paula Cândido                                 314830                            
+921 926  .... Pedra do Anta                                 314880                            
+921 927  .... Porto Firme                                   315230                            
+921 928  .... São Miguel do Anta                            316380                            
+921 929  .... Teixeiras                                     316850                            
+921 930  .... Viçosa                                        317130                            
+    931  31000 Ignorado - MG                                310000,319999                     

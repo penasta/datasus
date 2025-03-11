@@ -1,0 +1,60 @@
+     59  6                                                                                    
+      1  11001 Ariquemes                                    110040                            
+  1   2  .... Alto Paraíso                                  110040                            
+  1   3  .... Ariquemes                                     110002                            
+  1   4  .... Buritis                                       110045                            
+  1   5  .... Cacaulândia                                   110060                            
+  1   6  .... Campo Novo de Rondônia                        110070                            
+  1   7  .... Cujubim                                       110094                            
+  1   8  .... Machadinho D'Oeste                            110013                            
+  1   9  .... Monte Negro                                   110140                            
+  1  10  .... Rio Crespo                                    110026                            
+     11  11002 Cacoal                                       110004                            
+ 11  12  .... Cacoal                                        110004                            
+ 11  13  .... Espigão D'Oeste                               110009                            
+ 11  14  .... Ministro Andreazza                            110120                            
+ 11  15  .... Pimenta Bueno                                 110018                            
+ 11  16  .... Primavera de Rondônia                         110147                            
+ 11  17  .... São Felipe D'Oeste                            110148                            
+     18  11003 Ji-Paraná                                    110034                            
+ 18  19  .... Alvorada D'Oeste                              110034                            
+ 18  20  .... Costa Marques                                 110008                            
+ 18  21  .... Governador Jorge Teixeira                     110100                            
+ 18  22  .... Jaru                                          110011                            
+ 18  23  .... Ji-Paraná                                     110012                            
+ 18  24  .... Mirante da Serra                              110130                            
+ 18  25  .... Nova União                                    110143                            
+ 18  26  .... Ouro Preto do Oeste                           110015                            
+ 18  27  .... Presidente Médici                             110025                            
+ 18  28  .... São Francisco do Guaporé                      110149                            
+ 18  29  .... Teixeirópolis                                 110155                            
+ 18  30  .... Theobroma                                     110160                            
+ 18  31  .... Urupá                                         110170                            
+ 18  32  .... Vale do Anari                                 110175                            
+ 18  33  .... Vale do Paraíso                               110180                            
+     34  11004 Porto Velho                                  110080                            
+ 34  35  .... Candeias do Jamari                            110080                            
+ 34  36  .... Guajará-Mirim                                 110010                            
+ 34  37  .... Itapuã do Oeste                               110110                            
+ 34  38  .... Nova Mamoré                                   110033                            
+ 34  39  .... Porto Velho                                   110020                            
+     40  11005 Rolim de Moura                               110001                            
+ 40  41  .... Alta Floresta D'Oeste                         110001                            
+ 40  42  .... Alto Alegre dos Parecis                       110037                            
+ 40  43  .... Castanheiras                                  110090                            
+ 40  44  .... Nova Brasilândia D'Oeste                      110014                            
+ 40  45  .... Novo Horizonte do Oeste                       110050                            
+ 40  46  .... Parecis                                       110145                            
+ 40  47  .... Rolim de Moura                                110028                            
+ 40  48  .... Santa Luzia D'Oeste                           110029                            
+ 40  49  .... São Miguel do Guaporé                         110032                            
+ 40  50  .... Seringueiras                                  110150                            
+     51  11006 Vilhena                                      110003                            
+ 51  52  .... Cabixi                                        110003                            
+ 51  53  .... Cerejeiras                                    110005                            
+ 51  54  .... Chupinguaia                                   110092                            
+ 51  55  .... Colorado do Oeste                             110006                            
+ 51  56  .... Corumbiara                                    110007                            
+ 51  57  .... Pimenteiras do Oeste                          110146                            
+ 51  58  .... Vilhena                                       110030                            
+     59  11000 Ignorado - RO                                110000,119999                     

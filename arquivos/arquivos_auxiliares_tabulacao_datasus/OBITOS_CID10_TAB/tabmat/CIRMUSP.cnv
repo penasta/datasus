@@ -1,0 +1,710 @@
+    709  6                                                                                    
+      1  35001 Adamantina                                   350010                            
+  1   2  .... Adamantina                                    350010                            
+  1   3  .... Flórida Paulista                              351600                            
+  1   4  .... Inúbia Paulista                               352080                            
+  1   5  .... Lucélia                                       352740                            
+  1   6  .... Mariápolis                                    352890                            
+  1   7  .... Osvaldo Cruz                                  353460                            
+  1   8  .... Pacaembu                                      353490                            
+  1   9  .... Pracinha                                      354085                            
+  1  10  .... Sagres                                        354470                            
+  1  11  .... Salmourão                                     354510                            
+     12  35002 Alta Anhanguera                              352130                            
+ 12  13  .... Ipuã                                          352130                            
+ 12  14  .... Morro Agudo                                   353190                            
+ 12  15  .... Nuporanga                                     353360                            
+ 12  16  .... Orlândia                                      353430                            
+ 12  17  .... Sales Oliveira                                354490                            
+ 12  18  .... São Joaquim da Barra                          354940                            
+     19  35003 Alta Mogiana                                 350300                            
+ 19  20  .... Aramina                                       350300                            
+ 19  21  .... Buritizal                                     350820                            
+ 19  22  .... Guará                                         351770                            
+ 19  23  .... Igarapava                                     352010                            
+ 19  24  .... Ituverava                                     352410                            
+ 19  25  .... Miguelópolis                                  352970                            
+     26  35004 Alta Paulista                                351440                            
+ 26  27  .... Dracena                                       351440                            
+ 26  28  .... Flora Rica                                    351580                            
+ 26  29  .... Irapuru                                       352160                            
+ 26  30  .... Junqueirópolis                                352600                            
+ 26  31  .... Monte Castelo                                 353160                            
+ 26  32  .... Nova Guataporanga                             353310                            
+ 26  33  .... Ouro Verde                                    353480                            
+ 26  34  .... Panorama                                      353540                            
+ 26  35  .... Paulicéia                                     353640                            
+ 26  36  .... Santa Mercedes                                354710                            
+ 26  37  .... São João do Pau d'Alho                        354930                            
+ 26  38  .... Tupi Paulista                                 355510                            
+     39  35005 Alta Sorocabana                              350080                            
+ 39  40  .... Alfredo Marcondes                             350080                            
+ 39  41  .... Álvares Machado                               350130                            
+ 39  42  .... Anhumas                                       350240                            
+ 39  43  .... Caiabu                                        350890                            
+ 39  44  .... Emilianópolis                                 351512                            
+ 39  45  .... Estrela do Norte                              351530                            
+ 39  46  .... Indiana                                       352060                            
+ 39  47  .... Martinópolis                                  352920                            
+ 39  48  .... Narandiba                                     353220                            
+ 39  49  .... Pirapozinho                                   353920                            
+ 39  50  .... Presidente Bernardes                          354120                            
+ 39  51  .... Presidente Prudente                           354140                            
+ 39  52  .... Regente Feijó                                 354240                            
+ 39  53  .... Ribeirão dos Índios                           354323                            
+ 39  54  .... Sandovalina                                   354550                            
+ 39  55  .... Santo Anastácio                               354770                            
+ 39  56  .... Santo Expedito                                354830                            
+ 39  57  .... Taciba                                        355290                            
+ 39  58  .... Tarabai                                       355390                            
+     59  35006 Alto Capivari                                351990                            
+ 59  60  .... Iepê                                          351990                            
+ 59  61  .... João Ramalho                                  352560                            
+ 59  62  .... Nantes                                        353215                            
+ 59  63  .... Quatá                                         354170                            
+ 59  64  .... Rancharia                                     354220                            
+     65  35007 Alto do Tietê                                350390                            
+ 65  66  .... Arujá                                         350390                            
+ 65  67  .... Biritiba-Mirim                                350660                            
+ 65  68  .... Ferraz de Vasconcelos                         351570                            
+ 65  69  .... Guararema                                     351830                            
+ 65  70  .... Guarulhos                                     351880                            
+ 65  71  .... Itaquaquecetuba                               352310                            
+ 65  72  .... Mogi das Cruzes                               353060                            
+ 65  73  .... Poá                                           353980                            
+ 65  74  .... Salesópolis                                   354500                            
+ 65  75  .... Santa Isabel                                  354680                            
+ 65  76  .... Suzano                                        355250                            
+     77  35008 Alto Vale do Paraíba                         350850                            
+ 77  78  .... Caçapava                                      350850                            
+ 77  79  .... Igaratá                                       352020                            
+ 77  80  .... Jacareí                                       352440                            
+ 77  81  .... Jambeiro                                      352490                            
+ 77  82  .... Monteiro Lobato                               353170                            
+ 77  83  .... Paraibuna                                     353560                            
+ 77  84  .... Santa Branca                                  354600                            
+ 77  85  .... São José dos Campos                           354990                            
+     86  35009 Aquífero Guarani                             351310                            
+ 86  87  .... Cravinhos                                     351310                            
+ 86  88  .... Guatapará                                     351885                            
+ 86  89  .... Jardinópolis                                  352510                            
+ 86  90  .... Luís Antônio                                  352760                            
+ 86  91  .... Ribeirão Preto                                354340                            
+ 86  92  .... Santa Rita do Passa Quatro                    354750                            
+ 86  93  .... Santa Rosa de Viterbo                         354760                            
+ 86  94  .... São Simão                                     355090                            
+ 86  95  .... Serra Azul                                    355140                            
+ 86  96  .... Serrana                                       355150                            
+     97  35010 Araras                                       350330                            
+ 97  98  .... Araras                                        350330                            
+ 97  99  .... Conchal                                       351220                            
+ 97 100  .... Leme                                          352670                            
+ 97 101  .... Pirassununga                                  353930                            
+ 97 102  .... Santa Cruz da Conceição                       354620                            
+    103  35011 Assis                                        350400                            
+103 104  .... Assis                                         350400                            
+103 105  .... Borá                                          350720                            
+103 106  .... Cândido Mota                                  351000                            
+103 107  .... Cruzália                                      351330                            
+103 108  .... Florínia                                      351610                            
+103 109  .... Ibirarema                                     351950                            
+103 110  .... Lutécia                                       352790                            
+103 111  .... Maracaí                                       352880                            
+103 112  .... Palmital                                      353530                            
+103 113  .... Paraguaçu Paulista                            353550                            
+103 114  .... Pedrinhas Paulista                            353715                            
+103 115  .... Platina                                       353970                            
+103 116  .... Tarumã                                        355395                            
+    117  35012 Baixa Mogiana                                355730                            
+117 118  .... Estiva Gerbi                                  355730                            
+117 119  .... Itapira                                       352260                            
+117 120  .... Mogi Guaçu                                    353070                            
+117 121  .... Moji Mirim                                    353080                            
+    122  35013 Baixada Santista                             350635                            
+122 123  .... Bertioga                                      350635                            
+122 124  .... Cubatão                                       351350                            
+122 125  .... Guarujá                                       351870                            
+122 126  .... Itanhaém                                      352210                            
+122 127  .... Mongaguá                                      353110                            
+122 128  .... Peruíbe                                       353760                            
+122 129  .... Praia Grande                                  354100                            
+122 130  .... Santos                                        354850                            
+122 131  .... São Vicente                                   355100                            
+    132  35014 Bauru                                        350070                            
+132 133  .... Agudos                                        350070                            
+132 134  .... Arealva                                       350340                            
+132 135  .... Avaí                                          350430                            
+132 136  .... Balbinos                                      350470                            
+132 137  .... Bauru                                         350600                            
+132 138  .... Borebi                                        350745                            
+132 139  .... Cabrália Paulista                             350830                            
+132 140  .... Duartina                                      351450                            
+132 141  .... Iacanga                                       351910                            
+132 142  .... Lençóis Paulista                              352680                            
+132 143  .... Lucianópolis                                  352750                            
+132 144  .... Macatuba                                      352800                            
+132 145  .... Paulistânia                                   353657                            
+132 146  .... Pederneiras                                   353670                            
+132 147  .... Pirajuí                                       353890                            
+132 148  .... Piratininga                                   353940                            
+132 149  .... Presidente Alves                              354110                            
+132 150  .... Reginópolis                                   354250                            
+    151  35015 Bragança                                     350410                            
+151 152  .... Atibaia                                       350410                            
+151 153  .... Bom Jesus dos Perdões                         350710                            
+151 154  .... Bragança Paulista                             350760                            
+151 155  .... Joanópolis                                    352550                            
+151 156  .... Nazaré Paulista                               353240                            
+151 157  .... Pedra Bela                                    353680                            
+151 158  .... Pinhalzinho                                   353820                            
+151 159  .... Piracaia                                      353860                            
+151 160  .... Socorro                                       355210                            
+151 161  .... Tuiuti                                        355495                            
+151 162  .... Vargem                                        355635                            
+    163  35016 Campinas                                     350050                            
+163 164  .... Águas de Lindóia                              350050                            
+163 165  .... Amparo                                        350190                            
+163 166  .... Campinas                                      350950                            
+163 167  .... Indaiatuba                                    352050                            
+163 168  .... Lindóia                                       352700                            
+163 169  .... Monte Alegre do Sul                           353120                            
+163 170  .... Monte Mor                                     353180                            
+163 171  .... Pedreira                                      353710                            
+163 172  .... Serra Negra                                   355160                            
+163 173  .... Valinhos                                      355620                            
+163 174  .... Vinhedo                                       355670                            
+    175  35017 Catanduva                                    350370                            
+175 176  .... Ariranha                                      350370                            
+175 177  .... Catanduva                                     351110                            
+175 178  .... Catiguá                                       351120                            
+175 179  .... Elisiário                                     351492                            
+175 180  .... Embaúba                                       351495                            
+175 181  .... Fernando Prestes                              351560                            
+175 182  .... Irapuã                                        352150                            
+175 183  .... Itajobi                                       352190                            
+175 184  .... Marapoama                                     352885                            
+175 185  .... Novais                                        353325                            
+175 186  .... Novo Horizonte                                353350                            
+175 187  .... Palmares Paulista                             353510                            
+175 188  .... Paraíso                                       353570                            
+175 189  .... Pindorama                                     353810                            
+175 190  .... Pirangi                                       353900                            
+175 191  .... Sales                                         354480                            
+175 192  .... Santa Adélia                                  354560                            
+175 193  .... Tabapuã                                       355260                            
+175 194  .... Urupês                                        355600                            
+    195  35018 Central do DRS II                            350280                            
+195 196  .... Araçatuba                                     350280                            
+195 197  .... Auriflama                                     350420                            
+195 198  .... Bento de Abreu                                350620                            
+195 199  .... Bilac                                         350640                            
+195 200  .... Guararapes                                    351820                            
+195 201  .... Guzolândia                                    351890                            
+195 202  .... Nova Castilho                                 353286                            
+195 203  .... Nova Luzitânia                                353330                            
+195 204  .... Rubiácea                                      354440                            
+195 205  .... Santo Antônio do Aracanguá                    354805                            
+195 206  .... Valparaíso                                    355630                            
+    207  35019 Central do DRS III                           350170                            
+207 208  .... Américo Brasiliense                           350170                            
+207 209  .... Araraquara                                    350320                            
+207 210  .... Boa Esperança do Sul                          350670                            
+207 211  .... Gavião Peixoto                                351685                            
+207 212  .... Motuca                                        353205                            
+207 213  .... Rincão                                        354370                            
+207 214  .... Santa Lúcia                                   354690                            
+207 215  .... Trabiju                                       355475                            
+    216  35020 Centro Oeste do DRS III                      350740                            
+216 217  .... Borborema                                     350740                            
+216 218  .... Ibitinga                                      351960                            
+216 219  .... Itápolis                                      352270                            
+216 220  .... Nova Europa                                   353290                            
+216 221  .... Tabatinga                                     355270                            
+    222  35021 Circ.Fé Vale/Histórico                       350250                            
+222 223  .... Aparecida                                     350250                            
+222 224  .... Arapeí                                        350315                            
+222 225  .... Areias                                        350350                            
+222 226  .... Bananal                                       350490                            
+222 227  .... Cachoeira Paulista                            350860                            
+222 228  .... Canas                                         350995                            
+222 229  .... Cruzeiro                                      351340                            
+222 230  .... Cunha                                         351360                            
+222 231  .... Guaratinguetá                                 351840                            
+222 232  .... Lavrinhas                                     352660                            
+222 233  .... Lorena                                        352720                            
+222 234  .... Piquete                                       353850                            
+222 235  .... Potim                                         354075                            
+222 236  .... Queluz                                        354190                            
+222 237  .... Roseira                                       354430                            
+222 238  .... São José do Barreiro                          354960                            
+222 239  .... Silveiras                                     355200                            
+    240  35022 Consórcios do DRS II                         350110                            
+240 241  .... Alto Alegre                                   350110                            
+240 242  .... Avanhandava                                   350440                            
+240 243  .... Barbosa                                       350510                            
+240 244  .... Birigui                                       350650                            
+240 245  .... Braúna                                        350770                            
+240 246  .... Brejo Alegre                                  350775                            
+240 247  .... Buritama                                      350810                            
+240 248  .... Clementina                                    351190                            
+240 249  .... Coroados                                      351250                            
+240 250  .... Gabriel Monteiro                              351650                            
+240 251  .... Glicério                                      351710                            
+240 252  .... Lourdes                                       352725                            
+240 253  .... Luiziânia                                     352770                            
+240 254  .... Penápolis                                     353730                            
+240 255  .... Piacatu                                       353770                            
+240 256  .... Santópolis do Aguapeí                         354840                            
+240 257  .... Turiúba                                       355520                            
+    258  35023 Coração do DRS III                           351370                            
+258 259  .... Descalvado                                    351370                            
+258 260  .... Dourado                                       351430                            
+258 261  .... Ibaté                                         351930                            
+258 262  .... Porto Ferreira                                354070                            
+258 263  .... Ribeirão Bonito                               354290                            
+258 264  .... São Carlos                                    354890                            
+    265  35024 Extremo Oeste Paulista                       350910                            
+265 266  .... Caiuá                                         350910                            
+265 267  .... Marabá Paulista                               352870                            
+265 268  .... Piquerobi                                     353830                            
+265 269  .... Presidente Epitácio                           354130                            
+265 270  .... Presidente Venceslau                          354150                            
+    271  35025 Fernandópolis                                351520                            
+271 272  .... Estrela d'Oeste                               351520                            
+271 273  .... Fernandópolis                                 351550                            
+271 274  .... Guarani d'Oeste                               351800                            
+271 275  .... Indiaporã                                     352070                            
+271 276  .... Macedônia                                     352820                            
+271 277  .... Meridiano                                     352960                            
+271 278  .... Mira Estrela                                  353000                            
+271 279  .... Ouroeste                                      353475                            
+271 280  .... Pedranópolis                                  353690                            
+271 281  .... Populina                                      354040                            
+271 282  .... São João das Duas Pontes                      354920                            
+271 283  .... São João de Iracema                           354925                            
+271 284  .... Turmalina                                     355530                            
+    285  35026 Franco da Rocha                              350900                            
+285 286  .... Caieiras                                      350900                            
+285 287  .... Cajamar                                       350920                            
+285 288  .... Francisco Morato                              351630                            
+285 289  .... Franco da Rocha                               351640                            
+285 290  .... Mairiporã                                     352850                            
+    291  35027 Grande ABC                                   351380                            
+291 292  .... Diadema                                       351380                            
+291 293  .... Mauá                                          352940                            
+291 294  .... Ribeirão Pires                                354330                            
+291 295  .... Rio Grande da Serra                           354410                            
+291 296  .... Santo André                                   354780                            
+291 297  .... São Bernardo do Campo                         354870                            
+291 298  .... São Caetano do Sul                            354880                            
+    299  35028 Horizonte Verde                              350560                            
+299 300  .... Barrinha                                      350560                            
+299 301  .... Dumont                                        351460                            
+299 302  .... Guariba                                       351860                            
+299 303  .... Jaboticabal                                   352430                            
+299 304  .... Monte Alto                                    353130                            
+299 305  .... Pitangueiras                                  353950                            
+299 306  .... Pontal                                        354020                            
+299 307  .... Pradópolis                                    354090                            
+299 308  .... Sertãozinho                                   355170                            
+    309  35029 Itapetininga                                 350075                            
+309 310  .... Alambari                                      350075                            
+309 311  .... Angatuba                                      350220                            
+309 312  .... Campina do Monte Alegre                       350945                            
+309 313  .... Cerquilho                                     351150                            
+309 314  .... Cesário Lange                                 351160                            
+309 315  .... Guareí                                        351850                            
+309 316  .... Itapetininga                                  352230                            
+309 317  .... Quadra                                        354165                            
+309 318  .... São Miguel Arcanjo                            355020                            
+309 319  .... Sarapuí                                       355110                            
+309 320  .... Tatuí                                         355400                            
+    321  35030 Itapeva                                      350270                            
+321 322  .... Apiaí                                         350270                            
+321 323  .... Barra do Chapéu                               350535                            
+321 324  .... Bom Sucesso de Itararé                        350715                            
+321 325  .... Buri                                          350800                            
+321 326  .... Capão Bonito                                  351020                            
+321 327  .... Guapiara                                      351760                            
+321 328  .... Itaberá                                       352170                            
+321 329  .... Itaóca                                        352215                            
+321 330  .... Itapeva                                       352240                            
+321 331  .... Itapirapuã Paulista                           352265                            
+321 332  .... Itararé                                       352320                            
+321 333  .... Nova Campina                                  353282                            
+321 334  .... Ribeira                                       354280                            
+321 335  .... Ribeirão Branco                               354300                            
+321 336  .... Ribeirão Grande                               354325                            
+321 337  .... Riversul                                      354350                            
+321 338  .... Taquarivaí                                    355385                            
+    339  35031 Jales                                        350260                            
+339 340  .... Aparecida d'Oeste                             350260                            
+339 341  .... Aspásia                                       350395                            
+339 342  .... Dirce Reis                                    351385                            
+339 343  .... Dolcinópolis                                  351420                            
+339 344  .... Jales                                         352480                            
+339 345  .... Marinópolis                                   352910                            
+339 346  .... Mesópolis                                     352965                            
+339 347  .... Palmeira d'Oeste                              353520                            
+339 348  .... Paranapuã                                     353590                            
+339 349  .... Pontalinda                                    354025                            
+339 350  .... Santa Albertina                               354570                            
+339 351  .... Santa Salete                                  354765                            
+339 352  .... Santana da Ponte Pensa                        354720                            
+339 353  .... São Francisco                                 354900                            
+339 354  .... Urânia                                        355580                            
+339 355  .... Vitória Brasil                                355695                            
+    356  35032 Jaú                                          350520                            
+356 357  .... Bariri                                        350520                            
+356 358  .... Barra Bonita                                  350530                            
+356 359  .... Bocaina                                       350680                            
+356 360  .... Boracéia                                      350730                            
+356 361  .... Brotas                                        350790                            
+356 362  .... Dois Córregos                                 351410                            
+356 363  .... Igaraçu do Tietê                              352000                            
+356 364  .... Itaju                                         352200                            
+356 365  .... Itapuí                                        352290                            
+356 366  .... Jaú                                           352530                            
+356 367  .... Mineiros do Tietê                             352980                            
+356 368  .... Torrinha                                      355470                            
+    369  35033 José Bonifácio                               350020                            
+369 370  .... Adolfo                                        350020                            
+369 371  .... Jaci                                          352450                            
+369 372  .... José Bonifácio                                352570                            
+369 373  .... Mendonça                                      352950                            
+369 374  .... Monte Aprazível                               353140                            
+369 375  .... Nipoã                                         353270                            
+369 376  .... Planalto                                      353960                            
+369 377  .... Poloni                                        353990                            
+369 378  .... Ubarana                                       355535                            
+369 379  .... União Paulista                                355570                            
+369 380  .... Zacarias                                      355715                            
+    381  35034 Jundiaí                                      350840                            
+381 382  .... Cabreúva                                      350840                            
+381 383  .... Campo Limpo Paulista                          350960                            
+381 384  .... Itatiba                                       352340                            
+381 385  .... Itupeva                                       352400                            
+381 386  .... Jarinu                                        352520                            
+381 387  .... Jundiaí                                       352590                            
+381 388  .... Louveira                                      352730                            
+381 389  .... Morungaba                                     353200                            
+381 390  .... Várzea Paulista                               355650                            
+    391  35035 Lagos do DRS II                              350210                            
+391 392  .... Andradina                                     350210                            
+391 393  .... Castilho                                      351100                            
+391 394  .... Guaraçaí                                      351780                            
+391 395  .... Ilha Solteira                                 352044                            
+391 396  .... Itapura                                       352300                            
+391 397  .... Lavínia                                       352650                            
+391 398  .... Mirandópolis                                  353010                            
+391 399  .... Murutinga do Sul                              353210                            
+391 400  .... Nova Independência                            353320                            
+391 401  .... Pereira Barreto                               353740                            
+391 402  .... Sud Mennucci                                  355230                            
+391 403  .... Suzanápolis                                   355255                            
+    404  35036 Limeira                                      351240                            
+404 405  .... Cordeirópolis                                 351240                            
+404 406  .... Engenheiro Coelho                             351515                            
+404 407  .... Iracemápolis                                  352140                            
+404 408  .... Limeira                                       352690                            
+    409  35037 Lins                                         350880                            
+409 410  .... Cafelândia                                    350880                            
+409 411  .... Getulina                                      351700                            
+409 412  .... Guaiçara                                      351720                            
+409 413  .... Lins                                          352710                            
+409 414  .... Pongaí                                        354010                            
+409 415  .... Promissão                                     354160                            
+409 416  .... Sabino                                        354460                            
+409 417  .... Uru                                           355590                            
+    418  35038 Litoral Norte                                351050                            
+418 419  .... Caraguatatuba                                 351050                            
+418 420  .... Ilhabela                                      352040                            
+418 421  .... São Sebastião                                 355070                            
+418 422  .... Ubatuba                                       355540                            
+    423  35039 Mananciais                                   351300                            
+423 424  .... Cotia                                         351300                            
+423 425  .... Embu das Artes                                351500                            
+423 426  .... Embu-Guaçu                                    351510                            
+423 427  .... Itapecerica da Serra                          352220                            
+423 428  .... Juquitiba                                     352620                            
+423 429  .... São Lourenço da Serra                         354995                            
+423 430  .... Taboão da Serra                               355280                            
+423 431  .... Vargem Grande Paulista                        355645                            
+    432  35040 Mantiqueira                                  350030                            
+432 433  .... Aguaí                                         350030                            
+432 434  .... Águas da Prata                                350040                            
+432 435  .... Espírito Santo do Pinhal                      351518                            
+432 436  .... Santa Cruz das Palmeiras                      354630                            
+432 437  .... Santo Antônio do Jardim                       354810                            
+432 438  .... São João da Boa Vista                         354910                            
+432 439  .... Tambaú                                        355330                            
+432 440  .... Vargem Grande do Sul                          355640                            
+    441  35041 Marília                                      350140                            
+441 442  .... Álvaro de Carvalho                            350140                            
+441 443  .... Alvinlândia                                   350150                            
+441 444  .... Campos Novos Paulista                         350980                            
+441 445  .... Echaporã                                      351470                            
+441 446  .... Fernão                                        351565                            
+441 447  .... Gália                                         351660                            
+441 448  .... Garça                                         351670                            
+441 449  .... Guaimbê                                       351730                            
+441 450  .... Guarantã                                      351810                            
+441 451  .... Júlio Mesquita                                352580                            
+441 452  .... Lupércio                                      352780                            
+441 453  .... Marília                                       352900                            
+441 454  .... Ocauçu                                        353370                            
+441 455  .... Oriente                                       353410                            
+441 456  .... Oscar Bressane                                353450                            
+441 457  .... Pompéia                                       354000                            
+441 458  .... Quintana                                      354200                            
+441 459  .... Ubirajara                                     355550                            
+441 460  .... Vera Cruz                                     355660                            
+    461  35042 Norte - Barretos                             350090                            
+461 462  .... Altair                                        350090                            
+461 463  .... Barretos                                      350550                            
+461 464  .... Cajobi                                        350930                            
+461 465  .... Colina                                        351200                            
+461 466  .... Colômbia                                      351210                            
+461 467  .... Guaíra                                        351740                            
+461 468  .... Guaraci                                       351790                            
+461 469  .... Jaborandi                                     352420                            
+461 470  .... Olímpia                                       353390                            
+461 471  .... Severínia                                     355190                            
+    472  35043 Norte do DRS III                             351010                            
+472 473  .... Cândido Rodrigues                             351010                            
+472 474  .... Dobrada                                       351400                            
+472 475  .... Matão                                         352930                            
+472 476  .... Santa Ernestina                               354650                            
+472 477  .... Taquaritinga                                  355370                            
+    478  35044 Oeste VII                                    350160                            
+478 479  .... Americana                                     350160                            
+478 480  .... Artur Nogueira                                350380                            
+478 481  .... Cosmópolis                                    351280                            
+478 482  .... Holambra                                      351905                            
+478 483  .... Hortolândia                                   351907                            
+478 484  .... Jaguariúna                                    352470                            
+478 485  .... Nova Odessa                                   353340                            
+478 486  .... Paulínia                                      353650                            
+478 487  .... Santa Bárbara d'Oeste                         354580                            
+478 488  .... Santo Antônio de Posse                        354800                            
+478 489  .... Sumaré                                        355240                            
+    490  35045 Ourinhos                                     350630                            
+490 491  .... Bernardino de Campos                          350630                            
+490 492  .... Canitar                                       351015                            
+490 493  .... Chavantes                                     355720                            
+490 494  .... Espírito Santo do Turvo                       351519                            
+490 495  .... Ipaussu                                       352090                            
+490 496  .... Óleo                                          353380                            
+490 497  .... Ourinhos                                      353470                            
+490 498  .... Ribeirão do Sul                               354320                            
+490 499  .... Salto Grande                                  354540                            
+490 500  .... Santa Cruz do Rio Pardo                       354640                            
+490 501  .... São Pedro do Turvo                            355050                            
+490 502  .... Timburi                                       355460                            
+    503  35046 Paulo Cuesta                                 350230                            
+503 504  .... Anhembi                                       350230                            
+503 505  .... Areiópolis                                    350360                            
+503 506  .... Bofete                                        350690                            
+503 507  .... Botucatu                                      350750                            
+503 508  .... Conchas                                       351230                            
+503 509  .... Itatinga                                      352350                            
+503 510  .... Laranjal Paulista                             352640                            
+503 511  .... Pardinho                                      353610                            
+503 512  .... Pereiras                                      353750                            
+503 513  .... Porangaba                                     354050                            
+503 514  .... Pratânia                                      354105                            
+503 515  .... São Manuel                                    355010                            
+503 516  .... Torre de Pedra                                355465                            
+    517  35047 Piracicaba                                   350060                            
+517 518  .... Águas de São Pedro                            350060                            
+517 519  .... Capivari                                      351040                            
+517 520  .... Charqueada                                    351170                            
+517 521  .... Elias Fausto                                  351490                            
+517 522  .... Mombuca                                       353090                            
+517 523  .... Piracicaba                                    353870                            
+517 524  .... Rafard                                        354210                            
+517 525  .... Rio das Pedras                                354400                            
+517 526  .... Saltinho                                      354515                            
+517 527  .... Santa Maria da Serra                          354700                            
+517 528  .... São Pedro                                     355040                            
+    529  35048 Pontal do Paranapanema                       351535                            
+529 530  .... Euclides da Cunha Paulista                    351535                            
+529 531  .... Mirante do Paranapanema                       353020                            
+529 532  .... Rosana                                        354425                            
+529 533  .... Teodoro Sampaio                               355430                            
+    534  35049 Rio Claro                                    350200                            
+534 535  .... Analândia                                     350200                            
+534 536  .... Corumbataí                                    351270                            
+534 537  .... Ipeúna                                        352110                            
+534 538  .... Itirapina                                     352360                            
+534 539  .... Rio Claro                                     354390                            
+534 540  .... Santa Gertrudes                               354670                            
+    541  35050 Rio Pardo                                    350870                            
+541 542  .... Caconde                                       350870                            
+541 543  .... Casa Branca                                   351080                            
+541 544  .... Divinolândia                                  351390                            
+541 545  .... Itobi                                         352380                            
+541 546  .... Mococa                                        353050                            
+541 547  .... São José do Rio Pardo                         354970                            
+541 548  .... São Sebastião da Grama                        355080                            
+541 549  .... Tapiratiba                                    355360                            
+    550  35051 Rota dos Bandeirantes                        350570                            
+550 551  .... Barueri                                       350570                            
+550 552  .... Carapicuíba                                   351060                            
+550 553  .... Itapevi                                       352250                            
+550 554  .... Jandira                                       352500                            
+550 555  .... Osasco                                        353440                            
+550 556  .... Pirapora do Bom Jesus                         353910                            
+550 557  .... Santana de Parnaíba                           354730                            
+    558  35052 Santa Fé do Sul                              353284                            
+558 559  .... Nova Canaã Paulista                           353284                            
+558 560  .... Rubinéia                                      354450                            
+558 561  .... Santa Clara d'Oeste                           354610                            
+558 562  .... Santa Fé do Sul                               354660                            
+558 563  .... Santa Rita d'Oeste                            354740                            
+558 564  .... Três Fronteiras                               355490                            
+    565  35053 São José do Rio Preto                        350460                            
+565 566  .... Bady Bassitt                                  350460                            
+565 567  .... Bálsamo                                       350480                            
+565 568  .... Cedral                                        351130                            
+565 569  .... Guapiaçu                                      351750                            
+565 570  .... Ibirá                                         351940                            
+565 571  .... Icém                                          351980                            
+565 572  .... Ipiguá                                        352115                            
+565 573  .... Mirassol                                      353030                            
+565 574  .... Mirassolândia                                 353040                            
+565 575  .... Neves Paulista                                353250                            
+565 576  .... Nova Aliança                                  353280                            
+565 577  .... Nova Granada                                  353300                            
+565 578  .... Onda Verde                                    353400                            
+565 579  .... Orindiúva                                     353420                            
+565 580  .... Palestina                                     353500                            
+565 581  .... Paulo de Faria                                353660                            
+565 582  .... Potirendaba                                   354080                            
+565 583  .... São José do Rio Preto                         354980                            
+565 584  .... Tanabi                                        355340                            
+565 585  .... Uchoa                                         355560                            
+    586  35054 São Paulo                                    355030,358001-358058              
+586 587  .... São Paulo                                     355030,358001-358058              
+    588  35055 Sorocaba                                     350115                            
+588 589  .... Alumínio                                      350115                            
+588 590  .... Araçariguama                                  350275                            
+588 591  .... Araçoiaba da Serra                            350290                            
+588 592  .... Boituva                                       350700                            
+588 593  .... Capela do Alto                                351030                            
+588 594  .... Ibiúna                                        351970                            
+588 595  .... Iperó                                         352100                            
+588 596  .... Itu                                           352390                            
+588 597  .... Jumirim                                       352585                            
+588 598  .... Mairinque                                     352840                            
+588 599  .... Piedade                                       353780                            
+588 600  .... Pilar do Sul                                  353790                            
+588 601  .... Porto Feliz                                   354060                            
+588 602  .... Salto                                         354520                            
+588 603  .... Salto de Pirapora                             354530                            
+588 604  .... São Roque                                     355060                            
+588 605  .... Sorocaba                                      355220                            
+588 606  .... Tapiraí                                       355350                            
+588 607  .... Tietê                                         355450                            
+588 608  .... Votorantim                                    355700                            
+    609  35056 Sul - Barretos                               350610                            
+609 610  .... Bebedouro                                     350610                            
+609 611  .... Monte Azul Paulista                           353150                            
+609 612  .... Taiaçu                                        355310                            
+609 613  .... Taiúva                                        355320                            
+609 614  .... Taquaral                                      355365                            
+609 615  .... Terra Roxa                                    355440                            
+609 616  .... Viradouro                                     355680                            
+609 617  .... Vista Alegre do Alto                          355690                            
+    618  35057 Três Colinas                                 351320                            
+618 619  .... Cristais Paulista                             351320                            
+618 620  .... Franca                                        351620                            
+618 621  .... Itirapuã                                      352370                            
+618 622  .... Jeriquara                                     352540                            
+618 623  .... Patrocínio Paulista                           353630                            
+618 624  .... Pedregulho                                    353700                            
+618 625  .... Restinga                                      354270                            
+618 626  .... Ribeirão Corrente                             354310                            
+618 627  .... Rifaina                                       354360                            
+618 628  .... São José da Bela Vista                        354950                            
+    629  35058 Tupã                                         350335                            
+629 630  .... Arco-Íris                                     350335                            
+629 631  .... Bastos                                        350580                            
+629 632  .... Herculândia                                   351900                            
+629 633  .... Iacri                                         351920                            
+629 634  .... Parapuã                                       353600                            
+629 635  .... Queiroz                                       354180                            
+629 636  .... Rinópolis                                     354380                            
+629 637  .... Tupã                                          355500                            
+    638  35059 Vale das Cachoeiras                          350100                            
+638 639  .... Altinópolis                                   350100                            
+638 640  .... Batatais                                      350590                            
+638 641  .... Brodowski                                     350780                            
+638 642  .... Cajuru                                        350940                            
+638 643  .... Cássia dos Coqueiros                          351090                            
+638 644  .... Santa Cruz da Esperança                       354625                            
+638 645  .... Santo Antônio da Alegria                      354790                            
+    646  35060 Vale do Jurumirim                            350055                            
+646 647  .... Águas de Santa Bárbara                        350055                            
+646 648  .... Arandu                                        350310                            
+646 649  .... Avaré                                         350450                            
+646 650  .... Barão de Antonina                             350500                            
+646 651  .... Cerqueira César                               351140                            
+646 652  .... Coronel Macedo                                351260                            
+646 653  .... Fartura                                       351540                            
+646 654  .... Iaras                                         351925                            
+646 655  .... Itaí                                          352180                            
+646 656  .... Itaporanga                                    352280                            
+646 657  .... Manduri                                       352860                            
+646 658  .... Paranapanema                                  353580                            
+646 659  .... Piraju                                        353880                            
+646 660  .... Sarutaiá                                      355120                            
+646 661  .... Taguaí                                        355300                            
+646 662  .... Taquarituba                                   355380                            
+646 663  .... Tejupá                                        355420                            
+    664  35061 Vale Paraíba/Reg.Serrana                     350970                            
+664 665  .... Campos do Jordão                              350970                            
+664 666  .... Lagoinha                                      352630                            
+664 667  .... Natividade da Serra                           353230                            
+664 668  .... Pindamonhangaba                               353800                            
+664 669  .... Redenção da Serra                             354230                            
+664 670  .... Santo Antônio do Pinhal                       354820                            
+664 671  .... São Bento do Sapucaí                          354860                            
+664 672  .... São Luís do Paraitinga                        355000                            
+664 673  .... Taubaté                                       355410                            
+664 674  .... Tremembé                                      355480                            
+    675  35062 Vale do Ribeira                              350540                            
+675 676  .... Barra do Turvo                                350540                            
+675 677  .... Cajati                                        350925                            
+675 678  .... Cananéia                                      350990                            
+675 679  .... Eldorado                                      351480                            
+675 680  .... Iguape                                        352030                            
+675 681  .... Ilha Comprida                                 352042                            
+675 682  .... Iporanga                                      352120                            
+675 683  .... Itariri                                       352330                            
+675 684  .... Jacupiranga                                   352460                            
+675 685  .... Juquiá                                        352610                            
+675 686  .... Miracatu                                      352990                            
+675 687  .... Pariquera-Açu                                 353620                            
+675 688  .... Pedro de Toledo                               353720                            
+675 689  .... Registro                                      354260                            
+675 690  .... Sete Barras                                   355180                            
+    691  35063 Votuporanga                                  350120                            
+691 692  .... Álvares Florence                              350120                            
+691 693  .... Américo de Campos                             350180                            
+691 694  .... Cardoso                                       351070                            
+691 695  .... Cosmorama                                     351290                            
+691 696  .... Floreal                                       351590                            
+691 697  .... Gastão Vidigal                                351680                            
+691 698  .... General Salgado                               351690                            
+691 699  .... Macaubal                                      352810                            
+691 700  .... Magda                                         352830                            
+691 701  .... Monções                                       353100                            
+691 702  .... Nhandeara                                     353260                            
+691 703  .... Parisi                                        353625                            
+691 704  .... Pontes Gestal                                 354030                            
+691 705  .... Riolândia                                     354420                            
+691 706  .... Sebastianópolis do Sul                        355130                            
+691 707  .... Valentim Gentil                               355610                            
+691 708  .... Votuporanga                                   355710                            
+    709  35000 Município ignorado - SP                      350000,359999                     

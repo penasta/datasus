@@ -1,0 +1,27 @@
+24 4 L
+      1  U04   Síndrome respiratória aguda grave [SARS]     U04 ,
+      2  U04.9 Síndrome respiratória aguda grave [SARS]     U049,
+      3  U06   Doença pelo Zika virus, nao especificada     U06
+      4  U07.0 Doença por cigarro eletrônico                U070,
+      5  U07.1 COVID-19, vírus identificado                 U071,
+      6  U07.2 COVID-19, vírus não identificado             U072,
+      7  U08.9 História pessoal de Covid-19, NE             U089
+      8  U09   Condição de saúde posterior à Covid-19, NE   U09
+      9  U10.9 Síndrome infl multissist assoc Covid-19, NE  U109
+     10  U11.9 Necessidade imunização contra a Covid-19, NE U119
+     11  U12   Vac Covid-19 efeitos adv final terap,NE      U12
+     12  U80   Agente resist penicilina e antibiót relac    U80 ,
+     13  U80.0 Agente resistente à penicilina               U800,
+     14  U80.1 Agente resistente à meticilina               U801,
+     15  U80.8 Agente resist outr antibiót relac penicilina U808,
+     16  U81   Agente resist vancomicina e antibiót relac   U81 ,
+     17  U81.0 Agente resistente à vancomicina              U810,
+     18  U81.8 Agente resist outr antibiót relac vancomicin U818,
+     19  U88   Agente resistente a múltiplos antibióticos   U88 ,
+     20  U89   Agente resist outr antibiót e antibiót NE    U89 ,
+     21  U89.8 Agente resist outro antibiótico espec único  U898,
+     22  U89.9 Agente resistente a antibiótico NE           U899,
+     23  U92.1 Reincidência de covid-19, confirmado         U921
+     24  U99   CID 10a Revisao nao disponivel               U99 ,
+     
+

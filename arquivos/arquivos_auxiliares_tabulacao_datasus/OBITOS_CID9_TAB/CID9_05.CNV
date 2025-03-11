@@ -1,0 +1,189 @@
+    187  4 L                                                     
+      1  290.0 Demencia senil                               2900 
+      2  290.1 Demencia pre-senil                           2901 
+      3  290.2 Demencia senil                               2902 
+      4  290.3 Demencia senil com estado confusional agudo  2903 
+      5  290.4 Demencia arteriosclerotica                   2904 
+      6  290.8 Outros                                       2908 
+      7  290.9 Não especificados                            2909 
+      8  291.0 Delirium tremens                             2910 
+      9  291.1 Psicose alcoolica de korsakov                2911 
+     10  291.2 Outra demencia alcoolica                     2912 
+     11  291.3 Outra alucinose alcoolica                    2913 
+     12  291.4 Embriaguez patologica                        2914 
+     13  291.5 Ciume alcoolico                              2915 
+     14  291.8 Outra                                        2918 
+     15  291.9 Não especificada                             2919 
+     16  292.0 Síndrome de abstinencia de drogas            2920 
+     17  292.1 Estados paranóides alucinatorios induz droga 2921 
+     18  292.2 Intoxicação patologica por drogas            2922 
+     19  292.8 Outras                                       2928 
+     20  292.9 Não especificadas                            2929 
+     21  293.0 Estado confusional agudo                     2930 
+     22  293.1 Estado confusional subagudo                  2931 
+     23  293.8 Outros                                       2938 
+     24  293.9 Não especificados                            2939 
+     25  294.0 Psicose ou sindrome korsakov (nao-alcoolica) 2940 
+     26  294.1 Demencia quadros mentais classif outra parte 2941 
+     27  294.8 Outros                                       2948 
+     28  294.9 Não especificados                            2949 
+     29  295.0 Tipo simples                                 2950 
+     30  295.1 Tipo hebefrenico                             2951 
+     31  295.2 Tipo catatonico                              2952 
+     32  295.3 Tipo paranóide                               2953 
+     33  295.4 Episodio esquizofrenico agudo                2954 
+     34  295.5 Esquizofrenia latente                        2955 
+     35  295.6 Esquizofrenia residual                       2956 
+     36  295.7 Tipo esquizoafetivo                          2957 
+     37  295.8 Outras                                       2958 
+     38  295.9 Não especificadas                            2959 
+     39  296.0 Psicose maniaco-depressiva                   2960 
+     40  296.1 Psicose maniaco-depressiva                   2961 
+     41  296.2 Psicose maniaco-depressiva circular          2962 
+     42  296.3 Psicose maniaco-depressiva circular          2963 
+     43  296.4 Psicose maniaco-depressiva circular          2964 
+     44  296.5 Psicose maniaco-depressiva                   2965 
+     45  296.6 Psicose maniaco-depressiva                   2966 
+     46  296.8 Outras                                       2968 
+     47  296.9 Não especificadas                            2969 
+     48  297.0 Estado paranóide simples                     2970 
+     49  297.1 Paranoia                                     2971 
+     50  297.2 Parafrenia                                   2972 
+     51  297.3 Psicose induzida                             2973 
+     52  297.8 Outros                                       2978 
+     53  297.9 Não especificados                            2979 
+     54  298.0 Tipo depressivo                              2980 
+     55  298.1 Tipo agitado                                 2981 
+     56  298.2 Confusao reativa                             2982 
+     57  298.3 Reação paranóide aguda                       2983 
+     58  298.4 Psicose paranóide psicogenetica              2984 
+     59  298.8 Outras psicoses reativas e não especificadas 2988 
+     60  298.9 Psicose não especificada                     2989 
+     61  299.0 Autismo infantil                             2990 
+     62  299.1 Psicose desintegrativa                       2991 
+     63  299.8 Outras                                       2998 
+     64  299.9 Não especificadas                            2999 
+     65  300.0 Estados de ansiedade                         3000 
+     66  300.1 Histeria                                     3001 
+     67  300.2 Estado fobico                                3002 
+     68  300.3 Transtornos obsessivo-compulsivos            3003 
+     69  300.4 Depressao neurotica                          3004 
+     70  300.5 Neurastenia                                  3005 
+     71  300.6 Síndrome de despersonalização                3006 
+     72  300.7 Hipocondria                                  3007 
+     73  300.8 Outros transtornos neuroticos                3008 
+     74  300.9 Não especificados                            3009 
+     75  301.0 Transtorno paranóide da personalidade        3010 
+     76  301.1 Transtorno afetivo da personalidade          3011 
+     77  301.2 Transtorno esquizóide da personalidade       3012 
+     78  301.3 Transtorno explosivo da personalidade        3013 
+     79  301.4 Transtorno anancastico da personalidade      3014 
+     80  301.5 Transtorno histerico da personalidade        3015 
+     81  301.6 Transtorno astenico da personalidade         3016 
+     82  301.7 Transt personalid c/predom de manif sociopat 3017 
+     83  301.8 Outros transtornos da personalidade          3018 
+     84  301.9 Não especificados                            3019 
+     85  302.0 Homossexualidade                             3020 
+     86  302.1 Bestialidade                                 3021 
+     87  302.2 Pedofilia                                    3022 
+     88  302.3 Transvestismo                                3023 
+     89  302.4 Exibicionismo                                3024 
+     90  302.5 Transsexualismo                              3025 
+     91  302.6 Transtornos da identidade psicossexual       3026 
+     92  302.7 Frigidez e impotencia                        3027 
+     93  302.8 Outros                                       3028 
+     94  302.9 Não especificados                            3029 
+     95  303 - Síndrome da dependência do álcool            303X 
+     96  304.0 Tipo morfina                                 3040 
+     97  304.1 Tipo barbiturico                             3041 
+     98  304.2 Cocaina                                      3042 
+     99  304.3 Cannabis                                     3043 
+    100  304.4 Tipo anfetamina e outros psicoestimulantes   3044 
+    101  304.5 Alucinogenos                                 3045 
+    102  304.6 Outras                                       3046 
+    103  304.7 Assoc de drogas tipo morfina e qualquer outr 3047 
+    104  304.8 Associacoes excluindo drogas tipo morfina    3048 
+    105  304.9 Não especificada                             3049 
+    106  305.0 Alcool                                       3050 
+    107  305.1 Fumo                                         3051 
+    108  305.2 Cannabis                                     3052 
+    109  305.3 Alucinogenos                                 3053 
+    110  305.4 Barbituricos e tranquilizantes               3054 
+    111  305.5 Tipo morfina                                 3055 
+    112  305.6 Tipo cocaina                                 3056 
+    113  305.7 Drogas tipo anfetamina                       3057 
+    114  305.8 Antidepressivos                              3058 
+    115  305.9 Outras                                       3059 
+    116  306.0 Osteomusculares                              3060 
+    117  306.1 Respiratorias                                3061 
+    118  306.2 Cardiovasculares                             3062 
+    119  306.3 Cutâneas                                     3063 
+    120  306.4 Gastrintestinais                             3064 
+    121  306.5 Geniturinarias                               3065 
+    122  306.6 Endocrinas                                   3066 
+    123  306.7 Dos órgãos dos sentidos                      3067 
+    124  306.8 Outras                                       3068 
+    125  306.9 Não especificadas                            3069 
+    126  307.0 Gagueira e tartamudez                        3070 
+    127  307.1 Anorexia nervosa                             3071 
+    128  307.2 Tiques                                       3072 
+    129  307.3 Movimentos estereotipados repetidos          3073 
+    130  307.4 Transtornos especificos do sono              3074 
+    131  307.5 Outros transt alimentação e não especific    3075 
+    132  307.6 Enurese                                      3076 
+    133  307.7 Encoprese                                    3077 
+    134  307.8 Psicalgia                                    3078 
+    135  307.9 Outros e os não especificados                3079 
+    136  308.0 Disturbios predominantes das emocoes         3080 
+    137  308.1 Disturbio predominante da consciencia        3081 
+    138  308.2 Disturbio predominantemente psicomotor       3082 
+    139  308.3 Outras                                       3083 
+    140  308.4 Mistas                                       3084 
+    141  308.9 Não especificada                             3089 
+    142  309.0 Reação depressiva breve                      3090 
+    143  309.1 Reação depressiva prolongada                 3091 
+    144  309.2 Com disturbios predominantes outras emocoes  3092 
+    145  309.3 Com disturbios predominantes de conduta      3093 
+    146  309.4 Com disturbios mistos das emocoes e conduta  3094 
+    147  309.8 Outra                                        3098 
+    148  309.9 Não especificada                             3099 
+    149  310.0 Síndrome do lobo frontal                     3100 
+    150  310.1 Outr tipos alteracoes cognitiv ou personalid 3101 
+    151  310.2 Síndrome pós-concussao                       3102 
+    152  310.8 Outros                                       3108 
+    153  310.9 Não especificados                            3109 
+    154  311 - Transtornos depressivos NCOP                 311X 
+    155  312.0 Disturb cond nao-social (nao compart social) 3120 
+    156  312.1 Disturbio de conduta socializado             3121 
+    157  312.2 Transtorno compulsivo de conduta             3122 
+    158  312.3 Disturbios mistos da conduta e das emocoes   3123 
+    159  312.8 Outros                                       3128 
+    160  312.9 Não especificados                            3129 
+    161  313.0 Com ansiedade e medo                         3130 
+    162  313.1 Com penuria e desgraca                       3131 
+    163  313.2 Com sensibilidade                            3132 
+    164  313.3 Problemas de relacionamento                  3133 
+    165  313.8 Outros e mistos                              3138 
+    166  313.9 Não especificados                            3139 
+    167  314.0 Disturbio simples da atividade e da atenção  3140 
+    168  314.1 Hipercinesia com retardo de desenvolvimento  3141 
+    169  314.2 Transtorno hipercinetico de conduta          3142 
+    170  314.8 Outra                                        3148 
+    171  314.9 Não especificada                             3149 
+    172  315.0 Retardo especifico da leitura                3150 
+    173  315.1 Retardo especifico em aritmetica             3151 
+    174  315.2 Outras dificuldades especificas aprendizado  3152 
+    175  315.3 Transt desenvolvimento da fala ou linguagem  3153 
+    176  315.4 Retardo especifico da motricidade            3154 
+    177  315.5 Transtorno de desenvolvimento misto          3155 
+    178  315.8 Outros                                       3158 
+    179  315.9 Não especificados                            3159 
+    180  316 - Fatores psiq ass doenç class outr parte      316X 
+    181  317 - Oligofrenia leve                             317X 
+    182  318.0 Oligofrenia moderada                         3180 
+    183  318.1 Oligofrenia grave                            3181 
+    184  318.2 Oligofrenia profunda                         3182 
+    185  318.8 Código inválido - fora da CID                3188 
+    186  318.9 Código inválido - fora da CID                3189 
+    187  319 - Oligofrenia não especificada                 319X 
+

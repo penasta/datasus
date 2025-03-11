@@ -1,0 +1,596 @@
+    594  4 L                                                     
+      1  140.0 Do labio superior                            1400 
+      2  140.1 Do labio inferior                            1401 
+      3  140.3 Do labio superior                            1403 
+      4  140.4 Do labio inferior                            1404 
+      5  140.5 Do labio                                     1405 
+      6  140.6 Da comissura labial                          1406 
+      7  140.8 Outro                                        1408 
+      8  140.9 Do labio                                     1409 
+      9  141.0 Da base da lingua                            1410 
+     10  141.1 Da face dorsal da lingua                     1411 
+     11  141.2 Da ponta e bordas laterais da lingua         1412 
+     12  141.3 Da face ventral da lingua                    1413 
+     13  141.4 Dos dois tercos anteriores da lingua         1414 
+     14  141.5 Da zona de transição                         1415 
+     15  141.6 Amigdala lingual                             1416 
+     16  141.8 Outro                                        1418 
+     17  141.9 Lingua                                       1419 
+     18  142.0 Da glandula parotida                         1420 
+     19  142.1 Da glandula submandibular                    1421 
+     20  142.2 Da glandula sublingual                       1422 
+     21  142.8 Outro                                        1428 
+     22  142.9 De localização não especificada              1429 
+     23  143.0 Da gengiva superior                          1430 
+     24  143.1 Da gengiva inferior                          1431 
+     25  143.8 Outro                                        1438 
+     26  143.9 Da gengiva                                   1439 
+     27  144.0 Da parte anterior                            1440 
+     28  144.1 Da parte lateral                             1441 
+     29  44.4 Código inválido - fora da CID                 1444 
+     30  144.8 Outro                                        1448 
+     31  144.9 De parte não especificada                    1449 
+     32  145.0 Da mucosa da bochecha                        1450 
+     33  145.1 Do vestibulo da boca                         1451 
+     34  145.2 Do palato duro                               1452 
+     35  145.3 Do palato mole                               1453 
+     36  145.4 Da uvula                                     1454 
+     37  145.5 Do palato                                    1455 
+     38  145.6 Da area retromolar                           1456 
+     39  145.8 Outro                                        1458 
+     40  145.9 Da boca                                      1459 
+     41  146.0 Da amigdala                                  1460 
+     42  146.1 Da fossa amigdaliana                         1461 
+     43  146.2 Dos pilares amigdalianos (anter) (poster)    1462 
+     44  146.3 Da valecula epiglotica                       1463 
+     45  146.4 Da superficie anterior da epiglote           1464 
+     46  146.5 Da região funcional                          1465 
+     47  146.6 Da parede lateral da orofaringe              1466 
+     48  146.7 Da parede posterior da orofaringe            1467 
+     49  146.8 Outro                                        1468 
+     50  146.9 Da orofaringe                                1469 
+     51  147.0 Da parede superior                           1470 
+     52  147.1 Da parede posterior                          1471 
+     53  147.2 Da parede lateral                            1472 
+     54  147.3 Da parede anterior                           1473 
+     55  147.8 Outro                                        1478 
+     56  147.9 Da nasofaringe                               1479 
+     57  148.0 Da região pós-cricóide                       1480 
+     58  148.1 Do seio piriforme                            1481 
+     59  148.2 Da prega ari-epiglotica                      1482 
+     60  148.3 Da parede hipogaringeia posterior            1483 
+     61  148.8 Outro                                        1488 
+     62  148.9 Da hipofaringe                               1489 
+     63  149.0 Da faringe                                   1490 
+     64  149.1 Do anel de waldeyer                          1491 
+     65  149.8 Outro                                        1498 
+     66  149.9 Localizacoes mal definidas                   1499 
+     67  150.0 Da porção cervical                           1500 
+     68  150.1 Da porção toracica                           1501 
+     69  150.2 Da porção abdominal                          1502 
+     70  150.3 Do terco superior                            1503 
+     71  150.4 Do terco medio                               1504 
+     72  150.5 Do terco inferior                            1505 
+     73  50.7 Código inválido - fora da CID                 1507 
+     74  150.8 Outro                                        1508 
+     75  150.9 Do esofago                                   1509 
+     76  151.0 Do cardia                                    1510 
+     77  151.1 Do piloro                                    1511 
+     78  151.2 Do antro pilorico                            1512 
+     79  151.3 Do fundo do estomago                         1513 
+     80  151.4 Do corpo do estomago                         1514 
+     81  151.5 Da pequena curvatura                         1515 
+     82  151.6 Da grande curvatura                          1516 
+     83  151.8 Outros                                       1518 
+     84  151.9 Do estomago                                  1519 
+     85  152.0 Do duodeno                                   1520 
+     86  152.1 Do jejuno                                    1521 
+     87  152.2 Do ileo                                      1522 
+     88  152.3 Do diverticulo de meckel                     1523 
+     89  152.8 Outro                                        1528 
+     90  152.9 Do intestino delgado                         1529 
+     91  153.0 Da flexura hepatica                          1530 
+     92  153.1 Do colon transverso                          1531 
+     93  153.2 Do colon descendente                         1532 
+     94  153.3 Do colon sigmóide                            1533 
+     95  153.4 Do ceco                                      1534 
+     96  153.5 Do apendice                                  1535 
+     97  153.6 Do colon ascendente                          1536 
+     98  153.7 Da flexura esplenica                         1537 
+     99  153.8 Outros                                       1538 
+    100  153.9 Do colon                                     1539 
+    101  154.0 Da junção reto-sigmóide                      1540 
+    102  154.1 Do reto                                      1541 
+    103  154.2 Do canal anal                                1542 
+    104  154.3 Do ânus                                      1543 
+    105  154.8 Outro                                        1548 
+    106  154.9 Código inválido - fora da CID                1549 
+    107  155.0 Do fígado                                    1550 
+    108  155.1 Das vias biliares intra-hepaticas            1551 
+    109  155.2 Do fígado                                    1552 
+    110  155.9 Código inválido - fora da CID                1559 
+    111  156.0 Da vesicula biliar                           1560 
+    112  156.1 Das vias biliares extra-hepaticas            1561 
+    113  156.2 Da ampola de vater                           1562 
+    114  156.8 Outro                                        1568 
+    115  156.9 Das vias biliares                            1569 
+    116  157.0 Da cabeca do pancreas                        1570 
+    117  157.1 Do corpo do pancreas                         1571 
+    118  157.2 Da cauda do pancreas                         1572 
+    119  157.3 Do canal pancreatico                         1573 
+    120  157.4 Das ilhotas de langerhans                    1574 
+    121  157.8 Outro                                        1578 
+    122  157.9 De porção não especificada                   1579 
+    123  158.0 Do retroperitonio                            1580 
+    124  158.8 De porcoes especificadas do peritônio        1588 
+    125  158.9 Do peritônio                                 1589 
+    126  159.0 Do trato intestinal                          1590 
+    127  159.1 Do baco                                      1591 
+    128  159.8 Outro                                        1598 
+    129  159.9 Mal definido                                 1599 
+    130  160.0 Das fossas nasais                            1600 
+    131  160.1 Da trompa auditiva                           1601 
+    132  160.2 Do seio maxilar                              1602 
+    133  160.3 Do seio etmoidal                             1603 
+    134  160.4 Do seio frontal                              1604 
+    135  160.5 Do seio esfenoidal                           1605 
+    136  160.8 Outro                                        1608 
+    137  160.9 De seio acessorio                            1609 
+    138  161.0 Da glote                                     1610 
+    139  161.1 Da supraglote                                1611 
+    140  161.2 Da subglote                                  1612 
+    141  161.3 Das cartilagens da laringe                   1613 
+    142  161.8 Outro                                        1618 
+    143  161.9 Da laringe                                   1619 
+    144  162.0 Da traqueia                                  1620 
+    145  62.1 Código inválido - fora da CID                 1621 
+    146  162.2 Do bronquio principal                        1622 
+    147  162.3 Do lobo superior                             1623 
+    148  162.4 Do lobo medio                                1624 
+    149  162.5 Do lobo inferior                             1625 
+    150  162.8 Outro                                        1628 
+    151  162.9 De bronquio ou pulmão                        1629 
+    152  163.0 Da pleura parietal                           1630 
+    153  163.1 Da pleura visceral                           1631 
+    154  163.8 Outro                                        1638 
+    155  163.9 Da pleura                                    1639 
+    156  164.0 Do timo                                      1640 
+    157  164.1 Do coração                                   1641 
+    158  164.2 Do mediastino anterior                       1642 
+    159  164.3 Do mediastino posterior                      1643 
+    160  164.8 Outro                                        1648 
+    161  164.9 Do mediastino                                1649 
+    162  165.0 Do trato respiratorio superior               1650 
+    163  165.4 Código inválido - fora da CID                1654 
+    164  165.8 Outro                                        1658 
+    165  165.9 De localiz mal definidas aparelho respirat   1659 
+    166  170.0 Dos ossos do cranio e da face                1700 
+    167  170.1 Da mandibula                                 1701 
+    168  170.2 Da coluna vertebral                          1702 
+    169  170.3 Das costelas                                 1703 
+    170  170.4 Dos ossos longos membro superior e omoplata  1704 
+    171  170.5 Dos ossos curtos do membro superior          1705 
+    172  170.6 Dos ossos da pelve                           1706 
+    173  170.7 Dos ossos longos do membro inferior          1707 
+    174  170.8 Dos ossos curtos do membro inferior          1708 
+    175  170.9 De localização não especificada              1709 
+    176  171.0 Da cabeca                                    1710 
+    177  171.2 Do membro superior                           1712 
+    178  171.3 Do membro inferior                           1713 
+    179  171.4 Do torax                                     1714 
+    180  171.5 Do abdome                                    1715 
+    181  171.6 Da pelve                                     1716 
+    182  171.7 Do tronco                                    1717 
+    183  171.8 Outro                                        1718 
+    184  171.9 De localização não especificada              1719 
+    185  172.0 Dos labios                                   1720 
+    186  172.1 Das palpebras                                1721 
+    187  172.2 Da orelha e conduto auditivo externo         1722 
+    188  172.3 De outr partes e partes não especific da fac 1723 
+    189  172.4 Do couro cabeludo e do pescoco               1724 
+    190  172.5 Do tronco                                    1725 
+    191  172.6 Do membro superior                           1726 
+    192  172.7 Do membro inferior                           1727 
+    193  172.8 Outro                                        1728 
+    194  172.9 De localização não especificada              1729 
+    195  173.0 Da pele dos labios                           1730 
+    196  173.1 Das palpebras                                1731 
+    197  173.2 Da orelha e do conduto auditivo externo      1732 
+    198  173.3 Da pele de outr partes e partes não especifi 1733 
+    199  173.4 Do couro cabeludo e da pele do pescoco       1734 
+    200  173.5 Da pele do tronco                            1735 
+    201  173.6 Da pele do membro superior                   1736 
+    202  173.7 Da pele do membro inferior                   1737 
+    203  173.8 Outro                                        1738 
+    204  173.9 Da pele                                      1739 
+    205  174.0 Do mamilo e da areola da mama                1740 
+    206  174.1 Da porção central                            1741 
+    207  174.2 Do quadrante superior interno                1742 
+    208  174.3 Do quadrante inferior interno                1743 
+    209  174.4 Do quadrante superior externo                1744 
+    210  174.5 Do quadrante inferior externo                1745 
+    211  174.6 Do prolongamento axilar da mama              1746 
+    212  174.8 Outro                                        1748 
+    213  174.9 Da mama                                      1749 
+    214  175 - Neoplasma maligno da mama masculina          175X 
+    215  179 - Neopl malig do útero porção não especif      179X 
+    216  180.0 Da endocervice                               1800 
+    217  180.1 Da exocervice                                1801 
+    218  180.8 Outro                                        1808 
+    219  180.9 Do colo do utero                             1809 
+    220  181 - Neoplasma maligno da placenta                181X 
+    221  182.0 Do corpo do utero                            1820 
+    222  182.1 Do istmo do utero                            1821 
+    223  182.8 Outro                                        1828 
+    224  182.9 Código inválido - fora da CID                1829 
+    225  183.0 Do ovario                                    1830 
+    226  183.2 Da trompa de falopio                         1832 
+    227  183.3 Do ligamento largo                           1833 
+    228  183.4 Do parametrio                                1834 
+    229  183.5 Do ligamento redondo                         1835 
+    230  183.8 Outro                                        1838 
+    231  183.9 Dos anexos do utero                          1839 
+    232  184.0 Da vagina                                    1840 
+    233  184.1 Dos grandes labios                           1841 
+    234  184.2 Dos pequenos labios                          1842 
+    235  184.3 Do clitoris                                  1843 
+    236  184.4 Da vulva                                     1844 
+    237  184.8 Outro                                        1848 
+    238  184.9 Localização não especificada                 1849 
+    239  185 - Neoplasma maligno da próstata                185X 
+    240  186.0 De testiculo não descido                     1860 
+    241  186.9 De outro e não especificado                  1869 
+    242  187.1 Do prepucio                                  1871 
+    243  187.2 Da glande do penis                           1872 
+    244  187.3 Do corpo do penis                            1873 
+    245  187.4 Do penis                                     1874 
+    246  187.5 Do epididimo                                 1875 
+    247  187.6 Do cordao espermatico                        1876 
+    248  187.7 Do escroto                                   1877 
+    249  187.8 Outro                                        1878 
+    250  187.9 De localização não especificada              1879 
+    251  188.0 Do trigono                                   1880 
+    252  188.1 Da porção superior                           1881 
+    253  188.2 Da parede lateral                            1882 
+    254  188.3 Da parede anterior                           1883 
+    255  188.4 Da parede posterior                          1884 
+    256  188.5 Do colo da bexiga                            1885 
+    257  188.6 Do orificio ureteral                         1886 
+    258  188.7 Do uraco                                     1887 
+    259  188.8 Outro                                        1888 
+    260  188.9 De porção não especificada                   1889 
+    261  189.0 Do rim                                       1890 
+    262  189.1 Da pelve renal                               1891 
+    263  189.2 Do ureter                                    1892 
+    264  189.3 Da uretra                                    1893 
+    265  189.4 Das glandulas para-uretrais                  1894 
+    266  189.8 Outro                                        1898 
+    267  189.9 De localização não especificada              1899 
+    268  190.0 Do globo ocular                              1900 
+    269  190.1 Da orbita                                    1901 
+    270  190.2 Da glandula lacrimal                         1902 
+    271  190.3 Da conjuntiva                                1903 
+    272  190.4 Da cornea                                    1904 
+    273  190.5 Da retina                                    1905 
+    274  190.6 Da coróide                                   1906 
+    275  190.7 Do canal lacrimal                            1907 
+    276  190.8 Outro                                        1908 
+    277  190.9 De parte não especificada                    1909 
+    278  191.0 Do cérebro                                   1910 
+    279  191.1 Do lobo frontal                              1911 
+    280  191.2 Do lobo temporal                             1912 
+    281  191.3 Do lobo parietal                             1913 
+    282  191.4 Do lobo occipital                            1914 
+    283  191.5 Do ventriculo                                1915 
+    284  191.6 Do cerebelo                                  1916 
+    285  191.7 Do tronco cerebral                           1917 
+    286  191.8 Outro                                        1918 
+    287  191.9 Do encefalo                                  1919 
+    288  192.0 Dos nervos cranianos                         1920 
+    289  192.1 Das meninges encefalicas                     1921 
+    290  192.2 Da medula espinhal                           1922 
+    291  192.3 Das meninges espinhais                       1923 
+    292  192.8 Outro                                        1928 
+    293  192.9 De parte não especificada                    1929 
+    294  193 - Neopasma maligno da glândula tireóide        193X 
+    295  194.0 Da glandula supra-renal                      1940 
+    296  194.1 Das paratireóides                            1941 
+    297  194.3 Da hipofise e conduto craniofaringeu         1943 
+    298  194.4 Do corpo pineal                              1944 
+    299  194.5 Do glomo carotideo                           1945 
+    300  194.6 Do corpusc ou corpo aortico e outr paragangl 1946 
+    301  194.8 Outros                                       1948 
+    302  194.9 De localização não especificada              1949 
+    303  195.0 Da cabeca                                    1950 
+    304  195.1 Do torax                                     1951 
+    305  195.2 Do abdome                                    1952 
+    306  195.3 Da pelve                                     1953 
+    307  195.4 Do membro superior                           1954 
+    308  195.5 Do membro inferior                           1955 
+    309  195.8 De outras localizações especificadas         1958 
+    310  195.9 Código inválido - fora da CID                1959 
+    311  196.0 Da cabeca                                    1960 
+    312  196.1 Intratoracicos                               1961 
+    313  196.2 Intra-abdominais                             1962 
+    314  196.3 Axilares e do membro superior                1963 
+    315  196.5 Inguinais e do membro inferior               1965 
+    316  196.6 Intrapelvicos                                1966 
+    317  196.8 De localizações múltiplas                    1968 
+    318  196.9 De localização não especificada              1969 
+    319  197.0 Do pulmão                                    1970 
+    320  197.1 Do mediastino                                1971 
+    321  197.2 Da pleura                                    1972 
+    322  197.3 De outros órgãos respiratorios               1973 
+    323  197.4 Do intestino delgado                         1974 
+    324  197.5 Do intestino grosso e do reto                1975 
+    325  197.6 Do peritônio e retroperitonio                1976 
+    326  197.7 Do fígado                                    1977 
+    327  197.8 De outros órgãos do aparelho digestivo       1978 
+    328  198.0 Dos rins                                     1980 
+    329  198.1 De outros órgãos do aparelho urinário        1981 
+    330  198.2 Da pele                                      1982 
+    331  198.3 Do encefalo e medula espinhal                1983 
+    332  198.4 De outras partes do sistema nervoso          1984 
+    333  198.5 Dos ossos e da medula ossea                  1985 
+    334  198.6 Do ovario                                    1986 
+    335  198.7 Da glandula supra-renal                      1987 
+    336  198.8 De outras localizações especificadas         1988 
+    337  199.0 Disseminado                                  1990 
+    338  199.1 Outros                                       1991 
+    339  199.9 Código inválido - fora da CID                1999 
+    340  200.0 Reticulossarcoma                             2000 
+    341  200.1 Linfossarcoma                                2001 
+    342  200.2 Tumor de burkitt                             2002 
+    343  200.8 Outras variacoes de designação               2008 
+    344  200.9 Código inválido - fora da CID                2009 
+    345  201.0 Paragranuloma de hodgkin                     2010 
+    346  201.1 Granuloma de hodgkin                         2011 
+    347  201.2 Sarcoma de hodgkin                           2012 
+    348  201.4 Predominancia linfocitico-histiocitica       2014 
+    349  201.5 Esclerose nodular                            2015 
+    350  201.6 Celularidade mista                           2016 
+    351  201.7 Depleção linfocítica                         2017 
+    352  201.9 Sem especificação                            2019 
+    353  202.0 Linfoma nodular                              2020 
+    354  202.1 Micose fungóide                              2021 
+    355  202.2 Doença de sezary                             2022 
+    356  202.3 Histiocitose maligna                         2023 
+    357  202.4 Reticuloendoteliose leucemica                2024 
+    358  202.5 Doença de letterer-siwe                      2025 
+    359  202.6 Tumores malignos dos mastocitos              2026 
+    360  202.8 Outros linfomas                              2028 
+    361  202.9 Outros e os não especificados                2029 
+    362  203.0 Mieloma multiplo                             2030 
+    363  203.1 Leucemia de plasmocitos                      2031 
+    364  203.8 Outros neoplasmas imunoproliferativos        2038 
+    365  03.9 Código inválido - fora da CID                 2039 
+    366  204.0 Aguda                                        2040 
+    367  204.1 Cronica                                      2041 
+    368  204.2 Subaguda                                     2042 
+    369  204.8 Outra                                        2048 
+    370  204.9 Não especificada                             2049 
+    371  205.0 Aguda                                        2050 
+    372  205.1 Cronica                                      2051 
+    373  205.2 Subaguda                                     2052 
+    374  205.3 Sarcoma mielóide                             2053 
+    375  205.8 Outra                                        2058 
+    376  205.9 Não especificada                             2059 
+    377  206.0 Aguda                                        2060 
+    378  206.1 Cronica                                      2061 
+    379  206.2 Subaguda                                     2062 
+    380  206.8 Outra                                        2068 
+    381  206.9 Não especificada                             2069 
+    382  207.0 Eritremia ou eritroleucemia aguda            2070 
+    383  207.1 Eritremia crônica                            2071 
+    384  207.2 Leucemia megacariocitica                     2072 
+    385  207.8 Outra                                        2078 
+    386  07.9 Código inválido - fora da CID                 2079 
+    387  208.0 Aguda                                        2080 
+    388  208.1 Cronica                                      2081 
+    389  208.2 Subaguda                                     2082 
+    390  208.4 Código inválido - fora da CID                2084 
+    391  208.8 Outra                                        2088 
+    392  208.9 Não especificada                             2089 
+    393  210.0 Dos labios                                   2100 
+    394  210.1 Da lingua                                    2101 
+    395  210.2 Das glandulas salivares maiores              2102 
+    396  210.3 Do assoalho da boca                          2103 
+    397  210.4 De outr partes e partes não especific da boc 2104 
+    398  210.5 Das amigdalas                                2105 
+    399  210.6 De outras porcoes da orofaringe              2106 
+    400  210.7 Da nasofaringe                               2107 
+    401  210.8 Da hipofaringe                               2108 
+    402  210.9 Da faringe                                   2109 
+    403  211.0 Do esofago                                   2110 
+    404  211.1 Do estomago                                  2111 
+    405  211.2 Do intestino delgado                         2112 
+    406  211.3 Do colon                                     2113 
+    407  211.4 Do reto e do canal anal                      2114 
+    408  211.5 Do fígado e vias biliares                    2115 
+    409  211.6 Do pancreas                                  2116 
+    410  211.7 Das ilhotas de lagerhans                     2117 
+    411  211.8 Do peritônio e do retroperitonio             2118 
+    412  211.9 De outr localiz e localiz não especificadas  2119 
+    413  212.0 Das fossas nasais                            2120 
+    414  212.1 Da laringe                                   2121 
+    415  212.2 Da traqueia                                  2122 
+    416  212.3 Dos brônquios e pulmoes                      2123 
+    417  212.4 Da pleura                                    2124 
+    418  212.5 Do mediastino                                2125 
+    419  212.6 Do timo                                      2126 
+    420  212.7 Do coração                                   2127 
+    421  212.8 De outras localizações especificadas         2128 
+    422  212.9 De localizações não especificadas            2129 
+    423  213.0 Dos ossos do cranio e da face                2130 
+    424  213.1 Da mandibula                                 2131 
+    425  213.2 Da coluna vertebral                          2132 
+    426  213.3 Das costelas                                 2133 
+    427  213.4 Dos ossos longos membro superior e omoplata  2134 
+    428  213.5 Dos ossos curtos do membro superior          2135 
+    429  213.6 Dos ossos pelvicos                           2136 
+    430  213.7 Dos ossos longos do membro inferior          2137 
+    431  213.8 Dos ossos curtos do membro inferior          2138 
+    432  213.9 De localização não especificada              2139 
+    433  214 - Lipoma                                       214X 
+    434  215.0 Da cabeca                                    2150 
+    435  215.2 Do membro superior                           2152 
+    436  215.3 Do membro inferior                           2153 
+    437  215.4 Do torax                                     2154 
+    438  215.5 Do abdome                                    2155 
+    439  215.6 Da pelve                                     2156 
+    440  215.7 Do tronco                                    2157 
+    441  215.8 De outras localizações especificadas         2158 
+    442  215.9 De localização não especificada              2159 
+    443  216.0 Da pele do labio                             2160 
+    444  216.1 Da palpebra                                  2161 
+    445  216.2 Do ouvido e do conduto auditivo externo      2162 
+    446  216.3 Da pele outr partes partes não especific fac 2163 
+    447  216.4 Do couro cabeludo e da pele do pescoco       2164 
+    448  216.5 Da pele do tronco                            2165 
+    449  216.6 Da pele de membro superior                   2166 
+    450  216.7 Da pele de membro inferior                   2167 
+    451  216.8 Outro                                        2168 
+    452  216.9 De localização não especificada              2169 
+    453  217 - Neoplasma benigno da mama                    217X 
+    454  218 - Leiomioma uterino                            218X 
+    455  219.0 Do colo do utero                             2190 
+    456  219.1 Do corpo do utero                            2191 
+    457  219.8 De outras porcoes especificadas              2198 
+    458  219.9 De porção não especificada                   2199 
+    459  220 - Neoplasma benigno do ovário                  220X 
+    460  221.0 Da trompa e dos ligamentos uterinos          2210 
+    461  221.1 Da vagina                                    2211 
+    462  221.2 Da vulva                                     2212 
+    463  221.8 De outras localizações especificadas         2218 
+    464  221.9 De localização não especificada              2219 
+    465  222.0 Do testiculo                                 2220 
+    466  222.1 Do penis                                     2221 
+    467  222.2 Da prostata                                  2222 
+    468  222.3 Do epididimo                                 2223 
+    469  222.4 Do escroto                                   2224 
+    470  222.8 De outras localizações especificadas         2228 
+    471  222.9 De localização não especificada              2229 
+    472  223.0 Do rim                                       2230 
+    473  223.1 Da pelve renal                               2231 
+    474  223.2 Do ureter                                    2232 
+    475  223.3 Da bexiga urinaria                           2233 
+    476  223.8 De outras localizações especificadas         2238 
+    477  223.9 De localização não especificada              2239 
+    478  224.0 Do globo ocular                              2240 
+    479  224.1 Da orbita                                    2241 
+    480  224.2 Da glandula lacrimal                         2242 
+    481  224.3 Da conjuntiva                                2243 
+    482  224.4 Da cornea                                    2244 
+    483  224.5 Da retina                                    2245 
+    484  224.6 Da coróide                                   2246 
+    485  224.7 Do canal lacrimal                            2247 
+    486  224.8 De outras partes especificadas               2248 
+    487  224.9 De parte não especificada                    2249 
+    488  225.0 Do encefalo                                  2250 
+    489  225.1 Dos nervos cranianos                         2251 
+    490  225.2 Das meninges encefalicas                     2252 
+    491  225.3 Da medula espinhal                           2253 
+    492  225.4 Das meninges espinhais                       2254 
+    493  225.8 Outros                                       2258 
+    494  225.9 De parte não especificada                    2259 
+    495  226 - Neoplasma benigno da glândula tireóide       226X 
+    496  227.0 Da glandula supra-renal                      2270 
+    497  227.1 Das paratireóides                            2271 
+    498  227.3 Da hipofise e conduto craniofaringeu         2273 
+    499  227.4 Da pineal                                    2274 
+    500  227.5 Do glomo carotideo                           2275 
+    501  227.6 Do corpusculo aortico e outros paraganglios  2276 
+    502  227.8 Outros                                       2278 
+    503  227.9 De localização não especificada              2279 
+    504  228.0 Hemangioma                                   2280 
+    505  228.1 Linfangioma                                  2281 
+    506  228.9 Código inválido - fora da CID                2289 
+    507  229.0 Dos gânglios linfáticos                      2290 
+    508  229.8 De outras localizações especificadas         2298 
+    509  229.9 De localizações não especificadas            2299 
+    510  230.0 Do labio                                     2300 
+    511  230.1 Do esofago                                   2301 
+    512  230.2 Do estomago                                  2302 
+    513  230.3 Do colon                                     2303 
+    514  230.4 Do reto                                      2304 
+    515  230.5 Do canal anal                                2305 
+    516  230.6 Do ânus                                      2306 
+    517  230.7 De outras porcoes e das não especificadas    2307 
+    518  230.8 Do fígado e sistema biliar                   2308 
+    519  230.9 De outros órgãos digestiv e os não especific 2309 
+    520  231.0 Da laringe                                   2310 
+    521  231.1 Da traqueia                                  2311 
+    522  231.2 Dos brônquios e pulmão                       2312 
+    523  231.8 De outras partes especificadas               2318 
+    524  231.9 De parte não especificada                    2319 
+    525  232.0 Da pele do labio                             2320 
+    526  232.1 Das palpebras                                2321 
+    527  232.2 Do ouvido e conduto auditivo externo         2322 
+    528  232.3 Da pele outras partes e partes não especific 2323 
+    529  232.4 Do couro cabeludo e pele do pescoco          2324 
+    530  232.5 Da pele do tronco                            2325 
+    531  232.6 Da pele de membro superior                   2326 
+    532  232.7 Da pele de membro inferior                   2327 
+    533  232.8 De outras localizações especificadas         2328 
+    534  232.9 De localização não especificada              2329 
+    535  233.0 Da mama                                      2330 
+    536  233.1 Do colo do utero                             2331 
+    537  233.2 De outr porcoes e porcoes não especific uter 2332 
+    538  233.3 De outr órgãos genit feminin e não especific 2333 
+    539  233.4 Da prostata                                  2334 
+    540  233.5 Do penis                                     2335 
+    541  233.6 De outr órgãos genit masculin e não especifi 2336 
+    542  233.7 Da bexiga urinaria                           2337 
+    543  233.9 De outr órgãos ap urinário e não especific   2339 
+    544  234.0 Do olho                                      2340 
+    545  234.8 De outras localizações especificadas         2348 
+    546  234.9 De localização não especificada              2349 
+    547  235.0 Das glandulas salivares maiores              2350 
+    548  235.1 Do labio                                     2351 
+    549  235.2 Do estomago                                  2352 
+    550  235.3 Do fígado e vias biliares                    2353 
+    551  235.4 Do retroperitonio e peritônio                2354 
+    552  235.5 De outr órgãos digestivos e dos não especifi 2355 
+    553  235.6 Da laringe                                   2356 
+    554  235.7 Da traqueia                                  2357 
+    555  235.8 Da pleura                                    2358 
+    556  235.9 De outr órgãos respiratorios e não especific 2359 
+    557  236.0 Do utero                                     2360 
+    558  236.1 Da placenta                                  2361 
+    559  236.2 Do ovario                                    2362 
+    560  236.3 De outr órgãos genit feminin e não especific 2363 
+    561  236.4 Do testiculo                                 2364 
+    562  236.5 Da prostata                                  2365 
+    563  236.6 De outr órgãos genit masculin e não especifi 2366 
+    564  236.7 Da bexiga urinaria                           2367 
+    565  236.9 De outr órgãos ap urinário e não especific   2369 
+    566  237.0 Da hipofise e do conduto craniofaringeu      2370 
+    567  237.1 Da pineal                                    2371 
+    568  237.2 Da glandula supra-renal                      2372 
+    569  237.3 Dos paraganglios                             2373 
+    570  237.4 De outr glandulas endocrinas e não especific 2374 
+    571  237.5 Do encefalo e da medula espinhal             2375 
+    572  237.6 Das meninges                                 2376 
+    573  237.7 Neurofibromatose                             2377 
+    574  237.9 De outr partes e partes não especif sist ner 2379 
+    575  238.0 Do osso e da cartilagem articular            2380 
+    576  238.1 Do tecido conjuntivo e outros tecidos moles  2381 
+    577  238.2 Da pele                                      2382 
+    578  238.3 Da mama                                      2383 
+    579  238.4 Policitemia vera                             2384 
+    580  238.5 Dos histiocitos e mastocitos                 2385 
+    581  238.6 Dos plasmocitos                              2386 
+    582  238.7 De outros tecidos linfáticos e hematopoetico 2387 
+    583  238.8 De outras localizações especificadas         2388 
+    584  238.9 De localização não especificada              2389 
+    585  239.0 Do aparelho digestivo                        2390 
+    586  239.1 Do aparelho respiratorio                     2391 
+    587  239.2 Dos ossos                                    2392 
+    588  239.3 Da mama                                      2393 
+    589  239.4 Da bexiga urinaria                           2394 
+    590  239.5 De outros órgãos geniturinarios              2395 
+    591  239.6 Do encefalo                                  2396 
+    592  239.7 Das glandulas endocrinas                     2397 
+    593  239.8 De outras localizações especificadas         2398 
+    594  239.9 De localização não especificada              2399 
+

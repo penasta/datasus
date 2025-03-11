@@ -1,0 +1,195 @@
+    193  4 L                                                     
+      1  740 - Anencefalia e anomalias similares            740X 
+  1   2  740.0 Anencefalia                                  7400 
+  1   3  740.1 Cranioraquiosquise                           7401 
+  1   4  740.2 Iniencefalia                                 7402 
+  1   5  740.4 Código inválido - fora da CID                7404 
+  1   6  40.9 Código inválido - fora da CID                 7409 
+      7  741 - Espinha bífida                               741X 
+  7   8  741.0 Com hidrocefalia                             7410 
+  7   9  741.9 Sem mencao de hidrocefalia                   7419 
+     10  742 - Out anomalias congênitas do sist nervos      742X 
+ 10  11  742.0 Encefalocele                                 7420 
+ 10  12  742.1 Microcefalia                                 7421 
+ 10  13  742.2 Deformidade por reducao do encefalo          7422 
+ 10  14  742.3 Hidrocefalia congênita                       7423 
+ 10  15  742.4 Outras anomalias especificadas do encefalo   7424 
+ 10  16  742.5 Outras anomalias especific medula espinhal   7425 
+ 10  17  742.8 Outras anomalias especific sistema nervoso   7428 
+ 10  18  742.9 Anomalias não especificadas do encefalo      7429 
+     19  743 - Anomalias congênitas do olho                 743X 
+ 19  20  743.0 Anoftalmia                                   7430 
+ 19  21  743.1 Microftalmia                                 7431 
+ 19  22  743.2 Buftalmia                                    7432 
+ 19  23  743.3 Catarata e anomalias do cristalino           7433 
+ 19  24  743.4 Coloboma e outras anomalias segment anterior 7434 
+ 19  25  743.5 Anomalias congenitas do segmento posterior   7435 
+ 19  26  743.6 Anomalia congênita das palpebras             7436 
+ 19  27  743.8 Outras anomalias especificadas do olho       7438 
+ 19  28  743.9 Anomalias não especificadas do olho          7439 
+     29  744 - Anomalias congênitas ouvido face pescoç      744X 
+ 29  30  744.0 Anomalias do ouvido que prejudicam a audicao 7440 
+ 29  31  744.1 Orelha supranumeraria                        7441 
+ 29  32  744.2 Outras anomalias especificadas do ouvido     7442 
+ 29  33  744.3 Anomalias não especificadas do ouvido        7443 
+ 29  34  744.4 Fenda                                        7444 
+ 29  35  744.5 Pterigio do pescoco                          7445 
+ 29  36  744.8 Outras anomalias especificadas face e pescoc 7448 
+ 29  37  744.9 Anomalias não especificadas face e do pescoc 7449 
+     38  745 - Anomal bulbo card e do fecham sept card      745X 
+ 38  39  745.0 Tronco arterioso                             7450 
+ 38  40  745.1 Transposicao dos grandes vasos               7451 
+ 38  41  745.2 Tetralogia de fallot                         7452 
+ 38  42  745.3 Ventriculo comum                             7453 
+ 38  43  745.4 Defeito do septo interventricular            7454 
+ 38  44  745.5 Defeit septo interatrial tipo ostium secundu 7455 
+ 38  45  745.6 Defeitos do coxim endocardico                7456 
+ 38  46  745.7 Cor biloculare                               7457 
+ 38  47  745.8 Outros                                       7458 
+ 38  48  745.9 Defeitos não especif do fechamento septal    7459 
+     49  746 - Outras anomalias congênitas do coração       746X 
+ 49  50  746.0 Anomalias da valvula pulmonar                7460 
+ 49  51  746.1 Atresia e estenose tricuspide                7461 
+ 49  52  746.2 Anomalia de ebstein                          7462 
+ 49  53  746.3 Estenose congênita da valvula aortica        7463 
+ 49  54  746.4 Insuficiencia congênita da valvula aortica   7464 
+ 49  55  746.5 Estenose mitral congênita                    7465 
+ 49  56  746.6 Insuficiencia mitral congênita               7466 
+ 49  57  746.7 Síndrome do coracao esquerdo hipoplasico     7467 
+ 49  58  746.8 Outras anomalias especificadas do coracao    7468 
+ 49  59  746.9 Anomalias não especificadas do coracao       7469 
+     60  747 - Out anomalias congên aparel circulatór       747X 
+ 60  61  747.0 Persistencia do conduto arterioso            7470 
+ 60  62  747.1 Coarctacao da aorta                          7471 
+ 60  63  747.2 Outras anomalias da aorta                    7472 
+ 60  64  747.3 Anomalias da arteria pulmonar                7473 
+ 60  65  747.4 Anomalias das grandes veias                  7474 
+ 60  66  747.5 Ausencia ou hipoplasia da arteria umbilical  7475 
+ 60  67  747.6 Outras anomalias sistema vascular periferico 7476 
+ 60  68  747.8 Outr anomalias especif aparelho circulatorio 7478 
+ 60  69  747.9 Anomalias não especific aparelho circulatori 7479 
+     70  748 - Anomalias congênitas aparel respiratór       748X 
+ 70  71  748.0 Atresia das coanas                           7480 
+ 70  72  748.1 Outras anomalias do nariz                    7481 
+ 70  73  748.2 Veu congenito da laringe                     7482 
+ 70  74  748.3 Outras anomalias da laringe                  7483 
+ 70  75  748.4 Pulmao cistico congenito                     7484 
+ 70  76  748.5 Agenesia                                     7485 
+ 70  77  748.6 Outras anomalias do pulmão                   7486 
+ 70  78  748.8 Outr anomalias especif aparelho respiratorio 7488 
+ 70  79  748.9 Anomalias não especif aparelho respiratorio  7489 
+     80  749 - Fissura abóbada palatina e lábio lepor       749X 
+ 80  81  749.0 Fissura da abobada palatina                  7490 
+ 80  82  749.1 Fissura labial                               7491 
+ 80  83  749.2 Fissura da abobada palatina c/labio leporino 7492 
+ 80  84  749.6 Código inválido - fora da CID                7496 
+ 80  85  749.9 Código inválido - fora da CID                7499 
+     86  750 - Out anom cong da parte sup tubo digest       750X 
+ 86  87  750.0 Lingua presa                                 7500 
+ 86  88  750.1 Outras anomalias da lingua                   7501 
+ 86  89  750.2 Outras anomalias especificadas boca e faring 7502 
+ 86  90  750.3 Fistula traqueoesofagica                     7503 
+ 86  91  750.4 Outras anomalias especificadas do esofago    7504 
+ 86  92  750.5 Estenose hipertrofica congênita do piloro    7505 
+ 86  93  750.6 Hernia de hiato congênita                    7506 
+ 86  94  750.7 Outras anomalias especificadas do estomago   7507 
+ 86  95  750.8 Outr anomalias espec parte super tubo digest 7508 
+ 86  96  750.9 Anomalias n espec parte superior tubo digest 7509 
+     97  751 - Out anomalias congênitas aparelho dig        751X 
+ 97  98  751.0 Diverticulo de meckel                        7510 
+ 97  99  751.1 Atresia e estenose do intestino delgado      7511 
+ 97 100  751.2 Atresia e estenose do intestino grosso       7512 
+ 97 101  751.3 Doenc hirschsprung e outr transt congen colo 7513 
+ 97 102  751.4 Anomalias de fixacao do intestino            7514 
+ 97 103  751.5 Outras anomalias do intestino                7515 
+ 97 104  751.6 Anomalias da vesicula biliar                 7516 
+ 97 105  751.7 Anomalias do pancreas                        7517 
+ 97 106  751.8 Outras anomalias especif aparelho digestivo  7518 
+ 97 107  751.9 Anomalias n especif aparelho digestivo       7519 
+    108  752 - Anomalias congênitas dos órgãos genit        752X 
+108 109  752.0 Anomalias dos ovarios                        7520 
+108 110  752.1 Anomalias trompas falopio e ligamentos largo 7521 
+108 111  752.2 Duplicacao do utero                          7522 
+108 112  752.3 Outras anomalias do utero                    7523 
+108 113  752.4 Anomalias do colo uterino                    7524 
+108 114  752.5 Testiculo retido                             7525 
+108 115  752.6 Hipospadia e epispadia                       7526 
+108 116  752.7 Sexo indeterminado e pseudo-hermafroditismo  7527 
+108 117  752.8 Outras anomalias especif órgãos genitais     7528 
+108 118  752.9 Anomalias não especificadas órgãos genitais  7529 
+    119  753 - Anomalias congênitas aparelho urinário       753X 
+119 120  753.0 Agenesia e disgenesia renal                  7530 
+119 121  753.1 Doença cistica do rim                        7531 
+119 122  753.2 Anomalias obstrutivas da pelve renal e urete 7532 
+119 123  753.3 Outras anomalias especificadas do rim        7533 
+119 124  753.4 Outras anomalias especificadas do ureter     7534 
+119 125  753.5 Extrofia da bexiga                           7535 
+119 126  753.6 Atresia e estenose da uretra e do colo bexig 7536 
+119 127  753.7 Anomalias do uraco                           7537 
+119 128  753.8 Outras anomalias especif da bexiga e uretra  7538 
+119 129  753.9 Anomalias não especificadas aparelho urinari 7539 
+    130  754 - Algumas deformid osteomusculares congên      754X 
+130 131  754.0 Do cranio                                    7540 
+130 132  754.1 Do musculo esternocleidomastoideu            7541 
+130 133  754.2 Da coluna vertebral                          7542 
+130 134  754.3 Luxacao congênita do quadril                 7543 
+130 135  754.4 Genu recurvatum cong arq osso long memb infe 7544 
+130 136  754.5 Deformidade dos pés (varo)                   7545 
+130 137  754.6 Deformidades valgas dos pés                  7546 
+130 138  754.7 Outras deformidades dos pés                  7547 
+130 139  754.8 Outras deformidades especificadas            7548 
+130 140  754.9 Código inválido - fora da CID                7549 
+    141  755 - Outras anomalias congênitas dos membros      755X 
+141 142  755.0 Polidactilia                                 7550 
+141 143  755.1 Sindactilia                                  7551 
+141 144  755.2 Deformidade por reducao do membro superior   7552 
+141 145  755.3 Deformidades por reducao do membro inferior  7553 
+141 146  755.4 Deformidades por reducao de membro n especif 7554 
+141 147  755.5 Outras anomalias do membro superior          7555 
+141 148  755.6 Outras anomalias do membro inferior          7556 
+141 149  755.8 Outras anomalias especif de membro n especif 7558 
+141 150  755.9 Anomalias não especif membro não especificad 7559 
+    151  756 - Outras anomal osteomusculares congênit       756X 
+151 152  756.0 Anomalias do cranio e dos ossos da face      7560 
+151 153  756.1 Anomalias da coluna vertebral                7561 
+151 154  756.2 Costela cervical                             7562 
+151 155  756.3 Outras anomalias das costelas e do esterno   7563 
+151 156  756.4 Condrodistrofia                              7564 
+151 157  756.5 Osteodistrofias                              7565 
+151 158  756.6 Anomalias do diafragma                       7566 
+151 159  756.7 Anomalias da parede abdominal                7567 
+151 160  756.8 Outras anomalias especificadas dos musculos  7568 
+151 161  756.9 Anomalias não especif sistema osteomuscular  7569 
+    162  757 - Anomalias congênitas do tegumento            757X 
+162 163  757.0 Edema hereditario das pernas                 7570 
+162 164  757.1 Ictiose congênita                            7571 
+162 165  757.2 Anomalias dermatoglificas                    7572 
+162 166  757.3 Outras anomalias especificadas da pele       7573 
+162 167  757.4 Anomalias especificadas dos pelos            7574 
+162 168  757.5 Anomalias especificadas das unhas            7575 
+162 169  757.6 Anomalias especificadas da mama              7576 
+162 170  757.8 Outras anomalias especificadas do tegumento  7578 
+162 171  757.9 Anomalias não especificadas do tegumento     7579 
+    172  758 - Anomalias cromôssomicas                      758X 
+172 173  758.0 Síndrome de down                             7580 
+172 174  758.1 Síndrome de patau                            7581 
+172 175  758.2 Síndrome de edward                           7582 
+172 176  758.3 Sindromes autossomicas de delecao            7583 
+172 177  758.4 Transloc autossomica equil individuo normal  7584 
+172 178  758.5 Outras condicoes dev anomalias autossomicas  7585 
+172 179  758.6 Disgenesia gonadal                           7586 
+172 180  758.7 Síndrome de klinefelter                      7587 
+172 181  758.8 Outr afec dev anomalias cromossomas sexuais  7588 
+172 182  758.9 Afec dev anomalias cromossomicas não especif 7589 
+    183  759 - Outras anomal congênitas e não especif       759X 
+183 184  759.0 Anomalias do baco                            7590 
+183 185  759.1 Anomalias das glandulas supra-renais         7591 
+183 186  759.2 Anomalias de outras glandulas endocrinas     7592 
+183 187  759.3 Situs inversus                               7593 
+183 188  759.4 Gemeos unidos                                7594 
+183 189  759.5 Esclerose tuberosa                           7595 
+183 190  759.6 Outras hamartoses                            7596 
+183 191  759.7 Anomalias congenitas múltiplas               7597 
+183 192  759.8 Outras anomalias especificadas               7598 
+183 193  759.9 Anomalia congênita não especificada          7599 
+

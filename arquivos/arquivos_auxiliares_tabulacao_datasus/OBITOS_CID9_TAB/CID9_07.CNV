@@ -1,0 +1,256 @@
+    254  4 L                                                     
+      1  390 - Febre reumática s menç comprom cardéaco      390X 
+      2  391.0 Pericardite reumatica ativa                  3910 
+      3  391.1 Endocardite reumatica ativa                  3911 
+      4  391.2 Miocardite reumatica ativa                   3912 
+      5  91.4 Código inválido - fora da CID                 3914 
+      6  391.8 Outras doenças reumaticas ativas do coracao  3918 
+      7  391.9 Doencas reumaticas ativas coracao não especi 3919 
+      8  392.0 Com complicacao cardiaca                     3920 
+      9  392.9 Sem mencao de complicacao cardiaca           3929 
+     10  393 - Pericardite reumática crônica                393X 
+     11  394.0 Estenose mitral                              3940 
+     12  394.1 Insuficiencia mitral reumatica               3941 
+     13  394.2 Estenose mitral com insuficiencia            3942 
+     14  394.9 Outras e as não especificadas                3949 
+     15  395.0 Estenose aortica reumatica                   3950 
+     16  395.1 Insuficiencia aortica reumatica              3951 
+     17  395.2 Estenose aortica reumatica com insuficiencia 3952 
+     18  395.9 Outras e as não especificadas                3959 
+     19  396 - Doenças das válvulas mitral e aórtica        396X 
+     20  397.0 Doencas da valvula tricuspide                3970 
+     21  397.1 Doencas reumaticas da valvula pulmonar       3971 
+     22  397.9 Doencas reumaticas do endocardio             3979 
+     23  398.0 Miocardite reumatica                         3980 
+     24  98.8 Código inválido - fora da CID                 3988 
+     25  398.9 Outras e as não especificadas                3989 
+     26  401.0 especificada como maligna                    4010 
+     27  401.1 especificada como benigna                    4011 
+     28  401.9 Não especificada se maligna ou benigna       4019 
+     29  402.0 especificada como maligna                    4020 
+     30  402.1 especificada como benigna                    4021 
+     31  02.7 Código inválido - fora da CID                 4027 
+     32  402.9 Não especificada se maligna ou benigna       4029 
+     33  403.0 especificada como maligna                    4030 
+     34  403.1 especificada como benigna                    4031 
+     35  403.9 Não especificada se maligna ou benigna       4039 
+     36  404.0 especificada como maligna                    4040 
+     37  404.1 especificada como benigna                    4041 
+     38  404.9 Não especificada se maligna ou benigna       4049 
+     39  405.0 especificada como maligna                    4050 
+     40  405.1 especificada como benigna                    4051 
+     41  405.9 Não especificada se maligna ou benigna       4059 
+     42  410 - Infarto agudo do miocárdio                   410X 
+     43  411 - Out form agud e subag doenç isquêm cor       411X 
+     44  412 - Infarto antigo do miocárdio                  412X 
+     45  413 - Angina do peito                              413X 
+     46  414.0 Aterosclerose coronaria                      4140 
+     47  414.1 Aneurisma do coracao                         4141 
+     48  414.8 Outras                                       4148 
+     49  414.9 Não especificadas                            4149 
+     50  415.0 Cor pulmonale agudo                          4150 
+     51  415.1 Embolia pulmonar                             4151 
+     52  15.9 Código inválido - fora da CID                 4159 
+     53  416.0 Hipertensao pulmonar primária                4160 
+     54  416.1 Doença cardiaca cifoscoliotica               4161 
+     55  416.8 Outras                                       4168 
+     56  416.9 Doença pulmonar do coracao não especificada  4169 
+     57  417.0 Fistula arteriovenosa de vasos pulmonares    4170 
+     58  417.1 Aneurisma da arteria pulmonar                4171 
+     59  417.8 Outras                                       4178 
+     60  417.9 Não especificada                             4179 
+     61  420.0 Pericardite doenças classif outra parte      4200 
+     62  420.9 Outras pericardites e as não especificadas   4209 
+     63  421.0 Endocardite bacteriana aguda e subaguda      4210 
+     64  421.1 Endocard infec agud subagud doen clas out pa 4211 
+     65  421.9 Endocardite aguda não especificada           4219 
+     66  422.0 Miocardite aguda doenças class outra parte   4220 
+     67  22.4 Código inválido - fora da CID                 4224 
+     68  422.9 Outras miocardites e as não especificadas    4229 
+     69  423.0 Hemopericardio                               4230 
+     70  423.1 Pericardite adesiva                          4231 
+     71  423.2 Pericardite constrictiva                     4232 
+     72  423.8 Outras                                       4238 
+     73  423.9 Não especificadas                            4239 
+     74  424.0 Transtornos da valvula mitral                4240 
+     75  424.1 Transtornos da valvula aortica               4241 
+     76  424.2 Transtornos da valvula tricuspide            4242 
+     77  424.3 Transtornos da valvula pulmonar              4243 
+     78  424.9 Endocardite                                  4249 
+     79  425.0 Fibrose endomiocardica (endomiocardiofibrose 4250 
+     80  425.1 Cardiomiopatia hipertrofica obstrutiva       4251 
+     81  425.2 Cardiomiopatia obscura da africa             4252 
+     82  425.3 Fibroelastose endocardica                    4253 
+     83  425.4 Outras cardiomiopatias primárias             4254 
+     84  425.5 Cardiomiopatia alcoolica                     4255 
+     85  425.6 Cardiomiopatia na doenca de chagas           4256 
+     86  425.7 Cardiomiopatias nutricionais e metabolicas   4257 
+     87  425.8 Cardiomiopatia outr doenças class outr parte 4258 
+     88  425.9 Cardiomiopatia secundária não especificada   4259 
+     89  426.0 Bloqueio atrioventricular completo           4260 
+     90  426.1 Outr bloqueios atrioventriculares e n especi 4261 
+     91  426.2 Hemibloqueio de ramo esquerdo                4262 
+     92  426.3 Outros bloqueios de ramo esquerdo            4263 
+     93  426.4 Bloqueio de ramo direito                     4264 
+     94  426.5 Bloqueio de ramo não especificado            4265 
+     95  426.6 Outros bloqueios cardiacos                   4266 
+     96  426.7 Excitacao atrioventricular anomala           4267 
+     97  426.8 Outros                                       4268 
+     98  426.9 Não especificado                             4269 
+     99  427.0 Taquicardia paroxistica supraventricular     4270 
+    100  427.1 Taquicardia paroxistica ventricular          4271 
+    101  427.2 Taquicardia paroxistica não especificada     4272 
+    102  427.3 Flutter e fibrilacao atrial                  4273 
+    103  427.4 Flutter e fibrilacao ventricular             4274 
+    104  427.5 Parada cardiaca                              4275 
+    105  427.6 Extrassistolia                               4276 
+    106  427.8 Outras                                       4278 
+    107  427.9 Não especificadas                            4279 
+    108  428.0 Insuficiencia cardiaca congestiva            4280 
+    109  428.1 Insuficiencia do ventriculo esquerdo         4281 
+    110  428.2 Código inválido - fora da CID                4282 
+    111  428.4 Código inválido - fora da CID                4284 
+    112  428.6 Código inválido - fora da CID                4286 
+    113  428.7 Código inválido - fora da CID                4287 
+    114  428.8 Código inválido - fora da CID                4288 
+    115  428.9 Não especificada                             4289 
+    116  429.0 Miocardite não especificada                  4290 
+    117  429.1 Degeneracao do miocardio                     4291 
+    118  429.2 Doença cardiovascular não especificada       4292 
+    119  429.3 Cardiomegalia                                4293 
+    120  429.4 Disturbios funcionais conseq cirurg cardiaca 4294 
+    121  429.5 Ruptura de cordas tendineas                  4295 
+    122  429.6 Ruptura de musculo papilar                   4296 
+    123  429.8 Outras                                       4298 
+    124  429.9 Não especificadas                            4299 
+    125  430 - Hemorragia subaracnoidiana                   430X 
+    126  431 - Hemorragia intracerebral                     431X 
+    127  432.0 Hemorragia extradural não traumatica         4320 
+    128  432.1 Hemorragia subdural                          4321 
+    129  32.4 Código inválido - fora da CID                 4324 
+    130  432.9 Hemorragia intracraniana não especificada    4329 
+    131  433.0 Da arteria basilar                           4330 
+    132  433.1 Da arteria carotida                          4331 
+    133  433.2 Da arteria vertebral                         4332 
+    134  433.3 Multipla e bilateral                         4333 
+    135  433.8 Outras                                       4338 
+    136  433.9 Não especificadas                            4339 
+    137  434.0 Trombose cerebral                            4340 
+    138  434.1 Embolia cerebral                             4341 
+    139  34.4 Código inválido - fora da CID                 4344 
+    140  434.9 Não especificada                             4349 
+    141  435 - Isquemia cerebral transitória                435X 
+    142  436 - Doença cerebrovascular aguda mal def         436X 
+    143  437.0 Aterosclerose cerebral                       4370 
+    144  437.1 Outr doenç cérebrovasculares isquem generali 4371 
+    145  437.2 Encefalopatia hipertensiva                   4372 
+    146  437.3 Aneurisma cerebral não roto                  4373 
+    147  437.4 Arterite cerebral                            4374 
+    148  437.5 Doença de moyamoya                           4375 
+    149  437.6 Trombose n piogenica seios venosos intracran 4376 
+    150  437.8 Outras                                       4378 
+    151  437.9 Não especificadas                            4379 
+    152  438 - Efeitos tardios doença cerebrovascular       438X 
+    153  440.0 Da aorta                                     4400 
+    154  440.1 Da arteria renal                             4401 
+    155  440.2 Das arterias das extremidades                4402 
+    156  40.3 Código inválido - fora da CID                 4403 
+    157  440.4 Código inválido - fora da CID                4404 
+    158  440.8 De outras arterias especificadas             4408 
+    159  440.9 Generalizada e a não especificada            4409 
+    160  441.0 Aneurisma dissecante (qualquer porcao)       4410 
+    161  441.1 Aneurisma toracico roto                      4411 
+    162  441.2 Aneurisma toracico sem mencao de rotura      4412 
+    163  441.3 Aneurisma abdominal roto                     4413 
+    164  441.4 Aneurisma abdominal sem mencao de rotura     4414 
+    165  441.5 Aneurisma aortico localiz n especific roto   4415 
+    166  441.6 Aneurisma aortic local n espec s/menc rotura 4416 
+    167  441.7 Aneurisma sifilitico da aorta                4417 
+    168  41.9 Código inválido - fora da CID                 4419 
+    169  442.0 Das arterias das extremidades superiores     4420 
+    170  442.1 Da arteria renal                             4421 
+    171  442.2 Da arteria iliaca                            4422 
+    172  442.3 Das arterias das extremidades inferiores     4423 
+    173  442.8 De outras arterias especificadas             4428 
+    174  442.9 De localizacao não especificada              4429 
+    175  443.0 Síndrome de raynaud                          4430 
+    176  443.1 Tromboangeite obliterante (doenca de buerger 4431 
+    177  443.8 Outras                                       4438 
+    178  443.9 Não especificada                             4439 
+    179  444.0 Da aorta abdominal                           4440 
+    180  444.1 De outras porcoes da aorta                   4441 
+    181  444.2 Das arterias das extremidades                4442 
+    182  444.8 De outras arterias especificadas             4448 
+    183  444.9 De arteria não especificada                  4449 
+    184  446.0 Poliarterite nodosa                          4460 
+    185  446.1 Síndrome febril aguda linfonodo mucocutaneo  4461 
+    186  446.2 Angeite de hipersensibilidade                4462 
+    187  446.3 Granuloma letal da linha media               4463 
+    188  446.4 Granulomatose de wegener                     4464 
+    189  446.5 Arterite de celulas gigantes                 4465 
+    190  446.6 Microangiopatia trombotica                   4466 
+    191  446.7 Doença de takayasu                           4467 
+    192  446.9 Código inválido - fora da CID                4469 
+    193  447.0 Fistula arteriovenosa adquirida              4470 
+    194  447.1 Constriccao ou estreitamento de arteria      4471 
+    195  447.2 Rotura de arteria                            4472 
+    196  447.3 Hiperplasia de arteria renal                 4473 
+    197  447.4 Síndrome de compressao de arteria celiaca    4474 
+    198  447.5 Necrose de arteria                           4475 
+    199  447.6 Arterite não especificada                    4476 
+    200  447.7 Aortite sifilítica                           4477 
+    201  447.8 Outras                                       4478 
+    202  447.9 Não especificada                             4479 
+    203  448.0 Telangiectasia hemorrágica hereditaria       4480 
+    204  448.1 Nevo não neoplasico                          4481 
+    205  448.9 Outras e as não especificadas                4489 
+    206  451.0 De vasos superficiais extremidades inferiore 4510 
+    207  451.1 De vasos profundos extremidades inferiores   4511 
+    208  451.2 Das extremidades inferiores                  4512 
+    209  51.7 Código inválido - fora da CID                 4517 
+    210  451.8 De outras localizações                       4518 
+    211  451.9 De localizacao não especificada              4519 
+    212  452 - Trombose da veia porta                       452X 
+    213  453.0 Síndrome de budd-chiari                      4530 
+    214  453.1 Tromboflebite migratoria                     4531 
+    215  453.2 Da veia cava                                 4532 
+    216  453.3 Da veia renal                                4533 
+    217  453.8 De outras veias especificadas                4538 
+    218  453.9 De localizacao não especificada              4539 
+    219  454.0 Com ulcera                                   4540 
+    220  454.1 Com inflamacao                               4541 
+    221  454.2 Com ulcera e inflamacao                      4542 
+    222  454.9 Sem mencao de ulcera ou inflamacao           4549 
+    223  455.0 Hemorroidas internas                         4550 
+    224  455.1 Hemorroidas internas trombosadas             4551 
+    225  455.2 Hemorroidas internas com outras complicações 4552 
+    226  455.3 Hemorroidas externas sem mencao complicacao  4553 
+    227  455.4 Hemorroidas externas trombosadas             4554 
+    228  455.5 Hemorroidas externas com outras complicações 4555 
+    229  455.6 Hemorroidas não especificadas                4556 
+    230  455.7 Hemorroidas trombosadas                      4557 
+    231  455.8 Hemorroidas não especificadas                4558 
+    232  455.9 Polipos fibrosos residuais de hemorroidas    4559 
+    233  456.0 Varizes esofagianas sangrantes               4560 
+    234  456.1 Varizes esofagianas sem mencao de sangrament 4561 
+    235  456.2 Varizes esofagianas na cirrose hepatica      4562 
+    236  456.3 Varizes sublinguais                          4563 
+    237  456.4 Varizes do escroto                           4564 
+    238  456.5 Varizes pelvicas                             4565 
+    239  456.6 Varizes da vulva                             4566 
+    240  456.8 Outras                                       4568 
+    241  456.9 Código inválido - fora da CID                4569 
+    242  457.0 Síndrome de linfedema pós-mastectomia        4570 
+    243  457.1 Outros linfedemas                            4571 
+    244  457.2 Linfangite                                   4572 
+    245  457.8 Outros transtornos não infecciosos linfatico 4578 
+    246  457.9 Não especificados                            4579 
+    247  458.0 Hipotensao ortostatica                       4580 
+    248  458.1 Hipotensao crônica                           4581 
+    249  458.9 Não especificada                             4589 
+    250  459.0 Hemorragia não especificada                  4590 
+    251  459.1 Síndrome pós-flebite                         4591 
+    252  459.2 Compressao venosa                            4592 
+    253  459.8 Outros                                       4598 
+    254  459.9 Não especificados                            4599 
+

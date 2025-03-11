@@ -1,0 +1,250 @@
+    248  4 L                                                     
+      1  710.0 Lupus eritematoso sistemico                  7100 
+      2  710.1 Esclerose sistemica (progressiva)            7101 
+      3  710.2 Síndrome seca                                7102 
+      4  710.3 Dermatomiosite                               7103 
+      5  710.4 Polimiosite                                  7104 
+      6  710.8 Outras                                       7108 
+      7  710.9 Não especificadas                            7109 
+      8  711.0 Artrite piogenica                            7110 
+      9  711.1 Artropatia doenca reiter e afecc correlatas  7111 
+     10  711.2 Artropatia na sindrome de behcet             7112 
+     11  711.3 Artropatia pós-disentérica                   7113 
+     12  711.4 Artropatia assoc a outras doenças bacteriana 7114 
+     13  711.5 Artropatia associada a outras doenças virais 7115 
+     14  711.6 Artropatia associada a micoses               7116 
+     15  711.7 Artropatia associada a helmintiase           7117 
+     16  711.8 Artropatia assoc outr doenç infec e parasit  7118 
+     17  711.9 Artrite infecciosa não especificada          7119 
+     18  712.0 Artrite gotosa                               7120 
+     19  712.1 Condrocalcinose dev cristais fosfato bicalci 7121 
+     20  712.2 Condrocalcinose dev cristais pirofosfato     7122 
+     21  712.3 Condrocalcinose não especificada             7123 
+     22  712.8 Outras artropatias por deposicao de cristais 7128 
+     23  712.9 Artropatias por deposicao de cristais        7129 
+     24  713.0 Artropatia assoc outr transt endocr e metabo 7130 
+     25  713.1 Artropatia assoc afec gastrintestin n infec  7131 
+     26  713.2 Artropatia assoc transtornos hematologicos   7132 
+     27  713.3 Artropatia assoc transtornos dermatologicos  7133 
+     28  713.4 Artropatia assoc transtornos respiratorios   7134 
+     29  713.5 Artropatia assoc transtornos neurologicos    7135 
+     30  713.6 Artropatia assoc reacao de hipersensibilidad 7136 
+     31  713.7 Outr doenç sistemicas com compromet articula 7137 
+     32  713.8 Artropatia assoc outr afec class outr parte  7138 
+     33  714.0 Artrite reumatóide                           7140 
+     34  714.1 Síndrome de felty                            7141 
+     35  714.2 Outr artrit reumatoid c/compr viscer ou sist 7142 
+     36  714.3 Poliartrite juvenil crônica                  7143 
+     37  714.4 Artropatia pós-reumatica crônica             7144 
+     38  714.8 Outras                                       7148 
+     39  714.9 Não especificadas                            7149 
+     40  715.0 Generalizada                                 7150 
+     41  715.1 Localizada primária                          7151 
+     42  715.2 Localizada secundária                        7152 
+     43  715.3 Localizada s/menc primária ou secundária     7153 
+     44  715.8 Compr mais q uma reg anat mas sem espec gene 7158 
+     45  715.9 Sem espec de generalizada ou localizada      7159 
+     46  716.0 Doença de kaschin-beck                       7160 
+     47  716.1 Artropatia traumatica                        7161 
+     48  716.2 Artrite alergica                             7162 
+     49  716.3 Artrite climaterica                          7163 
+     50  716.4 Artropatia transitoria                       7164 
+     51  716.5 Poliartropatia ou poliartrite não especific  7165 
+     52  716.6 Monoartrite não especificada                 7166 
+     53  716.8 Outras artropatias especificadas             7168 
+     54  716.9 Não especificadas                            7169 
+     55  717.0 Rotura antiga                                7170 
+     56  717.1 Desarranjo do corno anterior menisco medial  7171 
+     57  717.2 Desarranjo do corno posterior menisco medial 7172 
+     58  717.3 Outros desarranjos                           7173 
+     59  717.4 Desarranjo do menisco lateral                7174 
+     60  717.5 Desarranjo de menisco                        7175 
+     61  717.6 Corpo flutuante no joelho                    7176 
+     62  717.7 Condromalacia patelar                        7177 
+     63  717.8 Outros                                       7178 
+     64  717.9 Não especificados                            7179 
+     65  718.0 Transtornos das cartilagens articulares      7180 
+     66  718.1 Corpo flutuante intra-articular              7181 
+     67  718.2 Luxacao patologica                           7182 
+     68  718.3 Luxacao recorrente de articulacao            7183 
+     69  718.4 Contratura de articulacao                    7184 
+     70  718.5 Ancilose de articulacao                      7185 
+     71  718.6 Protusao de acetabulo                        7186 
+     72  718.8 Outros desarranjos articulares NCOP          7188 
+     73  718.9 Não especificados                            7189 
+     74  719.0 Derrame articular                            7190 
+     75  719.1 Hemartrose                                   7191 
+     76  719.2 Sinovite vilonodular                         7192 
+     77  719.3 Reumatismo palindromico                      7193 
+     78  719.4 Dor articular                                7194 
+     79  719.5 Rigidez de articulacao                       7195 
+     80  719.6 Outros sintomas relacionados as articulações 7196 
+     81  719.7 Dificuldade de caminhar                      7197 
+     82  719.8 Outros                                       7198 
+     83  719.9 Não especificados                            7199 
+     84  720.0 Espondilite ancilosante                      7200 
+     85  720.1 Entesopatia da coluna vertebral              7201 
+     86  720.2 Sacriliite                                   7202 
+     87  720.8 Outras espondilopatias inflamatorias         7208 
+     88  720.9 Espondilopatia inflamatoria não especificada 7209 
+     89  721.0 Espondilose cervical sem mielopatia          7210 
+     90  721.1 Espondilose cervical com mielopatia          7211 
+     91  721.2 Espondilose toracica sem mielopatia          7212 
+     92  721.3 Espondilose lombo-sacra sem mielopatia       7213 
+     93  721.4 Espondilose toracica ou lombar com mielopati 7214 
+     94  721.5 Espondilose interespinhosa                   7215 
+     95  721.6 Hiperostose vertebral ancilosante            7216 
+     96  721.7 Espondilopatia traumatica                    7217 
+     97  721.8 Outras                                       7218 
+     98  721.9 Espondilose de localizacao não especificada  7219 
+     99  722.0 Desloc disco intervert cervical s/mielopatia 7220 
+    100  722.1 Desloc disc interv torac ou lombar s/mielop  7221 
+    101  722.2 Deslocamento de disco intervertebral         7222 
+    102  722.3 Nodulos de schmorl                           7223 
+    103  722.4 Degeneracao de disco intervertebral cervical 7224 
+    104  722.5 Degener disco interverteb toracico ou lombar 7225 
+    105  722.6 Degener disco interverteb localiz n espec    7226 
+    106  722.7 Transt de disco intervertebral com mielopati 7227 
+    107  722.8 Síndrome pós-laminectomia                    7228 
+    108  722.9 Outr transt discos interverteb e não especif 7229 
+    109  723.0 Estenose coluna vertebral na região cervical 7230 
+    110  723.1 Cervicalgia                                  7231 
+    111  723.2 Síndrome cervicocraniana                     7232 
+    112  723.3 Síndrome cervicobraquial (difusa)            7233 
+    113  723.4 Neurite ou radiculite braquial soe           7234 
+    114  723.5 Torcicolo não especificado                   7235 
+    115  723.6 Paniculite especif como atingindo o pescoco  7236 
+    116  723.7 Ossific ligamento longitud post reg cervical 7237 
+    117  723.8 Outras sindromes atingindo a região cervical 7238 
+    118  723.9 Transt e sint não espec relativos ao pescoco 7239 
+    119  724.0 Estenose da coluna vertebral                 7240 
+    120  724.1 Dor na coluna vertebral toracica             7241 
+    121  724.2 Lumbago                                      7242 
+    122  724.3 Ciatica                                      7243 
+    123  724.4 Neurite radiculite toracica lombossacra soe  7244 
+    124  724.5 Dor nas costas não especificada              7245 
+    125  724.6 Transtornos do osso sacro                    7246 
+    126  724.7 Transtornos do coccix                        7247 
+    127  724.8 Outros sintomas relativos as costas          7248 
+    128  724.9 Transtornos das costas                       7249 
+    129  725 - Polimialgia reumática                        725X 
+    130  726.0 Capsulite adesiva do ombro                   7260 
+    131  726.1 Sindr manguito rotador ombro e transt afins  7261 
+    132  726.2 Outras afecções da região do ombro           7262 
+    133  726.3 Entesopatia da região do cotovelo            7263 
+    134  726.4 Entesopatia do punho e do carpo              7264 
+    135  726.5 Entesopatia da região do quadril             7265 
+    136  726.6 Entesopatia do joelho                        7266 
+    137  726.7 Entesopatia do tornozelo e do tarso          7267 
+    138  726.8 Outras entesopatias perifericas              7268 
+    139  726.9 Entesopatias não especificadas               7269 
+    140  727.0 Sinovite e tenossinovite                     7270 
+    141  727.1 Joanete                                      7271 
+    142  727.2 Bursites especificas                         7272 
+    143  727.3 Outras bursites                              7273 
+    144  727.4 Gânglios e cistos da sinovia                 7274 
+    145  727.5 Rotura da sinovia                            7275 
+    146  727.6 Rotura não traumatica de tendao              7276 
+    147  727.8 Outros                                       7278 
+    148  727.9 Não especificadas                            7279 
+    149  728.0 Miosite infecciosa                           7280 
+    150  728.1 Calcificacao e ossificacao muscular          7281 
+    151  728.2 Desgaste muscular e atrofia de desuso        7282 
+    152  728.3 Outros transtornos musculares especificos    7283 
+    153  728.4 Frouxidao dos ligamentos                     7284 
+    154  728.5 Síndrome da hipermobilidade                  7285 
+    155  728.6 Contratura da fascia palmar                  7286 
+    156  728.7 Outras fibromatoses                          7287 
+    157  728.8 Outros transtornos dos musculos              7288 
+    158  728.9 Não especificados                            7289 
+    159  729.0 Reumatismo não especificado e fibrosite      7290 
+    160  729.1 Mialgia e miosite não especificadas          7291 
+    161  729.2 Neuralgia                                    7292 
+    162  729.3 Paniculite não especificada                  7293 
+    163  729.4 Fascite não especificada                     7294 
+    164  729.5 Dor nos membros                              7295 
+    165  729.6 Corpo estranho residual nos tecidos moles    7296 
+    166  729.8 Outros sintomas relativos aos membros        7298 
+    167  729.9 Outr transt tecidos moles e os não especif   7299 
+    168  730.0 Osteomielite aguda                           7300 
+    169  730.1 Osteomielite crônica                         7301 
+    170  730.2 Osteomielite não especificada                7302 
+    171  730.3 Periostite sem mencao de osteomielite        7303 
+    172  730.4 Tuberculose da coluna vertebral              7304 
+    173  730.5 Tuberculose dos ossos dos membros            7305 
+    174  730.6 Tuberculose de outros ossos                  7306 
+    175  730.7 Osteopatia resultante de poliomielite        7307 
+    176  730.8 Outras infecções envolvendo ossos            7308 
+    177  730.9 Infeccao não especificada dos ossos          7309 
+    178  731.0 Osteite deformante sem mencao de tumor osseo 7310 
+    179  731.1 Osteite deform doenças classif outra parte   7311 
+    180  731.2 Osteoartropatia hipertrofica pulmonar        7312 
+    181  731.8 Outros comprom osseos doenç class outr parte 7318 
+    182  31.9 Código inválido - fora da CID                 7319 
+    183  732.0 Osteocondrose juvenil da coluna vertebral    7320 
+    184  732.1 Osteocondrose juvenil do quadril e da pelve  7321 
+    185  732.2 Luxacao não traumatica epifise superior femu 7322 
+    186  732.3 Osteocondrose juvenil do membro superior     7323 
+    187  732.4 Osteocondrose juvenil do membro inferior     7324 
+    188  732.5 Osteocondrose juvenil do pé                  7325 
+    189  732.6 Outras osteocondroses juvenis                7326 
+    190  732.7 Osteocondrite dissecante                     7327 
+    191  732.8 Outras formas especif osteocondropatias      7328 
+    192  732.9 Osteocondropatias não especificadas          7329 
+    193  733.0 Osteoporose                                  7330 
+    194  733.1 Fratura patologica                           7331 
+    195  733.2 Cisto osseo                                  7332 
+    196  733.3 Hiperostose do cranio                        7333 
+    197  733.4 Necrose asseptica do osso                    7334 
+    198  733.5 Osteite condensante                          7335 
+    199  733.6 Doença de tietze                             7336 
+    200  733.7 Algoneurodistrofia                           7337 
+    201  733.8 Ausencia ou defeito de consolidacao fratura  7338 
+    202  733.9 Outros e os não especificados                7339 
+    203  734 - Pé plano                                     734X 
+    204  735.0 Halux valgo (adquirido)                      7350 
+    205  735.1 Halux varo (adquirido)                       7351 
+    206  735.2 Halux rigido                                 7352 
+    207  735.3 Halux em martelo                             7353 
+    208  735.4 Outros artelhos em martelo (adquiridos)      7354 
+    209  735.5 Dedo do pé em garra (adquirido)              7355 
+    210  735.8 Outros                                       7358 
+    211  735.9 Não especificadas                            7359 
+    212  736.0 Deformidades adquiridas do antebraco         7360 
+    213  736.1 Dedo em malho                                7361 
+    214  736.2 Outras deformidades adquiridas dos dedos     7362 
+    215  736.3 Deformidades adquiridas do quadril           7363 
+    216  736.4 Genu valgo ou varo (adquirido)               7364 
+    217  736.5 Genu recurvatum (adquirido)                  7365 
+    218  736.6 Outras deformidades adquiridas do joelho     7366 
+    219  736.7 Outras deformidades adquiridas tornozelo e p 7367 
+    220  736.8 Deformidades adquiridas outras partes membro 7368 
+    221  736.9 Deformidade adquirida de membro              7369 
+    222  737.0 Cifose postural do adolescente               7370 
+    223  737.1 Cifose (adquirida)                           7371 
+    224  737.2 Lordose (adquirida) (postural)               7372 
+    225  737.3 Cifoscoliose e escoliose                     7373 
+    226  737.4 Desvio coluna vertebral assoc outras afeccoe 7374 
+    227  737.8 Outros                                       7378 
+    228  737.9 Não especificados                            7379 
+    229  738.0 Deformidade adquirida do nariz               7380 
+    230  738.1 Outras deformidades adquiridas da cabeca     7381 
+    231  738.2 Deformidade adquirida do pescoco             7382 
+    232  738.3 Deformidade adquirida do torax e costelas    7383 
+    233  738.4 Espondilolistese adquirida                   7384 
+    234  738.5 Outr deform adquirid dorso ou coluna vertebr 7385 
+    235  738.6 Deformidade adquirida da pelve               7386 
+    236  738.7 Orelha em forma de couve-flor                7387 
+    237  738.8 Deformidade adquirida outras localiz especif 7388 
+    238  738.9 Deformidade adquirida localiz não especif    7389 
+    239  739.0 Da região cefalica                           7390 
+    240  739.1 Da região cervical                           7391 
+    241  739.2 Da região toracica                           7392 
+    242  739.3 Da região lombar                             7393 
+    243  739.4 Da região sacral                             7394 
+    244  739.5 Da região pelvica                            7395 
+    245  739.6 Dos membros inferiores                       7396 
+    246  739.7 Dos membros superiores                       7397 
+    247  739.8 Das costelas                                 7398 
+    248  739.9 Da região abdominal e outras                 7399 
+

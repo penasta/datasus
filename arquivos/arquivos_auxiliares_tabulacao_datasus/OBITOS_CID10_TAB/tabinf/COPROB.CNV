@@ -1,0 +1,19 @@
+18 3 L
+      1  Sem informação                                        ,
+      2  Em branco acesso e assistência                     0,0
+      3  Em branco acesso e falha na assistência            0,1
+      4  Em branco acesso e não houve falha assistência     0,2
+      5  Em branco acesso e inconcluso na assistência       0,3
+      6  Falha no acesso e em branco na assistência         1,0
+      7  Falha no acesso e assistencia                      1,1
+      8  Falha no acesso e não houve falha assistência      1,2
+      9  Falha no acesso e assistência  inconcluso          1,3
+     10  Não houve falha acesso e assistência em branco     2,0
+     11  Não houve falha acesso e falha assistência         2,1
+     12  Sem falhas acesso e assitência                     2,2
+     13  Não houve falha acesso e assistência inconcluso    2,3
+     14  Inconcluso acesso e em branco assistência          3,0
+     15  Inconcluso acesso e falha assistência              3,1
+     16  Inconcluso acesso e não houve falha assistência    3,2
+     17  Inconcluso acesso e assistência                    3,3
+     18  Não se aplica                                      X,X,XX ,

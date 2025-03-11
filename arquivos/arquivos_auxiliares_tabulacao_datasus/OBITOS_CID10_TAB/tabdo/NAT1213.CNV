@@ -1,0 +1,267 @@
+266  3   L
+      1  IGNORADO                                           000-999,0  ,
+      2  BRASIL - UF IGN                                    800,
+      3  ACORES                                             2  ,002
+      4  AFEGANISTAO                                        3  ,003
+      5  AFRICA DO SUL                                      4  ,004
+      6  ALBANIA                                            6  ,006
+      7  ALEMANHA                                           8  ,008
+      8  ANDORRA                                            9  ,009
+      9  ANGOLA                                             10 ,010
+     10  ANTILHAS HOLANDESAS                                11 ,011
+     11  ANGUILLA                                           12 ,012
+     12  ANTIGUA E BARBUDA                                  13 ,013
+     13  ARABIA SAUDITA                                     14 ,014
+     14  ARGELIA                                            15 ,015
+     15  ARGENTINA                                          16 ,016
+     16  ARMENIA                                            17 ,017
+     17  ARUBA                                              18 ,018
+     18  AUSTRALIA                                          19 ,019
+     19  AUSTRIA                                            20 ,020
+     20  AZERBAIDJAO                                        21 ,021
+     21  BAHAMAS                                            22 ,022
+     22  BAHREIN                                            23 ,023
+     23  BANGLADESH                                         25 ,025
+     24  BARBADOS                                           26 ,026
+     25  BELGICA                                            27 ,027
+     26  BELIZE                                             28 ,028
+     27  BENIN                                              29 ,029
+     28  BERMUDAS                                           30 ,030
+     29  BELARUS (OU BIELORRUSSIA)                          31 ,031
+     30  MIANMAR (OU BIRMANIA)                              32 ,032
+     31  BOLIVIA                                            33 ,033
+     32  BOTSUANA                                           35 ,035
+     33  BRUNEI                                             36 ,036
+     34  BULGARIA                                           37 ,037
+     35  BURUNDI                                            38 ,038
+     36  BURKINA FASSO                                      39 ,039
+     37  BUTAO                                              40 ,040
+     38  CABO VERDE                                         41 ,041
+     39  CAMEROON                                           43 ,043
+     40  CAMBOJA                                            44 ,044
+     41  CANADAÿ                                            45 ,045
+     42  CASAQUISTAO                                        48 ,048
+     43  CAYMAN, ILHAS                                      49 ,049
+     44  ILHAS BRITANICAS                                   50 ,050
+     45  CHADE                                              51 ,051
+     46  CHILE                                              52 ,052
+     47  CHINA                                              53 ,053
+     48  CHIPRE                                             54 ,054
+     49  CINGAPURA                                          56 ,056
+     50  COLOMBIA                                           58 ,058
+     51  COMORES , ILHA                                     59 ,059
+     52  CONGO                                              60 ,060
+     53  COOK, ILHAS                                        61 ,061
+     54  COREIA DO NORTE                                    62 ,062
+     55  COREIA DO SUL                                      63 ,063
+     56  COSTA DO MARFIM                                    64 ,064
+     57  COSTA RICA                                         65 ,065
+     58  CUBA                                               66 ,066
+     59  DINAMARCA                                          68 ,068
+     60  DJIBUTI                                            69 ,069
+     61  DOMINICA                                           70 ,070
+     62  ALEMANHA OC                                        71 ,071
+     63  EGITO                                              72 ,072
+     64  IRLANDA                                            73 ,073
+     65  EL SALVADOR                                        74 ,074
+     66  EQUADOR                                            75 ,075
+     67  ESCOCIA                                            76 ,076
+     68  ESPANHA                                            77 ,077
+     69  ESTADOS UNIDOS                                     78 ,078
+     70  ESTONIA                                            79 ,079
+     71  ETIOPIA                                            80 ,080
+     72  FALKLAND, ILHAS  (EX-MALVINAS)                     81 ,081
+     73  EX-IUGOSLAVIA                                      82 ,082
+     74  FIJI                                               83 ,083
+     75  FILIPINAS                                          84 ,084
+     76  FINLANDIA                                          85 ,085
+     77  TAIWAN (FORMOSA)                                   86 ,086
+     78  FRANCA                                             87 ,087
+     79  GABAO                                              90 ,090
+     80  GALES, (PAIS DE)                                   92 ,092
+     81  GAMBIA                                             93 ,093
+     82  GANA                                               94 ,094
+     83  GEORGIA                                            95 ,095
+     84  GIBRALTAR                                          96 ,096
+     85  GRANADA                                            98 ,098
+     86  GRECIA                                             99 ,099
+     87  GROENLANDIA                                        100
+     88  GUADALUPE                                          101
+     89  GUAM                                               102
+     90  GUATEMALA                                          103
+     91  GUIANA FRANCESA                                    104
+     92  GUIANA                                             105
+     93  GUINE                                              106
+     94  GUINE-BISSAU                                       107
+     95  GUINE EQUATORIAL                                   108
+     96  HAITI                                              109
+     97  HOLANDA (PAISES BAIXOS)                            110
+     98  HONDURAS                                           111
+     99  HONG KONG                                          113
+    100  HUNGRIA                                            114
+    101  IEMEN                                              115
+    102  INDIA                                              117
+    103  INDONESIA                                          118
+    104  INGLATERRA                                         119
+    105  IRA                                                120
+    106  IRAQUE                                             121
+    107  ISLANDIA                                           123
+    108  ISRAEL                                             124
+    109  ITALIA                                             125
+    110  JAMAICA                                            126
+    111  JAPAO                                              127
+    112  JORDANIA                                           129
+    113  ASIA CENTRAL                                       130
+    114  KIRIBATI                                           131
+    115  KUWEIT                                             132
+    116  LESOTO                                             133
+    117  LETONIA                                            134
+    118  LIBANO                                             135
+    119  LIBERIA                                            136
+    120  LIBIA                                              137
+    121  LIECHTENSTEIN                                      138
+    122  LITUANIA                                           139
+    123  LUXEMBURGO                                         140
+    124  MACAU                                              141
+    125  MADAGASCAR                                         142
+    126  MADEIRA                                            143
+    127  MALASIA                                            144
+    128  MALAUI                                             145
+    129  MALDIVAS                                           146
+    130  MALI                                               147
+    131  MALTA                                              148
+    132  MAN, ILHA DE                                       149
+    133  MARIANAS, ILHAS                                    150
+    134  MARROCOS                                           152
+    135  ILHAS MARSHALL                                     153
+    136  MARTINICA                                          154
+    137  MAYOTTE                                            155
+    138  MAURICIO                                           156
+    139  MAURITANIA                                         157
+    140  MEXICO                                             159
+    141  MOCAMBIQUE                                         161
+    142  MOLDAVIA                                           162
+    143  MONACO                                             163
+    144  MONGOLIA                                           164
+    145  MONTSERRAT                                         165
+    146  NAMIBIA                                            166
+    147  NAURU                                              168
+    148  NEPAL                                              169
+    149  EX-URSS                                            170
+    150  NICARAGUA                                          171
+    151  NIGER                                              172
+    152  NIGERIA                                            173
+    153  NORFOLK, ILHA                                      174
+    154  NORUEGA                                            175
+    155  NOVA CALEDONIA                                     176
+    156  NOVA ZELANDIA                                      178
+    157  OMA                                                180
+    158  PANAMA                                             181
+    159  PAPUA NOVA GUINE                                   182
+    160  PAQUISTAO                                          183
+    161  PARAGUAI                                           184
+    162  PERU                                               186
+    163  POLINESIA FRANCESA                                 187
+    164  POLONIA                                            188
+    165  PORTO RICO                                         189
+    166  PORTUGAL                                           190
+    167  PITCAIRN, ILHA                                     191
+    168  CATAR                                              192
+    169  QUENIA                                             193
+    170  QUIRGUISTAO                                        194
+    171  REINO UNIDO                                        195
+    172  REPUBLICA CENTRO-AFRICANA                          196
+    173  REPUBLICA DOMINICANA                               197
+    174  REUNIAO                                            198
+    175  ROMENIA                                            199
+    176  RUANDA                                             200
+    177  RUSSIA                                             201
+    178  SAARA OCIDENTAL                                    202
+    179  SAO CRISTOVAO E NEVIS                              204
+    180  SAINT PIERRE E MIQUELON,I                          206
+    181  ILHAS SALOMAO                                      207
+    182  SAMOA AMERICANA, ILHAS                             208
+    183  SAMOA                                              209
+    184  SAN MARINO                                         210
+    185  SANTA LUCIA                                        211
+    186  SAO TOME E PRINCIPE                                213
+    187  SAO VICENTE E GRANADINAS                           214
+    188  SENEGAL                                            215
+    189  SERRA LEOA                                         216
+    190  SEYCHELES                                          217
+    191  SIRIA                                              218
+    192  SOMALIA                                            220
+    193  SRI LANKA                                          221
+    194  SUAZILANDIA                                        222
+    195  SUDAO                                              223
+    196  SUECIA                                             224
+    197  SUICA                                              225
+    198  SURINAME                                           226
+    199  TADJIQUISTAO                                       227
+    200  TAILANDIA                                          228
+    201  TANZANIA                                           229
+    202  TOGO                                               234
+    203  TOKELAU                                            235
+    204  TONGA                                              236
+    205  TUVALU                                             237
+    206  TRINIDAD E TOBAGO                                  238
+    207  TUNISIA                                            241
+    208  TURCOMENISTAO                                      242
+    209  TURKS, ILHA                                        243
+    210  TURQUIA                                            244
+    211  UCRANIA                                            245
+    212  UGANDA                                             246
+    213  EMIRADOS ARABES UNIDOS                             247
+    214  URUGUAI                                            249
+    215  UZBEQUISTAAO                                       250
+    216  VATICANO                                           252
+    217  VENEZUELA                                          253
+    218  VIETNA                                             254
+    219  VIRGENS NORTE-AMERICANAS                           255
+    220  VIRGENS BRITANICAS,ILHAS                           256
+    221  WALLIS, ILHA                                       257
+    222  REPUBLICA DEMOCRATICA DO CONGO                     259
+    223  ZAMBIA                                             260
+    224  ZIMBABUE                                           261
+    225  LAOS                                               263
+    226  ESLOVAQUIA                                         265
+    227  REPUBLICA TCHECA                                   266
+    228  MACEDONIA                                          267
+    229  BOSNIA-HERZEGOVINA                                 268
+    230  CROACIA                                            269
+    231  ERITREIA                                           270
+    232  ESLOVENIA                                          271
+    233  MONTENEGRO                                         272
+    234  PALAU                                              273
+    235  TIMOR LOROSAE (TIMOR LESTE)                        274
+    236  SERVIA                                             275
+    237  MICRONESIA                                         276
+    238  VANUATU                                            521
+    239  RONDONIA                                           811
+    240  ACRE                                               812
+    241  AMAZONAS                                           813
+    242  RORAIMA                                            814
+    243  PARA                                               815
+    244  AMAPA                                              816
+    245  TOCANTINS                                          817
+    246  MARANHAO                                           821
+    247  PIAUI                                              822
+    248  CEARA                                              823
+    249  RIO GRANDE DO NORTE                                824
+    250  PARAIBA                                            825
+    251  PERNAMBUCO                                         826
+    252  ALAGOAS                                            827
+    253  SERGIPE                                            828
+    254  BAHIA                                              829
+    255  MINAS GERAIS                                       831
+    256  ESPIRITO SANTO                                     832
+    257  RIO DE JANEIRO                                     833
+    258  SAO PAULO                                          835
+    259  PARANA                                             841
+    260  SANTA CATARINA                                     842
+    261  RIO GRANDE DO SUL                                  843
+    262  MATO GROSSO DO SUL                                 850
+    263  MATO GROSSO                                        851
+    264  GOIAS                                              852
+    265  DISTRITO FEDERAL                                   853
+    266  N INFORMADO                                           ,

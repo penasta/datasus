@@ -1,0 +1,65 @@
+     63  4 L                                                     
+      1  280 - Anemias por deficiências de ferro            280X 
+      2  281.0 Anemia perniciosa                            2810 
+      3  281.1 Outras anemias deficiencia de vitamina b12   2811 
+      4  281.2 Anemia por deficiencia de acido folico       2812 
+      5  281.3 Outras anemias megaloblasticas especificadas 2813 
+      6  281.4 Anemia por deficiencia de proteinas          2814 
+      7  281.8 Anemia assoc outr defic nutric especific     2818 
+      8  281.9 Não especificadas                            2819 
+      9  282.0 Esferocitose hereditaria                     2820 
+     10  282.1 Eliptocitose hereditaria                     2821 
+     11  282.2 Anemia dev transt metabolismo do glutation   2822 
+     12  282.3 Outr anemias hemoliticas dev defic enzimatic 2823 
+     13  282.4 Talassemias                                  2824 
+     14  282.5 Estigma falciforme                           2825 
+     15  282.6 Anemia falciforme                            2826 
+     16  282.7 Outras hemoglobinopatias                     2827 
+     17  282.8 Outras                                       2828 
+     18  282.9 Não especificadas                            2829 
+     19  283.0 Anemias hemoliticas auto-imunes              2830 
+     20  283.1 Anemias hemoliticas não auto-imunes          2831 
+     21  283.2 Hemoglobinuria dev hemolise fatores externos 2832 
+     22  283.9 Não especificadas                            2839 
+     23  284.0 Anemia aplastica constitucional              2840 
+     24  284.8 Outras                                       2848 
+     25  284.9 Não especificada                             2849 
+     26  285.0 Anemia sideroblastica                        2850 
+     27  285.1 Anemia aguda pós-hemorragica                 2851 
+     28  85.4 Código inválido - fora da CID                 2854 
+     29  285.8 Outras anemias especificadas                 2858 
+     30  285.9 Anemia não especificada                      2859 
+     31  286.0 Deficiencia congênita do fator viii          2860 
+     32  286.1 Deficiencia congênita do fator ix            2861 
+     33  286.2 Deficiencia congênita do fator xi            2862 
+     34  286.3 Deficiencia congênita outr fatores coagulaca 2863 
+     35  286.4 Doença de von willebrand                     2864 
+     36  286.5 Transt hemorragicos dev anticoagul circulant 2865 
+     37  286.6 Síndrome de defibrinação                     2866 
+     38  286.7 Deficiencia adquirida fatores de coagulação  2867 
+     39  286.9 Outros defeitos de coagulação e não especifi 2869 
+     40  287.0 Purpura alergica                             2870 
+     41  287.1 Defeitos qualitativos das plaquetas          2871 
+     42  287.2 Outras purpuras não trombocitopenicas        2872 
+     43  287.3 Trombocitopenia primária                     2873 
+     44  287.4 Trombocitopenia secundária                   2874 
+     45  287.5 Trombocitopenia não especificada             2875 
+     46  287.8 Outras afecções hemorrágicas especificadas   2878 
+     47  287.9 Afecções hemorrágicas não especificadas      2879 
+     48  288.0 Agranulocitose                               2880 
+     49  288.1 Transt func polimorfonucleares neutrofilos   2881 
+     50  288.2 Anomalias geneticas dos leucocitos           2882 
+     51  288.3 Eosinofilia                                  2883 
+     52  288.8 Outras                                       2888 
+     53  288.9 Não especificadas                            2889 
+     54  289.0 Policitemia secundária                       2890 
+     55  289.1 Linfadenite crônica                          2891 
+     56  289.2 Linfadenite mesenterica não especificada     2892 
+     57  289.3 Linfadenite sem especificar                  2893 
+     58  289.4 Hiperesplenismo                              2894 
+     59  289.5 Outras doenças do baco                       2895 
+     60  289.6 Policitemia familiar                         2896 
+     61  289.7 Metemoglobinemia                             2897 
+     62  289.8 Outras                                       2898 
+     63  289.9 Não especificadas                            2899 
+

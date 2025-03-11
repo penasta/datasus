@@ -1,0 +1,913 @@
+    911  3                                                      
+      1  001 - Cólera                                       001 
+      2  002 - Febres tifóide e paratifóide                 002 
+      3  003 - Outras infecções por salmonella              003 
+      4  004 - Shiguelose                                   004 
+      5  005 - Outras intoxic alimentares (bacterianas)     005 
+      6  006 - Amebíase                                     006 
+      7  007 - Outr doenças intestinais dev protozoários    007 
+      8  008 - Infecções intestinais dev outr microorganism 008 
+      9  009 - Infecções intestinais mal definidas          009 
+     10  010 - Infecção tuberculosa primária                010 
+     11  011 - Tuberculose pulmonar                         011 
+     12  012 - Outras tuberculoses respiratórias            012 
+     13  013 - Tuberculose meninges e sistema nervoso centr 013 
+     14  014 - Tuberculose intestino peritônio gângl mesent 014 
+     15  015 - Tuberculose ossos e articulações             015 
+     16  016 - Tuberculose aparelho geniturinário           016 
+     17  017 - Tuberculose de outros órgãos                 017 
+     18  018 - Tuberculose miliar                           018 
+     19  020 - Peste                                        020 
+     20  021 - Tularemia                                    021 
+     21  022 - Carbúnculo                                   022 
+     22  023 - Brucelose                                    023 
+     23  024 - Mormo                                        024 
+     24  025 - Melioidose                                   025 
+     25  026 - Febre transmitida por mordedura de rato      026 
+     26  027 - Outras zoonoses causadas por bactérias       027 
+     27  030 - Hanseníase                                   030 
+     28  031 - Doenças devidas a outras micobactérias       031 
+     29  032 - Difteria                                     032 
+     30  033 - Coqueluche                                   033 
+     31  034 - Angina estreptocócica e escarlatina          034 
+     32  035 - Erisipelas                                   035 
+     33  036 - Infecção meningocócica                       036 
+     34  037 - Tétano (exceto neonatal - 771.3)             037 
+     35  038 - Septicemia                                   038 
+     36  039 - Infecções actinomicóticas                    039 
+     37  040 - Outras doenças bacterianas                   040 
+     38  041 - Infec bacter afecç class out part e loc NE   041 
+     39  045 - Poliomielite aguda                           045 
+     40  046 - Infec sist nerv central dev vírus lento      046 
+     41  047 - Meningite devida a enterovírus               047 
+     42  048 - Out doen sist nerv centr dev entorovír       048 
+     43  049 - Out viroses s nerv cent ñ transm artróp      049 
+     44  050 - Varíola                                      050 
+     45  051 - Vacina e paravacínia                         051 
+     46  052 - Varicela                                     052 
+     47  053 - Herpes zoster                                053 
+     48  054 - Herpes simples                               054 
+     49  055 - Sarampo                                      055 
+     50  056 - Rubéola                                      056 
+     51  057 - Outros exantemas por vírus                   057 
+     52  060 - Febre amarela                                060 
+     53  061 - Dengue                                       061 
+     54  062 - Encefalite viral transmitidas mosquitos      062 
+     55  063 - Encefalite viral transmitidas carrapato      063 
+     56  064 - Encefal viral transm out artróp e NE         064 
+     57  065 - Febres hemorrágicas transmit artrópodes      065 
+     58  066 - Out doenças virais transmit artrópodes       066 
+     59  070 - Hepatite por vírus                           070 
+     60  071 - Raiva                                        071 
+     61  072 - Parotidite epidêmica                         072 
+     62  073 - Ornitose                                     073 
+     63  074 - Doenças específicas dev vírus Coxsackie      074 
+     64  075 - Mononucleose infecciosa                      075 
+     65  076 - Tracoma                                      076 
+     66  077 - Out doenç conjuntiva dev vírus e clamíd      077 
+     67  078 - Out doenç devidas vírus e clamídias          078 
+     68  079 - Infec vir em afec class out part loc NE      079 
+     69  080 - Tifo (epidêmico) transmitido piolho          080 
+     70  081 - Outros tifos                                 081 
+     71  082 - Rickettsioses transmitidas carrapatos        082 
+     72  083 - Outras rickettsioses                         083 
+     73  084 - Malária                                      084 
+     74  085 - Leishmaniose                                 085 
+     75  086 - Tripanossomíase                              086 
+     76  087 - Febre recorrente                             087 
+     77  088 - Outras doenças transmitidas artrópodes       088 
+     78  090 - Sífilis congênita                            090 
+     79  091 - Sífilis precoce sintomática                  091 
+     80  092 - Sífilis precoce latente                      092 
+     81  093 - Sífilis cardiovascular                       093 
+     82  094 - Neurossífilis                                094 
+     83  095 - Out formas sífilis tardia c sintomatol       095 
+     84  096 - Sífilis latente tardia                       096 
+     85  097 - Out formas de sífilis e não especificad      097 
+     86  098 - Infecções gonocócicas                        098 
+     87  099 - Outras doenças venéreas                      099 
+     88  100 - Leptospirose                                 100 
+     89  101 - Angina de Vincent                            101 
+     90  102 - Bouba                                        102 
+     91  103 - Pinta                                        103 
+     92  104 - Outras infec causadas por espiroquetas       104 
+     93  110 - Dermatofitose                                110 
+     94  111 - Outras dermatomicoses e não especificad      111 
+     95  112 - Monilíase                                    112 
+     96  114 - Coccidioidomicose                            114 
+     97  115 - Histoplasmose                                115 
+     98  116 - Infecção blastomicótica                      116 
+     99  117 - Outras micoses                               117 
+    100  118 - Micoses oportunísticas                       118 
+    101  120 - Esquistossomíase                             120 
+    102  121 - Outras infestações por trematódeos           121 
+    103  122 - Equinococose                                 122 
+    104  123 - Outras infestações por cestóideos            123 
+    105  124 - Triquiníase                                  124 
+    106  125 - Filaríase e dracontíase                      125 
+    107  126 - Ancilostomíase e necatoríase                 126 
+    108  127 - Outras helmintíases intestinais              127 
+    109  128 - Outras helmintíases e não especificadas      128 
+    110  129 - Parasitose intestin sem out especificac      129 
+    111  130 - Toxoplasmose                                 130 
+    112  131 - Tricomoníase                                 131 
+    113  132 - Pediculose e infestação por phthirus         132 
+    114  133 - Acaríase                                     133 
+    115  134 - Outras infestações                           134 
+    116  135 - Sarcoidose                                   135 
+    117  136 - Out doen infect e parasit e não especif      136 
+    118  137 - Efeitos tardios da tuberculose               137 
+    119  138 - Efeitos tardios da poliomielite aguda        138 
+    120  139 - Efeit tard out doen infecc e parasitár       139 
+    121  140 - Neoplasma maligno do lábio                   140 
+    122  141 - Neoplasma maligno da língua                  141 
+    123  142 - Neopl malig das glândulas saliv maiores      142 
+    124  143 - Neoplasma maligno da gengiva                 143 
+    125  144 - Neoplasma maligno do assoalho da boca        144 
+    126  145 - Neopl malig outras partes boca e ñ esp       145 
+    127  146 - Neoplasma maligno da orofaringe              146 
+    128  147 - Neoplasma maligno da nasofaringe             147 
+    129  148 - Neoplasma maligno da hipofaringe             148 
+    130  149 - Neopl mal out loc/mal def lab boc farin      149 
+    131  150 - Neoplasma maligno do esôfago                 150 
+    132  151 - Neoplasma maligno do estômago                151 
+    133  152 - Neopl malig intest delgado incl duodeno      152 
+    134  153 - Neoplasma maligno do cólon                   153 
+    135  154 - Neopl mal reto junção reto-sigm e ânus       154 
+    136  155 - Neopl malig fígado v biliar intrahepát       155 
+    137  156 - Neopl malig ves bil e v bil extrahepát       156 
+    138  157 - Neoplasma maligno do pâncreas                157 
+    139  158 - Neopl malig retroperitônio e peritônio       158 
+    140  159 - Neopl m out loc e mal def órg dig e per      159 
+    141  160 - Neopl m foss nas ouvid méd e seios ass       160 
+    142  161 - Neoplasma maligno da laringe                 161 
+    143  162 - Neopl malig traquéia brônquios e pulmão      162 
+    144  163 - Neoplasma maligno da pleura                  163 
+    145  164 - Neopl malig timo coração e mediastino        164 
+    146  165 - Neopl m out loc e m def resp e órg intr      165 
+    147  170 - Neopl malig ossos e cartilag articulare      170 
+    148  171 - Neopl malig tec conjunt e out tec moles      171 
+    149  172 - Melanoma maligno da pele                     172 
+    150  173 - Outros neoplasmas malignos da pele           173 
+    151  174 - Neoplasma maligno da mama feminina           174 
+    152  175 - Neoplasma maligno da mama masculina          175 
+    153  179 - Neopl malig do útero porção não especif      179 
+    154  180 - Neoplasma maligno do colo do útero           180 
+    155  181 - Neoplasma maligno da placenta                181 
+    156  182 - Neoplasma maligno do corpo do útero          182 
+    157  183 - Neopl malig do ovário e out anexos úter      183 
+    158  184 - Neopl malig out órg genit femin e ñ esp      184 
+    159  185 - Neoplasma maligno da próstata                185 
+    160  186 - Neoplasma maligno do testículo               186 
+    161  187 - Neopl malig penis out órg genit mascul       187 
+    162  188 - Neoplasma maligno da bexiga urinária         188 
+    163  189 - Neo mal rim out órg urinár e não espec       189 
+    164  190 - Neoplasma maligno do olho                    190 
+    165  191 - Neoplasma maligno do encéfalo                191 
+    166  192 - Neopl mal out part e ñ espec sist nerv       192 
+    167  193 - Neopasma maligno da glândula tireóide        193 
+    168  194 - Neo mal out glând endócr e estrut corr       194 
+    169  195 - Neopl malig out localiz e mal definidas      195 
+    170  196 - Neopl malig secund e ñ espec gângl linf      196 
+    171  197 - Neopl malig secund apar respirat e dig       197 
+    172  198 - Neopl malig secund outr localiz especif      198 
+    173  199 - Neopl malig sem especificação de local       199 
+    174  200 - Linfo e reticulossarcoma                     200 
+    175  201 - Doença de Hodgkin                            201 
+    176  202 - Out neopl malig tec linfóide e histioc       202 
+    177  203 - Mieloma múltip e neop imunoproliferativ      203 
+    178  204 - Leucemia linfóide                            204 
+    179  205 - Leucemia mielóide                            205 
+    180  206 - Leucemia monocítica                          206 
+    181  207 - Outras leucemias especificadas               207 
+    182  208 - Leucemias tipo celular não especificad       208 
+    183  210 - Neoplasma benigno lábio boca e faringe       210 
+    184  211 - Neopl benig out partes apar digestivo        211 
+    185  212 - Neopl benig órg respirator e intratorac      212 
+    186  213 - Neopl benig ossos e cartilag articular       213 
+    187  214 - Lipoma                                       214 
+    188  215 - Out neo benig tec conj e out tecid mol       215 
+    189  216 - Neoplasma benigno da pele                    216 
+    190  217 - Neoplasma benigno da mama                    217 
+    191  218 - Leiomioma uterino                            218 
+    192  219 - Outros neoplasmas benignos do útero          219 
+    193  220 - Neoplasma benigno do ovário                  220 
+    194  221 - Neopl benig out órg genitais femininos       221 
+    195  222 - Neopl benig órg genitais masculinos          222 
+    196  223 - Neopl benig rim out órg aparel urinário      223 
+    197  224 - Neoplasma benigno do olho                    224 
+    198  225 - Neopl benig encefalo out part sist nerv      225 
+    199  226 - Neoplasma benigno da glândula tireóide       226 
+    200  227 - Neo ben out glând endoc e estrut correl      227 
+    201  228 - Hemangioma linfangiom qualquer localiz       228 
+    202  229 - Neopl benig out localiz e não especif        229 
+    203  230 - Carcinoma in situ órgãos digestivos          230 
+    204  231 - Carcinoma in situ aparelho respiratório      231 
+    205  232 - Carcinoma in situ da pele                    232 
+    206  233 - Carcinoma in situ mama e apar geniturin      233 
+    207  234 - Carcinoma in situ out local e não espec      234 
+    208  235 - Neopl comport incert ap dig e respirat       235 
+    209  236 - Neopl comport incerto órg geniturinário      236 
+    210  237 - Neo comport incert glan endóc e s nerv       237 
+    211  238 - Neo comp incert out loc e tec e não esp      238 
+    212  239 - Neoplasma de natureza não especificada       239 
+    213  240 - Bócio simples ou não especificado            240 
+    214  241 - Bócio nodular não tóxico                     241 
+    215  242 - Tireotoxicose com ou sem bócio               242 
+    216  243 - Hipotireoidismo congênito                    243 
+    217  244 - Hipotireoidismo adquirido                    244 
+    218  245 - Tireoidite                                   245 
+    219  246 - Outros transtornos da tireóide               246 
+    220  250 - Diabetes mellitus                            250 
+    221  251 - Out transt secreção pancreática interna      251 
+    222  252 - Transtornos das glândulas paratireóides      252 
+    223  253 - Transt hipófise e controle hipotalâmico      253 
+    224  254 - Doenças do timo                              254 
+    225  255 - Transtornos das glândulas supra-renais       255 
+    226  256 - Disfunção ovariana                           256 
+    227  257 - Disfunção testicular                         257 
+    228  258 - Disf poliglandular e transt correlatos       258 
+    229  259 - Outros transtornos endócrinos                259 
+    230  260 - Kwashiorkor                                  260 
+    231  261 - Marasmo nutricional                          261 
+    232  262 - Out formas desnutriç prot-calóric grav       262 
+    233  263 - Out tipos desnutriç prot-cal e não esp       263 
+    234  264 - Deficiência de vitamina A                    264 
+    235  265 - Deficiência de tiamina e niacina             265 
+    236  266 - Deficiência de componentes do complex B      266 
+    237  267 - Deficiência de ácido ascórbico               267 
+    238  268 - Deficiência de vitamina D                    268 
+    239  269 - Outras deficiências nutricionais             269 
+    240  270 - Transtorn transp e metabol aminoácidos       270 
+    241  271 - Transt transport e metabol carbohidrat       271 
+    242  272 - Transtornos do metabolismo dos lipídeos      272 
+    243  273 - Transtorn metabol proteínas plasmáticas      273 
+    244  274 - Gota                                         274 
+    245  275 - Transtornos do metabolismo dos minerais      275 
+    246  276 - Transt equil hidroeletrol e ácido-básic      276 
+    247  277 - Outros transt metabolismo e os não esp       277 
+    248  278 - Obesidade e out formas hiperalimentação      278 
+    249  279 - Transt envolvendo mecanismo imunitário       279 
+    250  280 - Anemias por deficiências de ferro            280 
+    251  281 - Outras anemias por deficiência               281 
+    252  282 - Anemias hemolíticas hereditárias             282 
+    253  283 - Anemias hemolíticas adquiridas               283 
+    254  284 - Anemia aplástica                             284 
+    255  285 - Outras anemias e as não especificadas        285 
+    256  286 - Defeitos da coagulação                       286 
+    257  287 - Púrpura e outras afecções hemorrágicas       287 
+    258  288 - Doenças dos leucócitos                       288 
+    259  289 - Out doenças sangue e órgãos hematopoét       289 
+    260  290 - Quadr psicotic orgân senis e pré-senis       290 
+    261  291 - Psicoses alcoólicas                          291 
+    262  292 - Psicoses por drogas                          292 
+    263  293 - Quadros psicóticos orgânicos transitór       293 
+    264  294 - Outros quadros psicóticos orgânicos          294 
+    265  295 - Psicoses esquizofrênicas                     295 
+    266  296 - Psicoses afetivas                            296 
+    267  297 - Estados paranóides                           297 
+    268  298 - Outras psicoses não orgânicas                298 
+    269  299 - Psicoses específicas da infância             299 
+    270  300 - Transtornos neuríticos                       300 
+    271  301 - Transtornos da personalidade                 301 
+    272  302 - Desvios e transtornos sexuais                302 
+    273  303 - Síndrome da dependência do álcool            303 
+    274  304 - Dependência de drogas                        304 
+    275  305 - Abuso de drogas sem dependência              305 
+    276  306 - Disfunções fisiológ orig fatores ment        306 
+    277  307 - Síndromes e sintomas especiais NCOP          307 
+    278  308 - Reação aguda ao stress                       308 
+    279  309 - Reação de ajustamento                        309 
+    280  310 - Transt ment ñ psic consec les org céreb      310 
+    281  311 - Transtornos depressivos NCOP                 311 
+    282  312 - Distúrbios do comportamento NCOP             312 
+    283  313 - Dist emoções específ infância e adolesc      313 
+    284  314 - Síndrome hipercinética da infância           314 
+    285  315 - Retardos específicos do desenvolvimento      315 
+    286  316 - Fatores psiq ass doenç class outr parte      316 
+    287  317 - Oligofrenia leve                             317 
+    288  318 - Outras oligofrenias especificadas            318 
+    289  319 - Oligofrenia não especificada                 319 
+    290  320 - Meningite bacteriana                         320 
+    291  321 - Meningite devida a outros microorganism      321 
+    292  322 - Meningite de causa não especificada          322 
+    293  323 - Encefalite mielite e encefalomielite         323 
+    294  324 - Abscessos intracranianos intra-raquidia      324 
+    295  325 - Flebit trombofleb seios ven intracran        325 
+    296  326 - Ef tard absces ou infec piogên intracr       326 
+    297  330 - Degen cereb geralm manifestam na infânc      330 
+    298  331 - Outras degenerações cerebrais                331 
+    299  332 - Doença de Parkinson                          332 
+    300  333 - Out d sist extrapir transt da motricid       333 
+    301  334 - Doenças espinocerebelares                    334 
+    302  335 - Doenças celulas corno anterior da medul      335 
+    303  336 - Outras doenças da medula espinhal            336 
+    304  337 - Transtornos do sistema nervoso autônomo      337 
+    305  340 - Esclerose múltipla                           340 
+    306  341 - Out doenç desmielinizant sist nerv cent      341 
+    307  342 - Hemiplegia                                   342 
+    308  343 - Paralisia cerebral infantil                  343 
+    309  344 - Outras síndromes paralíticas                 344 
+    310  345 - Epilepsia                                    345 
+    311  346 - Enxaqueca                                    346 
+    312  347 - Catalepsia e narcolepsia                     347 
+    313  348 - Outras afecções do cérebro                   348 
+    314  349 - Out transt sistema nerv e os não espec       349 
+    315  350 - Transtornos do nervo trigêmeo                350 
+    316  351 - Transtornos do nervo facial                  351 
+    317  352 - Transtornos de outros nervos cranianos       352 
+    318  353 - Transtornos das raízes e plexos nervos       353 
+    319  354 - Mononeurite memb super e mononeur múlt       354 
+    320  355 - Mononeurite membro inferior                  355 
+    321  356 - Neuropat perif hereditár e idiopáticas       356 
+    322  357 - Neuropatias inflamatórias e tóxicas          357 
+    323  358 - Transtornos neuromusculares                  358 
+    324  359 - Distrofias musculares e out miopatias        359 
+    325  360 - Transtornos do globo ocular                  360 
+    326  361 - Descolamento e defeitos da retina            361 
+    327  362 - Outros transtornos da retina                 362 
+    328  363 - Inflam e cicat coriorret e trans coroid      363 
+    329  364 - Transtornos da íris e do corpo ciliar        364 
+    330  365 - Glaucoma                                     365 
+    331  366 - Catarata                                     366 
+    332  367 - Transtornos da refração e da acomodação      367 
+    333  368 - Distúrbios da visão                          368 
+    334  369 - Cegueira e visão subnormal                   369 
+    335  370 - Ceratite                                     370 
+    336  371 - Opacidade e outros transtornos córnea        371 
+    337  372 - Transtornos da conjuntiva                    372 
+    338  373 - Inflamação das pálpebras                     373 
+    339  374 - Outros transtornos das pálpebras             374 
+    340  375 - Transtornos do aparelho lacrimal             375 
+    341  376 - Transtornos da órbita                        376 
+    342  377 - Transt nervo óptico e das vias ópticas       377 
+    343  378 - Estrab e out transt moviment binocular       378 
+    344  379 - Outros transtornos do olho                   379 
+    345  380 - Transtornos do ouvido externo                380 
+    346  381 - Otit média ñ sup transt tromp Eustáquio      381 
+    347  382 - Otite média supurativa e não especific       382 
+    348  383 - Mastoidite e afecções correlatas             383 
+    349  384 - Out transtornos da membrana do tímpano       384 
+    350  385 - Out transt ouvido médio e da mastóide        385 
+    351  386 - Sínd vertig out transt sist vestibular       386 
+    352  387 - Otosclerose                                  387 
+    353  388 - Outros transtornos do ouvido                 388 
+    354  389 - Surdez                                       389 
+    355  390 - Febre reumática s menç comprom cardéaco      390 
+    356  391 - Febre reumática com comprometim cardíac      391 
+    357  392 - Coréia reumática                             392 
+    358  393 - Pericardite reumática crônica                393 
+    359  394 - Doenças da válvula mitral                    394 
+    360  395 - Doenças da válvula aórtica                   395 
+    361  396 - Doenças das válvulas mitral e aórtica        396 
+    362  397 - Doenças de outras estruturas endocárdio      397 
+    363  398 - Outras doenças reumáticas do coração         398 
+    364  401 - Hipertensão essencial                        401 
+    365  402 - Doença cardíaca hipertensiva                 402 
+    366  403 - Doença renal hipertensiva                    403 
+    367  404 - Doença cardiorrenal hipertensiva             404 
+    368  405 - Hipertensão secundária                       405 
+    369  410 - Infarto agudo do miocárdio                   410 
+    370  411 - Out form agud e subag doenç isquêm cor       411 
+    371  412 - Infarto antigo do miocárdio                  412 
+    372  413 - Angina do peito                              413 
+    373  414 - Out formas doença isquêmica crônica cor      414 
+    374  415 - Doença pulmonar aguda do coração             415 
+    375  416 - Doença pulmonar crônica do coração           416 
+    376  417 - Outras doenças da circulação pulmonar        417 
+    377  420 - Pericardite aguda                            420 
+    378  421 - Endocardite aguda e subaguda                 421 
+    379  422 - Miocardite aguda                             422 
+    380  423 - Outras doenças do pericárdio                 423 
+    381  424 - Outras doenças do endocárdio                 424 
+    382  425 - Cardiomiopatias                              425 
+    383  426 - Transtornos da condução                      426 
+    384  427 - Arritmias cardíacas                          427 
+    385  428 - Insuficiência cardíaca                       428 
+    386  429 - Denom complic mal def de doenç do corac      429 
+    387  430 - Hemorragia subaracnoidiana                   430 
+    388  431 - Hemorragia intracerebral                     431 
+    389  432 - Out hemorr intracranianas e não especif      432 
+    390  433 - Estenose e oclus artérias pré-cerebrais      433 
+    391  434 - Oclusão das artérias cerebrais               434 
+    392  435 - Isquemia cerebral transitória                435 
+    393  436 - Doença cerebrovascular aguda mal def         436 
+    394  437 - Out doenç cerebrovasculares e mal def        437 
+    395  438 - Efeitos tardios doença cerebrovascular       438 
+    396  440 - Aterosclerose                                440 
+    397  441 - Aneurisma aórtico                            441 
+    398  442 - Outros aneurismas                            442 
+    399  443 - Outras doenças vasculares periféricas        443 
+    400  444 - Embolia e trombose arteriais                 444 
+    401  446 - Poliarterite nodosa e out doenças afins      446 
+    402  447 - Outras doenças de artérias e arteríolas      447 
+    403  448 - Doenças dos capilares                        448 
+    404  451 - Flebite e tromboflebite                      451 
+    405  452 - Trombose da veia porta                       452 
+    406  453 - Outras embolias e tromboses venosas          453 
+    407  454 - Varizes das extremidades inferiores          454 
+    408  455 - Hemorróidas                                  455 
+    409  456 - Varizes de outras localizações               456 
+    410  457 - Transtornos não infecciosos dos linfát       457 
+    411  458 - Hipotensão                                   458 
+    412  459 - Outros transtornos do apar circulatório      459 
+    413  460 - Nasofaringite aguda (resfriado comum)        460 
+    414  461 - Sinusite aguda                               461 
+    415  462 - Faringite aguda                              462 
+    416  463 - Amigdalite aguda                             463 
+    417  464 - Laringite e traqueíte agudas                 464 
+    418  465 - Infec agud v respir sup loc mul ou ñ es      465 
+    419  466 - Bronquite e bronquiolite agudas              466 
+    420  470 - Desvio do septo nasal                        470 
+    421  471 - Pólipos nasais                               471 
+    422  472 - Faringite e nasofaringite crônicas           472 
+    423  473 - Sinusite crônica                             473 
+    424  474 - Doença crônica amígdalas e adenóides         474 
+    425  475 - Abscesso periamigdaliano                     475 
+    426  476 - Laringite crônica e laringotraqueíte         476 
+    427  477 - Rinite alérgica                              477 
+    428  478 - Out doen vias respiratórias superiores       478 
+    429  480 - Pneumonia viral                              480 
+    430  481 - Pneumonia pneumocócica                       481 
+    431  482 - Outras pneumonias bacterianas                482 
+    432  483 - Pneumonia out microrganismos especific       483 
+    433  484 - Pneumonia em doe infec class outr parte      484 
+    434  485 - Broncopneumonia microorgan não especif       485 
+    435  486 - Pneumonia microorganismo não especific       486 
+    436  487 - Gripe                                        487 
+    437  490 - Bronquite não especif se aguda ou crôn       490 
+    438  491 - Bronquite crônica                            491 
+    439  492 - Enfisema                                     492 
+    440  493 - Asma                                         493 
+    441  494 - Bronquectasia                                494 
+    442  495 - Alveolite alérgica extrínseca                495 
+    443  496 - Obstução crônica vias respirat NCOP          496 
+    444  500 - Pneumoconiose trabalhadores em carvão        500 
+    445  501 - Asbestose                                    501 
+    446  502 - Pneumoconiose dev out sílicas e silicat      502 
+    447  503 - Pneumoconiose dev out poeiras inorgânic      503 
+    448  504 - Pneumopatia devido inalação out poeiras      504 
+    449  505 - Pneumoconiose não especificada               505 
+    450  506 - Afec respir dev fumaça gas vapores quím      506 
+    451  507 - Pneumonite devida a sólidos e líquidos       507 
+    452  508 - Afec resp dev out agent ext e não espec      508 
+    453  510 - Empiema                                      510 
+    454  511 - Pleuris                                      511 
+    455  512 - Pneumotórax                                  512 
+    456  513 - Abscesso do pulmão e mediastino              513 
+    457  514 - Congestão e hipostase pulmonares             514 
+    458  515 - Fibrose pulmonar pós-inflamatória            515 
+    459  516 - Out pneumopat alveolares e parietalveol      516 
+    460  517 - Compromet pulmon em afec class out part      517 
+    461  518 - Outras doenças do pulmão                     518 
+    462  519 - Outras doenças do aparelho respiratório      519 
+    463  520 - Transt desenvolv e da erupção de dentes      520 
+    464  521 - Doenças dos tecidos dentários duros          521 
+    465  522 - Doenças da polpa e tecidos periapicais       522 
+    466  523 - Doenças gengivais e periodontais             523 
+    467  524 - Anomal dentofaciais inclusiv maloclusão      524 
+    468  525 - Out doenç e afecç dentes e estr susten       525 
+    469  526 - Doenças das mandíbulas                       526 
+    470  527 - Doenças das glândulas salivares              527 
+    471  528 - Doenç tec mol boc exc les gengiv e líng      528 
+    472  529 - Doenças e outras afecções da língua          529 
+    473  530 - Doenças do esôfago                           530 
+    474  531 - Úlcera gástrica                              531 
+    475  532 - Úlcera duodenal                              532 
+    476  533 - Úlcera péptica localiz não especificada      533 
+    477  534 - Úlcera gastrojejunal                         534 
+    478  535 - Gastrite e duodenite                         535 
+    479  536 - Transtornos da função gástrica               536 
+    480  537 - Out transtornos do estômago e duodeno        537 
+    481  540 - Apendicite aguda                             540 
+    482  541 - Apendicite não especificada                  541 
+    483  542 - Outras formas de apendicite                  542 
+    484  543 - Outras doenças do apêndice                   543 
+    485  550 - Hérnia inguinal                              550 
+    486  551 - Out hérnias cavid abdominal com gangren      551 
+    487  552 - Out hérn cavid abd c obstr s menç gangr      552 
+    488  553 - Out hérn cav abdom s menç obstr ou gang      553 
+    489  555 - Enterite regional                            555 
+    490  556 - Proctocolite idiopática                      556 
+    491  557 - Insuficiência vascular do intestino          557 
+    492  558 - Out gastroenterites e colites não infec      558 
+    493  560 - Obstrução intestin sem menção de hérnia      560 
+    494  562 - Divertículos do intestino                    562 
+    495  564 - Transtornos digestivos funcionais NCOP       564 
+    496  565 - Fissura e fístula anal                       565 
+    497  566 - Abscesso das regiões anal e retal            566 
+    498  567 - Peritonite                                   567 
+    499  568 - Outras afecções do peritônio                 568 
+    500  569 - Outras afecções do intestino                 569 
+    501  570 - Necrose aguda e subaguda do fígado           570 
+    502  571 - Doença crônica do fígado e cirrose           571 
+    503  572 - Abscess fígad seqüela doença hepát crôn      572 
+    504  573 - Outros transtornos do fígado                 573 
+    505  574 - Colelitíase                                  574 
+    506  575 - Outros transtornos da vesícula biliar        575 
+    507  576 - Outros transtornos do trato biliar           576 
+    508  577 - Doenças do pâncreas                          577 
+    509  578 - Hemorragia gastrointestinal                  578 
+    510  579 - Má absorção intestinal                       579 
+    511  580 - Glomerulonefrite aguda                       580 
+    512  581 - Síndrome nefrótica                           581 
+    513  582 - Glomerulonefrite crônica                     582 
+    514  583 - Nefrite nefropatia ñ esp aguda ou crôn       583 
+    515  584 - Insuficiência renal aguda                    584 
+    516  585 - Insuficiência renal crônica                  585 
+    517  586 - Insuficiência renal não especificada         586 
+    518  587 - Esclerose renal não especificada             587 
+    519  588 - Transt result de função renal deficient      588 
+    520  589 - Rim pequeno de causa desconhecida            589 
+    521  590 - Infecções do rim                             590 
+    522  591 - Hidronefrose                                 591 
+    523  592 - Calculose do rim e ureter                    592 
+    524  593 - Outros transtornos do rim e ureter           593 
+    525  594 - Calculose do trato urinário inferior         594 
+    526  595 - Cistites                                     595 
+    527  596 - Outras afecções da bexiga                    596 
+    528  597 - Uretrit ñ transm sexual e síndr uretral      597 
+    529  598 - Estenose da uretra                           598 
+    530  599 - Out afecções da uretra e trato urinário      599 
+    531  600 - Hiperplasia da próstata                      600 
+    532  601 - Doenças inflamatórias da próstata            601 
+    533  602 - Outras afecções da próstata                  602 
+    534  603 - Hidrocele                                    603 
+    535  604 - Orquite e epididimite                        604 
+    536  605 - Hipertrofia do prepúcio e fimose             605 
+    537  606 - Infertilidade masculina                      606 
+    538  607 - Doenças do pênis                             607 
+    539  608 - Out transt órgãos genitais masculinos        608 
+    540  610 - Displasias mamárias benignas                 610 
+    541  611 - Outras doenças da mama                       611 
+    542  614 - D infl ovár tr Falóp tec cel pelv perit      614 
+    543  615 - Doenç inflamatórias do útero excet colo      615 
+    544  616 - Doenç inflamat colo útero vagina e vulv      616 
+    545  617 - Endometriose                                 617 
+    546  618 - Prolapso genital                             618 
+    547  619 - Fístulas do trato genital feminino           619 
+    548  620 - Transt ñ infl ovár tr Falóp e lig larg       620 
+    549  621 - Afecções do útero ñ classif outra parte      621 
+    550  622 - Transt não inflamatórios do colo uterin      622 
+    551  623 - Transtornos não inflamatórios da vagina      623 
+    552  624 - Transt não inflam da vulva e do períneo      624 
+    553  625 - Dor e outr sint assoc órgãos genit fem       625 
+    554  626 - Transt menstr e out hemor anor t gen fe      626 
+    555  627 - Transt da menopausa e da pós-menopausa       627 
+    556  628 - Infertilidade feminina                       628 
+    557  629 - Out transtorn órgãos genitais femininos      629 
+    558  630 - Mola hidatiforme                             630 
+    559  631 - Outros produtos anormais da concepção        631 
+    560  632 - Aborto retido                                632 
+    561  633 - Gravidez ectópica                            633 
+    562  634 - Aborto espontâneo                            634 
+    563  635 - Aborto induzido c indic admit legalment      635 
+    564  636 - Aborto induzido s indic admit legalment      636 
+    565  637 - Aborto não especificado                      637 
+    566  638 - Tentativa de aborto malograda                638 
+    567  639 - Complic de aborto gravid ectóp e molar       639 
+    568  640 - Hemorragia do início da gravidez             640 
+    569  641 - Hemor antepart desc prem plac plac prév      641 
+    570  642 - Hipertensão compl gravidez part e puerp      642 
+    571  643 - Vômitos excessivos na gravidez               643 
+    572  644 - Trabalho de parto prematuro ou falso         644 
+    573  645 - Gravidez prolongada                          645 
+    574  646 - Outras complicações da gravidez NCOP         646 
+    575  647 - D infec p mãe cl out part compl grav pp      647 
+    576  648 - Out afec mãe cl out part compl grav p p      648 
+    577  650 - Parto normal                                 650 
+    578  651 - Gestação múltipla                            651 
+    579  652 - Má posição má apresentação do feto           652 
+    580  653 - Desproporção                                 653 
+    581  654 - Anormalid órgãos tecidos moles da pelve      654 
+    582  655 - Anorm fet confirm ou susp afet cond mãe      655 
+    583  656 - Out probl fet placen que afet cond mãe       656 
+    584  657 - Polihidrâmnio                                657 
+    585  658 - Out probl assoc cavidad amniótic e memb      658 
+    586  659 - Out indic assist interv rel t part NCOP      659 
+    587  660 - Trabalho de parto obstruído                  660 
+    588  661 - Anormal contração uterina em trab parto      661 
+    589  662 - Trabalho de parto prolongado                 662 
+    590  663 - Complicações do cordão umbilical             663 
+    591  664 - Trauma do períneo e da vulva dur o part      664 
+    592  665 - Outros traumas obstétricos                   665 
+    593  666 - Hemorragia pós-parto                         666 
+    594  667 - Retenç placenta ou membranas sem hemorr      667 
+    595  668 - Complic admin anest out sed no trab par      668 
+    596  669 - Out compl trabalho parto e parto NCOP        669 
+    597  670 - Infecção puerperal                           670 
+    598  671 - Complic sist venos ocor gravidez e puer      671 
+    599  672 - Hipertermia orig desconh ocor dur puerp      672 
+    600  673 - Embolia pulmonar obstétrica                  673 
+    601  674 - Out compl puerpério não especific NCOP       674 
+    602  675 - Infec mama e do mamilo assoc com o part      675 
+    603  676 - Out afec mama assoc parto e transt lact      676 
+    604  680 - Furúnculo                                    680 
+    605  681 - Celulite e abscesso dos dedos mão e pé       681 
+    606  682 - Outras celulites e abscessos                 682 
+    607  683 - Linfadenite aguda                            683 
+    608  684 - Impetigo                                     684 
+    609  685 - Cisto pilonidal                              685 
+    610  686 - Out infec localiz pele e tec celul subc      686 
+    611  690 - Dermatoses eritematodescamativas             690 
+    612  691 - Dermatite atópica e afecções afins           691 
+    613  692 - Dermatite de contato e outros eczemas        692 
+    614  693 - Dermatite devida a substâncias ingerid       693 
+    615  694 - Dermatoses bolhosas                          694 
+    616  695 - Afecções eritematosas                        695 
+    617  696 - Psoríase e transtornos afins                 696 
+    618  697 - Líquen                                       697 
+    619  698 - Prurido e afecções afins                     698 
+    620  700 - Calos e calosidades                          700 
+    621  701 - Out afec hipertrófic e atróficas da pel      701 
+    622  702 - Outras dermatoses                            702 
+    623  703 - Doenças das unhas                            703 
+    624  704 - Doenças dos pêlos e folículos pilosos        704 
+    625  705 - Transtornos das glândulas sudoríparas        705 
+    626  706 - Doenças das glândulas sebáceas               706 
+    627  707 - Úlcera crônica da pele                       707 
+    628  708 - Urticária                                    708 
+    629  709 - Out transt pele e tecido celular subcut      709 
+    630  710 - Doenças difusas do tecido conjuntivo         710 
+    631  711 - Artropatias associadas a infecções           711 
+    632  712 - Artropatias por deposição de cristais        712 
+    633  713 - Artrop assoc outr transt class out part      713 
+    634  714 - Artr reumát e outras poliartropat infl       714 
+    635  715 - Osteoartrose e transtornos afins             715 
+    636  716 - Out artropatias e as não especificadas       716 
+    637  717 - Desarranjos internos do joelho               717 
+    638  718 - Outros desarranjos das articulações          718 
+    639  719 - Out trans articulares e os ñ especific       719 
+    640  720 - Espondil anquil out espondilopat inflam      720 
+    641  721 - Espondilose e transtornos afins              721 
+    642  722 - Transtornos dos discos intervertebrais       722 
+    643  723 - Outros transtornos da região cervical        723 
+    644  724 - Out transt dorso e os não especificados      724 
+    645  725 - Polimialgia reumática                        725 
+    646  726 - Entesopat periféricas e síndromes afins      726 
+    647  727 - Out transt sinóvias tendões e bols sino      727 
+    648  728 - Transt de músculos ligamentos e fáscias      728 
+    649  729 - Outros transtornos dos tecidos moles         729 
+    650  730 - Osteom periost out infec atingem ossos       730 
+    651  731 - Osteít deform osteopat assoc out transt      731 
+    652  732 - Osteocondropatias                            732 
+    653  733 - Out transtornos dos ossos e cartilagens      733 
+    654  734 - Pé plano                                     734 
+    655  735 - Deformidades adquiridas dos artelhos         735 
+    656  736 - Out deformidades adquiridas dos membros      736 
+    657  737 - Desvio da coluna vertebral                   737 
+    658  738 - Outras deformidades adquiridas               738 
+    659  739 - Lesões não alopáticas NCOP                   739 
+    660  740 - Anencefalia e anomalias similares            740 
+    661  741 - Espinha bífida                               741 
+    662  742 - Out anomalias congênitas do sist nervos      742 
+    663  743 - Anomalias congênitas do olho                 743 
+    664  744 - Anomalias congênitas ouvido face pescoç      744 
+    665  745 - Anomal bulbo card e do fecham sept card      745 
+    666  746 - Outras anomalias congênitas do coração       746 
+    667  747 - Out anomalias congên aparel circulatór       747 
+    668  748 - Anomalias congênitas aparel respiratór       748 
+    669  749 - Fissura abóbada palatina e lábio lepor       749 
+    670  750 - Out anom cong da parte sup tubo digest       750 
+    671  751 - Out anomalias congênitas aparelho dig        751 
+    672  752 - Anomalias congênitas dos órgãos genit        752 
+    673  753 - Anomalias congênitas aparelho urinário       753 
+    674  754 - Algumas deformid osteomusculares congên      754 
+    675  755 - Outras anomalias congênitas dos membros      755 
+    676  756 - Outras anomal osteomusculares congênit       756 
+    677  757 - Anomalias congênitas do tegumento            757 
+    678  758 - Anomalias cromôssomicas                      758 
+    679  759 - Outras anomal congênitas e não especif       759 
+    680  760 - Afec mat ñ obr rel grav atu af fet RN        760 
+    681  761 - Compl maternas gravidez afet feto ou RN      761 
+    682  762 - Compl placent cord umbil afet feto RN        762 
+    683  763 - Out comp trab par ou par afet feto RN        763 
+    684  764 - Cresc fetal retardado malnutrição fetal      764 
+    685  765 - Trans ges curt dur pes baix nasc tip NE      765 
+    686  766 - Transt rel gest prolongad e peso elevad      766 
+    687  767 - Traumatismo ocorrido durante nascimento      767 
+    688  768 - Hipóxia intra-uterina asfixia ao nascer      768 
+    689  769 - Síndrome de angústia respiratória            769 
+    690  770 - Outras afecções respir feto e recém-nas      770 
+    691  771 - Infecções específicas período perinatal      771 
+    692  772 - Hemorragia fetal e neonatal                  772 
+    693  773 - Doen hemolít do feto ou RN dev isoimun       773 
+    694  774 - Outras icterícias perinatais                 774 
+    695  775 - Distúrb endócrino metaból espec feto RN      775 
+    696  776 - Transtornos hematológicos do feto e RN       776 
+    697  777 - Transtornos perinatais aparelho digest       777 
+    698  778 - Afec comp tegum regul térmica feto e RN      778 
+    699  779 - Out afec e mal def origin períod perin       779 
+    700  780 - Sintomas gerais                              780 
+    701  781 - Sint rel sistema nervoso e osteomuscul       781 
+    702  782 - Sint rel pele out tecidos do tegumento       782 
+    703  783 - Sint rel nutrição metabolismo e desenv       783 
+    704  784 - Sint relativos à cabeça e ao pescoco         784 
+    705  785 - Sint relativos aparelho cardiovascular       785 
+    706  786 - Sint rel ap respirat out sint torácicos      786 
+    707  787 - Sintomas relativos ao aparelho digestiv      787 
+    708  788 - Sintomas relativos ao aparelho urinário      788 
+    709  789 - Out sint relativos ao abdômen e a pelve      789 
+    710  790 - Achados não especific ao exame do sang       790 
+    711  791 - Achados não especific ao exame de urina      791 
+    712  792 - Achad anorm ñ espec exam outr subst          792 
+    713  793 - Achad anorm ñ espec exam radio e outros      793 
+    714  794 - Result anormais ñ espec de provas func       794 
+    715  795 - Achad histol e imunol anorm ñ espec          795 
+    716  796 - Outros achados anormais não espec            796 
+    717  797 - Senilidade sem menção de psicose             797 
+    718  798 - Morte súbita de causa desconhecida           798 
+    719  799 - Out causas mal definidas e desconhecid       799 
+    720  E800 - Acid estr ferro colisão mater rodante       800 
+    721  E801 - Acid estr ferro colisão outro objeto        801 
+    722  E802 - Acid estr fer descarrilamen sem colis       802 
+    723  E803 - Acid estr fer c explos incêndio ou fog      803 
+    724  E804 - Acid por queda dentro sobre ou de trem      804 
+    725  E805 - Acid golpe causado mat rod estr ferr        805 
+    726  E806 - Out acid especificados de estrada ferr      806 
+    727  E807 - Acid est ferro natureza não especific       807 
+    728  E810 - Acid trâns colis veíc a motor e trem        810 
+    729  E811 - Ac tr veíc sain retor pist colis out v      811 
+    730  E812 - Out ac trâns col veíc mot c out v mot       812 
+    731  E813 - Ac trâns colis veíc mot e out tip veíc      813 
+    732  E814 - Ac trâns colis veículo motor e pedestr      814 
+    733  E815 - Out ac trâns col veíc motor em via púb      815 
+    734  E816 - Ac trâns perda contr veíc mot sem col       816 
+    735  E817 - Ac trâns ao subir ou desc v mot s col       817 
+    736  E818 - Out ac trâns veículo a mot sem colisão      818 
+    737  E819 - Ac trans veículo a motor de nat ñ esp       819 
+    738  E820 - Acid veíc mot p mov s neve exc trans        820 
+    739  E821 - Acid out veíc espcial mot exc de trans      821 
+    740  E822 - Out ac v mot exc trâns colis obj movim      822 
+    741  E823 - Out ac v mot exc trâns colis obj parad      823 
+    742  E824 - Out ac v mot exc trâns ao sub desc v m      824 
+    743  E825 - Out ac vei mot exc trâns out nat e ñ e      825 
+    744  E826 - Acidente causado por veículo a pedal        826 
+    745  E827 - Acidente caus por veículo tração anim       827 
+    746  E828 - Acidente envolvendo animal montado          828 
+    747  E829 - Acidente de outros veículos de estrada      829 
+    748  E830 - Acid de transp água que cause submers       830 
+    749  E831 - Acid transp água caus out tipo traumat      831 
+    750  E832 - Out form subm afog acid em transp água      832 
+    751  E833 - Qued escad mov fix portát em transp ág      833 
+    752  E834 - Out qued um nível a out em transp p ág      834 
+    753  E835 - Out qued e não espec em transp por ág       835 
+    754  E836 - Acid maquinar ocorr em transp por água      836 
+    755  E837 - Acid expl incênd fogo em transp por ág      837 
+    756  E838 - Out ac e ñ espec ocor em transp por ág      838 
+    757  E840 - Acid aeron motor durante decol ou ater      840 
+    758  E841 - Out acid ou não especific aeronave mot      841 
+    759  E842 - Acidente de aeronave não motorizada         842 
+    760  E843 - Qued ocor dentro de sobre ou de aeron       843 
+    761  E844 - Out acid especificad de transp aéreo        844 
+    762  E845 - Acidente de nave espacial                   845 
+    763  E846 - Ac v mot us inter edifíc indust comerc      846 
+    764  E847 - Acid veíc trac cabo exc mov sobre tril      847 
+    765  E848 - Acidentes de outros veículos NCOP           848 
+    766  E850 - Intox acid analg antipirét e anti-reum      850 
+    767  E851 - Intoxicação acidental por barbitúricos      851 
+    768  E852 - Intox acidental por out sedat e hipnót      852 
+    769  E853 - Intoxicação acidental p tranquilizant       853 
+    770  E854 - Intox acid por out agentes psicotrópic      854 
+    771  E855 - Intox acid out drog ação SNC e SN aut       855 
+    772  E856 - Intoxicação acidental por antibióticos      856 
+    773  E857 - Intox acidental p subst antiinfeccios       857 
+    774  E858 - Intoxicação acidental por outras drog       858 
+    775  E860 - Intoxicação acidental por álcool NCOP       860 
+    776  E861 - Intoxicação acidental por subst limpez      861 
+    777  E862 - Intox ac der petr out solv e vap NCOP       862 
+    778  E863 - Intox ac prep quí agr hort ex adu fert      863 
+    779  E864 - Intox acid subst corros e cáustic NCOP      864 
+    780  E865 - Intox acident alimentos e plantas vene      865 
+    781  E866 - Intox acid out subs sól e líq e ñ esp       866 
+    782  E867 - Intoxicação acidental por gás de rua        867 
+    783  E868 - Intox ac out gás ilum mon carb out fon      868 
+    784  E869 - Intox acid por outros gases e vapores       869 
+    785  E870 - Corte punção perfuraç hemor duran cuid      870 
+    786  E871 - Obj estranho deixado no corpo dur proc      871 
+    787  E872 - Falha de esterilização durante proced       872 
+    788  E873 - Erros de dosagem                            873 
+    789  E874 - Falh mecan instrum apar durante proced      874 
+    790  E875 - Contam inf sang outr líq drog subs bio      875 
+    791  E876 - Outros acid e ñ esp durante cuidad med      876 
+    792  E878 - Reaç anorm comp tard inter cirúr s men      878 
+    793  E879 - Reaç anorm compl tard por proced s men      879 
+    794  E880 - Queda em ou de escada ou degraus            880 
+    795  E881 - Queda em ou de escada de mão e andaim       881 
+    796  E882 - Queda de ou fora de edifíc ou out cons      882 
+    797  E883 - Queda em buraco ou out abertur em sup       883 
+    798  E884 - Outras quedas de um nível a outro           884 
+    799  E885 - Qued mesm nív escorreg tropeç ou trasp      885 
+    800  E886 - Queda mesmo nível p colisão ou empurr       886 
+    801  E887 - Fratura de causa não especificada           887 
+    802  E888 - Outras quedas ou não especificadas          888 
+    803  E890 - Incêndio em habitação particular            890 
+    804  E891 - Incênd out edif ou out construção e NE      891 
+    805  E892 - Incêndio exc em edifício ou out constr      892 
+    806  E893 - Acidente causado por combust das vest       893 
+    807  E894 - Combustão material altamente inflamáv       894 
+    808  E895 - Acid fogo controlado em habit particul      895 
+    809  E896 - Ac fogo control out edifíc constr e NE      896 
+    810  E897 - Ac fogo control exc em edif out constr      897 
+    811  E898 - Acid caus out fogos chamas especificad      898 
+    812  E899 - Acidente causado por fogo ñ especific       899 
+    813  E900 - Calor excessivo                             900 
+    814  E901 - Frio excessivo                              901 
+    815  E902 - Press atm alt e baix e variaç pres atm      902 
+    816  E903 - Viagem e movimento                          903 
+    817  E904 - Fome sede exposição aos element e negl      904 
+    818  E905 - Intox e reaç tóxic animais e plant ven      905 
+    819  E906 - Outras lesões causadas por animais          906 
+    820  E907 - Raio                                        907 
+    821  E908 - Tempest catac e enchentes dev tempest       908 
+    822  E909 - Erupção movim cataclísm superf terrest      909 
+    823  E910 - Afogamento e submersão acidentais           910 
+    824  E911 - Aspir ingest alim obstr tr resp ou suf      911 
+    825  E912 - Aspir ingest out obj secr obstr tr res      912 
+    826  E913 - Sufocação mecânica acidental                913 
+    827  E914 - Penetr acid corpo estranho olho e anex      914 
+    828  E915 - Penetr acid corpo estr em out orif nat      915 
+    829  E916 - Impact acid causado p queda de um obj       916 
+    830  E917 - Impacto acid contra objetos ou pessoas      917 
+    831  E918 - Acid aprisionam dentro de ou entre obj      918 
+    832  E919 - Acidentes causados por máquinas             919 
+    833  E920 - Acid obj ou instr cortant penetr perf       920 
+    834  E921 - Acid caus explosão de recip pressuriz       921 
+    835  E922 - Acidente causado por arma de fogo           922 
+    836  E923 - Acidente causado por material explosiv      923 
+    837  E924 - Acid obj subst quent vap cáust corros       924 
+    838  E925 - Acidente causado por corrente elétrica      925 
+    839  E926 - Exposição à radiação                        926 
+    840  E927 - Excess de exercíc e moviment extenuant      927 
+    841  E928 - Out causas e não esp ambientais natur       928 
+    842  E929 - Efeitos tardios de lesão acidental          929 
+    843  E930 - Antibióticos                                930 
+    844  E931 - Outras substâncias antiinfecciosas          931 
+    845  E932 - Hormônios e substitutos sintéticos          932 
+    846  E933 - Substâncias de ação primariam sistêmic      933 
+    847  E934 - Substâncias de ação primariam hematól       934 
+    848  E935 - Analgésicos antipiréticos anti-reumat       935 
+    849  E936 - Drog anticolvulsionantes antiparkinson      936 
+    850  E937 - Sedativos e hipnóticos                      937 
+    851  E938 - Out drog depres sistema nervoso centr       938 
+    852  E939 - Agentes psicotrópicos                       939 
+    853  E940 - Estimulantes do sistema nervoso centr       940 
+    854  E941 - Drogas atuam prim sist nervoso autônom      941 
+    855  E942 - Subst atuam prim aparelho cardiovascul      942 
+    856  E943 - Subst atuam prim aparelho gastrointest      943 
+    857  E944 - Drogas at metab água dos mine e ac úr       944 
+    858  E945 - Subst atuam musc lisa e estr e ap resp      945 
+    859  E946 - Sub at pel memb muc drog oft otor dent      946 
+    860  E947 - Outras drogas e medicam e ñ especific       947 
+    861  E948 - Vacinas bacterianas                         948 
+    862  E949 - Outras vacinas e substancias biológic       949 
+    863  E950 - Suicídio por sólidos ou líquidos            950 
+    864  E951 - Suicídio por gás doméstico                  951 
+    865  E952 - Suicídio por outros gases e vapores         952 
+    866  E953 - Suicídio enforcam estrangul sufocação       953 
+    867  E954 - Suicídio por submersão (afogamento)         954 
+    868  E955 - Suicídio por arma de fogo e explosivos      955 
+    869  E956 - Suicídio por instrumento cortant penet      956 
+    870  E957 - Suicídio por precipitação lugar elevad      957 
+    871  E958 - Suicídio outros procedimentos e ñ esp       958 
+    872  E959 - Efeitos tardios lesões auto-infligidas      959 
+    873  E960 - Luta briga e violação                       960 
+    874  E961 - Ataque subst corrosiv ou cáust exc env      961 
+    875  E962 - Envenenamento intencion prov out pess       962 
+    876  E963 - Homicídio estrangulamento e enforcam        963 
+    877  E964 - Homicídio por submersão (afogamento)        964 
+    878  E965 - Ataque com armas de fogo ou explosivo       965 
+    879  E966 - Ataque com instrumen cortante penetr        966 
+    880  E967 - Síndr crian espan e out form maus trat      967 
+    881  E968 - Ataque out proced especific e ñ espec       968 
+    882  E969 - Efeitos tard les infl intenc out pess       969 
+    883  E970 - Lesão p intervenção legal armas de fog      970 
+    884  E971 - Lesão p intervenção legal com explosiv      971 
+    885  E972 - Lesão por intervenção legal com gás         972 
+    886  E973 - Les p interv legal com obj contundente      973 
+    887  E974 - Les interv leg instr cortan e penetr        974 
+    888  E975 - Les intervenção legal c out meios esp       975 
+    889  E976 - Lesão intervenção legal meios ñ espec       976 
+    890  E977 - Efeitos tardios les inflig interv leg       977 
+    891  E978 - Execução legal                              978 
+    892  E980 - Enven sólid líquid ign acid ou intenc       980 
+    893  E981 - Enven gás domest ign acid ou intencion      981 
+    894  E982 - Enven out gases ign acid ou intencion       982 
+    895  E983 - Les enforc estrang sufoc ig acid int        983 
+    896  E984 - Lesão submersão ign acid ou intencion       984 
+    897  E985 - Lesão arma fogo e explos ig acid int        985 
+    898  E986 - Les instr cort penetr ig acid ou inten      986 
+    899  E987 - Les dev queda lug elevado ig acid int       987 
+    900  E988 - Les out meios e ñ espec ig acid ou int      988 
+    901  E989 - Efeitos tard lesão ig acid ou intenc        989 
+    902  E990 - Lesão operação de guerra fogo e incend      990 
+    903  E991 - Lesão balas fragment operações de guer      991 
+    904  E992 - Les expl armam naval operações de guer      992 
+    905  E993 - Les out explosões em operações de guer      993 
+    906  E994 - Les destruição de aeronave oper guerr       994 
+    907  E995 - Les out meios ou ñ esp op guerra conv       995 
+    908  E996 - Les arma nuclear em operações de guerr      996 
+    909  E997 - Les out form guerra não convencional        997 
+    910  E998 - Les op guerra ocorr após cessação host      998 
+    911  E999 - Efeit tardios de les operação de guerr      999 
+

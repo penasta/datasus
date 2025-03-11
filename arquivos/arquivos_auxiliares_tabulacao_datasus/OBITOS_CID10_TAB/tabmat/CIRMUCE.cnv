@@ -1,0 +1,208 @@
+    207  6                                                                                    
+      1  23001 1ª Região Fortaleza                          230100                            
+  1   2  .... Aquiraz                                       230100                            
+  1   3  .... Eusébio                                       230428                            
+  1   4  .... Fortaleza                                     230440                            
+  1   5  .... Itaitinga                                     230625                            
+      6  23002 2ª Região Caucaia                            230090                            
+  6   7  .... Apuiarés                                      230090                            
+  6   8  .... Caucaia                                       230370                            
+  6   9  .... General Sampaio                               230460                            
+  6  10  .... Itapagé                                       230630                            
+  6  11  .... Paracuru                                      231020                            
+  6  12  .... Paraipaba                                     231025                            
+  6  13  .... Pentecoste                                    231070                            
+  6  14  .... São Gonçalo do Amarante                       231240                            
+  6  15  .... São Luís do Curu                              231260                            
+  6  16  .... Tejuçuoca                                     231335                            
+     17  23003 3ª Região Maracanaú                          230015                            
+ 17  18  .... Acarape                                       230015                            
+ 17  19  .... Barreira                                      230195                            
+ 17  20  .... Guaiúba                                       230495                            
+ 17  21  .... Maracanaú                                     230765                            
+ 17  22  .... Maranguape                                    230770                            
+ 17  23  .... Pacatuba                                      230970                            
+ 17  24  .... Palmácia                                      231010                            
+ 17  25  .... Redenção                                      231160                            
+     26  23004 4ª Região Baturité                           230120                            
+ 26  27  .... Aracoiaba                                     230120                            
+ 26  28  .... Aratuba                                       230140                            
+ 26  29  .... Baturité                                      230210                            
+ 26  30  .... Capistrano                                    230290                            
+ 26  31  .... Guaramiranga                                  230510                            
+ 26  32  .... Itapiúna                                      230650                            
+ 26  33  .... Mulungu                                       230910                            
+ 26  34  .... Pacoti                                        230980                            
+     35  23005 5ª Região Canindé                            230240                            
+ 35  36  .... Boa Viagem                                    230240                            
+ 35  37  .... Canindé                                       230280                            
+ 35  38  .... Caridade                                      230300                            
+ 35  39  .... Itatira                                       230660                            
+ 35  40  .... Madalena                                      230763                            
+ 35  41  .... Paramoti                                      231040                            
+     42  23006 6ª Região Itapipoca                          230075                            
+ 42  43  .... Amontada                                      230075                            
+ 42  44  .... Itapipoca                                     230640                            
+ 42  45  .... Miraíma                                       230837                            
+ 42  46  .... Trairi                                        231350                            
+ 42  47  .... Tururu                                        231355                            
+ 42  48  .... Umirim                                        231375                            
+ 42  49  .... Uruburetama                                   231380                            
+     50  23007 7ª Região Aracati                            230110                            
+ 50  51  .... Aracati                                       230110                            
+ 50  52  .... Fortim                                        230445                            
+ 50  53  .... Icapuí                                        230535                            
+ 50  54  .... Itaiçaba                                      230620                            
+     55  23008 8ª Região Quixadá                            230185                            
+ 55  56  .... Banabuiú                                      230185                            
+ 55  57  .... Choró                                         230393                            
+ 55  58  .... Ibaretama                                     230526                            
+ 55  59  .... Ibicuitinga                                   230533                            
+ 55  60  .... Milhã                                         230835                            
+ 55  61  .... Pedra Branca                                  231050                            
+ 55  62  .... Quixadá                                       231130                            
+ 55  63  .... Quixeramobim                                  231140                            
+ 55  64  .... Senador Pompeu                                231270                            
+ 55  65  .... Solonópole                                    231300                            
+     66  23009 9ª Região Russas                             230670                            
+ 66  67  .... Jaguaretama                                   230670                            
+ 66  68  .... Jaguaruana                                    230700                            
+ 66  69  .... Morada Nova                                   230870                            
+ 66  70  .... Palhano                                       231000                            
+ 66  71  .... Russas                                        231180                            
+     72  23010 10ª Região Limoeiro Nort                     230070                            
+ 72  73  .... Alto Santo                                    230070                            
+ 72  74  .... Ererê                                         230427                            
+ 72  75  .... Iracema                                       230600                            
+ 72  76  .... Jaguaribara                                   230680                            
+ 72  77  .... Jaguaribe                                     230690                            
+ 72  78  .... Limoeiro do Norte                             230760                            
+ 72  79  .... Pereiro                                       231080                            
+ 72  80  .... Potiretama                                    231123                            
+ 72  81  .... Quixeré                                       231150                            
+ 72  82  .... São João do Jaguaribe                         231250                            
+ 72  83  .... Tabuleiro do Norte                            231310                            
+     84  23011 11ª Região Sobral                            230050                            
+ 84  85  .... Alcântaras                                    230050                            
+ 84  86  .... Cariré                                        230310                            
+ 84  87  .... Catunda                                       230365                            
+ 84  88  .... Coreaú                                        230400                            
+ 84  89  .... Forquilha                                     230435                            
+ 84  90  .... Frecheirinha                                  230450                            
+ 84  91  .... Graça                                         230465                            
+ 84  92  .... Groaíras                                      230490                            
+ 84  93  .... Hidrolândia                                   230520                            
+ 84  94  .... Ipu                                           230580                            
+ 84  95  .... Irauçuba                                      230610                            
+ 84  96  .... Massapê                                       230800                            
+ 84  97  .... Meruoca                                       230820                            
+ 84  98  .... Moraújo                                       230880                            
+ 84  99  .... Mucambo                                       230900                            
+ 84 100  .... Pacujá                                        230990                            
+ 84 101  .... Pires Ferreira                                231095                            
+ 84 102  .... Reriutaba                                     231170                            
+ 84 103  .... Santa Quitéria                                231220                            
+ 84 104  .... Santana do Acaraú                             231200                            
+ 84 105  .... Senador Sá                                    231280                            
+ 84 106  .... Sobral                                        231290                            
+ 84 107  .... Uruoca                                        231390                            
+ 84 108  .... Varjota                                       231395                            
+    109  23012 12ª Região Acaraú                            230020                            
+109 110  .... Acaraú                                        230020                            
+109 111  .... Bela Cruz                                     230230                            
+109 112  .... Cruz                                          230425                            
+109 113  .... Itarema                                       230655                            
+109 114  .... Jijoca de Jericoacoara                        230725                            
+109 115  .... Marco                                         230780                            
+109 116  .... Morrinhos                                     230890                            
+    117  23013 13ª Região Tianguá                           230340                            
+117 118  .... Carnaubal                                     230340                            
+117 119  .... Croatá                                        230423                            
+117 120  .... Guaraciaba do Norte                           230500                            
+117 121  .... Ibiapina                                      230530                            
+117 122  .... São Benedito                                  231230                            
+117 123  .... Tianguá                                       231340                            
+117 124  .... Ubajara                                       231360                            
+117 125  .... Viçosa do Ceará                               231410                            
+    126  23014 14ª Região Tauá                              230040                            
+126 127  .... Aiuaba                                        230040                            
+126 128  .... Arneiroz                                      230150                            
+126 129  .... Parambu                                       231030                            
+126 130  .... Tauá                                          231330                            
+    131  23015 15ª Região Crateús                           230125                            
+131 132  .... Ararendá                                      230125                            
+131 133  .... Crateús                                       230410                            
+131 134  .... Independência                                 230560                            
+131 135  .... Ipaporanga                                    230565                            
+131 136  .... Ipueiras                                      230590                            
+131 137  .... Monsenhor Tabosa                              230860                            
+131 138  .... Nova Russas                                   230930                            
+131 139  .... Novo Oriente                                  230940                            
+131 140  .... Poranga                                       231100                            
+131 141  .... Quiterianópolis                               231126                            
+131 142  .... Tamboril                                      231320                            
+    143  23016 16ª Região Camocim                           230205                            
+143 144  .... Barroquinha                                   230205                            
+143 145  .... Camocim                                       230260                            
+143 146  .... Chaval                                        230390                            
+143 147  .... Granja                                        230470                            
+143 148  .... Martinópole                                   230790                            
+    149  23017 17ª Região Icó                               230180                            
+149 150  .... Baixio                                        230180                            
+149 151  .... Cedro                                         230380                            
+149 152  .... Icó                                           230540                            
+149 153  .... Ipaumirim                                     230570                            
+149 154  .... Lavras da Mangabeira                          230750                            
+149 155  .... Orós                                          230950                            
+149 156  .... Umari                                         231370                            
+    157  23018 18ª Região Iguatú                            230030                            
+157 158  .... Acopiara                                      230030                            
+157 159  .... Cariús                                        230330                            
+157 160  .... Catarina                                      230360                            
+157 161  .... Deputado Irapuan Pinheiro                     230426                            
+157 162  .... Iguatu                                        230550                            
+157 163  .... Jucás                                         230740                            
+157 164  .... Mombaça                                       230850                            
+157 165  .... Piquet Carneiro                               231090                            
+157 166  .... Quixelô                                       231135                            
+157 167  .... Saboeiro                                      231190                            
+    168  23019 19ª Região Brejo Santo                       230010                            
+168 169  .... Abaiara                                       230010                            
+168 170  .... Aurora                                        230170                            
+168 171  .... Barro                                         230200                            
+168 172  .... Brejo Santo                                   230250                            
+168 173  .... Jati                                          230720                            
+168 174  .... Mauriti                                       230810                            
+168 175  .... Milagres                                      230830                            
+168 176  .... Penaforte                                     231060                            
+168 177  .... Porteiras                                     231110                            
+    178  23020 20ª Região Crato                             230060                            
+178 179  .... Altaneira                                     230060                            
+178 180  .... Antonina do Norte                             230080                            
+178 181  .... Araripe                                       230130                            
+178 182  .... Assaré                                        230160                            
+178 183  .... Campos Sales                                  230270                            
+178 184  .... Crato                                         230420                            
+178 185  .... Farias Brito                                  230430                            
+178 186  .... Nova Olinda                                   230920                            
+178 187  .... Potengi                                       231120                            
+178 188  .... Salitre                                       231195                            
+178 189  .... Santana do Cariri                             231210                            
+178 190  .... Tarrafas                                      231325                            
+178 191  .... Várzea Alegre                                 231400                            
+    192  23021 21ª Região Juazeiro Nort                     230190                            
+192 193  .... Barbalha                                      230190                            
+192 194  .... Caririaçu                                     230320                            
+192 195  .... Granjeiro                                     230480                            
+192 196  .... Jardim                                        230710                            
+192 197  .... Juazeiro do Norte                             230730                            
+192 198  .... Missão Velha                                  230840                            
+    199  23022 22ª Região Cascavel                          230220                            
+199 200  .... Beberibe                                      230220                            
+199 201  .... Cascavel                                      230350                            
+199 202  .... Chorozinho                                    230395                            
+199 203  .... Horizonte                                     230523                            
+199 204  .... Ocara                                         230945                            
+199 205  .... Pacajus                                       230960                            
+199 206  .... Pindoretama                                   231085                            
+    207  23000 Ignorado - CE                                230000,239999                     

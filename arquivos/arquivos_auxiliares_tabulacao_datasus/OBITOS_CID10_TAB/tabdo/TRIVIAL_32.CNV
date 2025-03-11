@@ -1,0 +1,1156 @@
+1155 4
+      1  A71.0 Fase inicial do tracoma                      A710
+      2  A71.1 Fase ativa do tracoma                        A711
+      3  A71.9 Tracoma NE                                   A719
+      4  B30.0 Ceratoconjuntivite dev adenovirus            B300
+      5  B30.1 Conjuntivite dev adenovirus                  B301
+      6  B30.2 Faringoconjuntivite viral                    B302
+      7  B30.3 Conjuntivite hemorragica aguda endemica      B303
+      8  B30.8 Outr conjuntivites virais                    B308
+      9  B30.9 Conjuntivite viral NE                        B309
+     10  B35.0 Tinha da barba e do couro cabeludo           B350
+     11  B35.1 Tinha das unhas                              B351
+     12  B35.2 Tinha da mao                                 B352
+     13  B35.3 Tinha dos pes                                B353
+     14  B35.4 Tinha do corpo                               B354
+     15  B35.5 Tinha imbricada                              B355
+     16  B35.6 Tinea cruris                                 B356
+     17  B35.8 Outr dermatofitoses                          B358
+     18  B35.9 Dermatofitose NE                             B359
+     19  B36.0 Pitiriase versicolor                         B360
+     20  B36.1 Tinha negra                                  B361
+     21  B36.2 Piedra branca                                B362
+     22  B36.3 Piedra negra                                 B363
+     23  B36.8 Outr micoses superf espec                    B368
+     24  B36.9 Micose superf NE                             B369
+     25  B85.0 Pediculose dev Pediculus humanus capitis     B850
+     26  B85.1 Pediculose dev Pediculus humanus corporis    B851
+     27  B85.2 Pediculose NE                                B852
+     28  B85.3 Ftiriase                                     B853
+     29  B85.4 Pediculose e ftiriase mista                  B854
+     30  F45.3 Transt neurovegetativo somatoforme           F453
+     31  F45.4 Transt doloroso somatoforme persistente      F454
+     32  F45.8 Outr transt somatoformes                     F458
+     33  F45.9 Transt somatoforme NE                        F459
+     34  F62.0 Modif durad personalid apos exper catastr    F620
+     35  F62.1 Modif durad personalid apos doenc psiquiatr  F621
+     36  F62.8 Outr modificacoes duradouras personalidade   F628
+     37  F62.9 Modificacao duradoura da personalidade NE    F629
+     38  F63.0 Jogo patologico                              F630
+     39  F63.1 Piromania                                    F631
+     40  F63.2 Roubo patologico                             F632
+     41  F63.3 Tricotilomania                               F633
+     42  F63.8 Outr transt dos habitos e dos impulsos       F638
+     43  F63.9 Transt dos habitos e impulsos NE             F639
+     44  F64.0 Transexualismo                               F640
+     45  F64.1 Travestismo bivalente                        F641
+     46  F64.2 Transt de identidade sexual na infancia      F642
+     47  F64.8 Outr transt da identidade sexual             F648
+     48  F64.9 Transt NE da identidade sexual               F649
+     49  F65.0 Fetichismo                                   F650
+     50  F65.1 Travestismo fetichista                       F651
+     51  F65.2 Exibicionismo                                F652
+     52  F65.3 Voyeurismo                                   F653
+     53  F65.4 Pedofilia                                    F654
+     54  F65.5 Sadomasoquismo                               F655
+     55  F65.6 Transt mult da preferencia sexual            F656
+     56  F65.8 Outr transt da preferencia sexual            F658
+     57  F65.9 Transt da preferencia sexual NE              F659
+     58  F66.0 Transt da maturacao sexual                   F660
+     59  F66.1 Orientacao sexual egodistonica               F661
+     60  F66.2 Transt do relacionamento sexual              F662
+     61  F66.8 Outr transt do desenvolv psicossexual        F668
+     62  F66.9 Transt do desenvolv sexual NE                F669
+     63  F68.0 Sint fisicos aument p/fatores psicologicos   F680
+     64  F68.1 Prod delib ou simul sint incapac fisic psic  F681
+     65  F68.8 Outr transt espec personal e comport adulto  F688
+     66  H52.0 Hipermetropia                                H520
+     67  H52.1 Miopia                                       H521
+     68  H52.2 Astigmatismo                                 H522
+     69  H52.3 Anisometropia e aniseiconia                  H523
+     70  H52.4 Presbiopia                                   H524
+     71  H52.5 Transt da acomodacao                         H525
+     72  H52.6 Outr transt da refracao                      H526
+     73  H52.7 Transt NE da refracao                        H527
+     74  H53.0 Ambliopia p/anopsia                          H530
+     75  H53.1 Disturbios visuais subjetivos                H531
+     76  H53.2 Diplopia                                     H532
+     77  H53.3 Outr transt da visao binocular               H533
+     78  H53.4 Defeitos do campo visual                     H534
+     79  H53.5 Defic da visao cromatica                     H535
+     80  H53.6 Cegueira noturna                             H536
+     81  H53.8 Outr disturbios visuais                      H538
+     82  H53.9 Disturbio visual NE                          H539
+     83  H54.0 Cegueira ambos os olhos                      H540
+     84  H54.1 Cegueira um olho e visao subnormal em outr   H541
+     85  H54.2 Visao subnormal de ambos os olhos            H542
+     86  H54.3 Perda nao qualificada da visao ambos olhos   H543
+     87  H54.4 Cegueira em um olho                          H544
+     88  H54.5 Visao subnormal em um olho                   H545
+     89  G43.0 Enxaqueca s/aura                             G430
+     90  G43.1 Enxaqueca c/aura                             G431
+     91  G43.2 Estado de mal enxaquecoso                    G432
+     92  G43.3 Enxaqueca complicada                         G433
+     93  G43.8 Outr form de enxaqueca                       G438
+     94  G43.9 Enxaqueca s/especificacao                    G439
+     95  G44.0 Sindr de cluster-headache                    G440
+     96  G44.1 Cefaleia vascular NCOP                       G441
+     97  G44.2 Cefaleia tensional                           G442
+     98  G50.0 Nevralgia do trigemeo                        G500
+     99  G50.1 Dor facial atipica                           G501
+    100  G50.8 Outr transt do nervo trigemeo                G508
+    101  G50.9 Transt NE do nervo trigemeo                  G509
+    102  G51.0 Paralisia de Bell                            G510
+    103  G51.1 Ganglionite geniculada                       G511
+    104  G51.2 Sindr de Melkersson                          G512
+    105  G51.3 Espasmo hemifacial clonico                   G513
+    106  G51.4 Mioquimia facial                             G514
+    107  G51.8 Outr transt do nervo facial                  G518
+    108  G51.9 Transt NE do nervo facial                    G519
+    109  G54.0 Transt do plexo braquial                     G540
+    110  G54.1 Transt do plexo lombossacral                 G541
+    111  G54.2 Transt das raizes cervicais NCOP             G542
+    112  G54.3 Transt das raizes toracicas NCOP             G543
+    113  G54.4 Transt das raizes lombossacras NCOP          G544
+    114  G54.5 Amiotrofia nevralgica                        G545
+    115  G54.6 Sindr dolorosa do membro fantasma            G546
+    116  G54.7 Sindr membro fantasma s/manifest dolorosa    G547
+    117  G54.8 Outr transt das raizes e dos plexos nervosos G548
+    118  G57.0 Lesao do nervo ciatico                       G570
+    119  G57.1 Meralgia parestesica                         G571
+    120  G57.2 Lesao do nervo femoral                       G572
+    121  G57.3 Lesao do nervo popliteo lateral              G573
+    122  G57.4 Lesao do nervo popliteo medial               G574
+    123  G57.5 Sindr do tunel do tarso                      G575
+    124  G57.6 Lesao do nervo plantar                       G576
+    125  G57.8 Outr mononeuropatias dos membros infer       G578
+    126  G57.9 Mononeuropatia dos membros infer NE          G579
+    127  H01.0 Blefarite                                    H010
+    128  H01.1 Dermatoses nao infecc da palpebra            H011
+    129  H01.8 Outr inflam espec da palpebra                H018
+    130  H01.9 Inflam NE da palpebra                        H019
+    131  H02.0 Entropio e triquiase da palpebra             H020
+    132  H02.1 Ectropio da palpebra                         H021
+    133  H02.2 Lagoftalmo                                   H022
+    134  H02.3 Blefarocalasia                               H023
+    135  G54.9 Transt NE das raizes e dos plexos nervosos   G549
+    136  G56.0 Sindr do tunel do carpo                      G560
+    137  G56.1 Outr lesoes do nervo mediano                 G561
+    138  G56.2 Lesoes do nervo cubital                      G562
+    139  G56.3 Lesao do nervo radial                        G563
+    140  G56.4 Causalgia                                    G564
+    141  G56.8 Outr mononeuropatias dos membros super       G568
+    142  G56.9 Mononeuropatia dos membros super NE          G569
+    143  H02.4 Ptose da palpebra                            H024
+    144  H02.5 Outr transt que afetam a funcao da palpebra  H025
+    145  H02.6 Xantelasma da palpebra                       H026
+    146  H02.7 Outr transt degener palpebra area periocular H027
+    147  H02.8 Outr transt espec das palpebras              H028
+    148  H02.9 Transt NE da palpebra                        H029
+    149  H04.0 Dacrioadenite                                H040
+    150  H04.1 Outr transt da gland lacrimal                H041
+    151  H04.2 Epifora                                      H042
+    152  H04.3 Inflam aguda e NE dos canais lacrimais       H043
+    153  H04.4 Inflam cronica dos canais lacrimais          H044
+    154  H04.5 Estenose e insuf dos canais lacrimais        H045
+    155  H04.6 Outr alteracoes nos canais lacrimais         H046
+    156  H04.8 Outr transt do aparelho lacrimal             H048
+    157  H04.9 Transt NE do aparelho lacrimal               H049
+    158  H10.0 Conjuntivite mucopurulenta                   H100
+    159  H10.1 Conjuntivite aguda atopica                   H101
+    160  H10.2 Outr conjuntivites agudas                    H102
+    161  H10.3 Conjuntivite aguda NE                        H103
+    162  H10.4 Conjuntivite cronica                         H104
+    163  H10.5 Blefaroconjuntivite                          H105
+    164  H10.8 Outr conjuntivites                           H108
+    165  H10.9 Conjuntivite NE                              H109
+    166  H11.0 Pterigio                                     H110
+    167  H11.1 Degeneracoes e depositos da conjuntiva       H111
+    168  H11.2 Cicatrizes da conjuntiva                     H112
+    169  H11.3 Hemorragia conjuntival                       H113
+    170  H11.4 Outr transt vasculares e cistos conjuntivais H114
+    171  H11.8 Outr transt espec da conjuntiva              H118
+    172  H11.9 Transt NE da conjuntiva                      H119
+    173  H15.0 Esclerite                                    H150
+    174  H15.1 Episclerite                                  H151
+    175  H15.8 Outr transt da esclerotica                   H158
+    176  H15.9 Transt NE da esclerotica                     H159
+    177  H16.0 Ulcera de cornea                             H160
+    178  H16.1 Outr ceratites superf s/conjuntivite         H161
+    179  H16.2 Ceratoconjuntivite                           H162
+    180  H16.3 Ceratites intersticial e profunda            H163
+    181  H16.4 Neovascularizacao da cornea                  H164
+    182  H16.8 Outr ceratites                               H168
+    183  H16.9 Ceratite NE                                  H169
+    184  H17.0 Leucoma aderente                             H170
+    185  H17.1 Outr opacidade central da cornea             H171
+    186  H17.8 Outr cicatrizes e opacidades da cornea       H178
+    187  H17.9 Cicatriz e opacidade NE da cornea            H179
+    188  H18.0 Pigmentacoes e depositos da cornea           H180
+    189  H18.1 Ceratopatia bolhosa                          H181
+    190  H18.2 Outr edemas da cornea                        H182
+    191  H18.3 Alteracoes nas membranas da cornea           H183
+    192  H18.4 Degeneracoes da cornea                       H184
+    193  H18.5 Distrofias hereditarias da cornea            H185
+    194  H18.6 Ceratocone                                   H186
+    195  H18.7 Outr deform da cornea                        H187
+    196  H18.8 Outr transt espec da cornea                  H188
+    197  H18.9 Transt NE da cornea                          H189
+    198  H20.0 Iridociclite aguda e subaguda                H200
+    199  H20.1 Iridociclite cronica                         H201
+    200  H20.2 Iridociclite induz p/cristalino              H202
+    201  H20.8 Outr iridociclites                           H208
+    202  H20.9 Iridociclite NE                              H209
+    203  H21.0 Hifema                                       H210
+    204  H21.1 Outr transt vasculares iris e corpo ciliar   H211
+    205  H21.2 Degeneracoes da iris e do corpo ciliar       H212
+    206  H21.3 Cistos iris corpo ciliar e camara anterior   H213
+    207  H21.4 Membranas pupilares                          H214
+    208  H21.5 Outr aderencias e roturas iris corpo ciliar  H215
+    209  H21.8 Outr transt espec da iris e do corpo ciliar  H218
+    210  H21.9 Transt NE da iris e do corpo ciliar          H219
+    211  H25.0 Catarata senil incipiente                    H250
+    212  H25.1 Catarata senil nuclear                       H251
+    213  H25.2 Catarata senil tipo Morgagni                 H252
+    214  H25.8 Outr cataratas senis                         H258
+    215  H25.9 Catarata senil NE                            H259
+    216  H26.0 Catarata infantil juvenil e pre-senil        H260
+    217  H26.1 Catarata traum                               H261
+    218  H26.2 Catarata complicada                          H262
+    219  H26.3 Catarata induz p/drogas                      H263
+    220  H26.4 Pos-catarata                                 H264
+    221  H26.8 Outr cataratas espec                         H268
+    222  H26.9 Catarata NE                                  H269
+    223  H27.0 Afacia                                       H270
+    224  H27.1 Deslocamento do cristalino                   H271
+    225  H27.8 Outr transt espec do cristalino              H278
+    226  H27.9 Transt NE do cristalino                      H279
+    227  H30.0 Inflam coriorretiniana focal                 H300
+    228  H30.1 Inflam corrorretiniana disseminada           H301
+    229  H30.2 Ciclite posterior                            H302
+    230  H30.8 Outr inflam coriorretinianas                 H308
+    231  H30.9 Inflam NE da coroide e da retina             H309
+    232  H31.0 Cicatrizes coriorretinianas                  H310
+    233  H31.1 Degeneracao da coroide                       H311
+    234  H31.2 Distrofia hereditaria da coroide             H312
+    235  H31.3 Hemorragia e rotura da coroide               H313
+    236  H31.4 Descolamento da coroide                      H314
+    237  H31.8 Outr transt espec da coroide                 H318
+    238  H31.9 Transt NE da coroide                         H319
+    239  H33.0 Descolamento da retina c/defeito retiniano   H330
+    240  H33.1 Retinosquise e cistos da retina              H331
+    241  H33.2 Descolamento seroso da retina                H332
+    242  H33.3 Defeitos da retina s/descolamento            H333
+    243  H33.4 Descolamento da retina p/tracao              H334
+    244  H33.5 Outr descolamentos da retina                 H335
+    245  H34.0 Oclusao arterial retiniana transitoria       H340
+    246  H34.1 Oclusao da arteria retiniana central         H341
+    247  H34.2 Outr oclusoes da arteria retiniana           H342
+    248  H34.8 Outr oclusoes vasculares retinianas          H348
+    249  H34.9 Oclusao vascular retiniana NE                H349
+    250  H35.0 Retinopatias de fundo alteracoes vasc retina H350
+    251  H35.1 Retinopatia da prematuridade                 H351
+    252  H35.2 Outr retinopatias proliferativas             H352
+    253  H35.3 Degeneracao da macula e do polo posterior    H353
+    254  H35.4 Degeneracoes perifericas da retina           H354
+    255  H35.5 Distrofias hereditarias da retina            H355
+    256  H35.6 Hemorragia retiniana                         H356
+    257  H35.7 Separacao das camadas da retina              H357
+    258  H35.8 Outr transt espec da retina                  H358
+    259  H35.9 Transt da retina NE                          H359
+    260  H40.0 Suspeita de glaucoma                         H400
+    261  H40.1 Glaucoma prim de angulo aberto               H401
+    262  H40.2 Glaucoma prim de angulo fechado              H402
+    263  H40.3 Glaucoma secund a traum ocular               H403
+    264  H40.4 Glaucoma secund a inflam ocular              H404
+    265  H40.5 Glaucoma secund a outr transt do olho        H405
+    266  H40.6 Glaucoma secund a drogas                     H406
+    267  H40.8 Outr glaucoma                                H408
+    268  H40.9 Glaucoma NE                                  H409
+    269  H43.0 Prolapso do humor vitreo                     H430
+    270  H43.1 Hemorragia do humor vitreo                   H431
+    271  H43.2 Depositos cristalinos no humor vitreo        H432
+    272  H43.3 Outr opacidades do vitreo                    H433
+    273  H43.8 Outr transt do humor vitreo                  H438
+    274  H43.9 Transt NE do humor vitreo                    H439
+    275  H47.0 Transt do nervo optico NCOP                  H470
+    276  H47.1 Papiledema NE                                H471
+    277  H47.2 Atrofia optica                               H472
+    278  H47.3 Outr transt do disco optico                  H473
+    279  H47.4 Transt do quiasma optico                     H474
+    280  H47.5 Transt de outr vias opticas                  H475
+    281  H47.6 Transt do cortex visual                      H476
+    282  H47.7 Transt NE das vias opticas                   H477
+    283  H49.0 Paralisia do terceiro par                    H490
+    284  H49.1 Paralisia do quarto par                      H491
+    285  H49.2 Paralisia do sexto par                       H492
+    286  H49.3 Oftalmoplegia total                          H493
+    287  H49.4 Oftalmoplegia externa progressiva            H494
+    288  H49.8 Outr estrabismos paraliticos                 H498
+    289  H49.9 Estrabismo paralitico NE                     H499
+    290  H50.0 Estrabismo convergente concomitante          H500
+    291  H50.1 Estrabismo divergente concomitante           H501
+    292  H50.2 Estrabismo vertical                          H502
+    293  H50.3 Heterotropia intermitente                    H503
+    294  H50.4 Outr heterotropias e as NE                   H504
+    295  H50.5 Heteroforia                                  H505
+    296  H50.6 Estrabismo mecanico                          H506
+    297  H50.8 Outr estrabismos espec                       H508
+    298  H50.9 Estrabismo NE                                H509
+    299  H51.0 Paralisia do olhar conjugado                 H510
+    300  H51.1 Insuf ou excesso de convergencia             H511
+    301  H51.2 Oftalmoplegia internuclear                   H512
+    302  H51.8 Outr transt espec do movimento binocular     H518
+    303  H51.9 Transt NE do movimento binocular             H519
+    304  H54.6 Perda nao qualificada da visao em um olho    H546
+    305  H54.7 Perda NE da visao                            H547
+    306  H80.0 Otosclerose q comprom janela oval nao-oblit  H800
+    307  H80.1 Otosclerose q comprom janela oval oblit      H801
+    308  H80.2 Otosclerose da coclea                        H802
+    309  H80.8 Outr otoscleroses                            H808
+    310  H80.9 Otosclerose NE                               H809
+    311  H90.0 Perda audicao bilateral dev transt conducao  H900
+    312  H90.1 Perda aud unilat trans cond s/rest aud contr H901
+    313  H90.2 Perda NE de audicao dev transt de conducao   H902
+    314  H90.3 Perda de audicao bilateral neuro-sensorial   H903
+    315  H90.4 Perda aud unilat neuro-sens s/rest aud contr H904
+    316  H90.5 Perda de audicao neuro-sensorial NE          H905
+    317  H90.6 Perda audic bilat mista conducao neuro-sens  H906
+    318  H90.7 Perd aud uni mist cond neur s/rest aud contr H907
+    319  H90.8 Perda audicao mista conducao e neuro-sens NE H908
+    320  H91.0 Perda de audicao ototoxica                   H910
+    321  H91.1 Presbiacusia                                 H911
+    322  H91.2 Perda de audicao subita idiopatica           H912
+    323  H91.3 Surdo-mudez NCOP                             H913
+    324  H91.8 Outr perdas de audicao espec                 H918
+    325  H91.9 Perda NE de audicao                          H919
+    326  H92.0 Otalgia                                      H920
+    327  H92.1 Otorreia                                     H921
+    328  H92.2 Otorragia                                    H922
+    329  H93.0 Transt degenerativos e vasculares do ouvido  H930
+    330  H93.1 Tinnitus                                     H931
+    331  H93.2 Outr percepcoes auditivas anormais           H932
+    332  H93.3 Transt do nervo acustico                     H933
+    333  H93.8 Outr transt espec do ouvido                  H938
+    334  H93.9 Transt NE do ouvido                          H939
+    335  J30.0 Rinite vasomotora                            J300
+    336  J30.1 Rinite alergica dev polen                    J301
+    337  J30.2 Outr rinites alergicas sazonais              J302
+    338  J30.3 Outr rinites alergicas                       J303
+    339  J30.4 Rinite alergica NE                           J304
+    340  L20.0 Prurigo de Besnier                           L200
+    341  L20.8 Outr dermatites atopicas                     L208
+    342  L20.9 Dermatite atopica NE                         L209
+    343  L21.0 Seborreia do couro cabeludo                  L210
+    344  L21.1 Dermatite seborreica infantil                L211
+    345  L21.8 Outr dermatites seborreicas                  L218
+    346  L21.9 Dermatite seborreica NE                      L219
+    347  L23.0 Dermatite alergica de contato dev metais     L230
+    348  L23.1 Dermatite alergica de contato dev adesivos   L231
+    349  L23.2 Dermatite alergica de contato dev cosmeticos L232
+    350  L23.3 Dermatite alerg contato dev drogas cont pele L233
+    351  L23.4 Dermatite alergica de contato dev corantes   L234
+    352  L23.5 Dermatite alergica contato dev out prod quim L235
+    353  L23.6 Dermatite alergica contat dev alim cont pele L236
+    354  L23.7 Dermatite alerg contato dev plantas exc alim L237
+    355  L23.8 Dermatite alergica contato dev outr agentes  L238
+    356  L23.9 Dermatite alergica de contato de causa NE    L239
+    357  L24.0 Dermatite contato p/irrit dev detergentes    L240
+    358  L24.1 Dermatite contato p/irrit dev oleos gorduras L241
+    359  L24.2 Dermatite contato p/irritantes dev solventes L242
+    360  L24.3 Dermatite contato p/irrit dev cosmeticos     L243
+    361  L24.4 Dermatite cont p/irrit dev drogas cont pele  L244
+    362  L24.5 Dermatite contato p/irrit dev outr prod quim L245
+    363  L24.6 Dermatite contato p/irrit dev alim cont pele L246
+    364  L24.7 Dermatite cont p/irrit dev plantas exc alim  L247
+    365  L24.8 Dermatite contato p/irrit dev outr agentes   L248
+    366  L24.9 Dermatite contato p/irritantes de causa NE   L249
+    367  L25.0 Dermatite de contato NE dev cosmeticos       L250
+    368  L25.1 Dermatite de contato NE dev drogas cont pele L251
+    369  L25.2 Dermatite de contato NE dev corantes         L252
+    370  L25.3 Dermatite de contato NE dev outr prod quim   L253
+    371  L25.4 Dermatite de contato NE dev alim cont pele   L254
+    372  L25.5 Dermatite de contato NE dev plantas exc alim L255
+    373  L25.8 Dermatite de contato NE dev outr agentes     L258
+    374  L25.9 Dermatite de contato NE de causa NE          L259
+    375  L28.0 Liquen simples cronico                       L280
+    376  L28.1 Prurigo nodular                              L281
+    377  L28.2 Outr form de prurigo                         L282
+    378  L29.0 Prurido anal                                 L290
+    379  L29.1 Prurido escrotal                             L291
+    380  L29.2 Prurido vulvar                               L292
+    381  L29.3 Prurido anogenital NE                        L293
+    382  L29.8 Outr form de prurido                         L298
+    383  L29.9 Prurido NE                                   L299
+    384  L30.0 Dermatite numular                            L300
+    385  L30.1 Disidrose                                    L301
+    386  L30.2 Autossensibilizacao cutanea                  L302
+    387  L30.3 Dermatite infectada                          L303
+    388  L30.4 Intertrigo eritematoso                       L304
+    389  L30.5 Pitiriase alba                               L305
+    390  L30.8 Outr dermatites espec                        L308
+    391  L30.9 Dermatite NE                                 L309
+    392  L43.0 Liquen plano hipertrofico                    L430
+    393  L43.1 Liquen plano bolhoso                         L431
+    394  L43.2 Reacao liquenoide a droga                    L432
+    395  L43.3 Liquen plano subagudo                        L433
+    396  L43.8 Outr form de liquen plano                    L438
+    397  L43.9 Liquen plano NE                              L439
+    398  L44.0 Pitiriase rubra pilar                        L440
+    399  L44.1 Liquen nitido                                L441
+    400  L44.2 Liquen estriado                              L442
+    401  L44.3 Liquen rubro moniliforme                     L443
+    402  L44.4 Acrodermatite papular infantil               L444
+    403  L44.8 Outr afeccoes papulo-descamativas espec      L448
+    404  J33.8 Outr polipos do seio paranasal               J338
+    405  J33.9 Polipo nasal NE                              J339
+    406  K00.0 Anodontia                                    K000
+    407  K00.1 Dentes supranumerarios                       K001
+    408  K00.2 Anomalias do tamanho e da form dos dentes    K002
+    409  K00.3 Dentes manchados                             K003
+    410  K00.4 Disturbios na formacao dos dentes            K004
+    411  K00.5 Anomalias hereditarias estrut dentaria NCOP  K005
+    412  K00.6 Disturbios da erupcao dentaria               K006
+    413  K00.7 Sindr da erupcao dentaria                    K007
+    414  K00.8 Outr disturbios do desenvolv dos dentes      K008
+    415  K00.9 Disturbio NE do desenvolv dentario           K009
+    416  K01.0 Dentes inclusos                              K010
+    417  K01.1 Dentes impactados                            K011
+    418  K02.0 Caries limitadas ao esmalte                  K020
+    419  K02.1 Caries da dentina                            K021
+    420  K02.2 Carie do cemento                             K022
+    421  K02.3 Caries dentarias estaveis                    K023
+    422  K02.4 Odontoclasia                                 K024
+    423  K02.8 Outr caries dentarias                        K028
+    424  K02.9 Carie dentaria SOE                           K029
+    425  K03.0 Atrito dentario excessivo                    K030
+    426  K03.1 Abrasao dentaria                             K031
+    427  K03.2 Erosao dentaria                              K032
+    428  K03.3 Reabsorcao patologica dos dentes             K033
+    429  K03.4 Hipercementose                               K034
+    430  K03.5 Ancilose dentaria                            K035
+    431  K03.6 Depositos nos dentes                         K036
+    432  K03.7 Alterac pos-eruptivas cor tec duros dentes   K037
+    433  K03.8 Outr doenc espec dos tec duros dos dentes    K038
+    434  K03.9 Doenc dos tec duros dos dentes NE            K039
+    435  K04.0 Pulpite                                      K040
+    436  K04.1 Necrose da polpa                             K041
+    437  K04.2 Degeneracao da polpa                         K042
+    438  K04.3 Formacao anormal de tec duros na polpa       K043
+    439  K04.4 Periodontite apical aguda orig pulpar        K044
+    440  K04.5 Periodontite apical cronica                  K045
+    441  K04.6 Abscesso periapical c/fistula                K046
+    442  K04.7 Abscesso periapical s/fistula                K047
+    443  K04.8 Cisto radicular                              K048
+    444  K04.9 Outr doenc da polpa e tec periapicais e NE   K049
+    445  K05.0 Gengivite aguda                              K050
+    446  K05.1 Gengivite cronica                            K051
+    447  K05.2 Periodontite aguda                           K052
+    448  K05.3 Periodontite cronica                         K053
+    449  K05.4 Periodontose                                 K054
+    450  K05.5 Outr doenc periodontais                      K055
+    451  K05.6 Doenc periodontal SOE                        K056
+    452  K06.0 Retracao gengival                            K060
+    453  K06.1 Hiperplasia gengival                         K061
+    454  K06.2 Lesoes geng rebord alveol s/dent assoc traum K062
+    455  K06.8 Outr transt espec geng rebord alveol s/dent  K068
+    456  K06.9 Transt gengiva rebordo alveolar s/dentes SOE K069
+    457  K07.0 Anomalias importantes tamanho da mandibula   K070
+    458  K07.1 Anomalias relacao entre mandibula base cran  K071
+    459  K07.2 Anomalias relacao entre as arcadas dentarias K072
+    460  K07.3 Anomalias da posicao dos dentes              K073
+    461  K07.4 Maloclusao NE                                K074
+    462  K07.5 Anormalidades dentofaciais funcionais        K075
+    463  K07.6 Transt da articulacao temporomandibular      K076
+    464  K07.8 Outr anomalias dentofaciais                  K078
+    465  K07.9 Anomalia dentofacial SOE                     K079
+    466  K08.0 Exfoliacao dos dentes dev causas sistemicas  K080
+    467  K08.1 Perda dent dev acid extr doenc periodont loc K081
+    468  K08.2 Atrofia do rebordo alveolar s/dentes         K082
+    469  K08.3 Raiz dentaria retida                         K083
+    470  K08.8 Outr transt espec dentes estrut sustentacao  K088
+    471  K08.9 Transt dentes estruturas sustentacao SOE     K089
+    472  K09.0 Cistos odontogenicos de desenvolv            K090
+    473  K09.1 Cistos de desenvolv da regiao bucal          K091
+    474  K09.2 Outr cistos das mandibulas                   K092
+    475  K09.8 Outr cistos da regiao oral NCOP              K098
+    476  K09.9 Cistos da regiao oral SOE                    K099
+    477  K10.0 Transt do desenvolv dos maxilares            K100
+    478  K10.1 Granuloma central de celulas gigantes        K101
+    479  K10.2 Afeccoes inflam dos maxilares                K102
+    480  K10.3 Alveolite maxilar                            K103
+    481  K10.8 Outr doenc espec dos maxilares               K108
+    482  K10.9 Doenc dos maxilares SOE                      K109
+    483  K11.0 Atrofia de gland salivar                     K110
+    484  K11.1 Hipertrofia de gland salivar                 K111
+    485  K11.2 Sialadenite                                  K112
+    486  K11.3 Abscesso de gland salivar                    K113
+    487  K11.4 Fistula de gland salivar                     K114
+    488  K11.5 Sialolitiase                                 K115
+    489  K11.6 Mucocele de gland salivar                    K116
+    490  K11.7 Alteracoes da secrecao salivar               K117
+    491  K11.8 Outr doenc das gland salivares               K118
+    492  K11.9 Doenc de gland salivar SOE                   K119
+    493  K14.0 Glossite                                     K140
+    494  K14.1 Lingua geografica                            K141
+    495  K14.2 Glossite romboide mediana                    K142
+    496  K14.3 Hipertrofia das papilas linguais             K143
+    497  K14.4 Atrofia das papilas linguais                 K144
+    498  K14.5 Lingua escrotal                              K145
+    499  K14.6 Glossodinia                                  K146
+    500  K14.8 Outr doenc da lingua                         K148
+    501  K14.9 Doenc da lingua SOE                          K149
+    502  L44.9 Afeccoes papulo-descamativas NE              L449
+    503  L55.0 Queim solar de 1.grau                        L550
+    504  L55.1 Queim solar de 2.grau                        L551
+    505  L55.2 Queim solar de 3.grau                        L552
+    506  L55.8 Outr queim solares                           L558
+    507  L55.9 Queim solar NE                               L559
+    508  L56.0 Resposta fototoxica a drogas                 L560
+    509  L56.1 Resposta fotoalergica a drogas               L561
+    510  L56.2 Dermatite p/fotocontato                      L562
+    511  L56.3 Urticaria solar                              L563
+    512  L56.4 Erupcao polimorfa a luz                      L564
+    513  L56.8 Outr alt agud esp pele dev rad ultravioleta  L568
+    514  L56.9 Alteracoes agud pele dev rad ultravioleta NE L569
+    515  L57.0 Ceratose actinica                            L570
+    516  L57.1 Reticuloide actinica                         L571
+    517  L57.2 Cutis romboidal da nuca                      L572
+    518  L57.3 Poiquilodermia de Civatte                    L573
+    519  L57.4 Cutis laxa senil                             L574
+    520  L57.5 Granuloma actinico                           L575
+    521  L57.8 Outr alt pele dev expos cron rad nao-ioniz   L578
+    522  L57.9 Alter pele dev expos cron rad nao-ioniz NE   L579
+    523  L58.0 Radiodermatite aguda                         L580
+    524  L58.1 Radiodermatite cronica                       L581
+    525  L58.9 Radiodermatite NE                            L589
+    526  L59.0 Eritema dev calor ou ao fogo                 L590
+    527  L59.8 Outr afecc espec pele tec subcutaneo rel rad L598
+    528  L59.9 Afeccoes pele tec subcutaneo relac rad NE    L599
+    529  L60.0 Unha encravada                               L600
+    530  L60.1 Onicolise                                    L601
+    531  L60.2 Onicogrifose                                 L602
+    532  L60.3 Distrofia ungueal                            L603
+    533  L60.4 Linhas de Beau                               L604
+    534  L60.5 Sindr das unhas amareladas                   L605
+    535  L60.8 Outr afeccoes das unhas                      L608
+    536  L60.9 Afeccoes das unhas NE                        L609
+    537  L63.0 Alopecia total                               L630
+    538  L63.1 Alopecia universal                           L631
+    539  L63.2 Ofiase                                       L632
+    540  L63.8 Outr form de alopecia areata                 L638
+    541  L63.9 Alopecia areata NE                           L639
+    542  L64.0 Alopecia androgenica induz p/droga           L640
+    543  L64.8 Outr alopecias androgenicas                  L648
+    544  L64.9 Alopecia androgenica NE                      L649
+    545  L65.0 Efluvio telogeno                             L650
+    546  L65.1 Efluvio anageno                              L651
+    547  L65.2 Alopecia mucinosa                            L652
+    548  L65.8 Outr form espec n cicatric perda cabelo pelo L658
+    549  L65.9 Perda de cabelos ou p/nao cicatriciais NE    L659
+    550  L66.0 Pseudopelada                                 L660
+    551  L66.1 Liquen planopilar                            L661
+    552  L66.2 Foliculite descalvante                       L662
+    553  L66.3 Perifoliculite abscedante da cabeca          L663
+    554  L66.4 Foliculite uleritematosa reticulada          L664
+    555  L66.8 Outr form de alopecia cicatricial            L668
+    556  L66.9 Alopecia cicatricial NE                      L669
+    557  L67.0 Tricorrexe nodosa                            L670
+    558  L67.1 Variacoes da cor dos cabelos ou pelos        L671
+    559  L67.8 Outr anorm cor pediculo dos cabelos ou pelos L678
+    560  L67.9 Anorma cor pediculo dos cabelos e pelos NE   L679
+    561  L68.0 Hirsutismo                                   L680
+    562  L68.1 Hipertricose lanuginosa adquir               L681
+    563  L68.2 Hipertricose localizada                      L682
+    564  L68.3 Politriquia                                  L683
+    565  L68.8 Outr form de hipertricose                    L688
+    566  L68.9 Hipertricose NE                              L689
+    567  L70.0 Acne vulgar                                  L700
+    568  L70.1 Acne conglobata                              L701
+    569  L70.2 Acne varioliforme                            L702
+    570  L70.3 Acne tropical                                L703
+    571  L70.4 Acne infantil                                L704
+    572  L70.5 Acne escoriada das mulheres jovens           L705
+    573  L70.8 Outr form de acne                            L708
+    574  L70.9 Acne NE                                      L709
+    575  L71.0 Dermatite perioral                           L710
+    576  L71.1 Rinofima                                     L711
+    577  L71.8 Outr form de rosacea                         L718
+    578  L71.9 Rosacea NE                                   L719
+    579  L72.0 Cisto epidermico                             L720
+    580  L72.1 Cisto triquilemal                            L721
+    581  L72.2 Esteatocistoma mult                          L722
+    582  L72.8 Outr form cistos foliculares pele tec subcut L728
+    583  L72.9 Cisto folicular NE da pele e tec subcutaneo  L729
+    584  L73.0 Acne queloide                                L730
+    585  L73.1 Pseudofoliculite da barba                    L731
+    586  L73.2 Hidradenite supurativa                       L732
+    587  L73.8 Outr afeccoes foliculares espec              L738
+    588  L73.9 Afeccoes foliculares NE                      L739
+    589  L74.0 Miliaria rubra                               L740
+    590  L74.1 Miliaria cristalina                          L741
+    591  L74.2 Miliaria profunda                            L742
+    592  L74.3 Miliaria NE                                  L743
+    593  L74.4 Anidrose                                     L744
+    594  L74.8 Outr afeccoes das gland sudoriparas ecrinas  L748
+    595  L74.9 Afeccoes das gland sudoriparas ecrinas NE    L749
+    596  L75.0 Bromidrose                                   L750
+    597  L75.1 Cromidrose                                   L751
+    598  L75.2 Miliaria apocrina                            L752
+    599  L75.8 Outr afeccoes gland sudoriparas apocrinas    L758
+    600  L75.9 Afeccoes de gland sudoriparas apocrinas NE   L759
+    601  L81.0 Hiperpigmentacao pos-inflam                  L810
+    602  L81.1 Cloasma                                      L811
+    603  L81.2 Sardas                                       L812
+    604  L81.3 Manchas cafe-com-leite                       L813
+    605  L81.4 Outr form de hiperpigmentacao p/melanina     L814
+    606  L81.5 Leucodermia NCOP                             L815
+    607  L81.6 Outr transt lig diminuicao formacao melanina L816
+    608  L81.7 Dermatose purpurica pigmentada               L817
+    609  L81.8 Outr transt espec da pigmentacao             L818
+    610  L81.9 Transt da pigmentacao NE                     L819
+    611  L85.0 Ictiose adquir                               L850
+    612  L85.1 Ceratose adquir palmar e plantar             L851
+    613  L85.2 Ceratose punctata                            L852
+    614  L85.3 Xerose cutanea                               L853
+    615  L85.8 Outr form de espessamento epidermico         L858
+    616  L85.9 Espessamento epidermico NE                   L859
+    617  L87.0 Ceratose folicular parafolicular penetr pele L870
+    618  L87.1 Colagenose perfurante reativa                L871
+    619  L87.2 Elastose perfurante serpiginosa              L872
+    620  L87.8 Outr transt da eliminacao transepidermica    L878
+    621  L87.9 Transt da eliminacao transepidermica NE      L879
+    622  L90.0 Liquen escleroso e atrofico                  L900
+    623  L90.1 Anetodermia de Schweninger-Buzzi             L901
+    624  L90.2 Anetodermia de Jadassohn-Pellizzari          L902
+    625  L90.3 Atrofodermia de Pasini e Pierini             L903
+    626  L90.4 Acrodermatite cronica atrofica               L904
+    627  L90.5 Cicatrizes e fibrose cutanea                 L905
+    628  L90.6 Estrias atroficas                            L906
+    629  L90.8 Outr afeccoes atroficas da pele              L908
+    630  L90.9 Afeccoes atroficas da pele NE                L909
+    631  L91.0 Cicatriz queloide                            L910
+    632  L91.8 Outr afeccoes hipertroficas da pele          L918
+    633  L91.9 Afeccoes hipertroficas da pele NE            L919
+    634  L92.0 Granuloma anular                             L920
+    635  L92.1 Necrobiose lipoidica NCOP                    L921
+    636  L92.2 Granuloma facial                             L922
+    637  L92.3 Granuloma corpo estranho pele tec subcutaneo L923
+    638  L92.8 Outr afec granulomatosas pele tec subcutaneo L928
+    639  L92.9 Afecc granulomatosas pele tec subcutaneo NE  L929
+    640  L94.0 Esclerodermia localizada                     L940
+    641  L94.1 Esclerodermia linear                         L941
+    642  L94.2 Calcinose cutanea                            L942
+    643  L94.3 Esclerodactilia                              L943
+    644  L94.4 Papulas de Gottron                           L944
+    645  L94.5 Poiquilodermia vascular atrofica             L945
+    646  L94.6 Ainhum                                       L946
+    647  L94.8 Outr afeccoes localiz tec conjuntivo espec   L948
+    648  L94.9 Afeccoes localizadas do tec conjuntivo NE    L949
+    649  M20.0 Deform de dedos das maos                     M200
+    650  M20.1 Hallux valgo                                 M201
+    651  M20.2 Hallux rigidus                               M202
+    652  M20.3 Outr deform do hallux                        M203
+    653  M20.4 Dedos do pe em malho                         M204
+    654  M20.5 Outr deform de dedos dos pes                 M205
+    655  M20.6 Deform adquir NE de dedos do pe              M206
+    656  M21.0 Deform em valgo NCOP                         M210
+    657  M21.1 Deform em varo NCOP                          M211
+    658  M21.2 Deform em flexao                             M212
+    659  M21.3 Mao ou pe pendente                           M213
+    660  M21.4 Pe chato                                     M214
+    661  M21.5 Mao e pe em garra e mao e pe tortos adquir   M215
+    662  M21.6 Outr deform adquir do tornozelo e do pe      M216
+    663  M21.7 Desigualdade do comprimento dos membros      M217
+    664  M21.8 Outr deform adquir espec dos membros         M218
+    665  M21.9 Deform adquir NE de membro                   M219
+    666  M22.0 Deslocamento recidivante da rotula           M220
+    667  M22.1 Subluxacao recidivante da rotula             M221
+    668  M22.2 Transt femuropatelares                       M222
+    669  M22.3 Outr desarranjos da rotula                   M223
+    670  M22.4 Condromalacia da rotula                      M224
+    671  M22.8 Outr transt da rotula                        M228
+    672  M22.9 Transt da rotula NE                          M229
+    673  M23.0 Menisco cistico                              M230
+    674  M23.1 Menisco discoide                             M231
+    675  M23.2 Transt menisco dev ruptura ou lesao antiga   M232
+    676  M23.3 Outr transt do menisco                       M233
+    677  M23.4 Corpo flutuante no joelho                    M234
+    678  M23.5 Instabilidade cronica do joelho              M235
+    679  M23.6 Outr rupturas espontaneas ligamentos joelho  M236
+    680  M23.8 Outr transt internos do joelho               M238
+    681  M23.9 Transt interno NE do joelho                  M239
+    682  M24.0 Corpo flutuante em articulacao               M240
+    683  M24.1 Outr transt das cartilagens articulares      M241
+    684  M24.2 Transt de ligamentos                         M242
+    685  M24.3 Deslocamento e subluxacao patolog artic NCOP M243
+    686  M24.4 Deslocamento e subluxacao artic recidivantes M244
+    687  M24.5 Contratura articular                         M245
+    688  M24.6 Ancilose articular                           M246
+    689  M24.7 Protusao do acetabulo                        M247
+    690  M24.8 Outr transt articulares especificos NCOP     M248
+    691  M24.9 Desarranjo articular NE                      M249
+    692  M25.0 Hemartrose                                   M250
+    693  M25.1 Fistula articular                            M251
+    694  M25.2 Flail joint                                  M252
+    695  M25.3 Outr instabilidades articulares              M253
+    696  M25.4 Derrame articular                            M254
+    697  M25.5 Dor articular                                M255
+    698  M25.6 Rigidez articular NCOP                       M256
+    699  M25.7 Osteofito                                    M257
+    700  M25.8 Outr transt articulares espec                M258
+    701  M25.9 Transt articular NE                          M259
+    702  M40.0 Cifose postural                              M400
+    703  M40.1 Outr cifoses secund                          M401
+    704  M40.2 Outr cifoses e as NE                         M402
+    705  M40.3 Sindr da retificacao da coluna vertebral     M403
+    706  M40.4 Outr lordoses                                M404
+    707  M40.5 Lordose NE                                   M405
+    708  M53.0 Sindr cervicocraniana                        M530
+    709  M53.1 Sindr cervicobraquial                        M531
+    710  M53.2 Instabilidades da coluna vertebral           M532
+    711  M53.3 Transt sacroccigeos NCOP                     M533
+    712  M53.8 Outr dorsopatias espec                       M538
+    713  M53.9 Dorsopatia NE                                M539
+    714  M54.0 Paniculite atingindo regioes pescoco e dorso M540
+    715  M54.1 Radiculopatia                                M541
+    716  M54.2 Cervicalgia                                  M542
+    717  M54.3 Ciatica                                      M543
+    718  M54.4 Lumbago c/ciatica                            M544
+    719  M54.5 Dor lombar baixa                             M545
+    720  M54.6 Dor na coluna toracica                       M546
+    721  M54.8 Outr dorsalgia                               M548
+    722  M54.9 Dorsalgia NE                                 M549
+    723  M65.0 Abscesso da bainha tendinea                  M650
+    724  M65.1 Outr sinovites infecc                        M651
+    725  M65.2 Tendinite calcificada                        M652
+    726  M65.3 Dedo em gatilho                              M653
+    727  M65.4 Tenossinovite estiloide radial               M654
+    728  M65.8 Outr sinovites e tenossinovites              M658
+    729  M65.9 Sinovite e tenossinovite NE                  M659
+    730  M66.0 Ruptura de cisto popliteo                    M660
+    731  M66.1 Ruptura de sinovia                           M661
+    732  M66.2 Ruptura espontanea de tendoes extensores     M662
+    733  M66.3 Ruptura espontanea de tendoes flexores       M663
+    734  M66.4 Ruptura espontanea de outr tendoes           M664
+    735  M66.5 Ruptura espontanea de tendoes NE             M665
+    736  M67.0 Tendao de Aquiles curto                      M670
+    737  M67.1 Outr contratura de tendao                    M671
+    738  M67.2 Hipertrofia sinovial NCOP                    M672
+    739  M67.3 Sinovite transitoria                         M673
+    740  M67.4 Ganglios                                     M674
+    741  M67.8 Outr transt espec da sinovia e do tendao     M678
+    742  M67.9 Transt NE da sinovia e do tendao             M679
+    743  M70.0 Sinovite crepitante cronica da mao e punho   M700
+    744  M70.1 Bursite da mao                               M701
+    745  M70.2 Bursite do olecrano                          M702
+    746  M70.3 Outr bursites do cotovelo                    M703
+    747  M70.4 Bursite pre-patelar                          M704
+    748  M70.5 Outr bursites do joelho                      M705
+    749  M70.6 Bursite trocanterica                         M706
+    750  M70.7 Outr bursites do quadril                     M707
+    751  M70.8 Outr transt tec moles relac uso excess press M708
+    752  M70.9 Transt NE tec moles relac uso excess pressao M709
+    753  M71.0 Abscesso de bolsa sinovial                   M710
+    754  M71.1 Outr bursites infecc                         M711
+    755  M71.2 Cisto sinovial do espaco popliteo            M712
+    756  M71.3 Outr cistos de bolsa sinovial                M713
+    757  M71.4 Deposito de calcio em bolsa sinovial         M714
+    758  M71.5 Outr bursites NCOP                           M715
+    759  M71.8 Outr bursopatias espec                       M718
+    760  M71.9 Bursopatia NE                                M719
+    761  M75.0 Capsulite adesiva do ombro                   M750
+    762  M75.1 Sindr do manguito rotador                    M751
+    763  M75.2 Tendinite bicepital                          M752
+    764  M75.3 Tendinite calcificante do ombro              M753
+    765  M75.4 Sindr de colis do ombro                      M754
+    766  M75.5 Bursite do ombro                             M755
+    767  M75.8 Outr lesoes do ombro                         M758
+    768  M75.9 Lesao NE do ombro                            M759
+    769  M76.0 Tendinite glutea                             M760
+    770  M76.1 Tendinite do psoas                           M761
+    771  M76.2 Esporao da crista iliaca                     M762
+    772  M76.3 Sindr da faixa iliotibial                    M763
+    773  M76.4 Bursite tibial colateral                     M764
+    774  M76.5 Tendinite patelar                            M765
+    775  M76.6 Tendinite aquileana                          M766
+    776  M76.7 Tendinite do peroneo                         M767
+    777  M76.8 Outr entesopatias do membro infer excl o pe  M768
+    778  M76.9 Entesopatia do membro infer NE               M769
+    779  M77.0 Epicondilite medial                          M770
+    780  M77.1 Epicondilite lateral                         M771
+    781  M77.2 Periartrite do punho                         M772
+    782  M77.3 Esporao do calcaneo                          M773
+    783  M77.4 Metatarsalgia                                M774
+    784  M77.5 Outr entesopatia do pe                       M775
+    785  M77.8 Outr entesopatias NCOP                       M778
+    786  M77.9 Entesopatia NE                               M779
+    787  M79.0 Reumatismo NE                                M790
+    788  M79.1 Mialgia                                      M791
+    789  M79.2 Nevralgia e neurite NE                       M792
+    790  M79.3 Paniculite NE                                M793
+    791  M79.4 Hipertrofia do coxim gorduroso               M794
+    792  M79.5 Corpo estranho residual no tec mole          M795
+    793  M79.6 Dor em membro                                M796
+    794  M79.7 Fibromialgia                                 M797
+    795  M79.8 Outr transt espec dos tec moles              M798
+    796  M79.9 Transt dos tec moles NE                      M799
+    797  M95.0 Deform adquir do nariz                       M950
+    798  M95.1 Orelha em couve-flor                         M951
+    799  M95.2 Outr deform adquir da cabeca                 M952
+    800  M95.3 Deform adquir do pescoco                     M953
+    801  M95.4 Deform adquir do torax e das costelas        M954
+    802  M95.5 Deform adquir da pelve                       M955
+    803  M95.8 Outr deform adquir espec sist osteomuscular  M958
+    804  M95.9 Deform adquir do sist osteomuscular NE       M959
+    805  M99.0 Disfuncao segmentar e somatica               M990
+    806  M99.1 Complexo de subluxacao                       M991
+    807  M99.2 Estenose de subluxacao do canal medular      M992
+    808  M99.3 Estenose ossea do canal medular              M993
+    809  M99.4 Estenose de tec conjuntivo do canal medular  M994
+    810  M99.5 Estenose disco intervertebral canal medular  M995
+    811  M99.6 Estenose ossea subluxacao forames intervert  M996
+    812  M99.7 Estenose tec conj e disco forames intervert  M997
+    813  M99.8 Outr lesoes biomecanicas                     M998
+    814  M99.9 Lesao biomecanica NE                         M999
+    815  N84.0 Polipo do corpo do utero                     N840
+    816  N84.1 Polipo do colo do utero                      N841
+    817  N84.2 Polipo da vagina                             N842
+    818  N84.3 Polipo da vulva                              N843
+    819  N84.8 Polipo de outr partes do trato genital femin N848
+    820  N84.9 Polipo do trato genital femin NE             N849
+    821  N85.0 Hiperplasia glandular endometrial            N850
+    822  N85.1 Hiperplasia adenomatosa endometrial          N851
+    823  N85.2 Hipertrofia do utero                         N852
+    824  N85.3 Subinvolucao do utero                        N853
+    825  N85.4 Posicao anormal do utero                     N854
+    826  N85.5 Inversao do utero                            N855
+    827  N85.6 Sinequias intra-uterinas                     N856
+    828  N85.7 Hematometra                                  N857
+    829  N85.8 Outr transt nao-inflam espec do utero        N858
+    830  N85.9 Transt nao-inflam do utero NE                N859
+    831  N87.0 Displasia cervical leve                      N870
+    832  N87.1 Displasia cervical moderada                  N871
+    833  N87.2 Displasia cervical grave NCOP                N872
+    834  N87.9 Displasia do colo do utero NE                N879
+    835  N88.0 Leucoplasia do colo do utero                 N880
+    836  N88.1 Laceracao antiga do colo do utero            N881
+    837  N88.2 Estreitamento e estenose do colo do utero    N882
+    838  N88.3 Incompetencia do colo do utero               N883
+    839  N88.4 Alongamento hipertrofico do colo do utero    N884
+    840  N88.8 Outr transt nao-inflam espec colo do utero   N888
+    841  N88.9 Transt nao-inflam e NE do colo do utero      N889
+    842  N89.0 Displasia vaginal leve                       N890
+    843  N89.1 Displasia vaginal moderada                   N891
+    844  N89.2 Displasia vaginal grave NCOP                 N892
+    845  N89.3 Displasia da vagina NE                       N893
+    846  N89.4 Leucoplasia da vagina                        N894
+    847  N89.5 Estreitamento e atresia da vagina            N895
+    848  N89.6 Anel himenal apertado                        N896
+    849  N89.7 Hematocolpos                                 N897
+    850  N89.8 Outr transt nao-inflam espec da vagina       N898
+    851  N89.9 Transt nao-inflam da vagina NE               N899
+    852  N90.0 Displasia vulvar leve                        N900
+    853  N90.1 Displasia vulvar moderada                    N901
+    854  N90.2 Displasia vulvar grave NCOP                  N902
+    855  N90.3 Displasia de vulva NE                        N903
+    856  N90.4 Leucoplasia de vulva                         N904
+    857  N90.5 Atrofia da vulva                             N905
+    858  N90.6 Hipertrofia da vulva                         N906
+    859  N90.7 Cisto vulvar                                 N907
+    860  N90.8 Outr transt nao-inflam espec vulva e perineo N908
+    861  N90.9 Transt nao-inflam e NE da vulva e do perineo N909
+    862  N91.0 Amenorreia prim                              N910
+    863  N91.1 Amenorreia secund                            N911
+    864  N91.2 Amenorreia NE                                N912
+    865  N91.3 Oligomenorreia prim                          N913
+    866  N91.4 Oligomenorreia secund                        N914
+    867  N91.5 Oligomenorreia NE                            N915
+    868  N93.0 Sangramentos pos-coito ou de contato         N930
+    869  N93.8 Outr sangramentos anorm espec utero vagina   N938
+    870  N93.9 Sangramento anormal do utero ou da vagina NE N939
+    871  N94.0 Ovulacao dolorosa                            N940
+    872  N94.1 Dispareunia                                  N941
+    873  N94.2 Vaginismo                                    N942
+    874  N94.3 Sindr de tensao pre-menstrual                N943
+    875  N94.4 Dismenorreia prim                            N944
+    876  N94.5 Dismenorreia secund                          N945
+    877  N94.6 Dismenorreia NE                              N946
+    878  N94.8 Outr afec esp ass org genit fem ciclo menstr N948
+    879  N94.9 Afecc NE assoc org genit femin ciclo menstr  N949
+    880  N97.0 Infertilidade femin assoc a anovulacao       N970
+    881  N97.1 Infertilidade femin orig tubaria             N971
+    882  N97.2 Infertilidade femin orig uterina             N972
+    883  N97.3 Infertilidade femin orig cervical            N973
+    884  N97.4 Infertilidade femin assoc fatores parceiro   N974
+    885  N97.8 Infertilidade femin de outr origem           N978
+    886  N97.9 Infertilidade femin NE                       N979
+    887  Q10.0 Ptose congen                                 Q100
+    888  Q10.1 Ectropio congen                              Q101
+    889  Q10.2 Entropio congen                              Q102
+    890  Q10.3 Outr malformacoes congen das palpebras       Q103
+    891  Q10.4 Ausencia ou agenesia do aparelho lacrimal    Q104
+    892  Q10.5 Estenose ou estreit congen canal lacrimal    Q105
+    893  Q10.6 Outr malformacoes congen aparelho lacrimal   Q106
+    894  Q10.7 Malformacao congen da orbita                 Q107
+    895  Q11.0 Olho cistico                                 Q110
+    896  Q11.1 Outr form de anoftalmia                      Q111
+    897  Q11.2 Microftalmia                                 Q112
+    898  Q11.3 Macroftalmia                                 Q113
+    899  Q12.0 Catarata congen                              Q120
+    900  Q12.1 Luxacao congen do cristalino                 Q121
+    901  Q12.2 Coloboma do cristalino                       Q122
+    902  Q12.3 Afaquia congen                               Q123
+    903  Q12.4 Esferofaquia                                 Q124
+    904  Q12.8 Outr malformacoes congen do cristalino       Q128
+    905  Q12.9 Malformacao congen NE do cristalino          Q129
+    906  Q13.0 Coloboma da iris                             Q130
+    907  Q13.1 Ausencia de iris                             Q131
+    908  Q13.2 Outr malformacoes congen da iris             Q132
+    909  Q13.3 Opacidade congen da cornea                   Q133
+    910  Q13.4 Outr malformacoes congen da cornea           Q134
+    911  Q13.5 Esclerotica azul                             Q135
+    912  Q13.8 Outr malform congen camara anterior olho     Q138
+    913  Q13.9 Malformacao congen NE camara anterior olho   Q139
+    914  Q14.0 Malformacao congen do humor vitreo           Q140
+    915  Q14.1 Malformacao congen da retina                 Q141
+    916  Q14.2 Malformacao congen do disco optico           Q142
+    917  Q14.3 Malformacao congen da coroide                Q143
+    918  Q14.8 Outr malform congen camara posterior olho    Q148
+    919  Q14.9 Malformacao congen NE camara posterior olho  Q149
+    920  Q15.0 Glaucoma congen                              Q150
+    921  Q15.8 Outr malformacoes congen espec do olho       Q158
+    922  Q15.9 Malformacao congen NE do olho                Q159
+    923  Q16.0 Ausencia congen do pavilhao auricular        Q160
+    924  Q16.1 Ausencia atresia estreit congen cond audit   Q161
+    925  Q16.2 Ausencia da trompa de Eustaquio              Q162
+    926  Q16.3 Malformacao congen dos ossiculos do ouvido   Q163
+    927  Q16.4 Outr malformacoes congen do ouvido medio     Q164
+    928  Q16.5 Malformacao congen do ouvido interno         Q165
+    929  Q16.9 Malform congen ouvido NE caus compr audicao  Q169
+    930  Q17.0 Pavilhao supranumerario                      Q170
+    931  Q17.1 Macrotia                                     Q171
+    932  Q17.2 Microtia                                     Q172
+    933  Q17.3 Outr deform da orelha                        Q173
+    934  Q17.4 Anomalia de posicao da orelha                Q174
+    935  Q17.5 Orelhas proeminentes                         Q175
+    936  Q17.8 Outr malformacoes congen espec da orelha     Q178
+    937  Q17.9 Malformacao congen NE da orelha              Q179
+    938  Q18.0 Seio fistula e cisto orig branquial          Q180
+    939  Q18.1 Seio fistula e cisto pre-auricular           Q181
+    940  Q18.2 Outr malformacoes da fenda branquial         Q182
+    941  Q18.3 Pescoco alado                                Q183
+    942  Q18.4 Macrostomia                                  Q184
+    943  Q18.5 Microstomia                                  Q185
+    944  Q18.6 Macroqueilia                                 Q186
+    945  Q18.7 Microqueilia                                 Q187
+    946  Q18.8 Outr malformacoes congen espec face pescoco  Q188
+    947  Q18.9 Malformacao congen NE da face e do pescoco   Q189
+    948  A31.1 Infecc cutanea micobacteriana                A311
+    949  A74.0 Conjuntivite causada p/clamidias             A740
+    950  B00.5 Afeccoes oculares dev virus do herpes        B005
+    951  B00.8 Outr form de infecc dev virus do herpes      B008
+    952  B07   Verrugas orig viral                          B07
+    953  B08.8 Outr inf virais espec lesoes pele membr muco B088
+    954  F61   Transt mistos personal outr transt personal  F61
+    955  F69   Transt personalidade e comport adulto NE     F69
+    956  H46   Neurite optica                               H46
+    957  J00   Nasofaringite aguda                          J00
+    958  J33.0 Polipo da cavidade nasal                     J330
+    959  L22   Dermatite das fraldas                        L22
+    960  L42   Pitiriase rosea                              L42
+    961  J34.2 Desvio do septo nasal                        J342
+    962  L80   Vitiligo                                     L80
+    963  L83   Acantose nigricans                           L83
+    964  L84   Calos e calosidades                          L84
+    965  M43.6 Torcicolo                                    M436
+    966  N39.3 Incontinencia de tensao                      N393
+    967  N46   Infertilidade masc                           N46
+    968  N47   Hipertrofia do prepucio fimose e parafimose  N47
+    969  N86   Erosao e ectropio do colo do utero           N86
+    970  N96   Abortamento habitual                         N96
+    971  Q38.1 Anquiloglossia                               Q381
+    972  Q65.0 Luxacao congen unilateral do quadril         Q650
+    973  Q65.1 Luxacao congen bilateral do quadril          Q651
+    974  Q65.2 Luxacao congen NE do quadril                 Q652
+    975  Q65.3 Subluxacao congen unilateral do quadril      Q653
+    976  Q65.4 Subluxacao congen bilateral do quadril       Q654
+    977  Q65.5 Subluxacao congen NE do quadril              Q655
+    978  Q65.6 Quadril instavel                             Q656
+    979  Q65.8 Outr deform congen do quadril                Q658
+    980  Q65.9 Deform congen NE do quadril                  Q659
+    981  Q66.0 Pe torto equinovaro                          Q660
+    982  Q66.1 Pe torto calcaneovaro                        Q661
+    983  Q66.2 Metatarso varo                               Q662
+    984  Q66.3 Outr deform congen dos pes em varo           Q663
+    985  Q66.4 Pe torto calcaneovalgo                       Q664
+    986  Q66.5 Pe chato congen                              Q665
+    987  Q66.6 Outr deform congen dos pes em valgo          Q666
+    988  Q66.7 Pe cavo                                      Q667
+    989  Q66.8 Outr deform congen do pe                     Q668
+    990  Q66.9 Deform congen NE do pe                       Q669
+    991  Q67.0 Assimetria facial                            Q670
+    992  Q67.1 Deform facial p/compressao                   Q671
+    993  Q67.2 Dolicocefalia                                Q672
+    994  Q67.3 Plagiocefalia                                Q673
+    995  Q67.4 Outr deform congen cranio face e mandibula   Q674
+    996  Q67.5 Deform congen da coluna vertebral            Q675
+    997  Q67.6 Torax escavado                               Q676
+    998  Q67.7 Torax carinado                               Q677
+    999  Q67.8 Outr deform congen do torax                  Q678
+   1000  Q68.0 Deform congen musculo esternocleidomastoideu Q680
+   1001  Q68.1 Deform congen da mao                         Q681
+   1002  Q68.2 Deform congen do joelho                      Q682
+   1003  Q68.3 Encurvamento congen do femur                 Q683
+   1004  Q68.4 Encurvamento congen da tibia e da peronio    Q684
+   1005  Q68.5 Encurv congen ossos longos NE membro infer   Q685
+   1006  Q68.8 Outr deform osteomusculares congen           Q688
+   1007  Q69.0 Dedos da mao supranumerarios                 Q690
+   1008  Q69.1 Polegares supranumerarios                    Q691
+   1009  Q69.2 Artelhos supranumerarios                     Q692
+   1010  Q69.9 Polidactilia NE                              Q699
+   1011  Q70.0 Coalescencia dos dedos                       Q700
+   1012  Q70.1 Dedos palmados                               Q701
+   1013  Q70.2 Coalescencia dos artelhos                    Q702
+   1014  Q70.3 Artelhos palmados                            Q703
+   1015  Q70.4 Polissindactilia                             Q704
+   1016  Q70.9 Sindactilia NE                               Q709
+   1017  Q71.0 Ausencia congen completa de membros super    Q710
+   1018  Q71.1 Ausencia congen braco antebraco c/mao pres   Q711
+   1019  Q71.2 Ausencia congen do antebraco e da mao        Q712
+   1020  Q71.3 Ausencia congen da mao e de dedos            Q713
+   1021  Q71.4 Defeito de reducao longitudinal do radio     Q714
+   1022  Q71.5 Defeito de reducao longitudinal do cubito    Q715
+   1023  Q71.6 Mao em garra de lagosta                      Q716
+   1024  Q71.8 Outr defeitos de reducao do membro super     Q718
+   1025  Q71.9 Defeito p/reducao do membro super NE         Q719
+   1026  Q72.0 Ausencia congen completa de membros infer    Q720
+   1027  Q72.1 Ausencia congen coxa perna c/pe presente     Q721
+   1028  Q72.2 Ausencia congen da perna e do pe             Q722
+   1029  Q72.3 Ausencia congen do pe e de artelhos          Q723
+   1030  Q72.4 Defeito p/reducao longitudinal da tibia      Q724
+   1031  Q72.5 Defeito p/reducao longitudinal da tibia      Q725
+   1032  Q72.6 Defeito p/reducao longitudinal do peronio    Q726
+   1033  Q72.7 Pe bifido                                    Q727
+   1034  Q72.8 Outr defeitos p/reducao de membros infer     Q728
+   1035  Q72.9 Defeito NE p/reducao do membro infer         Q729
+   1036  Q73.0 Ausencia congen de membros NE                Q730
+   1037  Q73.1 Focomelia membros NE                         Q731
+   1038  Q73.8 Outr defeitos p/reducao de membros NE        Q738
+   1039  Q74.0 Out malform cong membr super incl cint escap Q740
+   1040  Q74.1 Malformacao congen do joelho                 Q741
+   1041  Q74.2 Outr malform cong membros inf incl cint pelv Q742
+   1042  Q74.3 Artrogripose congen mult                     Q743
+   1043  Q74.8 Outr malformacoes congen espec de membros    Q748
+   1044  Q74.9 Malformacoes congen NE de membros            Q749
+   1045  Q80.0 Ictiose vulgar                               Q800
+   1046  Q80.1 Ictiose ligada ao cromossomo X               Q801
+   1047  Q80.2 Ictiose lamelar                              Q802
+   1048  Q80.3 Eritrodermia ictiosiforme bulhosa congen     Q803
+   1049  Q80.4 Feto arlequim                                Q804
+   1050  Q80.8 Outr ictioses congen                         Q808
+   1051  Q80.9 Ictiose congen NE                            Q809
+   1052  Q81.0 Epidermolise bolhosa simples                 Q810
+   1053  Q81.1 Epidermolise bolhosa letal                   Q811
+   1054  Q81.2 Epidermolise bolhosa distrofica              Q812
+   1055  Q81.8 Outr epidermolises bolhosas                  Q818
+   1056  Q81.9 Epidermolise bolhosa NE                      Q819
+   1057  Q82.0 Linfedema hereditario                        Q820
+   1058  Q82.1 Xeroderma pigmentoso                         Q821
+   1059  Q82.2 Mastocitose                                  Q822
+   1060  Q82.3 Incontinentia pigmenti                       Q823
+   1061  Q82.4 Displasia ectodermica                        Q824
+   1062  Q82.5 Nevo nao-neoplasico congen                   Q825
+   1063  Q82.8 Outr malformacoes congen espec da pele       Q828
+   1064  Q82.9 Malformacao congen NE da pele                Q829
+   1065  Q83.0 Ausencia congen da mama c/ausencia do mamilo Q830
+   1066  Q83.1 Mama supranumeraria                          Q831
+   1067  Q83.2 Ausencia de mamilo                           Q832
+   1068  Q83.3 Mamilo acessorio                             Q833
+   1069  Q83.8 Outr malformacoes congen da mama             Q838
+   1070  Q83.9 Malformacao congen NE da mama                Q839
+   1071  Q84.0 Alopecia congen                              Q840
+   1072  Q84.1 Alteracoes morfologicas congen cabelos NCOP  Q841
+   1073  Q84.2 Outr malformacoes congen dos cabelos         Q842
+   1074  Q84.3 Anoniquia                                    Q843
+   1075  Q84.4 Leuconiquia congen                           Q844
+   1076  Q84.5 Hipertrofia e alargamento das unhas          Q845
+   1077  Q84.6 Outr malformacoes congen das unhas           Q846
+   1078  Q84.8 Outr malformacoes congen espec do tegumento  Q848
+   1079  Q84.9 Malformacao congen NE do tegumento           Q849
+   1080  B08.1 Molusco contagioso                           B081
+   1081  F51.0 Insonia nao-organica                         F510
+   1082  F51.1 Hipersonia nao-organica                      F511
+   1083  F51.2 Transt ciclo vigilia-sono dev fat nao-organ  F512
+   1084  F51.3 Sonambulismo                                 F513
+   1085  F51.4 Terrores noturnos                            F514
+   1086  F51.5 Pesadelos                                    F515
+   1087  F51.8 Outr transt do sono dev fat nao-organicos    F518
+   1088  F51.9 Transt do sono dev fatores nao-organicos NE  F519
+   1089  F52.0 Ausencia ou perda do desejo sexual           F520
+   1090  F52.1 Aversao sexual e ausencia de prazer sexual   F521
+   1091  F52.2 Falha de resposta genital                    F522
+   1092  F52.3 Disfuncao orgasmica                          F523
+   1093  F52.4 Ejaculacao precoce                           F524
+   1094  F52.5 Vaginismo nao-organico                       F525
+   1095  F52.6 Dispareunia nao-organica                     F526
+   1096  F52.7 Apetite sexual excessivo                     F527
+   1097  F52.8 Outr disfunc sex n dev transt doenc organ    F528
+   1098  F52.9 Disfuncao sexual n dev transt doenc organ NE F529
+   1099  F95.0 Tique transitorio                            F950
+   1100  F95.1 Tique motor ou vocal cronico                 F951
+   1101  F95.2 Tiques vocais e motores mult combinados      F952
+   1102  F95.8 Outr tiques                                  F958
+   1103  F95.9 Tique NE                                     F959
+   1104  F98.0 Enurese orig nao-organica                    F980
+   1105  F98.1 Encoprese orig nao-organica                  F981
+   1106  F98.2 Transt de alimentacao na infancia            F982
+   1107  F98.3 Pica do lactente ou da crianca               F983
+   1108  F98.4 Estereotipias motoras                        F984
+   1109  F98.5 Gagueira                                     F985
+   1110  F98.6 Linguagem precipitada                        F986
+   1111  F98.8 Outr trans comp emoc espec c/inic inf adoles F988
+   1112  F98.9 Transt comp emoc NE c/inicio infanc adolesc  F989
+   1113  G44.3 Cefaleia cronica pos-traum                   G443
+   1114  G44.4 Cefaleia induz p/drogas NCOP                 G444
+   1115  G44.8 Outr sindr de cefaleia espec                 G448
+   1116  G58.7 Mononeurite mult                             G587
+   1117  H55   Nistagmo e outr movimentos irregulares olho  H55
+   1118  H57.0 Anomalias da funcao pupilar                  H570
+   1119  H57.1 Dor ocular                                   H571
+   1120  H61.0 Pericondrite do pavilhao da orelha           H610
+   1121  H61.1 Transt nao-infecc do pavilhao da orelha      H611
+   1122  H61.2 Cerume impactado                             H612
+   1123  H61.3 Estenose adquir do conduto auditivo ext      H613
+   1124  H61.8 Outr transt espec do ouvido externo          H618
+   1125  H61.9 Transt NE do ouvido externo                  H619
+   1126  H83.0 Labirintite                                  H830
+   1127  H83.1 Fistula do labirinto                         H831
+   1128  H83.2 Disfuncao do labirinto                       H832
+   1129  H83.3 Efeitos do ruido sobre o ouvido interno      H833
+   1130  J33.1 Degeneracao polipoide do seio paranasal      J331
+   1131  L41.0 Pitiriase liquenoide e varioliforme aguda    L410
+   1132  L41.1 Pitiriase liquenoide cronica                 L411
+   1133  L41.2 Papulose linfomatoide                        L412
+   1134  L41.3 Parapsoriase de pequenas placas              L413
+   1135  L41.4 Parapsoriase de grandes placas               L414
+   1136  L41.5 Parapsoriase retiforme                       L415
+   1137  L41.8 Outr parapsoriases                           L418
+   1138  L41.9 Parapsoriase NE                              L419
+   1139  L98.0 Granuloma piogenico                          L980
+   1140  L98.1 Dermatite facticia                           L981
+   1141  L98.2 Dermatose neutrofilica febril                L982
+   1142  L98.3 Celulite eosinofilica                        L983
+   1143  N60.0 Cisto solitario da mama                      N600
+   1144  N60.1 Mastopatia cistica difusa                    N601
+   1145  N60.2 Fibroadenose da mama                         N602
+   1146  N60.3 Fibrosclerose da mama                        N603
+   1147  N60.4 Ectasia de dutos mamarios                    N604
+   1148  N60.8 Outr displasias mamarias benignas            N608
+   1149  N60.9 Displasia mamaria benigna NE                 N609
+   1150  N95.0 Sangramento pos-menopausa                    N950
+   1151  N95.1 Estado da menopausa e do climaterio femin    N951
+   1152  N95.2 Vaginite atrofica pos-menopausa              N952
+   1153  N95.3 Condicoes assoc c/a menopausa artificial     N953
+   1154  N95.8 Outr transt espec menopausa e perimenopausa  N958
+   1155  N95.9 Transt NE da menopausa e da perimenopausa    N959

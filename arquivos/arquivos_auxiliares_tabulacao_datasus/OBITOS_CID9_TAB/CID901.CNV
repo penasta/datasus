@@ -1,0 +1,701 @@
+    699  4 L                                                     
+      1  001 - Cólera                                       001X 
+  1   2  001.0 Devida a Vibrio cholerae                     0010 
+  1   3  001.1 Devida a Vibrio cholerae el tor              0011 
+  1   4  001.9 Não especificada                             0019 
+      5  002 - Febres tifóide e paratifóide                 002X 
+  5   6  002.0 Febre tifóide                                0020 
+  5   7  002.1 Febre paratifóide A                          0021 
+  5   8  002.2 Febre paratifóide B                          0022 
+  5   9  002.3 Febre paratifóide C                          0023 
+  5  10  002.9 Febre paratifóide de tipo não especificado   0029 
+     11  003 - Outras infecções por salmonella              003X 
+ 11  12  003.0 Gastrenterite por salmonella                 0030 
+ 11  13  003.1 Septicemia por Salmonella                    0031 
+ 11  14  003.2 Infecções localizadas devidas a Salmonella   0032 
+ 11  15  003.8 Outras                                       0038 
+ 11  16  003.9 Não especificadas                            0039 
+     17  004 - Shiguelose                                   004X 
+ 17  18  004.0 Shigella dysenteriae                         0040 
+ 17  19  004.1 Shigella flexneri                            0041 
+ 17  20  004.2 Shigella boydii                              0042 
+ 17  21  004.3 Shigella sonnei                              0043 
+ 17  22  004.8 Outras                                       0048 
+ 17  23  004.9 Não especificadas                            0049 
+     24  005 - Outras intoxic alimentares (bacterianas)     005X 
+ 24  25  005.0 Intoxicação alimentar estafilocócica         0050 
+ 24  26  005.1 Botulismo                                    0051 
+ 24  27  005.2 Intox alimentar dev a Clostridium perfringen 0052 
+ 24  28  005.3 Intox alimentar devida a outros clostrídios  0053 
+ 24  29  005.4 Intox alimentar dev a Vibrio parahaemolyticu 0054 
+ 24  30  005.8 Outras intoxicações alimentares bacterianas  0058 
+ 24  31  005.9 Intoxicação alimentar não especificada       0059 
+     32  006 - Amebíase                                     006X 
+ 32  33  006.0 Disenteria amebiana aguda s/menção de abcess 0060 
+ 32  34  006.1 Amebíase intestinal crônica s/menção abcesso 0061 
+ 32  35  006.2 Colite amebiana não disentérica              0062 
+ 32  36  006.3 Abcesso amebiano do fígado                   0063 
+ 32  37  006.4 Abcesso amebiano do pulmão                   0064 
+ 32  38  006.5 Abcesso amebiano do cérebro                  0065 
+ 32  39  006.6 Úlcera amebiana da pele                      0066 
+ 32  40  006.8 Infecção amebiana de outras localizações     0068 
+ 32  41  006.9 Amebíase não especificada                    0069 
+     42  007 - Outr doenças intestinais dev protozoários    007X 
+ 42  43  007.0 Balantidíase                                 0070 
+ 42  44  007.1 Giardíase                                    0071 
+ 42  45  007.2 Coccidiose                                   0072 
+ 42  46  007.3 Tricomoníase intestinal                      0073 
+ 42  47  007.8 Outras doenças intestinais dev a protozoário 0078 
+ 42  48  007.9 Não especificadas                            0079 
+     49  008 - Infecções intestinais dev outr microorganism 008X 
+ 49  50  008.0 Escherichia coli                             0080 
+ 49  51  008.1 Arizona                                      0081 
+ 49  52  008.2 Aerobacter aerogenes                         0082 
+ 49  53  008.3 Proteus (mirabilis) (morganii)               0083 
+ 49  54  008.4 Outras bactérias especificadas               0084 
+ 49  55  008.5 Enterite bacteriana não especificada         0085 
+ 49  56  008.6 Enterite devida a vírus especificado         0086 
+ 49  57  008.8 Outros microrganismos NCOP                   0088 
+ 49  58  008.9 Código inválido - fora da CID                0089 
+     59  009 - Infecções intestinais mal definidas          009X 
+ 59  60  009.0 Colite enterite gastrenterite infecciosas    0090 
+ 59  61  009.1 Colite enterite gastrenter orig infec presum 0091 
+ 59  62  009.2 Diarréia infecciosa                          0092 
+ 59  63  009.3 Diarréia de origem infecciosa presumível     0093 
+ 59  64  009.8 Código inválido - fora da CID                0098 
+ 59  65  009.9 Código inválido - fora da CID                0099 
+     66  010 - Infecção tuberculosa primária                010X 
+ 66  67  010.0 Complexo primário tuberculoso                0100 
+ 66  68  010.1 Pleuris tuberculoso na tuberc prim progress  0101 
+ 66  69  010.8 Outras tuberculoses primárias progressivas   0108 
+ 66  70  010.9 Não especificada                             0109 
+     71  011 - Tuberculose pulmonar                         011X 
+ 71  72  011.0 Tuberculose infiltrativa do pulmão           0110 
+ 71  73  011.1 Tuberculose nodular do pulmão                0111 
+ 71  74  011.2 Tuberculose pulmonar com caverna             0112 
+ 71  75  011.3 Tuberculose dos brônquios                    0113 
+ 71  76  011.4 Fibrose tuberculosa do pulmão                0114 
+ 71  77  011.5 Bronquectasia tuberculosa                    0115 
+ 71  78  011.6 Pneumonia tuberculosa (qualquer forma)       0116 
+ 71  79  011.7 Pneumotórax tuberculoso                      0117 
+ 71  80  011.8 Outras tuberculoses pulmonares               0118 
+ 71  81  011.9 Não especificado                             0119 
+     82  012 - Outras tuberculoses respiratórias            012X 
+ 82  83  012.0 Pleuris tuberculoso                          0120 
+ 82  84  012.1 Tuberculose gânglios linfáticos intratorác   0121 
+ 82  85  012.2 Tuberculose traqueal ou brônquica isolada    0122 
+ 82  86  012.3 Laringite tuberculosa                        0123 
+ 82  87  012.8 Outras                                       0128 
+ 82  88  012.9 Código inválido - fora da CID                0129 
+     89  013 - Tuberculose meninges e sistema nervoso centr 013X 
+ 89  90  013.0 Meningite tuberculosa                        0130 
+ 89  91  013.1 Tuberculoma das meninges                     0131 
+ 89  92  013.8 Outras                                       0138 
+ 89  93  013.9 Não especificada                             0139 
+     94  014 - Tuberculose intestino peritônio gângl mesent 014X 
+     95  015 - Tuberculose ossos e articulações             015X 
+ 95  96  015.0 Coluna vertebral                             0150 
+ 95  97  015.1 Quadril                                      0151 
+ 95  98  015.2 Joelho                                       0152 
+ 95  99  015.7 Outros ossos                                 0157 
+ 95 100  015.8 Outras articulações                          0158 
+ 95 101  015.9 Não especificada                             0159 
+    102  016 - Tuberculose aparelho geniturinário           016X 
+102 103  016.0 Rim                                          0160 
+102 104  016.1 Outros órgãos do aparelho urinário           0161 
+102 105  016.2 Epidídimo                                    0162 
+102 106  016.3 Outros órgãos genitais masculinos            0163 
+102 107  016.4 Órgãos genitais femininos                    0164 
+102 108  016.9 Não especificada                             0169 
+    109  017 - Tuberculose de outros órgãos                 017X 
+109 110  017.0 Pele e tecido celular subcutâneo             0170 
+109 111  017.1 Eritema nodoso c/reação hipersensib tuberc   0171 
+109 112  017.2 Gânglios linfáticos periféricos              0172 
+109 113  017.3 Olho                                         0173 
+109 114  017.4 Ouvido                                       0174 
+109 115  017.5 Glândula tireóide                            0175 
+109 116  017.6 Glândulas supra-renais                       0176 
+109 117  017.7 Baço                                         0177 
+109 118  017.8 Outros órgãos                                0178 
+109 119  017.9 Código inválido - fora da CID                0179 
+    120  018 - Tuberculose miliar                           018X 
+120 121  018.0 Aguda                                        0180 
+120 122  018.5 Código inválido - fora da CID                0185 
+120 123  018.8 Outras                                       0188 
+120 124  018.9 Não especificada                             0189 
+    125  020 - Peste                                        020X 
+125 126  020.0 Bubônica                                     0200 
+125 127  020.1 Celulocutânea                                0201 
+125 128  020.2 Septicêmica                                  0202 
+125 129  020.3 Pneumônica primária                          0203 
+125 130  020.4 Pneumônica secundária                        0204 
+125 131  020.5 Pneumônica não especificada                  0205 
+125 132  020.8 Outras                                       0208 
+125 133  020.9 Tipo não especificado                        0209 
+    134  021 - Tularemia                                    021X 
+    135  022 - Carbúnculo                                   022X 
+135 136  022.0 Carbúnculo cutâneo                           0220 
+135 137  022.1 Carbúnculo pulmonar                          0221 
+135 138  022.2 Carbúnculo gastrintestinal                   0222 
+135 139  022.3 Septicemia por carbúnculo                    0223 
+135 140  022.8 Outras manifestações                         0228 
+135 141  022.9 Não especificadas                            0229 
+    142  023 - Brucelose                                    023X 
+142 143  023.0 Por Brucella melitensis                      0230 
+142 144  023.1 Por Brucella abortus                         0231 
+142 145  023.2 Por Brucella suis                            0232 
+142 146  023.3 Por Brucella canis                           0233 
+142 147  023.8 Outras                                       0238 
+142 148  023.9 Por tipo não especificado                    0239 
+    149  024 - Mormo                                        024X 
+    150  025 - Melioidose                                   025X 
+    151  026 - Febre transmitida por mordedura de rato      026X 
+151 152  026.0 Febre espirilar                              0260 
+151 153  026.1 Febre estreptobacilar                        0261 
+151 154  026.9 Não especificado                             0269 
+    155  027 - Outras zoonoses causadas por bactérias       027X 
+155 156  027.0 Listeriose                                   0270 
+155 157  027.1 Infecção por Erysipelothrix                  0271 
+155 158  027.2 Pasteurelose                                 0272 
+155 159  027.8 Outras                                       0278 
+155 160  027.9 Não especificadas                            0279 
+    161  030 - Hanseníase                                   030X 
+161 162  030.0 Hanseníase virchowiana (tipo V)              0300 
+161 163  030.1 Hanseníase tuberculóide (tipo T)             0301 
+161 164  030.2 Hanseníase indeterminada (grupo I)           0302 
+161 165  030.3 Hanseníase dimorfa (grupo D)                 0303 
+161 166  030.8 Outras                                       0308 
+161 167  030.9 Tipo não especificado                        0309 
+    168  031 - Doenças devidas a outras micobactérias       031X 
+168 169  031.0 Pulmonares                                   0310 
+168 170  031.1 Cutânea                                      0311 
+168 171  031.8 Outras                                       0318 
+168 172  031.9 Não especificadas                            0319 
+    173  032 - Difteria                                     032X 
+173 174  032.0 Difteria facial                              0320 
+173 175  032.1 Difteria nasofaríngea                        0321 
+173 176  032.2 Difteria nasal anterior                      0322 
+173 177  032.3 Difteria laríngea                            0323 
+173 178  032.8 Outras                                       0328 
+173 179  032.9 Difteria não especificada                    0329 
+    180  033 - Coqueluche                                   033X 
+180 181  033.0 Por Bordetella pertussis (b. pertussis)      0330 
+180 182  033.1 P/Bordetella parapertussis (b. parapertussis 0331 
+180 183  033.8 Por outros microrganismos especificados      0338 
+180 184  033.9 Coqueluche por microrganismo não especificad 0339 
+    185  034 - Angina estreptocócica e escarlatina          034X 
+185 186  034.0 Angina estreptocócica                        0340 
+185 187  034.1 Escarlatina                                  0341 
+185 188  034.9 Código inválido - fora da CID                0349 
+    189  035 - Erisipelas                                   035X 
+    190  036 - Infecção meningocócica                       036X 
+190 191  036.0 Meningite meningocócica                      0360 
+190 192  036.1 Encefalite meningocócica                     0361 
+190 193  036.2 Meningococcemia                              0362 
+190 194  036.3 Síndrome de Waterhouse-Friderichsen          0363 
+190 195  036.4 Cardite meningocócica                        0364 
+190 196  036.8 Outras                                       0368 
+190 197  036.9 Não especificada                             0369 
+    198  037 - Tétano (exceto neonatal - 771.3)             037X 
+    199  038 - Septicemia                                   038X 
+199 200  038.0 Septicemia estreptocócica                    0380 
+199 201  038.1 Septicemia estafilocócica                    0381 
+199 202  038.2 Septicemia pneumocócica                      0382 
+199 203  038.3 Septicemia devida a anaerobios               0383 
+199 204  038.4 Septicemia dev outr bactérias gram-negativas 0384 
+199 205  38.5 Código inválido - fora da CID                 0385 
+199 206  038.8 Outras septicemias especificadas             0388 
+199 207  038.9 Septicemia de tipo não especificado          0389 
+    208  039 - Infecções actinomicóticas                    039X 
+208 209  039.0 Cutâneas                                     0390 
+208 210  039.1 Pulmonares                                   0391 
+208 211  039.2 Abdominais                                   0392 
+208 212  039.3 Cervicofaciais                               0393 
+208 213  039.4 Pé de Madura                                 0394 
+208 214  039.8 De outras localizações especificadas         0398 
+208 215  039.9 De localizações não especificadas            0399 
+    216  040 - Outras doenças bacterianas                   040X 
+216 217  040.0 Gangrena gasosa                              0400 
+216 218  040.1 Rinoscleroma                                 0401 
+216 219  040.2 Doença de Whipple                            0402 
+216 220  040.3 Necrobacilose                                0403 
+216 221  040.8 Outras doenças bacterianas                   0408 
+216 222  040.9 Código inválido - fora da CID                0409 
+    223  041 - Infec bacter afecç class out part e loc NE   041X 
+223 224  041.0 Streptococcus                                0410 
+223 225  041.1 Staphylococcus                               0411 
+223 226  041.2 Pneumococcus                                 0412 
+223 227  041.3 Bacilo de Friedländer                        0413 
+223 228  041.4 Escherichia coli                             0414 
+223 229  041.5 Haemophilus influenzae (H. influenzae)       0415 
+223 230  041.6 Proteus (mirabilis) (morganii)               0416 
+223 231  041.7 Pseudomonas                                  0417 
+223 232  041.8 Outros                                       0418 
+223 233  041.9 Infecção bacteriana não especificada         0419 
+    234  045 - Poliomielite aguda                           045X 
+234 235  045.0 Poliomielite aguda paralítica especif bulbar 0450 
+234 236  045.1 Poliomielite aguda com outras paralisias     0451 
+234 237  045.2 Poliomielite aguda não paralítica            0452 
+234 238  045.9 Poliomielite aguda não especificada          0459 
+    239  046 - Infec sist nerv central dev vírus lento      046X 
+239 240  046.0 Kuru                                         0460 
+239 241  046.1 Doença de Jakob-Creutzfeldt                  0461 
+239 242  046.2 Panencefalite esclerosante subaguda          0462 
+239 243  046.3 Leucoencefalopatia progressiva multifocal    0463 
+239 244  046.8 Outras                                       0468 
+239 245  046.9 Não especificadas                            0469 
+    246  047 - Meningite devida a enterovírus               047X 
+246 247  047.0 Devida a vírus Coxsackie                     0470 
+246 248  047.1 Devida a vírus Echo                          0471 
+246 249  047.8 Outras                                       0478 
+246 250  047.9 Não especificada                             0479 
+    251  048 - Out doen sist nerv centr dev entorovír       048X 
+    252  049 - Out viroses s nerv cent ñ transm artróp      049X 
+252 253  049.0 Coriomeningite linfocítica                   0490 
+252 254  049.1 Meningite devida a adenovírus                0491 
+252 255  049.8 Outras                                       0498 
+252 256  049.9 Não especificadas                            0499 
+    257  050 - Varíola                                      050X 
+257 258  050.0 Varíola major                                0500 
+257 259  050.1 Alastrim                                     0501 
+257 260  050.2 Varíola modificada                           0502 
+257 261  050.9 Varíola não especificada                     0509 
+    262  051 - Vacina e paravacínia                         051X 
+262 263  051.0 Vacina                                       0510 
+262 264  051.1 Pseudovacina                                 0511 
+262 265  051.2 Dermatite pustulosa contagiosa               0512 
+262 266  051.9 Paravacínia não especificada                 0519 
+    267  052 - Varicela                                     052X 
+    268  053 - Herpes zoster                                053X 
+268 269  053.0 Com meningite                                0530 
+268 270  053.1 Com outras complicações do sistema nervoso   0531 
+268 271  053.2 Com complicações oftálmicas                  0532 
+268 272  053.7 Com outras complicações                      0537 
+268 273  053.8 Com complicações não especificadas           0538 
+268 274  053.9 Herpes zoster sem menção de complicação      0539 
+    275  054 - Herpes simples                               054X 
+275 276  054.0 Eczema herpético                             0540 
+275 277  054.1 Herpes genital                               0541 
+275 278  054.2 Gengivoestomatite herpética                  0542 
+275 279  054.3 Meningoencefalite herpética                  0543 
+275 280  054.4 Com complicações oftálmicas                  0544 
+275 281  054.5 Septicemia herpética                         0545 
+275 282  054.6 Panarício herpético                          0546 
+275 283  054.7 Com outras complicações                      0547 
+275 284  054.8 Com complicações não especificadas           0548 
+275 285  054.9 Herpes simples sem menção de complicação     0549 
+    286  055 - Sarampo                                      055X 
+286 287  055.0 Encefalite pós-sarampo                       0550 
+286 288  055.1 Pneumonia pós-sarampo                        0551 
+286 289  055.2 Otite pós-sarampo                            0552 
+286 290  055.7 Com outras complicações                      0557 
+286 291  055.8 Com complicações não especificadas           0558 
+286 292  055.9 Sarampo sem menção de complicação            0559 
+    293  056 - Rubéola                                      056X 
+293 294  056.0 Com complicações neurológicas                0560 
+293 295  056.7 Com outras complicações                      0567 
+293 296  056.8 Com complicações não especificadas           0568 
+293 297  056.9 Rubéola sem menção de complicação            0569 
+    298  057 - Outros exantemas por vírus                   057X 
+298 299  057.0 Eritema infeccioso (quinta doença)           0570 
+298 300  057.8 Outros                                       0578 
+298 301  057.9 Não especificados                            0579 
+    302  060 - Febre amarela                                060X 
+302 303  060.0 Silvestre                                    0600 
+302 304  060.1 Urbana                                       0601 
+302 305  060.9 Forma não especificada                       0609 
+    306  061 - Dengue                                       061X 
+    307  062 - Encefalite viral transmitidas mosquitos      062X 
+307 308  062.0 Encefalite japonesa                          0620 
+307 309  062.1 Encefalite eqüina do Oeste                   0621 
+307 310  062.2 Encefalite eqüina do Leste                   0622 
+307 311  062.3 Encefalite de St. Louis                      0623 
+307 312  062.4 Encefalite australiana                       0624 
+307 313  062.5 Encefalite por vírus Califórnia              0625 
+307 314  062.8 Outras                                       0628 
+307 315  062.9 Não especificada                             0629 
+    316  063 - Encefalite viral transmitidas carrapato      063X 
+316 317  063.0 Encefalite russa                             0630 
+316 318  063.1 Encefalomielite ovina                        0631 
+316 319  063.2 Encefalite da Europa Central                 0632 
+316 320  063.8 Outras                                       0638 
+316 321  063.9 Não especificadas                            0639 
+    322  064 - Encefal viral transm out artróp e NE         064X 
+    323  065 - Febres hemorrágicas transmit artrópodes      065X 
+323 324  065.0 Febre hemorrágica Criméia (vírus CHF Congo)  0650 
+323 325  065.1 Febre hemorrágica de Omsk                    0651 
+323 326  065.2 Doença da selva de Kyasanur                  0652 
+323 327  065.3 Outras febres hemorrágicas transm carrapatos 0653 
+323 328  065.4 Febre hemorrágica transmitida por mosquitos  0654 
+323 329  065.8 Outras                                       0658 
+323 330  065.9 Não especificadas                            0659 
+    331  066 - Out doenças virais transmit artrópodes       066X 
+331 332  066.0 Febre dos flebótomos                         0660 
+331 333  066.1 Febre transmitida por carrapatos             0661 
+331 334  066.2 Febre eqüina venezuelana                     0662 
+331 335  066.3 Outras febres transmitidas por mosquitos     0663 
+331 336  066.8 Outras                                       0668 
+331 337  066.9 Não especificadas                            0669 
+    338  070 - Hepatite por vírus                           070X 
+338 339  070.0 Hepatite por vírus A com coma hepático       0700 
+338 340  070.1 Hepatite por vírus A s/menção coma hepático  0701 
+338 341  070.2 Hepatite por vírus B com coma hepático       0702 
+338 342  070.3 Hepatite por vírus B s/menção coma hepático  0703 
+338 343  070.4 Outr hepatites virais espec c/coma hepático  0704 
+338 344  070.5 Outr hepatites virais espec s/menç coma hep  0705 
+338 345  070.6 Hepatite viral ñ espec c/coma hepático       0706 
+338 346  070.9 Hepatite viral ñ espec s/menç coma hepático  0709 
+    347  071 - Raiva                                        071X 
+    348  072 - Parotidite epidêmica                         072X 
+348 349  072.0 Orquite por caxumba                          0720 
+348 350  072.1 Meningite por caxumba                        0721 
+348 351  072.2 Encefalite por caxumba                       0722 
+348 352  072.3 Pancreatite por caxumba                      0723 
+348 353  072.7 Caxumba com outras complicações              0727 
+348 354  072.8 Caxumba com complicações não especificadas   0728 
+348 355  072.9 Caxumba sem menção de complicação            0729 
+    356  073 - Ornitose                                     073X 
+    357  074 - Doenças específicas dev vírus Coxsackie      074X 
+357 358  074.0 Herpangina                                   0740 
+357 359  074.1 Pleurodínia epidêmica                        0741 
+357 360  074.2 Cardite por Coxsackie                        0742 
+357 361  074.3 Doença da mão pé e boca                      0743 
+357 362  074.8 Outras                                       0748 
+    363  075 - Mononucleose infecciosa                      075X 
+    364  076 - Tracoma                                      076X 
+364 365  076.0 Estágio inicial                              0760 
+364 366  076.1 Estágio ativo                                0761 
+364 367  076.9 Não especificado                             0769 
+    368  077 - Out doenç conjuntiva dev vírus e clamíd      077X 
+368 369  077.0 Conjuntivite de inclusão                     0770 
+368 370  077.1 Ceratoconjuntivite epidêmica                 0771 
+368 371  077.2 Febre faringoconjuntival                     0772 
+368 372  077.3 Outras conjuntivites por adenovírus          0773 
+368 373  077.4 Conjuntivite hemorrágica epidêmica           0774 
+368 374  077.8 Outras conjuntivites virais                  0778 
+368 375  077.9 Não especificadas                            0779 
+    376  078 - Out doenç devidas vírus e clamídias          078X 
+376 377  078.0 Molusco contagioso                           0780 
+376 378  078.1 Verrugas por vírus                           0781 
+376 379  078.2 Febre do suor                                0782 
+376 380  078.3 Doença da arranhadura do gato                0783 
+376 381  078.4 Doença do pé e da boca                       0784 
+376 382  078.5 Doença de inclusão citomegálica              0785 
+376 383  078.6 Nefrose-nefrite hemorrágica                  0786 
+376 384  078.7 Febre hemorrágica por arenavírus             0787 
+376 385  078.8 Outras                                       0788 
+376 386  078.9 Código inválido - fora da CID                0789 
+    387  079 - Infec vir em afec class out part loc NE      079X 
+387 388  079.0 Adenovírus                                   0790 
+387 389  079.1 Echo vírus                                   0791 
+387 390  079.2 Vírus coxsackie                              0792 
+387 391  079.3 Rinovírus                                    0793 
+387 392  079.8 Outros                                       0798 
+387 393  079.9 Não especificados                            0799 
+    394  080 - Tifo (epidêmico) transmitido piolho          080X 
+    395  081 - Outros tifos                                 081X 
+395 396  081.0 Tifo (endêmico) murino                       0810 
+395 397  081.1 Doença de Brill                              0811 
+395 398  081.2 Tifo transmitido por ácaros                  0812 
+395 399  081.9 Tifo não especificado                        0819 
+    400  082 - Rickettsioses transmitidas carrapatos        082X 
+400 401  082.0 Febres maculosas                             0820 
+400 402  082.1 Febre botonosa                               0821 
+400 403  082.2 Rickettsiose Norte da Ásia transm carrapatos 0822 
+400 404  082.3 Tifo de Queensland transmitido por carrapato 0823 
+400 405  082.8 Outras                                       0828 
+400 406  082.9 Não especificadas                            0829 
+    407  083 - Outras rickettsioses                         083X 
+407 408  083.0 Febre Q                                      0830 
+407 409  083.1 Febre das trincheiras                        0831 
+407 410  083.2 Rickettsiose vesiculosa                      0832 
+407 411  083.8 Outras                                       0838 
+407 412  083.9 Não especificadas                            0839 
+    413  084 - Malária                                      084X 
+413 414  084.0 Malária por falciparum (terçã maligna)       0840 
+413 415  084.1 Malária por vivax (terçã benigna)            0841 
+413 416  084.2 Malária quartã                               0842 
+413 417  084.3 Malária por ovale                            0843 
+413 418  084.4 Outras malárias                              0844 
+413 419  084.5 Forma mista                                  0845 
+413 420  084.6 Não especificada                             0846 
+413 421  084.7 Malária induzida                             0847 
+413 422  084.8 Febre hemoglobinúrica                        0848 
+413 423  084.9 Outras complicações perniciosas da malária   0849 
+    424  085 - Leishmaniose                                 085X 
+424 425  085.0 Visceral (kala-azar)                         0850 
+424 426  085.1 Cutânea - urbana                             0851 
+424 427  085.2 Cutânea - do deserto da Ásia                 0852 
+424 428  085.3 Cutânea - da Etiópia                         0853 
+424 429  085.4 Cutânea - da América                         0854 
+424 430  085.5 Cutâneo-mucosa (americana)                   0855 
+424 431  085.9 Leishmaniose não especificada                0859 
+    432  086 - Tripanossomíase                              086X 
+432 433  086.0 Doença de Chagas c/comprometimento cardíaco  0860 
+432 434  086.1 Doença de Chagas c/compromet outro órgão     0861 
+432 435  086.2 Doença de Chagas s/menção órgão comprometido 0862 
+432 436  086.3 Tripanossomíase gambiense                    0863 
+432 437  086.4 Tripanossomíase rodesiana                    0864 
+432 438  086.5 Tripanossomíase africana não especificada    0865 
+432 439  086.9 Não especificada                             0869 
+    440  087 - Febre recorrente                             087X 
+440 441  087.0 Transmitida por piolhos                      0870 
+440 442  087.1 Transmitida por carrapatos                   0871 
+440 443  087.9 Forma não especificada                       0879 
+    444  088 - Outras doenças transmitidas artrópodes       088X 
+444 445  088.0 Bartonelose                                  0880 
+444 446  088.8 Outras                                       0888 
+444 447  088.9 Não especificadas                            0889 
+    448  090 - Sífilis congênita                            090X 
+448 449  090.0 Sífilis congênita precoce sintomática        0900 
+448 450  090.1 Sífilis congênita precoce latente            0901 
+448 451  090.2 Sífilis congênita precoce s/outra especific  0902 
+448 452  090.3 Ceratite intersticial sifilítica             0903 
+448 453  090.4 Neurossífilis juvenil                        0904 
+448 454  090.5 Outr form sífilis congênita tardia sintomát  0905 
+448 455  090.6 Sífilis congênita tardia latente             0906 
+448 456  090.7 Sífilis congênita tardia                     0907 
+448 457  090.9 Sífilis congênita                            0909 
+    458  091 - Sífilis precoce sintomática                  091X 
+458 459  091.0 Sífilis genital (primária)                   0910 
+458 460  091.1 Sífilis anal primária                        0911 
+458 461  091.2 Outras formas de sífilis primária            0912 
+458 462  091.3 Sífilis secundária da pele e das mucosas     0913 
+458 463  091.4 Adenopatia devida a sífilis secundária       0914 
+458 464  091.5 Uveíte devida a sífilis secundária           0915 
+458 465  091.6 Sífilis secundária das vísceras e dos ossos  0916 
+458 466  091.7 Recidiva de sífilis secundária               0917 
+458 467  091.8 Outras formas de sífilis secundária          0918 
+458 468  091.9 Sífilis secundária                           0919 
+    469  092 - Sífilis precoce latente                      092X 
+469 470  092.0 Sífilis precoce latente recid sorol dep trat 0920 
+469 471  092.9 Sífilis precoce latente s/outras especific   0929 
+    472  093 - Sífilis cardiovascular                       093X 
+472 473  093.0 Aneurisma da aorta especif como sifilítico   0930 
+472 474  093.1 Aortite sifilítica                           0931 
+472 475  093.2 Endocardite sifilítica                       0932 
+472 476  093.8 Outras                                       0938 
+472 477  093.9 Não especificada                             0939 
+    478  094 - Neurossífilis                                094X 
+478 479  094.0 Tabes dorsal                                 0940 
+478 480  094.1 Paralisia geral progressiva                  0941 
+478 481  094.2 Meningite sifilítica                         0942 
+478 482  094.3 Neurossífilis assintomática                  0943 
+478 483  094.8 Outras                                       0948 
+478 484  094.9 Forma não especificada                       0949 
+    485  095 - Out formas sífilis tardia c sintomatol       095X 
+    486  096 - Sífilis latente tardia                       096X 
+    487  097 - Out formas de sífilis e não especificad      097X 
+487 488  097.0 Sífilis tardia                               0970 
+487 489  097.1 Sífilis latente                              0971 
+487 490  097.9 Sífilis não especificada                     0979 
+    491  098 - Infecções gonocócicas                        098X 
+491 492  098.0 Infec gonocócica aguda trato geniturin infer 0980 
+491 493  098.1 Infec gonocócica aguda trato geniturin super 0981 
+491 494  098.2 Infec gonocócica crônic trato geniturin infe 0982 
+491 495  098.3 Infec gonocócica crônic trato geniturin supe 0983 
+491 496  098.4 Infecção gonocócica do olho                  0984 
+491 497  098.5 Infecção gonocócica das articulações         0985 
+491 498  098.6 Infecção gonocócica da faringe               0986 
+491 499  098.7 Infecção gonocócica do reto e do ânus        0987 
+491 500  098.8 Infecção gonocócica de outras localizações   0988 
+    501  099 - Outras doenças venéreas                      099X 
+501 502  099.0 Cancro mole                                  0990 
+501 503  099.1 Linfogranuloma venéreo                       0991 
+501 504  099.2 Granuloma inguinal                           0992 
+501 505  099.3 Doença de Reiter                             0993 
+501 506  099.4 Outras uretrites não gonocócicas             0994 
+501 507  099.8 Outras                                       0998 
+501 508  099.9 Não especificadas                            0999 
+    509  100 - Leptospirose                                 100X 
+509 510  100.0 Leptospirose icterohemorrágica               1000 
+509 511  100.8 Outras                                       1008 
+509 512  100.9 Forma não especificada                       1009 
+    513  101 - Angina de Vincent                            101X 
+    514  102 - Bouba                                        102X 
+514 515  102.0 Lesões iniciais                              1020 
+514 516  102.1 Lesões papilomatosas múltiplas               1021 
+514 517  102.2 Outras lesões cutâneas precoces              1022 
+514 518  102.3 Hiperceratose                                1023 
+514 519  102.4 Goma e úlceras                               1024 
+514 520  102.5 Gangosa                                      1025 
+514 521  102.6 Lesões ósseas e articulares                  1026 
+514 522  102.7 Outras manifestações                         1027 
+514 523  102.8 Bouba latente                                1028 
+514 524  102.9 Bouba não especificada                       1029 
+    525  103 - Pinta                                        103X 
+525 526  103.0 Lesões primárias                             1030 
+525 527  103.1 Lesões intermediárias                        1031 
+525 528  103.2 Lesões tardias                               1032 
+525 529  103.3 Lesões mistas                                1033 
+525 530  103.9 Não especificada                             1039 
+    531  104 - Outras infec causadas por espiroquetas       104X 
+531 532  104.0 Sífilis endêmica não venérea                 1040 
+531 533  104.8 Outras                                       1048 
+531 534  104.9 Não especificadas                            1049 
+    535  110 - Dermatofitose                                110X 
+535 536  110.0 Tinha do couro cabeludo e da barba           1100 
+535 537  110.1 Tinha das unhas                              1101 
+535 538  110.2 Tinha das mãos                               1102 
+535 539  110.3 Tinha da virilha e da região perianal        1103 
+535 540  110.4 Tinha dos pés                                1104 
+535 541  110.5 Tinha do corpo                               1105 
+535 542  110.6 Dermatofitose situada profundamente          1106 
+535 543  110.8 De outras localizações                       1108 
+535 544  110.9 De localizações não especificadas            1109 
+    545  111 - Outras dermatomicoses e não especificad      111X 
+545 546  111.0 Pitiríase versicolor                         1110 
+545 547  111.1 Tinha negra                                  1111 
+545 548  111.2 Tinha alba                                   1112 
+545 549  111.3 Piedra negra                                 1113 
+545 550  111.8 Outras                                       1118 
+545 551  111.9 Não especificadas                            1119 
+    552  112 - Monilíase                                    112X 
+552 553  112.0 Monilíase da boca                            1120 
+552 554  112.1 Monilíase da vulva e da vagina               1121 
+552 555  112.2 Monilíase de outras localizações urogenitais 1122 
+552 556  112.3 Monilíase da pele e das unhas                1123 
+552 557  112.4 Monilíase do pulmão                          1124 
+552 558  112.5 Monilíase disseminada                        1125 
+552 559  112.8 Monilíase de outras localizações             1128 
+552 560  112.9 Monilíase de localização não especificada    1129 
+    561  114 - Coccidioidomicose                            114X 
+    562  115 - Histoplasmose                                115X 
+562 563  115.0 Infecção por Histoplasma capsulatum          1150 
+562 564  115.1 Infecção por Histoplasma duboisii            1151 
+562 565  115.9 Não especificada                             1159 
+    566  116 - Infecção blastomicótica                      116X 
+566 567  116.0 Blastomicose                                 1160 
+566 568  116.1 Paracoccidioidomicose                        1161 
+566 569  116.2 Lobomicose                                   1162 
+566 570  16.9 Código inválido - fora da CID                 1169 
+    571  117 - Outras micoses                               117X 
+571 572  117.0 Rinosporidiose                               1170 
+571 573  117.1 Esporotricose                                1171 
+571 574  117.2 Cromoblastomicose                            1172 
+571 575  117.3 Aspergilose                                  1173 
+571 576  117.4 Micetomas micóticos                          1174 
+571 577  117.5 Criptococose                                 1175 
+571 578  117.6 Alesqueriose (petrielidose)                  1176 
+571 579  117.7 Zigomicose (ficomicose ou mucormicose)       1177 
+571 580  117.8 Infecção fungos demaciáceos (feohifomicose)  1178 
+571 581  117.9 Outras e as não especificadas                1179 
+    582  118 - Micoses oportunísticas                       118X 
+    583  120 - Esquistossomíase                             120X 
+583 584  120.0 Devida a Schistosoma haematobium             1200 
+583 585  120.1 Devida a Schistosoma mansoni                 1201 
+583 586  120.2 Devida a Schistosoma japonicum               1202 
+583 587  120.3 Cutânea                                      1203 
+583 588  120.8 Outras                                       1208 
+583 589  120.9 Não especificadas                            1209 
+    590  121 - Outras infestações por trematódeos           121X 
+590 591  121.0 Opistorquíase                                1210 
+590 592  121.1 Clonorquíase                                 1211 
+590 593  121.2 Paragonimíase                                1212 
+590 594  121.3 Fasciolíase                                  1213 
+590 595  121.4 Fasciolopsíase                               1214 
+590 596  121.5 Metagonimíase                                1215 
+590 597  121.6 Heterofíase                                  1216 
+590 598  121.8 Outras                                       1218 
+590 599  121.9 Não especificadas                            1219 
+    600  122 - Equinococose                                 122X 
+600 601  122.0 Infestação do fígado Echinococcus granulosus 1220 
+600 602  122.1 Infestação do pulmão Echinococcus granulosus 1221 
+600 603  122.2 Infestação tireóide Echinococcus granulosus  1222 
+600 604  122.3 Outras infestações Echinococcus granulosus   1223 
+600 605  122.4 Infestação por Echinococcus granulosus ñ esp 1224 
+600 606  122.5 Infestação do fígado p/Echinococcus multiloc 1225 
+600 607  122.6 Outras infest Echinococcus multilocularis    1226 
+600 608  122.7 Infest p/Echinococcus multilocularis ñ espec 1227 
+600 609  122.8 Equinococose do fígado não especificada      1228 
+600 610  122.9 Equinococose outras e as não especificadas   1229 
+    611  123 - Outras infestações por cestóideos            123X 
+611 612  123.0 Infestação por Taenia solium forma intestin  1230 
+611 613  123.1 Cisticercose                                 1231 
+611 614  123.2 Infestação por Taenia saginata               1232 
+611 615  123.3 Teníase não especificada                     1233 
+611 616  123.4 Difilobotríase intestinal                    1234 
+611 617  123.5 Esparganíase (difilobotríase larvária)       1235 
+611 618  123.6 Himenolepíase                                1236 
+611 619  123.8 Outras                                       1238 
+611 620  123.9 Não especificadas                            1239 
+    621  124 - Triquiníase                                  124X 
+    622  125 - Filaríase e dracontíase                      125X 
+622 623  125.0 Filaríase bancrofti                          1250 
+622 624  125.1 Filaríase malaia                             1251 
+622 625  125.2 Loaíase                                      1252 
+622 626  125.3 Oncocercíase                                 1253 
+622 627  125.4 Dipetalonemíase                              1254 
+622 628  125.5 Infestação por Mansonella ozzardi            1255 
+622 629  125.6 Outras filaríases especificadas              1256 
+622 630  125.7 Dracontíase                                  1257 
+622 631  125.9 Filaríase não especificada                   1259 
+    632  126 - Ancilostomíase e necatoríase                 126X 
+632 633  126.0 Por Ancylostoma duodenale                    1260 
+632 634  126.1 Por Necator americanus                       1261 
+632 635  126.2 Por Ancylostoma braziliense                  1262 
+632 636  126.3 Por Ancylostoma ceylanicum                   1263 
+632 637  126.8 Por outros Ancylostomas especificados        1268 
+632 638  126.9 Não especificada                             1269 
+    639  127 - Outras helmintíases intestinais              127X 
+639 640  127.0 Ascaridíase                                  1270 
+639 641  127.1 Anisaquíase                                  1271 
+639 642  127.2 Estrongiloidíase                             1272 
+639 643  127.3 Tricuríase                                   1273 
+639 644  127.4 Enterobíase                                  1274 
+639 645  127.5 Capilaríase                                  1275 
+639 646  127.6 Tricoestrongilíase                           1276 
+639 647  127.7 Outras helmintíases intestinais              1277 
+639 648  127.8 Helmintíases intestinais mistas              1278 
+639 649  127.9 Helmintíases intestinais não especificadas   1279 
+    650  128 - Outras helmintíases e não especificadas      128X 
+650 651  128.0 Toxocaríase                                  1280 
+650 652  128.1 Gnatostomíase                                1281 
+650 653  128.8 Outras                                       1288 
+650 654  128.9 Não especificadas                            1289 
+    655  129 - Parasitose intestin sem out especificac      129X 
+    656  130 - Toxoplasmose                                 130X 
+    657  131 - Tricomoníase                                 131X 
+657 658  131.0 Tricomoníase urogenital                      1310 
+657 659  131.8 Outras localizações                          1318 
+657 660  131.9 Não especificada                             1319 
+    661  132 - Pediculose e infestação por phthirus         132X 
+661 662  132.0 Pediculus capitis (piolho da cabeça)         1320 
+661 663  132.1 Pediculus corporis (piolho do corpo)         1321 
+661 664  132.2 Phthirus pubis (piolho do púbis)             1322 
+661 665  132.3 Mista                                        1323 
+661 666  132.9 Pediculose não especificada                  1329 
+    667  133 - Acaríase                                     133X 
+667 668  133.0 Escabiose                                    1330 
+667 669  133.8 Outros                                       1338 
+667 670  133.9 Não especificadas                            1339 
+    671  134 - Outras infestações                           134X 
+671 672  134.0 Miíase                                       1340 
+671 673  134.1 Outras infestações por artrópodes            1341 
+671 674  134.2 Hirudiníase                                  1342 
+671 675  134.8 Outras                                       1348 
+671 676  134.9 Não especificadas                            1349 
+    677  135 - Sarcoidose                                   135X 
+    678  136 - Out doen infect e parasit e não especif      136X 
+678 679  136.0 Ainhum                                       1360 
+678 680  136.1 Síndrome de Behcet                           1361 
+678 681  136.2 Infecções específicas amebas de vida livre   1362 
+678 682  136.3 Pneumocistose                                1363 
+678 683  136.4 Psorospermíase                               1364 
+678 684  136.5 Sarcosporidiose                              1365 
+678 685  136.8 Outras                                       1368 
+678 686  136.9 Não especificadas                            1369 
+    687  137 - Efeitos tardios da tuberculose               137X 
+687 688  137.0 Ef tard tuberculose respirat ou não especifi 1370 
+687 689  137.1 Ef tard tuberculose sistema nervoso central  1371 
+687 690  137.2 Ef tard tuberculose do aparelho geniturinári 1372 
+687 691  137.3 Ef tard tuberculose ossos e das articulações 1373 
+687 692  137.4 Ef tard tuberculose outros órgãos especific  1374 
+687 693  37.9 Código inválido - fora da CID                 1379 
+    694  138 - Efeitos tardios da poliomielite aguda        138X 
+    695  139 - Efeit tard out doen infecc e parasitár       139X 
+695 696  139.0 Efeitos tardios de encefalite viral          1390 
+695 697  139.1 Efeitos tardios do tracoma                   1391 
+695 698  139.8 Ef tard outr doenç infec parasit e não espec 1398 
+695 699  139.9 Código inválido - fora da CID                1399 
+

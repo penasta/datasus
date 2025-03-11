@@ -1,0 +1,156 @@
+    154  4 L                                                     
+      1  680 - Furúnculo                                    680X 
+  1   2  680.0 Da face                                      6800 
+  1   3  680.1 Do pescoco                                   6801 
+  1   4  680.2 Do tronco                                    6802 
+  1   5  680.3 Do braco e antebraco                         6803 
+  1   6  680.4 Da mao                                       6804 
+  1   7  680.5 Da nadega                                    6805 
+  1   8  680.6 Do membro inferior                           6806 
+  1   9  680.7 Do pé                                        6807 
+  1  10  680.8 De outras localizações especificadas         6808 
+  1  11  680.9 De localizacao não especificada              6809 
+     12  681 - Celulite e abscesso dos dedos mão e pé       681X 
+ 12  13  681.0 Dos dedos da mao                             6810 
+ 12  14  681.1 Dos dedos do pé                              6811 
+ 12  15  681.9 De dedo não especificado                     6819 
+     16  682 - Outras celulites e abscessos                 682X 
+ 16  17  682.0 Da face                                      6820 
+ 16  18  682.1 Do pescoco                                   6821 
+ 16  19  682.2 Do tronco                                    6822 
+ 16  20  682.3 Do braco e antebraco                         6823 
+ 16  21  682.4 Da mao                                       6824 
+ 16  22  682.5 Da nadega                                    6825 
+ 16  23  682.6 De membro inferior                           6826 
+ 16  24  682.7 Do pé                                        6827 
+ 16  25  682.8 De outra localizacao especificada            6828 
+ 16  26  682.9 De localizacao não especificada              6829 
+     27  683 - Linfadenite aguda                            683X 
+     28  684 - Impetigo                                     684X 
+     29  685 - Cisto pilonidal                              685X 
+ 29  30  685.0 Com abcesso                                  6850 
+ 29  31  685.1 Sem mencao de abcesso                        6851 
+ 29  32  685.9 Código inválido - fora da CID                6859 
+     33  686 - Out infec localiz pele e tec celul subc      686X 
+ 33  34  686.0 Pioderma                                     6860 
+ 33  35  686.1 Granuloma piogenico                          6861 
+ 33  36  686.8 Outr infec localiz pele tecido celular subcu 6868 
+ 33  37  686.9 Infec localiz n espec pele tec celular subcu 6869 
+     38  690 - Dermatoses eritematodescamativas             690X 
+     39  691 - Dermatite atópica e afecções afins           691X 
+ 39  40  691.0 Dermatite das fraldas                        6910 
+ 39  41  691.8 Outras                                       6918 
+     42  692 - Dermatite de contato e outros eczemas        692X 
+ 42  43  692.0 Por detergentes                              6920 
+ 42  44  692.1 Por oleos e graxas                           6921 
+ 42  45  692.2 Por solventes                                6922 
+ 42  46  692.3 Por drogas e medicamentos em contato com pel 6923 
+ 42  47  692.4 Por outros produtos quimicos                 6924 
+ 42  48  692.5 Por alimentos em contato com a pele          6925 
+ 42  49  692.6 Por plantas (exceto alimentares)             6926 
+ 42  50  692.7 Por radiacao solar                           6927 
+ 42  51  692.8 Por outros agentes especificados             6928 
+ 42  52  692.9 De causa não especificada                    6929 
+     53  693 - Dermatite devida a substâncias ingerid       693X 
+ 53  54  693.0 Devida a drogas e medicamentos               6930 
+ 53  55  693.1 Devida a alimentos                           6931 
+ 53  56  693.8 Devida a outra substancia especificada       6938 
+ 53  57  693.9 Devida a substancia não especificada         6939 
+     58  694 - Dermatoses bolhosas                          694X 
+ 58  59  694.0 Dermatite herpetiforme                       6940 
+ 58  60  694.1 Dermatite pustular sub-corneana              6941 
+ 58  61  694.2 Dermatite juvenil herpetiforme               6942 
+ 58  62  694.3 Impetigo herpetiforme                        6943 
+ 58  63  694.4 Penfigo                                      6944 
+ 58  64  694.5 Penfigóide                                   6945 
+ 58  65  694.6 Penfigóide mucomembranoso benigno            6946 
+ 58  66  694.8 Outras dermatoses bolhosas                   6948 
+ 58  67  694.9 Não especificadas                            6949 
+     68  695 - Afecções eritematosas                        695X 
+ 68  69  695.0 Eritema toxico                               6950 
+ 68  70  695.1 Eritema multiforme                           6951 
+ 68  71  695.2 Eritema nodoso                               6952 
+ 68  72  695.3 Rosacea                                      6953 
+ 68  73  695.4 Lupus eritematoso                            6954 
+ 68  74  695.8 Outras afecções eritematosas                 6958 
+ 68  75  695.9 Não especificadas                            6959 
+     76  696 - Psoríase e transtornos afins                 696X 
+ 76  77  696.0 Artropatia psoriasica                        6960 
+ 76  78  696.1 Outras psoriases                             6961 
+ 76  79  696.2 Parapsoriase                                 6962 
+ 76  80  696.3 Pitiríase rosea                              6963 
+ 76  81  696.4 Pitiríase rubra pilar                        6964 
+ 76  82  696.5 Outras pitiriases e as não especificadas     6965 
+ 76  83  696.8 Outras                                       6968 
+ 76  84  96.9 Código inválido - fora da CID                 6969 
+     85  697 - Líquen                                       697X 
+ 85  86  697.0 Liquen plano                                 6970 
+ 85  87  697.1 Liquen nitido                                6971 
+ 85  88  697.4 Código inválido - fora da CID                6974 
+ 85  89  697.8 Outros liquens                               6978 
+ 85  90  697.9 Não especificado                             6979 
+     91  698 - Prurido e afecções afins                     698X 
+ 91  92  698.0 Prurido anal                                 6980 
+ 91  93  698.1 Prurido de órgãos genitais                   6981 
+ 91  94  698.2 Prurigo                                      6982 
+ 91  95  698.3 Liquenificacao e liquen simples cronico      6983 
+ 91  96  698.4 Dermatite facticia (artefacta)               6984 
+ 91  97  698.8 Outras afecções pruriginosas                 6988 
+ 91  98  698.9 Não especificado                             6989 
+     99  700 - Calos e calosidades                          700X 
+    100  701 - Out afec hipertrófic e atróficas da pel      701X 
+100 101  701.0 Escleroderma circunscrito                    7010 
+100 102  701.1 Ceratoderma adquirido                        7011 
+100 103  701.2 Acantose nigricans adquirida                 7012 
+100 104  701.3 Estrias atroficas                            7013 
+100 105  701.4 Cicatriz queloideana                         7014 
+100 106  701.5 Outros tipos tecidos de granulacao anormais  7015 
+100 107  701.8 Outr afecções hipertroficas e atroficas pele 7018 
+100 108  701.9 Não especificadas                            7019 
+    109  702 - Outras dermatoses                            702X 
+    110  703 - Doenças das unhas                            703X 
+110 111  703.0 Unha encravada                               7030 
+110 112  703.8 Outras doenças das unhas                     7038 
+110 113  703.9 Não especificada                             7039 
+    114  704 - Doenças dos pêlos e folículos pilosos        704X 
+114 115  704.0 Alopecia                                     7040 
+114 116  704.1 Hirsutismo                                   7041 
+114 117  704.2 Anormalidades do pelo                        7042 
+114 118  704.3 Alteracoes da cor dos pelos                  7043 
+114 119  704.8 Outras doenças pelos e dos foliculos pilosos 7048 
+114 120  704.9 Não especificadas                            7049 
+    121  705 - Transtornos das glândulas sudoríparas        705X 
+121 122  705.0 Anidrose                                     7050 
+121 123  705.1 Miliaria                                     7051 
+121 124  705.8 Outros transtornos das glandulas sudoriparas 7058 
+121 125  705.9 Não especificadas                            7059 
+    126  706 - Doenças das glândulas sebáceas               706X 
+126 127  706.0 Acne varioliforme                            7060 
+126 128  706.1 Outras formas de acne                        7061 
+126 129  706.2 Cisto sebaceo                                7062 
+126 130  706.3 Seborreia                                    7063 
+126 131  706.8 Outros transtornos das glandulas sebaceas    7068 
+126 132  706.9 Não especificadas                            7069 
+    133  707 - Úlcera crônica da pele                       707X 
+133 134  707.0 Úlcera de decubito                           7070 
+133 135  707.1 Úlcera dos membros inferiores                7071 
+133 136  707.8 Úlcera crônica de outras localizações especi 7078 
+133 137  707.9 Úlcera crônica de localizacao não especific  7079 
+    138  708 - Urticária                                    708X 
+138 139  708.0 Urticaria alergica                           7080 
+138 140  708.1 Urticaria idiopatica                         7081 
+138 141  708.2 Urticaria devida a calor e frio              7082 
+138 142  708.3 Urticaria dermatografica                     7083 
+138 143  708.4 Urticaria vibratoria                         7084 
+138 144  708.5 Urticaria colinergica                        7085 
+138 145  708.8 Outras urticarias especificadas              7088 
+138 146  708.9 Não especificada                             7089 
+    147  709 - Out transt pele e tecido celular subcut      709X 
+147 148  709.0 Discromia                                    7090 
+147 149  709.1 Transtornos vasculares da pele               7091 
+147 150  709.2 Afecções cicatriciais e fibrose da pele      7092 
+147 151  709.3 Transtornos degenerativos da pele            7093 
+147 152  709.4 Granuloma corp estran pele e tec celul subcu 7094 
+147 153  709.8 Outras doenças da pele                       7098 
+147 154  709.9 Não especificados                            7099 
+
